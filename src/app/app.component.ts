@@ -3,7 +3,7 @@ import {FormControl} from '@angular/forms';
 import {Observable} from 'rxjs';
 import {map, startWith} from 'rxjs/operators';
 // @ts-ignore
-import hymnsData from '../assets/hymns.json';
+import hymnsData from '../assets/hymns-options.json';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -11,6 +11,7 @@ import hymnsData from '../assets/hymns.json';
 })
 export class AppComponent implements OnInit {
   title = 'hymns';
+  list: string[] = [];
   hymnNumbers = Object.keys(hymnsData);
   hymnsJson = hymnsData;
   myControl = new FormControl();
