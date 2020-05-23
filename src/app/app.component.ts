@@ -7,5 +7,7 @@ import hymnsData from '../assets/hymns.json';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = hymnsData['1'].title;
+  hymnNumbers = Object.keys(hymnsData);
+  hymnsJson = hymnsData;
+
 }
