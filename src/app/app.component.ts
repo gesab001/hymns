@@ -10,14 +10,15 @@ import hymnsData from '../assets/hymns-options.json';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'hymns';
+  title = 'Seventh-day Adventist Hymnal';
+  subtitle = 'We may ascend near to heaven on the wings of praise';
   list: string[] = [];
   hymnNumbers = Object.keys(hymnsData);
   hymnsJson = hymnsData;
   myControl = new FormControl();
-
+  selectedLanguage = 'english ';
   filteredOptions: Observable<string[]>;
-
+  isShown = false ; // hidden by default
   ngOnInit() {
     this.filteredOptions = this.myControl.valueChanges
       .pipe(
@@ -25,7 +26,23 @@ export class AppComponent implements OnInit {
         map(value => this._filter(value))
       );
   }
+  itemSelected(evt: any) {
+    this.title = evt;
+  }
 
+  toggleShow() {
+
+    this.isShown = !this.isShown;
+  }
+  // onLangChange(e) {
+  //   console.log(e);
+  //   const languageSelected = e.source.value;
+  //   if ( this.selectedLanguage !== languageSelected){
+  //
+  //     this.selectedLanguage = (languageSelected);
+  //
+  //   }
+  // }
   private _filter(value: string): string[] {
     const filterValue = value.toLowerCase();
 

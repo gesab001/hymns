@@ -6,6 +6,7 @@ import {MatAutocompleteModule} from '@angular/material/autocomplete';
 import {MatInputModule} from '@angular/material/input';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import { RecursivePipe } from './recursive.pipe';
+import {MatSelectModule} from '@angular/material/select';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { RecursivePipe } from './recursive.pipe';
     MatInputModule,
     FormsModule,
     ReactiveFormsModule,
+    MatSelectModule,
 
   ],
   providers: [],
