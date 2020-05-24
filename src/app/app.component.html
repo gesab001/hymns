@@ -45,11 +45,26 @@
 <!--      *ngIf="isShown"-->
       <div id="divshow" >
         <h1>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</h1><br>
-        <div *ngFor="let verse of hymnsJson[currentHymn]['verses']">
-          <h2>{{verse['verse_title']}}</h2>
-          <p *ngFor="let line of verse['lines']">
+<!--        <div *ngFor="let verse of hymnsJson[currentHymn]['verses']">-->
+<!--          <h2>{{verse['verse_title']}}</h2>-->
+<!--          <p *ngFor="let line of verse['lines']">-->
+<!--            {{line}}-->
+<!--          </p>-->
+<!--        </div>-->
+        <div ngModel="totalVerses">
+          <h2>{{hymnsJson[currentHymn]['verses'][slideNumber]['verse_title']}}</h2>
+          <p *ngFor="let line of hymnsJson[currentHymn]['verses'][currentVerse]['lines']">
             {{line}}
           </p>
+          <mat-slider
+            (input)="onInputChange($event)"
+            thumbLabel
+            [displayWith]="formatLabel"
+            tickInterval="1"
+            min="1"
+            max="{{hymnsJson[currentHymn]['verses'].length}}"></mat-slider>
+
+          <p>{{slideNumber}}</p>
         </div>
 
         <br>
@@ -59,6 +74,7 @@
     </div>
   </div>
 </div>
+
 
 <div class="jumbotron text-center" style="margin-bottom:0">
   <p>Footer</p>

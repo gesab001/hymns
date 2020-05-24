@@ -4,6 +4,7 @@ import {Observable} from 'rxjs';
 import {map, startWith} from 'rxjs/operators';
 // @ts-ignore
 import hymnsData from '../assets/hymns-options.json';
+import {MatSliderChange} from '@angular/material/slider';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -21,7 +22,16 @@ export class AppComponent implements OnInit {
   // isShown = false ; // hidden by default
 
   currentHymn = '';
+  currentVerse = 0;
+  totalVerses = 0;
+  slideNumber = 0;
+  formatLabel(value: number) {
+    if (value >= 1000) {
+      return Math.round(value / 1000) + 'k';
+    }
 
+    return value;
+  }
   ngOnInit() {
     this.filteredOptions = this.myControl.valueChanges
       .pipe(
@@ -29,9 +39,16 @@ export class AppComponent implements OnInit {
         map(value => this._filter(value))
       );
     this.currentHymn = '1. Praise to the Lord';
+    this.currentVerse = 0;
+    this.totalVerses = 0;
+    this.slideNumber = 0;
   }
   itemSelected(evt: string) {
     this.currentHymn = evt;
+  }
+
+  onInputChange(event: MatSliderChange) {
+    this.slideNumber = event.value;
   }
 
   // toggleShow() {
