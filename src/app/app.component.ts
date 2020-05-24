@@ -3,7 +3,7 @@ import {FormControl} from '@angular/forms';
 import {Observable} from 'rxjs';
 import {map, startWith} from 'rxjs/operators';
 // @ts-ignore
-import hymnsData from '../assets/hymns-options.json';
+import hymnsData from '../assets/hymns-refrain.json';
 import {MatSliderChange} from '@angular/material/slider';
 @Component({
   selector: 'app-root',
