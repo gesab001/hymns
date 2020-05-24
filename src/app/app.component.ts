@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit, ViewChild} from '@angular/core';
 import {FormControl} from '@angular/forms';
 import {Observable} from 'rxjs';
 import {map, startWith} from 'rxjs/operators';
@@ -11,6 +11,7 @@ import {MatSliderChange} from '@angular/material/slider';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
+  @ViewChild('slider')slider;
   title = 'Seventh-day Adventist Hymnal';
   subtitle = 'We may ascend near to heaven on the wings of praise';
   list: string[] = [];
@@ -42,10 +43,13 @@ export class AppComponent implements OnInit {
     this.currentVerse = 0;
     this.totalVerses = 0;
     this.slideNumber = 0;
+    this.slider.value = 0;
   }
   itemSelected(evt: string) {
     this.currentHymn = evt;
     this.slideNumber = 0;
+    this.slider.value = 0;
+
   }
 
   onInputChange(event: MatSliderChange) {

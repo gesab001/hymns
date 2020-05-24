@@ -1,27 +1,27 @@
-<div class="jumbotron text-center" style="margin-bottom:0">
-  <h1>{{title}}</h1>
-  <p>{{subtitle}}</p>
-</div>
+<!--<div class="jumbotron text-center" style="margin-bottom:0">-->
+<!--  <h1>{{title}}</h1>-->
+<!--  <p>{{subtitle}}</p>-->
+<!--</div>-->
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-    </ul>
-  </div>
-</nav>
+<!--<nav class="navbar navbar-expand-sm bg-dark navbar-dark">-->
+<!--  <a class="navbar-brand" href="#">Navbar</a>-->
+<!--  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">-->
+<!--    <span class="navbar-toggler-icon"></span>-->
+<!--  </button>-->
+<!--  <div class="collapse navbar-collapse" id="collapsibleNavbar">-->
+<!--    <ul class="navbar-nav">-->
+<!--      <li class="nav-item">-->
+<!--        <a class="nav-link" href="#">Link</a>-->
+<!--      </li>-->
+<!--      <li class="nav-item">-->
+<!--        <a class="nav-link" href="#">Link</a>-->
+<!--      </li>-->
+<!--      <li class="nav-item">-->
+<!--        <a class="nav-link" href="#">Link</a>-->
+<!--      </li>-->
+<!--    </ul>-->
+<!--  </div>-->
+<!--</nav>-->
 
 <div class="container-fluid">
   <div class="row">
@@ -44,6 +44,15 @@
 <!--      <button (click)="toggleShow()" type="checkbox" >View</button>-->
 <!--      *ngIf="isShown"-->
       <div id="divshow" >
+        <div>
+          <mat-slider #slider
+            (input)="onInputChange($event)"
+            thumbLabel
+            [displayWith]="formatLabel"
+            tickInterval="1"
+            min="0"
+            max="{{hymnsJson[currentHymn]['verses'].length - 1}}"></mat-slider>
+        </div>
         <h1>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</h1><br>
 <!--        <div *ngFor="let verse of hymnsJson[currentHymn]['verses']">-->
 <!--          <h2>{{verse['verse_title']}}</h2>-->
@@ -61,15 +70,7 @@
         </div>
 
 
-        <div>
-          <mat-slider
-            (input)="onInputChange($event)"
-            thumbLabel
-            [displayWith]="formatLabel"
-            tickInterval="1"
-            min="0"
-            max="{{hymnsJson[currentHymn]['verses'].length - 1}}"></mat-slider>
-        </div>
+
 
       </div>
     </div>
@@ -77,9 +78,9 @@
 </div>
 
 
-<div class="jumbotron text-center" style="margin-bottom:0">
-  <p>Footer</p>
-</div>
+<!--<div class="jumbotron text-center" style="margin-bottom:0">-->
+<!--  <p>Footer</p>-->
+<!--</div>-->
 <!--<nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">-->
 <!--  <a class="navbar-brand" href="#">Angular Bootstrap Demo</a>-->
 <!--  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"-->
