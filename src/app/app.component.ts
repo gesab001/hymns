@@ -18,22 +18,26 @@ export class AppComponent implements OnInit {
   myControl = new FormControl();
   selectedLanguage = 'english ';
   filteredOptions: Observable<string[]>;
-  isShown = false ; // hidden by default
+  // isShown = false ; // hidden by default
+
+  currentHymn = '';
+
   ngOnInit() {
     this.filteredOptions = this.myControl.valueChanges
       .pipe(
         startWith(''),
         map(value => this._filter(value))
       );
+    this.currentHymn = '1. Praise to the Lord';
   }
-  itemSelected(evt: any) {
-    this.title = evt;
+  itemSelected(evt: string) {
+    this.currentHymn = evt;
   }
 
-  toggleShow() {
-
-    this.isShown = !this.isShown;
-  }
+  // toggleShow() {
+  //
+  //   this.isShown = !this.isShown;
+  // }
   // onLangChange(e) {
   //   console.log(e);
   //   const languageSelected = e.source.value;

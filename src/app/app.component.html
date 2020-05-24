@@ -41,27 +41,20 @@
             </mat-autocomplete>
           </mat-form-field>
         </form>
-      <button (click)="toggleShow()" type="checkbox" >View</button>
+<!--      <button (click)="toggleShow()" type="checkbox" >View</button>-->
+<!--      *ngIf="isShown"-->
+      <div id="divshow" >
+        <h1>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</h1><br>
+        <div *ngFor="let verse of hymnsJson[currentHymn]['verses']">
+          <h2>{{verse['verse_title']}}</h2>
+          <p *ngFor="let line of verse['lines']">
+            {{line}}
+          </p>
+        </div>
 
-      <div *ngIf="isShown" id="divshow" >
-        <p>{{hymnsJson[hymnNumbers[0]]["number"]}}</p><br>
-        <p>{{hymnsJson[hymnNumbers[0]]["title"]}}</p><br>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][0]["verse_title"]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][0]["lines"][0]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][0]["lines"][1]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][0]["lines"][2]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][0]["lines"][3]}}</p>
+        <br>
 
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][1]["verse_title"]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][1]["lines"][0]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][1]["lines"][1]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][1]["lines"][2]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][1]["lines"][3]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][2]["verse_title"]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][2]["lines"][0]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][2]["lines"][1]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][2]["lines"][2]}}</p>
-        <p>{{hymnsJson[hymnNumbers[0]]["verses"][2]["lines"][3]}}</p>
+
       </div>
     </div>
   </div>
