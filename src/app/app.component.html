@@ -53,22 +53,23 @@
 <!--        </div>-->
         <div ngModel="totalVerses">
           <h2>{{hymnsJson[currentHymn]['verses'][slideNumber]['verse_title']}}</h2>
-          <p *ngFor="let line of hymnsJson[currentHymn]['verses'][currentVerse]['lines']">
+          <h1 class='display-1' *ngFor="let line of hymnsJson[currentHymn]['verses'][slideNumber]['lines']">
             {{line}}
-          </p>
+          </h1>
+
+
+        </div>
+
+
+        <div>
           <mat-slider
             (input)="onInputChange($event)"
             thumbLabel
             [displayWith]="formatLabel"
             tickInterval="1"
-            min="1"
-            max="{{hymnsJson[currentHymn]['verses'].length}}"></mat-slider>
-
-          <p>{{slideNumber}}</p>
+            min="0"
+            max="{{hymnsJson[currentHymn]['verses'].length - 1}}"></mat-slider>
         </div>
-
-        <br>
-
 
       </div>
     </div>

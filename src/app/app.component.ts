@@ -26,11 +26,11 @@ export class AppComponent implements OnInit {
   totalVerses = 0;
   slideNumber = 0;
   formatLabel(value: number) {
-    if (value >= 1000) {
-      return Math.round(value / 1000) + 'k';
-    }
+    // if (value >= 1000) {
+    //   return Math.round(value / 1000) + 'k';
+    // }
 
-    return value;
+    return value + 1;
   }
   ngOnInit() {
     this.filteredOptions = this.myControl.valueChanges
@@ -45,6 +45,7 @@ export class AppComponent implements OnInit {
   }
   itemSelected(evt: string) {
     this.currentHymn = evt;
+    this.slideNumber = 0;
   }
 
   onInputChange(event: MatSliderChange) {
