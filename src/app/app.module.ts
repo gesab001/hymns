@@ -8,6 +8,7 @@ import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import { RecursivePipe } from './recursive.pipe';
 import {MatSelectModule} from '@angular/material/select';
 import {MatSliderModule} from '@angular/material/slider';
+import {MatSidenavModule} from '@angular/material/sidenav';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import {MatSliderModule} from '@angular/material/slider';
     FormsModule,
     ReactiveFormsModule,
     MatSelectModule,
-    MatSliderModule
+    MatSliderModule,
+    MatSidenavModule
 
   ],
   providers: [],

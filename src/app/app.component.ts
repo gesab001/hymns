@@ -21,7 +21,7 @@ export class AppComponent implements OnInit {
   selectedLanguage = 'english ';
   filteredOptions: Observable<string[]>;
   // isShown = false ; // hidden by default
-
+  showFiller = false;
   currentHymn = '';
   currentVerse = 0;
   totalVerses = 0;
@@ -49,6 +49,7 @@ export class AppComponent implements OnInit {
     this.currentHymn = evt;
     this.slideNumber = 0;
     this.slider.value = 0;
+
 
   }
 
