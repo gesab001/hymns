@@ -76,23 +76,24 @@
 
         </div>
 
-            <div ngModel="totalVerses" align="center"
-                 (swipeleft)="onSwipeLeft($event)"
-                 (swiperight)="onSwipeRight($event)">
-              <h2 #verseTitle >{{hymnsJson[currentHymn]['verses'][slideNumber]['verse_title']}}</h2>
-              <mat-slider #slider
-                          (input)="onInputChange($event)"
-                          thumbLabel
-                          [displayWith]="formatLabel"
-                          tickInterval="1"
-                          min="0"
-                          max="{{hymnsJson[currentHymn]['verses'].length - 1}}">
+        <div ngModel="max" align="center"
+             (swipeleft)="onSwipeLeft($event)"
+             (swiperight)="onSwipeRight($event)"
+             (tap)="onTap($event)">
+          <h2 #verseTitle >{{hymnsJson[currentHymn]['verses'][slideNumber]['verse_title']}}</h2>
+          <mat-slider #slider
+                      (input)="onInputChange($event)"
+                      thumbLabel
+                      [displayWith]="formatLabel"
+                      tickInterval="1"
+                      min="0"
+                      [max]="max">
 
-              </mat-slider>
-              <h1 class='display-1' *ngFor="let line of hymnsJson[currentHymn]['verses'][slideNumber]['lines']">
-                {{line}}
-              </h1>
-            </div>
+          </mat-slider>
+          <h1 class='display-1' *ngFor="let line of hymnsJson[currentHymn]['verses'][slideNumber]['lines']">
+            {{line}}
+          </h1>
+        </div>
 
 
 

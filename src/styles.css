@@ -2,3 +2,8 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+@font-face {
+  font-family: outline;
+  src: url(assets/fonts/CHLORINR.TTF) format("opentype");
+}

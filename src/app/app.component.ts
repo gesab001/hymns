@@ -12,6 +12,7 @@ import {MatSliderChange} from '@angular/material/slider';
 })
 export class AppComponent implements OnInit {
   @ViewChild('slider')slider;
+  @ViewChild('drawer')drawer;
   title = 'Seventh-day Adventist Hymnal';
   subtitle = 'We may ascend near to heaven on the wings of praise';
   list: string[] = [];
@@ -22,15 +23,13 @@ export class AppComponent implements OnInit {
   filteredOptions: Observable<string[]>;
   // isShown = false ; // hidden by default
   showFiller = true;
-  currentHymn = '';
+  currentHymn = '1. Praise to the Lord';
+  max = this.hymnsJson[this.currentHymn].verses.length - 1;
   currentVerse = 0;
   totalVerses = 0;
   slideNumber = 0;
   verseTitle = 'R';
   formatLabel(value: number) {
-    if (value === 3) {
-      return 'R';
-    }
     return value + 1;
   }
   getVerseTitle(){
@@ -50,11 +49,18 @@ export class AppComponent implements OnInit {
     this.slideNumber = 0;
     this.slider.value = 0;
     this.verseTitle = 'R';
+    this.max = 3;
+    this.slider.focus();
   }
   itemSelected(evt: string) {
     this.currentHymn = evt;
+    this.max = this.hymnsJson[this.currentHymn].verses.length - 1;
     this.slideNumber = 0;
     this.slider.value = 0;
+    // this.drawer.close();
+    this.slider.focus();
+
+
     // this.totalVerses = this.hymnsJson[this.currentHymn].verses.length;
 
 
@@ -67,14 +73,22 @@ export class AppComponent implements OnInit {
   onSwipeLeft(evt) {
     if (this.slideNumber < (this.hymnsJson[this.currentHymn].verses.length) - 1) {
       this.slideNumber = this.slideNumber + 1;
-      this.slider.setValue(this.slideNumber);
+      this.slider.value = this.slideNumber;
+      this.slider.focus();
+
     }
   }
   onSwipeRight(evt) {
     // alert('Swipe right!');
     if (this.slideNumber > 0) {
       this.slideNumber = this.slideNumber - 1;
+      this.slider.value = this.slideNumber;
+      this.slider.focus();
+
     }
+  }
+  onTap(evt){
+    this.slider.focus();
   }
   // toggleShow() {
   //
