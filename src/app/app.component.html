@@ -49,6 +49,19 @@
           <!--            Toggle extra text-->
           <!--          </button>-->
                       <h1>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</h1>
+          <h2>{{hymnsJson[currentHymn]['topic']}}</h2>
+          <h3>{{hymnsJson[currentHymn]['hymn_info']['scripture']}}</h3>
+          <h4 *ngFor="let author of hymnsJson[currentHymn]['hymn_info']['authors']">
+            {{author.name}}
+          </h4>
+          <h5 >{{hymnsJson[currentHymn]['hymn_info']['composer'].name}}</h5>
+          <h6 >{{hymnsJson[currentHymn]['hymn_info']['tune']}}</h6>
+          <h6 >{{hymnsJson[currentHymn]['hymn_info']['meter']}}</h6>
+          <h6 >{{hymnsJson[currentHymn]['hymn_info']['copyright']}}</h6>
+
+
+          <!--          <h3>{{hymnsJson[currentHymn]['hymn-info']['scripture']}}</h3>-->
+
 
         </mat-drawer>
 
