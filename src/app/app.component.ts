@@ -36,6 +36,8 @@ export class AppComponent implements OnInit {
   getVerseTitle(){
     return this.verseTitle;
   }
+
+
   ngOnInit() {
     this.filteredOptions = this.myControl.valueChanges
       .pipe(
@@ -53,6 +55,7 @@ export class AppComponent implements OnInit {
     this.currentHymn = evt;
     this.slideNumber = 0;
     this.slider.value = 0;
+    // this.totalVerses = this.hymnsJson[this.currentHymn].verses.length;
 
 
   }
@@ -61,6 +64,18 @@ export class AppComponent implements OnInit {
     this.slideNumber = event.value;
   }
 
+  onSwipeLeft(evt) {
+    if (this.slideNumber < (this.hymnsJson[this.currentHymn].verses.length) - 1) {
+      this.slideNumber = this.slideNumber + 1;
+      this.slider.setValue(this.slideNumber);
+    }
+  }
+  onSwipeRight(evt) {
+    // alert('Swipe right!');
+    if (this.slideNumber > 0) {
+      this.slideNumber = this.slideNumber - 1;
+    }
+  }
   // toggleShow() {
   //
   //   this.isShown = !this.isShown;

@@ -9,6 +9,7 @@ import { RecursivePipe } from './recursive.pipe';
 import {MatSelectModule} from '@angular/material/select';
 import {MatSliderModule} from '@angular/material/slider';
 import {MatSidenavModule} from '@angular/material/sidenav';
+import {HammerModule} from '@angular/platform-browser';
 
 @NgModule({
   declarations: [
@@ -24,8 +25,8 @@ import {MatSidenavModule} from '@angular/material/sidenav';
     ReactiveFormsModule,
     MatSelectModule,
     MatSliderModule,
-    MatSidenavModule
-
+    MatSidenavModule,
+    HammerModule
   ],
   providers: [],
   bootstrap: [AppComponent]

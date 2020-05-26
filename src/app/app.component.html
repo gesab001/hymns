@@ -69,12 +69,16 @@
           <button type="button" mat-button (click)="drawer.toggle()">
             <span class="material-icons">search</span>
           </button>
+          <span>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</span>
 
 
 
 
         </div>
-            <div ngModel="totalVerses" align="center">
+
+            <div ngModel="totalVerses" align="center"
+                 (swipeleft)="onSwipeLeft($event)"
+                 (swiperight)="onSwipeRight($event)">
               <h2 #verseTitle >{{hymnsJson[currentHymn]['verses'][slideNumber]['verse_title']}}</h2>
               <mat-slider #slider
                           (input)="onInputChange($event)"
