@@ -21,17 +21,20 @@ export class AppComponent implements OnInit {
   selectedLanguage = 'english ';
   filteredOptions: Observable<string[]>;
   // isShown = false ; // hidden by default
-  showFiller = false;
+  showFiller = true;
   currentHymn = '';
   currentVerse = 0;
   totalVerses = 0;
   slideNumber = 0;
+  verseTitle = 'R';
   formatLabel(value: number) {
-    // if (value >= 1000) {
-    //   return Math.round(value / 1000) + 'k';
-    // }
-
+    if (value === 3) {
+      return 'R';
+    }
     return value + 1;
+  }
+  getVerseTitle(){
+    return this.verseTitle;
   }
   ngOnInit() {
     this.filteredOptions = this.myControl.valueChanges
@@ -44,6 +47,7 @@ export class AppComponent implements OnInit {
     this.totalVerses = 0;
     this.slideNumber = 0;
     this.slider.value = 0;
+    this.verseTitle = 'R';
   }
   itemSelected(evt: string) {
     this.currentHymn = evt;

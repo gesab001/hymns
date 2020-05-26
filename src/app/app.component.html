@@ -23,10 +23,10 @@
 <!--  </div>-->
 <!--</nav>-->
 
-<div class="container-fluid">
-  <div class="row">
-    <div class="col">
-      <mat-drawer-container class="example-container" autosize>
+<div class="mdc-layout-grid">
+  <div class="mdc-layout-grid__inner">
+    <div class="mdc-layout-grid__cell">
+      <mat-drawer-container class="example-container"  autosize>
         <mat-drawer #drawer class="example-sidenav" mode="side">
           <form class="example-form">
             <mat-form-field class="example-full-width">
@@ -43,89 +43,45 @@
               </mat-autocomplete>
             </mat-form-field>
           </form>
-<!--          <p>Auto-resizing sidenav</p>-->
-<!--          <p *ngIf="showFiller">Lorem, ipsum dolor sit amet consectetur.</p>-->
-<!--          <button (click)="showFiller = !showFiller" mat-raised-button>-->
-<!--            Toggle extra text-->
-<!--          </button>-->
+          <!--          <p>Auto-resizing sidenav</p>-->
+          <!--          <p *ngIf="showFiller">Lorem, ipsum dolor sit amet consectetur.</p>-->
+          <!--          <button (click)="showFiller = !showFiller" mat-raised-button>-->
+          <!--            Toggle extra text-->
+          <!--          </button>-->
+                      <h1>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</h1>
+
         </mat-drawer>
 
-        <div class="example-sidenav-content">
+        <div class="example-sidenav-content" >
           <button type="button" mat-button (click)="drawer.toggle()">
-            Search
+            <span class="material-icons">search</span>
           </button>
 
-          <div id="divshow"  align="center">
 
-            <h1>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</h1>
-            <mat-slider #slider
-                        (input)="onInputChange($event)"
-                        thumbLabel
-                        [displayWith]="formatLabel"
-                        tickInterval="1"
-                        min="0"
-                        max="{{hymnsJson[currentHymn]['verses'].length - 1}}">
 
-            </mat-slider>
-            <div ngModel="totalVerses">
+
+        </div>
+            <div ngModel="totalVerses" align="center">
               <h2 #verseTitle >{{hymnsJson[currentHymn]['verses'][slideNumber]['verse_title']}}</h2>
+              <mat-slider #slider
+                          (input)="onInputChange($event)"
+                          thumbLabel
+                          [displayWith]="formatLabel"
+                          tickInterval="1"
+                          min="0"
+                          max="{{hymnsJson[currentHymn]['verses'].length - 1}}">
+
+              </mat-slider>
               <h1 class='display-1' *ngFor="let line of hymnsJson[currentHymn]['verses'][slideNumber]['lines']">
                 {{line}}
               </h1>
             </div>
-          </div>
-        </div>
+
+
 
       </mat-drawer-container>
 
-
-<!--      <button (click)="toggleShow()" type="checkbox" >View</button>-->
-<!--      *ngIf="isShown"-->
-
     </div>
+
   </div>
 </div>
-
-
-<!--<div class="jumbotron text-center" style="margin-bottom:0">-->
-<!--  <p>Footer</p>-->
-<!--</div>-->
-<!--<nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">-->
-<!--  <a class="navbar-brand" href="#">Angular Bootstrap Demo</a>-->
-<!--  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"-->
-<!--          aria-expanded="false" aria-label="Toggle navigation">-->
-<!--    <span class="navbar-toggler-icon"></span>-->
-<!--  </button>-->
-<!--  <div class="collapse navbar-collapse" id="navbarCollapse">-->
-<!--    <ul class="navbar-nav mr-auto">-->
-
-<!--      <li class="nav-item">-->
-<!--        <a class="nav-link" routerLink="/home">Home</a>-->
-<!--      </li>-->
-<!--      <li class="nav-item">-->
-<!--        <a class="nav-link" routerLink="/contact-list">Contacts</a>-->
-<!--      </li>-->
-<!--      <li class="nav-item">-->
-<!--        <a class="nav-link" routerLink="/contact-create">Create</a>-->
-<!--      </li>-->
-
-<!--    </ul>-->
-<!--  </div>-->
-<!--</nav>-->
-
-
-<!--<form class="example-form">-->
-<!--  <mat-form-field class="example-full-width">-->
-<!--      <input type = "text"-->
-<!--             placeholder = "Pick a hymn"-->
-<!--             aria-label = "Number"-->
-<!--             matInput-->
-<!--             [formControl] = "myControl"-->
-<!--             [matAutocomplete] = "auto">-->
-<!--      <mat-autocomplete #auto = "matAutocomplete">-->
-<!--          <mat-option *ngFor="let option of filteredOptions | async" [value]="option">-->
-<!--            {{option}}-->
-<!--          </mat-option>an-->
-<!--      </mat-autocomplete>-->
-<!--    </mat-form-field>-->
-<!--  </form>-->
