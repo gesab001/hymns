@@ -76,11 +76,11 @@
 
         </div>
 
-        <div ngModel="max" align="center"
+        <div class="slides" ngModel="max" align="center"
              (swipeleft)="onSwipeLeft($event)"
              (swiperight)="onSwipeRight($event)"
              (tap)="onTap($event)">
-          <h2 #verseTitle >{{hymnsJson[currentHymn]['verses'][slideNumber]['verse_title']}}</h2>
+          <h2 #verseTitle class="mat-display-2">{{hymnsJson[currentHymn]['verses'][slideNumber]['verse_title']}}</h2>
           <mat-slider #slider
                       (input)="onInputChange($event)"
                       thumbLabel
@@ -90,7 +90,7 @@
                       [max]="max">
 
           </mat-slider>
-          <h1 class='display-1' *ngFor="let line of hymnsJson[currentHymn]['verses'][slideNumber]['lines']">
+          <h1 class='mat-display-1' *ngFor="let line of hymnsJson[currentHymn]['verses'][slideNumber]['lines']">
             {{line}}
           </h1>
         </div>

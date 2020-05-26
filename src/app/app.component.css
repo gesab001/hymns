@@ -34,20 +34,34 @@
 }
 
 .mat-drawer {
-  width: 80%;
+  width: 70%;
 }
 .mat-drawer-container{
   width: 100%;
 }
 
-.display-1{
+.mat-display-1{
   /*font-family: outline;*/
   color: white;
   text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+  font-weight: bolder;
+  font-size: 3vw;
+
+
+}
+
+.mat-display-2{
+  font-family: outline;
+  color: red;
+  text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+  font-weight: bolder;
+  font-size: 3vw;
+
 
 }
 
 .example-container{
-  background-image: url(../assets/resize_IMG_20181124_164533.jpg);
-  height: 100%;
+  background-image: url(../assets/images/flowers/IMG_20181124_163549.jpg);
+  background-size: cover;
+  background-position: center center;
 }
