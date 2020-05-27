@@ -11,6 +11,7 @@ import {MatSliderChange} from '@angular/material/slider';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
+  panelOpenState = false;
   @ViewChild('slider')slider;
   @ViewChild('drawer')drawer;
   title = 'Seventh-day Adventist Hymnal';
@@ -57,7 +58,7 @@ export class AppComponent implements OnInit {
     this.max = this.hymnsJson[this.currentHymn].verses.length - 1;
     this.slideNumber = 0;
     this.slider.value = 0;
-    // this.drawer.close();
+    this.drawer.close();
     this.slider.focus();
 
 
@@ -85,10 +86,13 @@ export class AppComponent implements OnInit {
       this.slider.value = this.slideNumber;
       this.slider.focus();
 
+
     }
   }
   onTap(evt){
     this.slider.focus();
+    this.drawer.close();
+
   }
   // toggleShow() {
   //

@@ -10,6 +10,9 @@ import {MatSelectModule} from '@angular/material/select';
 import {MatSliderModule} from '@angular/material/slider';
 import {MatSidenavModule} from '@angular/material/sidenav';
 import {HammerModule} from '@angular/platform-browser';
+import {MatExpansionModule} from '@angular/material/expansion';
+import {MatListModule} from '@angular/material/list';
+import {MatCardModule} from '@angular/material/card';
 
 @NgModule({
   declarations: [
@@ -26,7 +29,10 @@ import {HammerModule} from '@angular/platform-browser';
     MatSelectModule,
     MatSliderModule,
     MatSidenavModule,
-    HammerModule
+    HammerModule,
+    MatExpansionModule,
+    MatListModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
