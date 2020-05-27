@@ -51,16 +51,7 @@
           <!--          <button (click)="showFiller = !showFiller" mat-raised-button>-->
           <!--            Toggle extra text-->
           <!--          </button>-->
-                      <h1>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</h1>
-          <h2>{{hymnsJson[currentHymn]['topic']}}</h2>
-          <h3>{{hymnsJson[currentHymn]['hymn_info']['scripture']}}</h3>
-          <h4 *ngFor="let author of hymnsJson[currentHymn]['hymn_info']['authors']">
-            {{author.name}}
-          </h4>
-          <h5 >{{hymnsJson[currentHymn]['hymn_info']['composer'].name}}</h5>
-          <h6 >{{hymnsJson[currentHymn]['hymn_info']['tune']}}</h6>
-          <h6 >{{hymnsJson[currentHymn]['hymn_info']['meter']}}</h6>
-          <h6 >{{hymnsJson[currentHymn]['hymn_info']['copyright']}}</h6>
+
 
           <mat-accordion>
             <mat-expansion-panel>
@@ -68,10 +59,40 @@
                 <mat-panel-title>
                   Hymn Info
                 </mat-panel-title>
+
 <!--                <mat-panel-description>-->
 <!--                  Type your name and age-->
 <!--                </mat-panel-description>-->
               </mat-expansion-panel-header>
+
+              <mat-card class="example-card">
+                <mat-card-header>
+                  <div mat-card-avatar class="example-header-image"></div>
+                  <mat-card-title>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</mat-card-title>
+                  <mat-card-subtitle>{{hymnsJson[currentHymn]['topic']}}</mat-card-subtitle>
+
+                </mat-card-header>
+                <img mat-card-image src="../assets/images/008.png" alt="Photo of We Gather Together">
+                <mat-card-content>
+                  <p><span>Scripture: </span>{{hymnsJson[currentHymn]['hymn_info']['scripture']}}</p>
+                  <p>
+                    <span>Author/s: </span>
+                    <span><button *ngFor="let author of hymnsJson[currentHymn]['hymn_info']['authors']">
+                      {{author.name}}
+                    </button> </span>
+                  </p>
+                  <p><span>Composer: </span>{{hymnsJson[currentHymn]['hymn_info']['composer'].name}}</p>
+                  <p ><span>Tune: </span>{{hymnsJson[currentHymn]['hymn_info']['tune']}}</p>
+                  <p><span>Meter: </span>{{hymnsJson[currentHymn]['hymn_info']['meter']}}</p>
+                  <p ><span>Copyright: </span> {{hymnsJson[currentHymn]['hymn_info']['copyright']}}</p>
+
+
+                </mat-card-content>
+                <mat-card-actions>
+                  <button mat-button>LIKE</button>
+                  <button mat-button>SHARE</button>
+                </mat-card-actions>
+              </mat-card>
 
 <!--              <mat-form-field>-->
 <!--                <mat-label>First name</mat-label>-->
@@ -151,7 +172,7 @@
 
         <div class="example-sidenav-content"   >
           <button type="button" mat-button (click)="drawer.toggle()">
-            <span class="material-icons">home</span>
+            <span class="material-icons">menu</span>
           </button>
           <span>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</span>
 

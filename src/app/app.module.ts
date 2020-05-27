@@ -13,6 +13,7 @@ import {HammerModule} from '@angular/platform-browser';
 import {MatExpansionModule} from '@angular/material/expansion';
 import {MatListModule} from '@angular/material/list';
 import {MatCardModule} from '@angular/material/card';
+import {MatBadgeModule} from '@angular/material/badge';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import {MatCardModule} from '@angular/material/card';
     HammerModule,
     MatExpansionModule,
     MatListModule,
-    MatCardModule
+    MatCardModule,
+    MatBadgeModule
   ],
   providers: [],
   bootstrap: [AppComponent]

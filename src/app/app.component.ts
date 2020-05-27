@@ -2,9 +2,16 @@ import {Component, OnInit, ViewChild} from '@angular/core';
 import {FormControl} from '@angular/forms';
 import {Observable} from 'rxjs';
 import {map, startWith} from 'rxjs/operators';
+import {ThemePalette} from '@angular/material/core';
 // @ts-ignore
 import hymnsData from '../assets/hymns-refrain.json';
 import {MatSliderChange} from '@angular/material/slider';
+
+// export interface ChipColor {
+//   name: string;
+//   color: ThemePalette;
+// }
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -30,6 +37,12 @@ export class AppComponent implements OnInit {
   totalVerses = 0;
   slideNumber = 0;
   verseTitle = 'R';
+  // availableColors: ChipColor[] = [
+  //   {name: 'none', color: undefined},
+  //   {name: 'Primary', color: 'primary'},
+  //   {name: 'Accent', color: 'accent'},
+  //   {name: 'Warn', color: 'warn'}
+  // ];
   formatLabel(value: number) {
     return value + 1;
   }
