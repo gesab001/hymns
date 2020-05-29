@@ -1,29 +1,37 @@
 import {Component, OnInit, ViewChild} from '@angular/core';
 import {FormControl} from '@angular/forms';
 import {Observable} from 'rxjs';
-import {map, startWith} from 'rxjs/operators';
+import {map, startWith, takeUntil} from 'rxjs/operators';
 import {ThemePalette} from '@angular/material/core';
 // @ts-ignore
 import hymnsData from '../assets/hymns-refrain.json';
 import {MatSliderChange} from '@angular/material/slider';
 
+// import {HttpClient, HttpClientModule, HttpParams} from '@angular/common/http';
+// import {NgxSpinnerService} from 'ngx-spinner';
+// import {YoutubeService} from './youtube.service';
+import { Subject } from 'rxjs';
 // export interface ChipColor {
 //   name: string;
 //   color: ThemePalette;
 // }
+// import { Video } from './videos';
+
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
+  // providers: [YoutubeService],
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent implements OnInit {
+
   panelOpenState = false;
   @ViewChild('slider')slider;
   @ViewChild('drawer')drawer;
   title = 'Seventh-day Adventist Hymnal';
   subtitle = 'We may ascend near to heaven on the wings of praise';
-  list: string[] = [];
   hymnNumbers = Object.keys(hymnsData);
   hymnsJson = hymnsData;
   myControl = new FormControl();
@@ -65,7 +73,13 @@ export class AppComponent implements OnInit {
     this.verseTitle = 'R';
     this.max = 3;
     this.slider.focus();
+    // this.searchVideos();
   }
+
+  // searchVideos(): void {
+  //   this.youtubeService.searchVideos('praise to the lord')
+  //     .subscribe(videos => (this.videos = videos));
+  // }
   itemSelected(evt: string) {
     this.currentHymn = evt;
     this.max = this.hymnsJson[this.currentHymn].verses.length - 1;
@@ -76,8 +90,6 @@ export class AppComponent implements OnInit {
 
 
     // this.totalVerses = this.hymnsJson[this.currentHymn].verses.length;
-
-
   }
 
   onInputChange(event: MatSliderChange) {
@@ -125,5 +137,4 @@ export class AppComponent implements OnInit {
 
     return this.hymnNumbers.filter(option => option.toLowerCase().includes(filterValue));
   }
-
 }
