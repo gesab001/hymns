@@ -1,16 +1,16 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpParams } from "@angular/common/http";
 import { Observable } from 'rxjs';
-import { Video } from './video';
+import { Spotify } from './spotify';
 import { catchError } from 'rxjs/operators';
 import { HttpErrorHandler, HandleError } from '../http-error-handler.service';
 
 @Injectable()
 
 export class VideosService {
-  params = 'fields=items(id(videoId),snippet(title,description,thumbnails(default(url))))&part=snippet&maxResults=10&key=';
-  apiKey = 'AIzaSyA6xZqvU8GsCuu_qKbnUZVv2ddxLdyiLpA';
-  videosUrl = 'https://www.googleapis.com/youtube/v3/search?'+this.params+this.apiKey;
+"https://api.spotify.com/v1/search?q=praise%20to%20the%20lord&type=track%2Cartist&market=US&limit=25&offset=5" -H "Accept: application/json" -H "Content-Type: application/json" -H"
+  oAuthToken = 'Authorization: Bearer BQCD2T-Z1I4DfszXsCh6eqPsMP1RaExMaQlIUodAdL3bkXz32V3l5F1peD1DMVs6LJyXWOGDeAYLk0Z8A1WHrDlTLp4Lom_N_eyJFCS0u99mA5ZifFu9PGdyGv_ujsCXBNOvujU4FNnXZYEs63K1lPtjWOVXX3s';
+  videosUrl = 'https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&key='+this.apiKey;
   private handleError: HandleError;
 
   constructor(

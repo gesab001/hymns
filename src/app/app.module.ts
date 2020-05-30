@@ -22,13 +22,15 @@ import { VideosComponent } from './videos/videos.component';
 
 import { HttpErrorHandler }     from './http-error-handler.service';
 import { MessageService }       from './message.service';
+import { SpotifyComponent } from './spotify/spotify.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SlideshowComponent,
     HymnInfoComponent,
-    VideosComponent
+    VideosComponent,
+    SpotifyComponent
   ],
   imports: [
     BrowserModule,
