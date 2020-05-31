@@ -1,0 +1,780 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Joy+By+and+By&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2AxWLbnfmYg7QkQDt55bFu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2AxWLbnfmYg7QkQDt55bFu",
+          "id" : "2AxWLbnfmYg7QkQDt55bFu",
+          "name" : "Joy",
+          "type" : "artist",
+          "uri" : "spotify:artist:2AxWLbnfmYg7QkQDt55bFu"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1mBCLJN5B21sym2xfvFcmD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1mBCLJN5B21sym2xfvFcmD",
+        "id" : "1mBCLJN5B21sym2xfvFcmD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27306d6d390ac2c09e1038c130f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0206d6d390ac2c09e1038c130f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485106d6d390ac2c09e1038c130f",
+          "width" : 64
+        } ],
+        "name" : "Hits & More (Remixes & Classics)",
+        "release_date" : "2012-03-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:1mBCLJN5B21sym2xfvFcmD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2AxWLbnfmYg7QkQDt55bFu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2AxWLbnfmYg7QkQDt55bFu",
+        "id" : "2AxWLbnfmYg7QkQDt55bFu",
+        "name" : "Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:2AxWLbnfmYg7QkQDt55bFu"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 331133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR6V81287849"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2BNP4tfdKh6zWClNW7X7vL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2BNP4tfdKh6zWClNW7X7vL",
+      "id" : "2BNP4tfdKh6zWClNW7X7vL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Touch By Touch - Touch Maxi Version",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1e4327f7155ae8fc2067d65b441a2c25b9310352?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:2BNP4tfdKh6zWClNW7X7vL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/35pZsti1RSA5Zv98jAm8kX",
+          "id" : "35pZsti1RSA5Zv98jAm8kX",
+          "name" : "Orpheus Chamber Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:35pZsti1RSA5Zv98jAm8kX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2e0FIWorD7mcJNs573R4Zq"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2e0FIWorD7mcJNs573R4Zq",
+        "id" : "2e0FIWorD7mcJNs573R4Zq",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e47cc6aa69439b1c30603ea3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e47cc6aa69439b1c30603ea3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e47cc6aa69439b1c30603ea3",
+          "width" : 64
+        } ],
+        "name" : "Orpheus Chamber Orchestra - Baroque Highlights",
+        "release_date" : "1990-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:2e0FIWorD7mcJNs573R4Zq"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+        "id" : "5aIqB5nVVvmFsvSdExz408",
+        "name" : "Johann Sebastian Bach",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/35pZsti1RSA5Zv98jAm8kX",
+        "id" : "35pZsti1RSA5Zv98jAm8kX",
+        "name" : "Orpheus Chamber Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:35pZsti1RSA5Zv98jAm8kX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 208466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEF058902750"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2XNpCyO5ER63K0yAjDlefv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2XNpCyO5ER63K0yAjDlefv",
+      "id" : "2XNpCyO5ER63K0yAjDlefv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Herz und Mund und Tat und Leben, Cantata BWV 147: 10. Jesu, Joy Of Man's Desiring (Arr. by Guillermo Figueroa)",
+      "popularity" : 35,
+      "preview_url" : null,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2XNpCyO5ER63K0yAjDlefv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+          "id" : "5aIqB5nVVvmFsvSdExz408",
+          "name" : "Johann Sebastian Bach",
+          "type" : "artist",
+          "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4grkkWKt55tUAY7lcOZH5T"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4grkkWKt55tUAY7lcOZH5T",
+        "id" : "4grkkWKt55tUAY7lcOZH5T",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27312999705618966af9f96a19f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0212999705618966af9f96a19f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485112999705618966af9f96a19f",
+          "width" : 64
+        } ],
+        "name" : "Work From Home With Bach",
+        "release_date" : "2020-04-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 83,
+        "type" : "album",
+        "uri" : "spotify:album:4grkkWKt55tUAY7lcOZH5T"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+        "id" : "5aIqB5nVVvmFsvSdExz408",
+        "name" : "Johann Sebastian Bach",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/35pZsti1RSA5Zv98jAm8kX",
+        "id" : "35pZsti1RSA5Zv98jAm8kX",
+        "name" : "Orpheus Chamber Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:35pZsti1RSA5Zv98jAm8kX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 202280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEF058902750"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3HqXuC2Kdn3Upnee56kmeS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3HqXuC2Kdn3Upnee56kmeS",
+      "id" : "3HqXuC2Kdn3Upnee56kmeS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Herz und Mund und Tat und Leben, Cantata BWV 147: 10. Jesu, Joy Of Man's Desiring (Arr. by Guillermo Figueroa)",
+      "popularity" : 31,
+      "preview_url" : null,
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:3HqXuC2Kdn3Upnee56kmeS"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/19Pf5iv3VY9tSLbS3Y04t9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/19Pf5iv3VY9tSLbS3Y04t9",
+          "id" : "19Pf5iv3VY9tSLbS3Y04t9",
+          "name" : "MYNC",
+          "type" : "artist",
+          "uri" : "spotify:artist:19Pf5iv3VY9tSLbS3Y04t9"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6cEuCEZu7PAE9ZSzLLc2oQ",
+          "id" : "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name" : "R3HAB",
+          "type" : "artist",
+          "uri" : "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/663f33ecwH8fNpgjNpHdrX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/663f33ecwH8fNpgjNpHdrX",
+          "id" : "663f33ecwH8fNpgjNpHdrX",
+          "name" : "Nari & Milani",
+          "type" : "artist",
+          "uri" : "spotify:artist:663f33ecwH8fNpgjNpHdrX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6QmPpXBlex1MzB874tXLr5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6QmPpXBlex1MzB874tXLr5",
+        "id" : "6QmPpXBlex1MzB874tXLr5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733d106cad269475952291e0ca",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023d106cad269475952291e0ca",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513d106cad269475952291e0ca",
+          "width" : 64
+        } ],
+        "name" : "Miami 2013 (Mixed by MYNC, R3hab and Nari & Milani)",
+        "release_date" : "2013-03-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 45,
+        "type" : "album",
+        "uri" : "spotify:album:6QmPpXBlex1MzB874tXLr5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22bukBZvUppuwQwmDz75Gz",
+        "id" : "22bukBZvUppuwQwmDz75Gz",
+        "name" : "Sander van Doorn",
+        "type" : "artist",
+        "uri" : "spotify:artist:22bukBZvUppuwQwmDz75Gz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 314062,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLZ541200030"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Gg9WYF4xh1QBQXc7Ou9jc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Gg9WYF4xh1QBQXc7Ou9jc",
+      "id" : "7Gg9WYF4xh1QBQXc7Ou9jc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Joyenergizer",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/150a19b72e9338adbfed9d5394dd0b4e34942cd4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 31,
+      "type" : "track",
+      "uri" : "spotify:track:7Gg9WYF4xh1QBQXc7Ou9jc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2AxWLbnfmYg7QkQDt55bFu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2AxWLbnfmYg7QkQDt55bFu",
+          "id" : "2AxWLbnfmYg7QkQDt55bFu",
+          "name" : "Joy",
+          "type" : "artist",
+          "uri" : "spotify:artist:2AxWLbnfmYg7QkQDt55bFu"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2kfoLilFoarX9PpAyX2Qvg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2kfoLilFoarX9PpAyX2Qvg",
+        "id" : "2kfoLilFoarX9PpAyX2Qvg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f79e8be71848df91c428b613",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f79e8be71848df91c428b613",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f79e8be71848df91c428b613",
+          "width" : 64
+        } ],
+        "name" : "Joy and Tears",
+        "release_date" : "1986-10-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:2kfoLilFoarX9PpAyX2Qvg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2AxWLbnfmYg7QkQDt55bFu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2AxWLbnfmYg7QkQDt55bFu",
+        "id" : "2AxWLbnfmYg7QkQDt55bFu",
+        "name" : "Joy",
+        "type" : "artist",
+        "uri" : "spotify:artist:2AxWLbnfmYg7QkQDt55bFu"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 331133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FRX281987867"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/79W6bGOWTmR22TR1lYpgpO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/79W6bGOWTmR22TR1lYpgpO",
+      "id" : "79W6bGOWTmR22TR1lYpgpO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Touch by Touch - Touch Mix - Bonus Track",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1e4327f7155ae8fc2067d65b441a2c25b9310352?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:79W6bGOWTmR22TR1lYpgpO"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+          "id" : "5aIqB5nVVvmFsvSdExz408",
+          "name" : "Johann Sebastian Bach",
+          "type" : "artist",
+          "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+          "id" : "4NJhFmfw43RLBLjQvxDuRS",
+          "name" : "Wolfgang Amadeus Mozart",
+          "type" : "artist",
+          "uri" : "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2dUWEbFqw94z1TeLVGQiFV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2dUWEbFqw94z1TeLVGQiFV",
+        "id" : "2dUWEbFqw94z1TeLVGQiFV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273913f57286e5411e871ba41ec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02913f57286e5411e871ba41ec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851913f57286e5411e871ba41ec",
+          "width" : 64
+        } ],
+        "name" : "Relaxing Piano - Mozart and Bach",
+        "release_date" : "2020-02-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:2dUWEbFqw94z1TeLVGQiFV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4SbPzV12NmiqoWBMCvtP3X",
+        "id" : "4SbPzV12NmiqoWBMCvtP3X",
+        "name" : "Rafał Blechacz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4SbPzV12NmiqoWBMCvtP3X"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 239853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEN961502140"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/434q8H89GkeTGwQCv40TDN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/434q8H89GkeTGwQCv40TDN",
+      "id" : "434q8H89GkeTGwQCv40TDN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy Of Man's Desiring (Arr. For Piano By Myra Hess)",
+      "popularity" : 25,
+      "preview_url" : null,
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:434q8H89GkeTGwQCv40TDN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/52QyVRbjUEr2G9cY2kv0OS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/52QyVRbjUEr2G9cY2kv0OS",
+          "id" : "52QyVRbjUEr2G9cY2kv0OS",
+          "name" : "BYU Men's Chorus",
+          "type" : "artist",
+          "uri" : "spotify:artist:52QyVRbjUEr2G9cY2kv0OS"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0KWZ5vozfodTcx0rOCIv0c"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0KWZ5vozfodTcx0rOCIv0c",
+          "id" : "0KWZ5vozfodTcx0rOCIv0c",
+          "name" : "BYU Philharmonic Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:0KWZ5vozfodTcx0rOCIv0c"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2Zpql3RdMQjunbDKk1bIiz",
+          "id" : "2Zpql3RdMQjunbDKk1bIiz",
+          "name" : "Mack Wilberg",
+          "type" : "artist",
+          "uri" : "spotify:artist:2Zpql3RdMQjunbDKk1bIiz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2mSHnovOnAARhGtstqScN2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2mSHnovOnAARhGtstqScN2",
+        "id" : "2mSHnovOnAARhGtstqScN2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d9537a8ea85ecdad441d3a23",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d9537a8ea85ecdad441d3a23",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d9537a8ea85ecdad441d3a23",
+          "width" : 64
+        } ],
+        "name" : "Awake My Soul: Sacred Hymns & Anthems",
+        "release_date" : "2015-10-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:2mSHnovOnAARhGtstqScN2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+        "id" : "5aIqB5nVVvmFsvSdExz408",
+        "name" : "Johann Sebastian Bach",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Zpql3RdMQjunbDKk1bIiz",
+        "id" : "2Zpql3RdMQjunbDKk1bIiz",
+        "name" : "Mack Wilberg",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Zpql3RdMQjunbDKk1bIiz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/52QyVRbjUEr2G9cY2kv0OS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/52QyVRbjUEr2G9cY2kv0OS",
+        "id" : "52QyVRbjUEr2G9cY2kv0OS",
+        "name" : "BYU Men's Chorus",
+        "type" : "artist",
+        "uri" : "spotify:artist:52QyVRbjUEr2G9cY2kv0OS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0KWZ5vozfodTcx0rOCIv0c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0KWZ5vozfodTcx0rOCIv0c",
+        "id" : "0KWZ5vozfodTcx0rOCIv0c",
+        "name" : "BYU Philharmonic Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:0KWZ5vozfodTcx0rOCIv0c"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 195736,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRUF0910377"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0yqUCBwxI89PfJQ3om0rel"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0yqUCBwxI89PfJQ3om0rel",
+      "id" : "0yqUCBwxI89PfJQ3om0rel",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Herz und Mund und Tat und Leben, BWV 147: Chorale. Jesu, Joy of Man's Desiring",
+      "popularity" : 16,
+      "preview_url" : "https://p.scdn.co/mp3-preview/566efe07788c5169005a4f6ce6f47966a7ab77e9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:0yqUCBwxI89PfJQ3om0rel"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/25XngRrWAsddVHfhxUXIE5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/25XngRrWAsddVHfhxUXIE5",
+          "id" : "25XngRrWAsddVHfhxUXIE5",
+          "name" : "Defected Radio",
+          "type" : "artist",
+          "uri" : "spotify:artist:25XngRrWAsddVHfhxUXIE5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6224XNPshLQ1DlCysCVFWV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6224XNPshLQ1DlCysCVFWV",
+        "id" : "6224XNPshLQ1DlCysCVFWV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734682dd9c33390aba816c0ce1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024682dd9c33390aba816c0ce1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514682dd9c33390aba816c0ce1",
+          "width" : 64
+        } ],
+        "name" : "Defected Radio Episode 159 (hosted by Sam Divine)",
+        "release_date" : "2020-05-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:6224XNPshLQ1DlCysCVFWV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2MGI96UXRCEwaQGuQzAWfZ",
+        "id" : "2MGI96UXRCEwaQGuQzAWfZ",
+        "name" : "Donna Allen",
+        "type" : "artist",
+        "uri" : "spotify:artist:2MGI96UXRCEwaQGuQzAWfZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0VN7mz2rIvpw0FOvZV6p25",
+        "id" : "0VN7mz2rIvpw0FOvZV6p25",
+        "name" : "Alaia & Gallo",
+        "type" : "artist",
+        "uri" : "spotify:artist:0VN7mz2rIvpw0FOvZV6p25"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 253805,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCPZ2017541"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1v1WRVdDU6QhYU2pBtRQix"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1v1WRVdDU6QhYU2pBtRQix",
+      "id" : "1v1WRVdDU6QhYU2pBtRQix",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "He Is The Joy - Alaia & Gallo Extended Remix (Mixed)",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/55b56747047c6929c2f738f646539abdbb88db49?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:1v1WRVdDU6QhYU2pBtRQix"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1nqxxhiQvI2Hne37lRvMOP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1nqxxhiQvI2Hne37lRvMOP",
+          "id" : "1nqxxhiQvI2Hne37lRvMOP",
+          "name" : "Andrei Krylov, Lana Ross & Andrew Grossman",
+          "type" : "artist",
+          "uri" : "spotify:artist:1nqxxhiQvI2Hne37lRvMOP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/143G9uSp3UJbsqLIUHww6a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/143G9uSp3UJbsqLIUHww6a",
+        "id" : "143G9uSp3UJbsqLIUHww6a",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a7ea428295c51a91cd82e24a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a7ea428295c51a91cd82e24a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a7ea428295c51a91cd82e24a",
+          "width" : 64
+        } ],
+        "name" : "50 Relaxing Classics, Ultimate Essential Collection of Classical Guitar Music, Romantic Spanish Guitar Masterpieces, New Arrangements of Popular Classics By Guitar Masters, Chillout, Meditation, Warm, Gentle Music, Renaissance and Baroque Pieces",
+        "release_date" : "2012-04-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 50,
+        "type" : "album",
+        "uri" : "spotify:album:143G9uSp3UJbsqLIUHww6a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1nqxxhiQvI2Hne37lRvMOP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1nqxxhiQvI2Hne37lRvMOP",
+        "id" : "1nqxxhiQvI2Hne37lRvMOP",
+        "name" : "Andrei Krylov, Lana Ross & Andrew Grossman",
+        "type" : "artist",
+        "uri" : "spotify:artist:1nqxxhiQvI2Hne37lRvMOP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 163088,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21218869"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3NupUTGvDHueWw2gQIuFZL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3NupUTGvDHueWw2gQIuFZL",
+      "id" : "3NupUTGvDHueWw2gQIuFZL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Cantata BWV 147: Herz Und Mund Und Tat Und Leben, Jesu, Joy of Man's Desiring",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/be7aa37bf1fa5baf82e74dd8f199708881e227e8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3NupUTGvDHueWw2gQIuFZL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
+          },
+          "href" : "https://api.spotify.com/v1/artists/34lEZF8ruBmrfX93YZCE9P",
+          "id" : "34lEZF8ruBmrfX93YZCE9P",
+          "name" : "Carlton Pearson",
+          "type" : "artist",
+          "uri" : "spotify:artist:34lEZF8ruBmrfX93YZCE9P"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0BhPshqwWxoOdaqQmJRAFs"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0BhPshqwWxoOdaqQmJRAFs",
+        "id" : "0BhPshqwWxoOdaqQmJRAFs",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273222a4708c851550d7c353915",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02222a4708c851550d7c353915",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851222a4708c851550d7c353915",
+          "width" : 64
+        } ],
+        "name" : "Live At Azusa",
+        "release_date" : "1995-10-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:0BhPshqwWxoOdaqQmJRAFs"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34lEZF8ruBmrfX93YZCE9P",
+        "id" : "34lEZF8ruBmrfX93YZCE9P",
+        "name" : "Carlton Pearson",
+        "type" : "artist",
+        "uri" : "spotify:artist:34lEZF8ruBmrfX93YZCE9P"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 1408600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR61100335"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4sHKBhfA9OcHKe3UhtL5zD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4sHKBhfA9OcHKe3UhtL5zD",
+      "id" : "4sHKBhfA9OcHKe3UhtL5zD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "\"Old Songs\" Medley: Hold Onto God's Unchanging Hand / I'm a Soldier / He's the Great Consolator / I Get Joy When I Think About It / By & By / All the Way / Yes, Lord / Just Another Day / I Feel Like Going On - Live",
+      "popularity" : 15,
+      "preview_url" : "https://p.scdn.co/mp3-preview/08e7062cea2d45b4e100b476f29cc0f6adc01ce8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4sHKBhfA9OcHKe3UhtL5zD"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Joy+By+and+By&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Joy+By+and+By&type=track&market=US&offset=0&limit=10",
+    "total" : 1043
+  }
+}

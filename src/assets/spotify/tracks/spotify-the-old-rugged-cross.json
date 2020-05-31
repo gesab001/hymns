@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=The+Old+Rugged+Cross&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/13YmWQJFwgZrd4bf5IjMY4",
+          "id" : "13YmWQJFwgZrd4bf5IjMY4",
+          "name" : "Brad Paisley",
+          "type" : "artist",
+          "uri" : "spotify:artist:13YmWQJFwgZrd4bf5IjMY4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6em0G4V4kU9mRweKkCefgR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6em0G4V4kU9mRweKkCefgR",
+        "id" : "6em0G4V4kU9mRweKkCefgR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27394da46e08a9a9971436da68a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0294da46e08a9a9971436da68a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485194da46e08a9a9971436da68a",
+          "width" : 64
+        } ],
+        "name" : "Part II",
+        "release_date" : "2001-05-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:6em0G4V4kU9mRweKkCefgR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/13YmWQJFwgZrd4bf5IjMY4",
+        "id" : "13YmWQJFwgZrd4bf5IjMY4",
+        "name" : "Brad Paisley",
+        "type" : "artist",
+        "uri" : "spotify:artist:13YmWQJFwgZrd4bf5IjMY4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231826,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAN20100021"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2slaAgyVAhUn7SqVjk72ym"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2slaAgyVAhUn7SqVjk72ym",
+      "id" : "2slaAgyVAhUn7SqVjk72ym",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/72c0349ff5b62c6b8e18c28f9af363f449eae34f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:2slaAgyVAhUn7SqVjk72ym"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5dZiRoY9Vpp6qrxqXNRwPE",
+          "id" : "5dZiRoY9Vpp6qrxqXNRwPE",
+          "name" : "Selah",
+          "type" : "artist",
+          "uri" : "spotify:artist:5dZiRoY9Vpp6qrxqXNRwPE"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0NKzXf20zGV0vsR60DZjF4",
+        "id" : "0NKzXf20zGV0vsR60DZjF4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e8ca98103536da89974246cf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e8ca98103536da89974246cf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e8ca98103536da89974246cf",
+          "width" : 64
+        } ],
+        "name" : "You Amaze Us",
+        "release_date" : "2014-08-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:0NKzXf20zGV0vsR60DZjF4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dZiRoY9Vpp6qrxqXNRwPE",
+        "id" : "5dZiRoY9Vpp6qrxqXNRwPE",
+        "name" : "Selah",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dZiRoY9Vpp6qrxqXNRwPE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 211213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USCRB1310890"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3bbJDplsnH5jfhLnsI88F0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3bbJDplsnH5jfhLnsI88F0",
+      "id" : "3bbJDplsnH5jfhLnsI88F0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8668996ac03dce5677c4e75fc36d47eae097793a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:3bbJDplsnH5jfhLnsI88F0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6l0FgdMZNMgMjph2DdwKP9",
+          "id" : "6l0FgdMZNMgMjph2DdwKP9",
+          "name" : "Bart Millard",
+          "type" : "artist",
+          "uri" : "spotify:artist:6l0FgdMZNMgMjph2DdwKP9"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3rfMWTJ6YzQzQGAgNfJB3R"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3rfMWTJ6YzQzQGAgNfJB3R",
+        "id" : "3rfMWTJ6YzQzQGAgNfJB3R",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273476ef6d68f53bfec496f30f5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02476ef6d68f53bfec496f30f5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851476ef6d68f53bfec496f30f5",
+          "width" : 64
+        } ],
+        "name" : "Hymned No. 1",
+        "release_date" : "2005-08-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:3rfMWTJ6YzQzQGAgNfJB3R"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6l0FgdMZNMgMjph2DdwKP9",
+        "id" : "6l0FgdMZNMgMjph2DdwKP9",
+        "name" : "Bart Millard",
+        "type" : "artist",
+        "uri" : "spotify:artist:6l0FgdMZNMgMjph2DdwKP9"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 263493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USM2C0537910"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4zRD85VJP2PozaoahkRcUV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4zRD85VJP2PozaoahkRcUV",
+      "id" : "4zRD85VJP2PozaoahkRcUV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2b5917b2a813011afa8c0bd26c1df85541ad4419?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4zRD85VJP2PozaoahkRcUV"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0pjLiK5qb4Zr0PWRNkdd2o",
+          "id" : "0pjLiK5qb4Zr0PWRNkdd2o",
+          "name" : "Gaither Vocal Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:0pjLiK5qb4Zr0PWRNkdd2o"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1RYBZgwSVD3211dmEI1PhD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1RYBZgwSVD3211dmEI1PhD",
+        "id" : "1RYBZgwSVD3211dmEI1PhD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739189c6110414c2f857989873",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029189c6110414c2f857989873",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519189c6110414c2f857989873",
+          "width" : 64
+        } ],
+        "name" : "Hymns",
+        "release_date" : "2014-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1RYBZgwSVD3211dmEI1PhD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0pjLiK5qb4Zr0PWRNkdd2o",
+        "id" : "0pjLiK5qb4Zr0PWRNkdd2o",
+        "name" : "Gaither Vocal Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:0pjLiK5qb4Zr0PWRNkdd2o"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 275613,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3271400008"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3u5zZLIYImyp3D3IWlUztg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3u5zZLIYImyp3D3IWlUztg",
+      "id" : "3u5zZLIYImyp3D3IWlUztg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross",
+      "popularity" : 33,
+      "preview_url" : null,
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:3u5zZLIYImyp3D3IWlUztg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/31Esw1yHgJZBPcRa4nUyTP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/31Esw1yHgJZBPcRa4nUyTP",
+          "id" : "31Esw1yHgJZBPcRa4nUyTP",
+          "name" : "Joey + Rory",
+          "type" : "artist",
+          "uri" : "spotify:artist:31Esw1yHgJZBPcRa4nUyTP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1nbMMdt6wb16OSPF81yBuT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1nbMMdt6wb16OSPF81yBuT",
+        "id" : "1nbMMdt6wb16OSPF81yBuT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ed8396a200fc1a19c12f051d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ed8396a200fc1a19c12f051d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ed8396a200fc1a19c12f051d",
+          "width" : 64
+        } ],
+        "name" : "Hymns",
+        "release_date" : "2016-02-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:1nbMMdt6wb16OSPF81yBuT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/31Esw1yHgJZBPcRa4nUyTP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/31Esw1yHgJZBPcRa4nUyTP",
+        "id" : "31Esw1yHgJZBPcRa4nUyTP",
+        "name" : "Joey + Rory",
+        "type" : "artist",
+        "uri" : "spotify:artist:31Esw1yHgJZBPcRa4nUyTP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 165666,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMFDU1600007"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4r0VgT4mIftnRAi8278jUL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4r0VgT4mIftnRAi8278jUL",
+      "id" : "4r0VgT4mIftnRAi8278jUL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross",
+      "popularity" : 29,
+      "preview_url" : null,
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4r0VgT4mIftnRAi8278jUL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7xmd7RPLO292xIiLMAryFQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7xmd7RPLO292xIiLMAryFQ",
+          "id" : "7xmd7RPLO292xIiLMAryFQ",
+          "name" : "Dailey & Vincent",
+          "type" : "artist",
+          "uri" : "spotify:artist:7xmd7RPLO292xIiLMAryFQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5mrgKeqDzirteL7fvJQANW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5mrgKeqDzirteL7fvJQANW",
+        "id" : "5mrgKeqDzirteL7fvJQANW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b1c4c5efbc9014f1702a5264",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b1c4c5efbc9014f1702a5264",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b1c4c5efbc9014f1702a5264",
+          "width" : 64
+        } ],
+        "name" : "Singing From The Heart",
+        "release_date" : "2009-10-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5mrgKeqDzirteL7fvJQANW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xmd7RPLO292xIiLMAryFQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xmd7RPLO292xIiLMAryFQ",
+        "id" : "7xmd7RPLO292xIiLMAryFQ",
+        "name" : "Dailey & Vincent",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xmd7RPLO292xIiLMAryFQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 254133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRO20961006"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7tSMJbfe0eeZMmgTyWOCIH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7tSMJbfe0eeZMmgTyWOCIH",
+      "id" : "7tSMJbfe0eeZMmgTyWOCIH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross",
+      "popularity" : 27,
+      "preview_url" : null,
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7tSMJbfe0eeZMmgTyWOCIH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+          "id" : "11sAWrpIkFUPQlXoQqpeBV",
+          "name" : "Bill & Gloria Gaither",
+          "type" : "artist",
+          "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3xjEEUAUUrcGADtLnfrQwT",
+        "id" : "3xjEEUAUUrcGADtLnfrQwT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273aae351daf444d6205aa36887",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02aae351daf444d6205aa36887",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851aae351daf444d6205aa36887",
+          "width" : 64
+        } ],
+        "name" : "Gaither Homecoming Classics Vol.1",
+        "release_date" : "2003-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:3xjEEUAUUrcGADtLnfrQwT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+        "id" : "11sAWrpIkFUPQlXoQqpeBV",
+        "name" : "Bill & Gloria Gaither",
+        "type" : "artist",
+        "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0pjLiK5qb4Zr0PWRNkdd2o",
+        "id" : "0pjLiK5qb4Zr0PWRNkdd2o",
+        "name" : "Gaither Vocal Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:0pjLiK5qb4Zr0PWRNkdd2o"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 302333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3270400017"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4IJCV8jGOmL6eBeo4YRaEU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4IJCV8jGOmL6eBeo4YRaEU",
+      "id" : "4IJCV8jGOmL6eBeo4YRaEU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross Made The Difference - Live",
+      "popularity" : 32,
+      "preview_url" : null,
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:4IJCV8jGOmL6eBeo4YRaEU"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2qUyxcsseI3E7et9hyeS2i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2qUyxcsseI3E7et9hyeS2i",
+          "id" : "2qUyxcsseI3E7et9hyeS2i",
+          "name" : "Simon Casey",
+          "type" : "artist",
+          "uri" : "spotify:artist:2qUyxcsseI3E7et9hyeS2i"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4YVFidiCZlfD2iespyrV94"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4YVFidiCZlfD2iespyrV94",
+        "id" : "4YVFidiCZlfD2iespyrV94",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e18d41901ccad141cd59be9a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e18d41901ccad141cd59be9a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e18d41901ccad141cd59be9a",
+          "width" : 64
+        } ],
+        "name" : "The Old Rugged Cross",
+        "release_date" : "2020-03-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:4YVFidiCZlfD2iespyrV94"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2qUyxcsseI3E7et9hyeS2i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2qUyxcsseI3E7et9hyeS2i",
+        "id" : "2qUyxcsseI3E7et9hyeS2i",
+        "name" : "Simon Casey",
+        "type" : "artist",
+        "uri" : "spotify:artist:2qUyxcsseI3E7et9hyeS2i"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 212693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAER2039988"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1k3nZ23MmNi6qe1SA9ensl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1k3nZ23MmNi6qe1SA9ensl",
+      "id" : "1k3nZ23MmNi6qe1SA9ensl",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b3ddb6908ce93247516addc7f1f8ecc44590fe34?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1k3nZ23MmNi6qe1SA9ensl"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7d7q5Y1p2QWS4QRAhTQR5E",
+          "id" : "7d7q5Y1p2QWS4QRAhTQR5E",
+          "name" : "Anne Murray",
+          "type" : "artist",
+          "uri" : "spotify:artist:7d7q5Y1p2QWS4QRAhTQR5E"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2ukqIQ1XhJLDjx2dZYdE5m"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2ukqIQ1XhJLDjx2dZYdE5m",
+        "id" : "2ukqIQ1XhJLDjx2dZYdE5m",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735f85e17b440e630e2c3e5e9c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025f85e17b440e630e2c3e5e9c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515f85e17b440e630e2c3e5e9c",
+          "width" : 64
+        } ],
+        "name" : "What A Wonderful World",
+        "release_date" : "1999-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 26,
+        "type" : "album",
+        "uri" : "spotify:album:2ukqIQ1XhJLDjx2dZYdE5m"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7d7q5Y1p2QWS4QRAhTQR5E",
+        "id" : "7d7q5Y1p2QWS4QRAhTQR5E",
+        "name" : "Anne Murray",
+        "type" : "artist",
+        "uri" : "spotify:artist:7d7q5Y1p2QWS4QRAhTQR5E"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 252133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAE159900096"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5yQvgwlQ448TGBORfeGZLv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5yQvgwlQ448TGBORfeGZLv",
+      "id" : "5yQvgwlQ448TGBORfeGZLv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross",
+      "popularity" : 32,
+      "preview_url" : null,
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:5yQvgwlQ448TGBORfeGZLv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0ZLHgeKZXpxW42i2T2s931",
+          "id" : "0ZLHgeKZXpxW42i2T2s931",
+          "name" : "Ghost Ship",
+          "type" : "artist",
+          "uri" : "spotify:artist:0ZLHgeKZXpxW42i2T2s931"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5e6LdmOF83i33YJgk4yRUc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5e6LdmOF83i33YJgk4yRUc",
+        "id" : "5e6LdmOF83i33YJgk4yRUc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730ae5b53d5ade33eab40dce2e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020ae5b53d5ade33eab40dce2e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510ae5b53d5ade33eab40dce2e",
+          "width" : 64
+        } ],
+        "name" : "To The End",
+        "release_date" : "2019-08-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5e6LdmOF83i33YJgk4yRUc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ZLHgeKZXpxW42i2T2s931",
+        "id" : "0ZLHgeKZXpxW42i2T2s931",
+        "name" : "Ghost Ship",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ZLHgeKZXpxW42i2T2s931"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 207506,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMGVJ1900062"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0rkWoj9GJsLTWu4vIh92jo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0rkWoj9GJsLTWu4vIh92jo",
+      "id" : "0rkWoj9GJsLTWu4vIh92jo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Old Rugged Cross",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8645eb3d2d954bb73902cbc1301367f4a847b40b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0rkWoj9GJsLTWu4vIh92jo"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=The+Old+Rugged+Cross&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=The+Old+Rugged+Cross&type=track&market=US&offset=0&limit=10",
+    "total" : 2524
+  }
+}

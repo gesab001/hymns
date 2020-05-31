@@ -1,1 +1,7 @@
-<p>spotify works!</p>
+              <div *ngFor="let track of spotify['tracks']['items']; let i = index" >
+                    <p>{{spotify['tracks']['items'][i]['id']}}</p>
+                <iframe [src]="getSafeSrc(spotify['tracks']['items'][i]['id'])"  frameborder="0" webkitallowfullscreen mozallowfullscreen
+      allowfullscreen></iframe>  
+              </div>
+
+

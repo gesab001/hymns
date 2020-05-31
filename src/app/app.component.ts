@@ -4,7 +4,7 @@ import {Observable} from 'rxjs';
 import {map, startWith, takeUntil} from 'rxjs/operators';
 import {ThemePalette} from '@angular/material/core';
 // @ts-ignore
-import hymnsData from '../assets/hymns-refrain.json';
+import hymnsData from '../assets/hymns-spotify.json';
 import {MatSliderChange} from '@angular/material/slider';
 
 // import {HttpClient, HttpClientModule, HttpParams} from '@angular/common/http';

@@ -1,0 +1,78 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=My+Soul%2C+Be+on+Thy+Guard&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1WlvLxtnRH5pNlkcaaG5eU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1WlvLxtnRH5pNlkcaaG5eU",
+          "id" : "1WlvLxtnRH5pNlkcaaG5eU",
+          "name" : "Rev. H.R. Tomlin",
+          "type" : "artist",
+          "uri" : "spotify:artist:1WlvLxtnRH5pNlkcaaG5eU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4orqv68EMUr7fBRRDsUiRa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4orqv68EMUr7fBRRDsUiRa",
+        "id" : "4orqv68EMUr7fBRRDsUiRa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737d504ff2f2d34572523ea1c1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027d504ff2f2d34572523ea1c1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517d504ff2f2d34572523ea1c1",
+          "width" : 64
+        } ],
+        "name" : "Where Is the Gambler?",
+        "release_date" : "2015-06-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:4orqv68EMUr7fBRRDsUiRa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1WlvLxtnRH5pNlkcaaG5eU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1WlvLxtnRH5pNlkcaaG5eU",
+        "id" : "1WlvLxtnRH5pNlkcaaG5eU",
+        "name" : "Rev. H.R. Tomlin",
+        "type" : "artist",
+        "uri" : "spotify:artist:1WlvLxtnRH5pNlkcaaG5eU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 180040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPS81526673"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/28mMGq3xCZ6KGqpzNVVkV3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/28mMGq3xCZ6KGqpzNVVkV3",
+      "id" : "28mMGq3xCZ6KGqpzNVVkV3",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Soul Be on Thy Guard",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2fefcc5d376ff0978dac1a59e879d0d65aef28f9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:28mMGq3xCZ6KGqpzNVVkV3"
+    } ],
+    "limit" : 10,
+    "next" : null,
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=My+Soul%2C+Be+on+Thy+Guard&type=track&market=US&offset=0&limit=10",
+    "total" : 6
+  }
+}

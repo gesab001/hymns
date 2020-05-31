@@ -1,0 +1,78 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+Love+Your+Kingdom%2C+Lord&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+          "id" : "0kXPoMYYhhXMT1Acf6d1At",
+          "name" : "Johan Muren",
+          "type" : "artist",
+          "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/556nXMLTzWw5ZOdEXBUdew"
+        },
+        "href" : "https://api.spotify.com/v1/albums/556nXMLTzWw5ZOdEXBUdew",
+        "id" : "556nXMLTzWw5ZOdEXBUdew",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737e07696c3e2a3200f7bb5f95",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027e07696c3e2a3200f7bb5f95",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517e07696c3e2a3200f7bb5f95",
+          "width" : 64
+        } ],
+        "name" : "American Sda Hymnal Sing Along Vol.23",
+        "release_date" : "2020-05-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:556nXMLTzWw5ZOdEXBUdew"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+        "id" : "0kXPoMYYhhXMT1Acf6d1At",
+        "name" : "Johan Muren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 93750,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM6MZ2083735"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/52pUwTk4Wz502obZlSE8VU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/52pUwTk4Wz502obZlSE8VU",
+      "id" : "52pUwTk4Wz502obZlSE8VU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love Your Kingdom, Lord",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8c09d737f02a6b3f5d6c6fe3e520dd0f115b426a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:52pUwTk4Wz502obZlSE8VU"
+    } ],
+    "limit" : 10,
+    "next" : null,
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=I+Love+Your+Kingdom%2C+Lord&type=track&market=US&offset=0&limit=10",
+    "total" : 6
+  }
+}

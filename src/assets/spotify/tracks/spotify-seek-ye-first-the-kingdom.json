@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Seek+Ye+First+the+Kingdom&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2hgi8LnesJczbV491EcSx3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2hgi8LnesJczbV491EcSx3",
+          "id" : "2hgi8LnesJczbV491EcSx3",
+          "name" : "Emmanuel Prathap Singh",
+          "type" : "artist",
+          "uri" : "spotify:artist:2hgi8LnesJczbV491EcSx3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/447BSLS2SJ9TGGD1nHAE1D"
+        },
+        "href" : "https://api.spotify.com/v1/albums/447BSLS2SJ9TGGD1nHAE1D",
+        "id" : "447BSLS2SJ9TGGD1nHAE1D",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273490f9f8ad5cbe82e499c616b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02490f9f8ad5cbe82e499c616b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851490f9f8ad5cbe82e499c616b",
+          "width" : 64
+        } ],
+        "name" : "Seek Ye First the Kingdom (Acapella)",
+        "release_date" : "2018-03-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:447BSLS2SJ9TGGD1nHAE1D"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2hgi8LnesJczbV491EcSx3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2hgi8LnesJczbV491EcSx3",
+        "id" : "2hgi8LnesJczbV491EcSx3",
+        "name" : "Emmanuel Prathap Singh",
+        "type" : "artist",
+        "uri" : "spotify:artist:2hgi8LnesJczbV491EcSx3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 161374,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1868549"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6hU9KMLZBEEg470IYqpKJk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6hU9KMLZBEEg470IYqpKJk",
+      "id" : "6hU9KMLZBEEg470IYqpKJk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First the Kingdom (Acapella)",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/01b8da045c16e21886b83f13cfabe54fd6e7f15e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6hU9KMLZBEEg470IYqpKJk"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/08dsaoVeGLJhTdUCgiFIUJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/08dsaoVeGLJhTdUCgiFIUJ",
+          "id" : "08dsaoVeGLJhTdUCgiFIUJ",
+          "name" : "Kevin Mayhew Ltd",
+          "type" : "artist",
+          "uri" : "spotify:artist:08dsaoVeGLJhTdUCgiFIUJ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5v0xbqKLczLt7zfjnQiH9h"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5v0xbqKLczLt7zfjnQiH9h",
+        "id" : "5v0xbqKLczLt7zfjnQiH9h",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27374f126ec58ddb6406359f47b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0274f126ec58ddb6406359f47b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485174f126ec58ddb6406359f47b",
+          "width" : 64
+        } ],
+        "name" : "Just Instrumental Hymns and Songs for Children",
+        "release_date" : "2003-03-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:5v0xbqKLczLt7zfjnQiH9h"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/08dsaoVeGLJhTdUCgiFIUJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/08dsaoVeGLJhTdUCgiFIUJ",
+        "id" : "08dsaoVeGLJhTdUCgiFIUJ",
+        "name" : "Kevin Mayhew Ltd",
+        "type" : "artist",
+        "uri" : "spotify:artist:08dsaoVeGLJhTdUCgiFIUJ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 156946,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBRFW1400928"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6BSm02LIGb3ppDUNdSRtIC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6BSm02LIGb3ppDUNdSRtIC",
+      "id" : "6BSm02LIGb3ppDUNdSRtIC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First the Kingdom of God",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6827c4e1890563feb7e8cb98f20211efede266c1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:6BSm02LIGb3ppDUNdSRtIC"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+          "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+          "name" : "Praise and Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7ycNX5rUSx42uZnxpfsowZ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7ycNX5rUSx42uZnxpfsowZ",
+        "id" : "7ycNX5rUSx42uZnxpfsowZ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c04e15ae8c1e3cb6ce222ac6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c04e15ae8c1e3cb6ce222ac6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c04e15ae8c1e3cb6ce222ac6",
+          "width" : 64
+        } ],
+        "name" : "10 Angels Blessing Of Song",
+        "release_date" : "2020-05-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:7ycNX5rUSx42uZnxpfsowZ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+        "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+        "name" : "Praise and Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 64367,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW45131014"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4v3vczt6PsV5ZWiR1y4Be9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4v3vczt6PsV5ZWiR1y4Be9",
+      "id" : "4v3vczt6PsV5ZWiR1y4Be9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First The Kingdom Of God",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f22731d5478e9ad0852ee716716f86f87baf847c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4v3vczt6PsV5ZWiR1y4Be9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+          "id" : "1fO0DHOhFIvuPtObA3LtHR",
+          "name" : "Christian Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2t5iyQKegMNy9UGk5sA7oI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2t5iyQKegMNy9UGk5sA7oI",
+        "id" : "2t5iyQKegMNy9UGk5sA7oI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273aba98f072ac25f0539318d13",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02aba98f072ac25f0539318d13",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851aba98f072ac25f0539318d13",
+          "width" : 64
+        } ],
+        "name" : "10 Songs For The Bible",
+        "release_date" : "2020-01-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:2t5iyQKegMNy9UGk5sA7oI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+        "id" : "1fO0DHOhFIvuPtObA3LtHR",
+        "name" : "Christian Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 64367,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW44741129"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5TvfB9eL1OhlrKdkKIRmot"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5TvfB9eL1OhlrKdkKIRmot",
+      "id" : "5TvfB9eL1OhlrKdkKIRmot",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First The Kingdom Of God",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/527aeb09ab4eee76b0472a5560c71bd5fc85a20d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:5TvfB9eL1OhlrKdkKIRmot"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+          "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+          "name" : "Praise and Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3QRCTumg6Ub8ZexauhTJck"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3QRCTumg6Ub8ZexauhTJck",
+        "id" : "3QRCTumg6Ub8ZexauhTJck",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27349433da5046fb9442ff27235",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0249433da5046fb9442ff27235",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485149433da5046fb9442ff27235",
+          "width" : 64
+        } ],
+        "name" : "11 Full Of Faith",
+        "release_date" : "2020-02-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:3QRCTumg6Ub8ZexauhTJck"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+        "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+        "name" : "Praise and Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 64367,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW44863795"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3YitrgNxlxGNoOYrEnvF5M"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3YitrgNxlxGNoOYrEnvF5M",
+      "id" : "3YitrgNxlxGNoOYrEnvF5M",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First The Kingdom Of God",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/527aeb09ab4eee76b0472a5560c71bd5fc85a20d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3YitrgNxlxGNoOYrEnvF5M"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2kSui5JLrfiMzhaJoyjwNt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2kSui5JLrfiMzhaJoyjwNt",
+          "id" : "2kSui5JLrfiMzhaJoyjwNt",
+          "name" : "The Harrow Family",
+          "type" : "artist",
+          "uri" : "spotify:artist:2kSui5JLrfiMzhaJoyjwNt"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0xc06QyNL2j1ZAwuin0A2y"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0xc06QyNL2j1ZAwuin0A2y",
+        "id" : "0xc06QyNL2j1ZAwuin0A2y",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273207d4c2ce33d3dc63352c108",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02207d4c2ce33d3dc63352c108",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851207d4c2ce33d3dc63352c108",
+          "width" : 64
+        } ],
+        "name" : "Sing the Word From A to Z",
+        "release_date" : "2001-12-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 52,
+        "type" : "album",
+        "uri" : "spotify:album:0xc06QyNL2j1ZAwuin0A2y"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kSui5JLrfiMzhaJoyjwNt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kSui5JLrfiMzhaJoyjwNt",
+        "id" : "2kSui5JLrfiMzhaJoyjwNt",
+        "name" : "The Harrow Family",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kSui5JLrfiMzhaJoyjwNt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 59266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1405849"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2EPCVs0XLeNGey3RNX1n9X"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2EPCVs0XLeNGey3RNX1n9X",
+      "id" : "2EPCVs0XLeNGey3RNX1n9X",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First the Kingdom",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/df2fca2baf597aa5d6c0c724f60cfc9e0de60d8a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:2EPCVs0XLeNGey3RNX1n9X"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+          "id" : "1fO0DHOhFIvuPtObA3LtHR",
+          "name" : "Christian Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4VttwYtJtYiMAkuaLvGkFQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4VttwYtJtYiMAkuaLvGkFQ",
+        "id" : "4VttwYtJtYiMAkuaLvGkFQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273112ec3864fdbe34f11a41997",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02112ec3864fdbe34f11a41997",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851112ec3864fdbe34f11a41997",
+          "width" : 64
+        } ],
+        "name" : "11 Faithful Journey",
+        "release_date" : "2020-01-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4VttwYtJtYiMAkuaLvGkFQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+        "id" : "1fO0DHOhFIvuPtObA3LtHR",
+        "name" : "Christian Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 64367,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW44617256"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0tzeWra4JOChxvL0Scwbt3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0tzeWra4JOChxvL0Scwbt3",
+      "id" : "0tzeWra4JOChxvL0Scwbt3",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First The Kingdom Of God",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/527aeb09ab4eee76b0472a5560c71bd5fc85a20d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:0tzeWra4JOChxvL0Scwbt3"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+          "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+          "name" : "Praise and Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7MXpFYSMG7opf5UlhINZPd"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7MXpFYSMG7opf5UlhINZPd",
+        "id" : "7MXpFYSMG7opf5UlhINZPd",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d30f991541ac60ac0857f8d5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d30f991541ac60ac0857f8d5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d30f991541ac60ac0857f8d5",
+          "width" : 64
+        } ],
+        "name" : "10 The Spirit Of Christianity",
+        "release_date" : "2020-02-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:7MXpFYSMG7opf5UlhINZPd"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+        "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+        "name" : "Praise and Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 64367,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW44802386"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1wDFsfUNVAbhCAKnYTlE7l"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1wDFsfUNVAbhCAKnYTlE7l",
+      "id" : "1wDFsfUNVAbhCAKnYTlE7l",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First The Kingdom Of God",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/527aeb09ab4eee76b0472a5560c71bd5fc85a20d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1wDFsfUNVAbhCAKnYTlE7l"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+          "id" : "1fO0DHOhFIvuPtObA3LtHR",
+          "name" : "Christian Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/599eIRFoi73IKAtjuLBFes"
+        },
+        "href" : "https://api.spotify.com/v1/albums/599eIRFoi73IKAtjuLBFes",
+        "id" : "599eIRFoi73IKAtjuLBFes",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ca4fea39fdbedf0c7b92c03c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ca4fea39fdbedf0c7b92c03c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ca4fea39fdbedf0c7b92c03c",
+          "width" : 64
+        } ],
+        "name" : "11 Sing Away The Devil",
+        "release_date" : "2019-11-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:599eIRFoi73IKAtjuLBFes"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+        "id" : "1fO0DHOhFIvuPtObA3LtHR",
+        "name" : "Christian Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 64367,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW44374052"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6n8pzgRXRGQaz0LCesbcnQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6n8pzgRXRGQaz0LCesbcnQ",
+      "id" : "6n8pzgRXRGQaz0LCesbcnQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First The Kingdom Of God",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/527aeb09ab4eee76b0472a5560c71bd5fc85a20d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:6n8pzgRXRGQaz0LCesbcnQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+          "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+          "name" : "Praise and Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2MCJUI0yKrsk19KIZlBGaR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2MCJUI0yKrsk19KIZlBGaR",
+        "id" : "2MCJUI0yKrsk19KIZlBGaR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737652b844e48008db3b3c537c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027652b844e48008db3b3c537c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517652b844e48008db3b3c537c",
+          "width" : 64
+        } ],
+        "name" : "10 Peaceful With Heaven",
+        "release_date" : "2019-12-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:2MCJUI0yKrsk19KIZlBGaR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+        "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+        "name" : "Praise and Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 64367,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW44556288"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5cQjxEPdA8bUBlRtMlSymj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5cQjxEPdA8bUBlRtMlSymj",
+      "id" : "5cQjxEPdA8bUBlRtMlSymj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First The Kingdom Of God",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/527aeb09ab4eee76b0472a5560c71bd5fc85a20d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:5cQjxEPdA8bUBlRtMlSymj"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Seek+Ye+First+the+Kingdom&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Seek+Ye+First+the+Kingdom&type=track&market=US&offset=0&limit=10",
+    "total" : 90
+  }
+}

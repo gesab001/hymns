@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=The+Advent+of+Our+God&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0yVDPKhAihfONbod4nzYaI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0yVDPKhAihfONbod4nzYaI",
+          "id" : "0yVDPKhAihfONbod4nzYaI",
+          "name" : "World Life Big Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:0yVDPKhAihfONbod4nzYaI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0kZ3qLP5bwel6FPIFZTnQP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0kZ3qLP5bwel6FPIFZTnQP",
+        "id" : "0kZ3qLP5bwel6FPIFZTnQP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737b4bb1c0b7415600dbe79a15",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027b4bb1c0b7415600dbe79a15",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517b4bb1c0b7415600dbe79a15",
+          "width" : 64
+        } ],
+        "name" : "Music for Relaxation, Vol. 4",
+        "release_date" : "2013-03-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0kZ3qLP5bwel6FPIFZTnQP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0yVDPKhAihfONbod4nzYaI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0yVDPKhAihfONbod4nzYaI",
+        "id" : "0yVDPKhAihfONbod4nzYaI",
+        "name" : "World Life Big Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:0yVDPKhAihfONbod4nzYaI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 90626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA561346970"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1RhcTrGaAEMlLKFg8CYBal"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1RhcTrGaAEMlLKFg8CYBal",
+      "id" : "1RhcTrGaAEMlLKFg8CYBal",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e0d1609f0414c8e38dc1c5c47e5326d74ae2cf3f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1RhcTrGaAEMlLKFg8CYBal"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5YXCBqqAd1x8JfMErete4r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5YXCBqqAd1x8JfMErete4r",
+          "id" : "5YXCBqqAd1x8JfMErete4r",
+          "name" : "Jimmy Luke Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:5YXCBqqAd1x8JfMErete4r"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0kzxT4GZHl2xkVGQXr1aKD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0kzxT4GZHl2xkVGQXr1aKD",
+        "id" : "0kzxT4GZHl2xkVGQXr1aKD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27336d2481bfa903eac5c16a18f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0236d2481bfa903eac5c16a18f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485136d2481bfa903eac5c16a18f",
+          "width" : 64
+        } ],
+        "name" : "Dreaming Music, Vol. 3",
+        "release_date" : "2014-03-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:0kzxT4GZHl2xkVGQXr1aKD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5YXCBqqAd1x8JfMErete4r"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5YXCBqqAd1x8JfMErete4r",
+        "id" : "5YXCBqqAd1x8JfMErete4r",
+        "name" : "Jimmy Luke Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:5YXCBqqAd1x8JfMErete4r"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 227853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMBZ91402687"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1gg3HvUKJCzYNKg6qnXQ6Z"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1gg3HvUKJCzYNKg6qnXQ6Z",
+      "id" : "1gg3HvUKJCzYNKg6qnXQ6Z",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a4b21445f7f64d71e7503d53992dc4f4f15833c4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:1gg3HvUKJCzYNKg6qnXQ6Z"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6DlU0pS7I7z4ln6gTzJnpw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6DlU0pS7I7z4ln6gTzJnpw",
+          "id" : "6DlU0pS7I7z4ln6gTzJnpw",
+          "name" : "David Jones Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:6DlU0pS7I7z4ln6gTzJnpw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2A78va2QP8aKIDChr0tQHY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2A78va2QP8aKIDChr0tQHY",
+        "id" : "2A78va2QP8aKIDChr0tQHY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27304318a45662616e361611517",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0204318a45662616e361611517",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485104318a45662616e361611517",
+          "width" : 64
+        } ],
+        "name" : "Jingle Bells Christmas Music, Vol. 2 (Instrumental)",
+        "release_date" : "2014-12-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:2A78va2QP8aKIDChr0tQHY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DlU0pS7I7z4ln6gTzJnpw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DlU0pS7I7z4ln6gTzJnpw",
+        "id" : "6DlU0pS7I7z4ln6gTzJnpw",
+        "name" : "David Jones Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DlU0pS7I7z4ln6gTzJnpw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 90626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA561346970"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/26ILOajtwLpXrvY6yf5Rjd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/26ILOajtwLpXrvY6yf5Rjd",
+      "id" : "26ILOajtwLpXrvY6yf5Rjd",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e0d1609f0414c8e38dc1c5c47e5326d74ae2cf3f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:26ILOajtwLpXrvY6yf5Rjd"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4HvQpismDt5j6Y8u3KsCtq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4HvQpismDt5j6Y8u3KsCtq",
+          "id" : "4HvQpismDt5j6Y8u3KsCtq",
+          "name" : "Tim Johnson Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:4HvQpismDt5j6Y8u3KsCtq"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4BaqWA3WpkgUMf8d9Nnbg6"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4BaqWA3WpkgUMf8d9Nnbg6",
+        "id" : "4BaqWA3WpkgUMf8d9Nnbg6",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273491fd3d133d3486b8e49621a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02491fd3d133d3486b8e49621a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851491fd3d133d3486b8e49621a",
+          "width" : 64
+        } ],
+        "name" : "Black History Gospel Music, Vol. 1",
+        "release_date" : "2014-02-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4BaqWA3WpkgUMf8d9Nnbg6"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4HvQpismDt5j6Y8u3KsCtq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4HvQpismDt5j6Y8u3KsCtq",
+        "id" : "4HvQpismDt5j6Y8u3KsCtq",
+        "name" : "Tim Johnson Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:4HvQpismDt5j6Y8u3KsCtq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 90626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA561388424"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2DxWhWGU7hXulVcx3ux7qb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2DxWhWGU7hXulVcx3ux7qb",
+      "id" : "2DxWhWGU7hXulVcx3ux7qb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/97f0b4877207eb40ce360bfabfc0b4e1e59f7fa7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:2DxWhWGU7hXulVcx3ux7qb"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/65ZNLEylEMnl357InX9VYd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/65ZNLEylEMnl357InX9VYd",
+          "id" : "65ZNLEylEMnl357InX9VYd",
+          "name" : "Micheal James Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:65ZNLEylEMnl357InX9VYd"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7ivWSVVkftfWHBEhgOlUqC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7ivWSVVkftfWHBEhgOlUqC",
+        "id" : "7ivWSVVkftfWHBEhgOlUqC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732154600b8b7d8e290b733802",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022154600b8b7d8e290b733802",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512154600b8b7d8e290b733802",
+          "width" : 64
+        } ],
+        "name" : "Christian Music, Vol. 4",
+        "release_date" : "2013-12-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:7ivWSVVkftfWHBEhgOlUqC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/65ZNLEylEMnl357InX9VYd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/65ZNLEylEMnl357InX9VYd",
+        "id" : "65ZNLEylEMnl357InX9VYd",
+        "name" : "Micheal James Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:65ZNLEylEMnl357InX9VYd"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 90626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA561346970"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3P30l6kl2HnmXWZ37mgqP5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3P30l6kl2HnmXWZ37mgqP5",
+      "id" : "3P30l6kl2HnmXWZ37mgqP5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e0d1609f0414c8e38dc1c5c47e5326d74ae2cf3f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:3P30l6kl2HnmXWZ37mgqP5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1WIsIjEvqA3CauvbuNW9bh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1WIsIjEvqA3CauvbuNW9bh",
+          "id" : "1WIsIjEvqA3CauvbuNW9bh",
+          "name" : "Wakefield Cathedral Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:1WIsIjEvqA3CauvbuNW9bh"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3qutqGQAjFXbVNbhKzp2HT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3qutqGQAjFXbVNbhKzp2HT",
+        "id" : "3qutqGQAjFXbVNbhKzp2HT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b9a97cfdb0065fbbe6b927fa",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b9a97cfdb0065fbbe6b927fa",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b9a97cfdb0065fbbe6b927fa",
+          "width" : 64
+        } ],
+        "name" : "Complete New English Hymnal Vol. 11",
+        "release_date" : "2001-10-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 26,
+        "type" : "album",
+        "uri" : "spotify:album:3qutqGQAjFXbVNbhKzp2HT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1WIsIjEvqA3CauvbuNW9bh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1WIsIjEvqA3CauvbuNW9bh",
+        "id" : "1WIsIjEvqA3CauvbuNW9bh",
+        "name" : "Wakefield Cathedral Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:1WIsIjEvqA3CauvbuNW9bh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 147933,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBXUX0871122"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7c3Ft3i4O4BeLf32IR9wdH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7c3Ft3i4O4BeLf32IR9wdH",
+      "id" : "7c3Ft3i4O4BeLf32IR9wdH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/43b4eb6cb6638f1075f359eb3d856873638c18a8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 22,
+      "type" : "track",
+      "uri" : "spotify:track:7c3Ft3i4O4BeLf32IR9wdH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6ixtJpVnRZnGKIYGhUppx1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6ixtJpVnRZnGKIYGhUppx1",
+          "id" : "6ixtJpVnRZnGKIYGhUppx1",
+          "name" : "Christian Family Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:6ixtJpVnRZnGKIYGhUppx1"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0QXBRlGBAjeapaKOC0sCkK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0QXBRlGBAjeapaKOC0sCkK",
+        "id" : "0QXBRlGBAjeapaKOC0sCkK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b3e5801e8180cd0ea9eefd2d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b3e5801e8180cd0ea9eefd2d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b3e5801e8180cd0ea9eefd2d",
+          "width" : 64
+        } ],
+        "name" : "Christian Music, Vol. 1 (Special Edition)",
+        "release_date" : "2012",
+        "release_date_precision" : "year",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0QXBRlGBAjeapaKOC0sCkK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ixtJpVnRZnGKIYGhUppx1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ixtJpVnRZnGKIYGhUppx1",
+        "id" : "6ixtJpVnRZnGKIYGhUppx1",
+        "name" : "Christian Family Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ixtJpVnRZnGKIYGhUppx1"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 90626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA561346970"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/09G57koX1GBeHzgrrExbVi"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/09G57koX1GBeHzgrrExbVi",
+      "id" : "09G57koX1GBeHzgrrExbVi",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e0d1609f0414c8e38dc1c5c47e5326d74ae2cf3f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:09G57koX1GBeHzgrrExbVi"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0nNI9TSl5EX8jBnkL0Ijm5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0nNI9TSl5EX8jBnkL0Ijm5",
+          "id" : "0nNI9TSl5EX8jBnkL0Ijm5",
+          "name" : "Tom Logan",
+          "type" : "artist",
+          "uri" : "spotify:artist:0nNI9TSl5EX8jBnkL0Ijm5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0jtAVCmaD8BGxiYG7j6Dq6"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0jtAVCmaD8BGxiYG7j6Dq6",
+        "id" : "0jtAVCmaD8BGxiYG7j6Dq6",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e2e6058821ea45f6283a7e5d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e2e6058821ea45f6283a7e5d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e2e6058821ea45f6283a7e5d",
+          "width" : 64
+        } ],
+        "name" : "Christian Music Collection, Vol. 2",
+        "release_date" : "2014-06-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0jtAVCmaD8BGxiYG7j6Dq6"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0nNI9TSl5EX8jBnkL0Ijm5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0nNI9TSl5EX8jBnkL0Ijm5",
+        "id" : "0nNI9TSl5EX8jBnkL0Ijm5",
+        "name" : "Tom Logan",
+        "type" : "artist",
+        "uri" : "spotify:artist:0nNI9TSl5EX8jBnkL0Ijm5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 331801,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMBZ91402750"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0bVFVnfAVfkE22C6zZyf3r"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0bVFVnfAVfkE22C6zZyf3r",
+      "id" : "0bVFVnfAVfkE22C6zZyf3r",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/014035320e242630a9fbf0d8712940876eb37fda?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:0bVFVnfAVfkE22C6zZyf3r"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2TfVGxUZAaFSCJHacVbIam"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2TfVGxUZAaFSCJHacVbIam",
+          "id" : "2TfVGxUZAaFSCJHacVbIam",
+          "name" : "Children Songs Company",
+          "type" : "artist",
+          "uri" : "spotify:artist:2TfVGxUZAaFSCJHacVbIam"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/49anwmFFVkLrM39Qpda1od"
+        },
+        "href" : "https://api.spotify.com/v1/albums/49anwmFFVkLrM39Qpda1od",
+        "id" : "49anwmFFVkLrM39Qpda1od",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731c2ae959e8cac4830bc2d3fe",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021c2ae959e8cac4830bc2d3fe",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511c2ae959e8cac4830bc2d3fe",
+          "width" : 64
+        } ],
+        "name" : "Worship Songs for Kids, Vol. 4",
+        "release_date" : "2014-10-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:49anwmFFVkLrM39Qpda1od"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2TfVGxUZAaFSCJHacVbIam"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2TfVGxUZAaFSCJHacVbIam",
+        "id" : "2TfVGxUZAaFSCJHacVbIam",
+        "name" : "Children Songs Company",
+        "type" : "artist",
+        "uri" : "spotify:artist:2TfVGxUZAaFSCJHacVbIam"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 331801,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMBZ91402750"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/12FjRxQKA2686uGsejraSs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/12FjRxQKA2686uGsejraSs",
+      "id" : "12FjRxQKA2686uGsejraSs",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/014035320e242630a9fbf0d8712940876eb37fda?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:12FjRxQKA2686uGsejraSs"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6Ng0g03Zxdbg0rfjHzRctU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6Ng0g03Zxdbg0rfjHzRctU",
+          "id" : "6Ng0g03Zxdbg0rfjHzRctU",
+          "name" : "Ken Hill",
+          "type" : "artist",
+          "uri" : "spotify:artist:6Ng0g03Zxdbg0rfjHzRctU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0YdQq9hJ6rnIV8kpXNQ8PN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0YdQq9hJ6rnIV8kpXNQ8PN",
+        "id" : "0YdQq9hJ6rnIV8kpXNQ8PN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27374c760cf73ca315ace669fc0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0274c760cf73ca315ace669fc0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485174c760cf73ca315ace669fc0",
+          "width" : 64
+        } ],
+        "name" : "100 Songs of Praise (Special Edition)",
+        "release_date" : "2015-10-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 100,
+        "type" : "album",
+        "uri" : "spotify:album:0YdQq9hJ6rnIV8kpXNQ8PN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Ng0g03Zxdbg0rfjHzRctU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Ng0g03Zxdbg0rfjHzRctU",
+        "id" : "6Ng0g03Zxdbg0rfjHzRctU",
+        "name" : "Ken Hill",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Ng0g03Zxdbg0rfjHzRctU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 227853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMBZ91353943"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3I5yGMoFcx9hAPFthsRt3O"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3I5yGMoFcx9hAPFthsRt3O",
+      "id" : "3I5yGMoFcx9hAPFthsRt3O",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Advent of Our God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a4b21445f7f64d71e7503d53992dc4f4f15833c4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:3I5yGMoFcx9hAPFthsRt3O"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=The+Advent+of+Our+God&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=The+Advent+of+Our+God&type=track&market=US&offset=0&limit=10",
+    "total" : 127
+  }
+}

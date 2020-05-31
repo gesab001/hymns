@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Come%2C+You+Faithful&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2Yl5gyK90qwQ3upyhQikqW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2Yl5gyK90qwQ3upyhQikqW",
+          "id" : "2Yl5gyK90qwQ3upyhQikqW",
+          "name" : "Stoneleigh Worship Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:2Yl5gyK90qwQ3upyhQikqW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4g7V2fl8fbQPHkC69ngFf4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4g7V2fl8fbQPHkC69ngFf4",
+        "id" : "4g7V2fl8fbQPHkC69ngFf4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735ebb9c09ab1e6742ae194baa",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025ebb9c09ab1e6742ae194baa",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515ebb9c09ab1e6742ae194baa",
+          "width" : 64
+        } ],
+        "name" : "Stoneleigh International Bible Week - My First Love",
+        "release_date" : "1996",
+        "release_date_precision" : "year",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:4g7V2fl8fbQPHkC69ngFf4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Yl5gyK90qwQ3upyhQikqW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Yl5gyK90qwQ3upyhQikqW",
+        "id" : "2Yl5gyK90qwQ3upyhQikqW",
+        "name" : "Stoneleigh Worship Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Yl5gyK90qwQ3upyhQikqW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 239400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBBTM9695910"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5XsRek1dO1EW8ucK3MRQUH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5XsRek1dO1EW8ucK3MRQUH",
+      "id" : "5XsRek1dO1EW8ucK3MRQUH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lord I Come Before Your Throne (What A Faithful God)",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/440bdf40d17e66f1b133ed2086e82259bbe192fb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:5XsRek1dO1EW8ucK3MRQUH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6WtWmLPWn1imbcisSfmBvy",
+          "id" : "6WtWmLPWn1imbcisSfmBvy",
+          "name" : "The Ray Conniff Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:6WtWmLPWn1imbcisSfmBvy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/289ewUZBE4EN8MIhsnJVHp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/289ewUZBE4EN8MIhsnJVHp",
+        "id" : "289ewUZBE4EN8MIhsnJVHp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d5ac38b28067ddc1801e03fd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d5ac38b28067ddc1801e03fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d5ac38b28067ddc1801e03fd",
+          "width" : 64
+        } ],
+        "name" : "We Wish You A Merry Christmas",
+        "release_date" : "1962",
+        "release_date_precision" : "year",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:289ewUZBE4EN8MIhsnJVHp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7LfRnzGM0wRSyS5mmAwJbv",
+        "id" : "7LfRnzGM0wRSyS5mmAwJbv",
+        "name" : "Ray Conniff",
+        "type" : "artist",
+        "uri" : "spotify:artist:7LfRnzGM0wRSyS5mmAwJbv"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WtWmLPWn1imbcisSfmBvy",
+        "id" : "6WtWmLPWn1imbcisSfmBvy",
+        "name" : "The Ray Conniff Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WtWmLPWn1imbcisSfmBvy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 381173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM19916459"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3lvE5JXEd5WW8yZc6XyZyJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3lvE5JXEd5WW8yZc6XyZyJ",
+      "id" : "3lvE5JXEd5WW8yZc6XyZyJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Medley: The First Noel / Hark! the Herald Angels Sing / O Come, All Ye Faithful / We Wish You a Merry Christmas",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/06f3b17dca67d29ac0baecd3582f90d6aaab3aec?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:3lvE5JXEd5WW8yZc6XyZyJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3QIGKO6iyF81iWVDmzSzxo"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3QIGKO6iyF81iWVDmzSzxo",
+          "id" : "3QIGKO6iyF81iWVDmzSzxo",
+          "name" : "Robert Critchley",
+          "type" : "artist",
+          "uri" : "spotify:artist:3QIGKO6iyF81iWVDmzSzxo"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/26jXRnExKHL6TBPxEsoqcN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/26jXRnExKHL6TBPxEsoqcN",
+        "id" : "26jXRnExKHL6TBPxEsoqcN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273363cfe333a0fbb42cd596ccb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02363cfe333a0fbb42cd596ccb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851363cfe333a0fbb42cd596ccb",
+          "width" : 64
+        } ],
+        "name" : "A Harvest Of Hymns",
+        "release_date" : "2003",
+        "release_date_precision" : "year",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:26jXRnExKHL6TBPxEsoqcN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3QIGKO6iyF81iWVDmzSzxo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3QIGKO6iyF81iWVDmzSzxo",
+        "id" : "3QIGKO6iyF81iWVDmzSzxo",
+        "name" : "Robert Critchley",
+        "type" : "artist",
+        "uri" : "spotify:artist:3QIGKO6iyF81iWVDmzSzxo"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 247960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBBTM0347606"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/51xnzWMQJO0dYg6tQ3q8yh"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/51xnzWMQJO0dYg6tQ3q8yh",
+      "id" : "51xnzWMQJO0dYg6tQ3q8yh",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lord I Come Before Your Throne Of Grace (What A Faithful God)",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bac1e6154cd7d984c28ef60b7ddb1c36a231a92c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:51xnzWMQJO0dYg6tQ3q8yh"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1jH3GuQCPI87UrS0hcScHr",
+          "id" : "1jH3GuQCPI87UrS0hcScHr",
+          "name" : "Paul Baloche",
+          "type" : "artist",
+          "uri" : "spotify:artist:1jH3GuQCPI87UrS0hcScHr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1RWQJXBpqdrxBv1L66X3Gj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1RWQJXBpqdrxBv1L66X3Gj",
+        "id" : "1RWQJXBpqdrxBv1L66X3Gj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27367bdc22ad8486faf7535769d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0267bdc22ad8486faf7535769d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485167bdc22ad8486faf7535769d",
+          "width" : 64
+        } ],
+        "name" : "Christmas Worship",
+        "release_date" : "2013-10-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1RWQJXBpqdrxBv1L66X3Gj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1jH3GuQCPI87UrS0hcScHr",
+        "id" : "1jH3GuQCPI87UrS0hcScHr",
+        "name" : "Paul Baloche",
+        "type" : "artist",
+        "uri" : "spotify:artist:1jH3GuQCPI87UrS0hcScHr"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 229360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US25L1300537"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6QhGHnEfzZDgA1OAz28X5w"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6QhGHnEfzZDgA1OAz28X5w",
+      "id" : "6QhGHnEfzZDgA1OAz28X5w",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "O Come All Ye Faithful / We Adore You",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3b3dbcc2fa669cf198eb5173ab6b75981b64b557?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6QhGHnEfzZDgA1OAz28X5w"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3HGpQkENCx0Yl4vFTPde3t",
+          "id" : "3HGpQkENCx0Yl4vFTPde3t",
+          "name" : "Robbins Island Music Group",
+          "type" : "artist",
+          "uri" : "spotify:artist:3HGpQkENCx0Yl4vFTPde3t"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1pgdSd0AFGq4knP8FNCfO8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1pgdSd0AFGq4knP8FNCfO8",
+        "id" : "1pgdSd0AFGq4knP8FNCfO8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27377c067b70dbfb8b01267bc85",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0277c067b70dbfb8b01267bc85",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485177c067b70dbfb8b01267bc85",
+          "width" : 64
+        } ],
+        "name" : "Music for Dogs 3 Album Set While You Are Gone: Music Dogs Love / Music Pets Love / Holiday Pet Music",
+        "release_date" : "2014-11-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 37,
+        "type" : "album",
+        "uri" : "spotify:album:1pgdSd0AFGq4knP8FNCfO8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3HGpQkENCx0Yl4vFTPde3t",
+        "id" : "3HGpQkENCx0Yl4vFTPde3t",
+        "name" : "Robbins Island Music Group",
+        "type" : "artist",
+        "uri" : "spotify:artist:3HGpQkENCx0Yl4vFTPde3t"
+      } ],
+      "disc_number" : 3,
+      "duration_ms" : 474000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91483894"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0k40CMJ3KXxodPdPZ5q3Uk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0k40CMJ3KXxodPdPZ5q3Uk",
+      "id" : "0k40CMJ3KXxodPdPZ5q3Uk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Holiday Feast (Come All Ye Faithful)",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/375a47db839a6977cbb44e70c75a1f1f8ccb6e25?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:0k40CMJ3KXxodPdPZ5q3Uk"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+          "id" : "7mlge4peaoNgzTsY6M32RB",
+          "name" : "Marianne Faithfull",
+          "type" : "artist",
+          "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3poqeypm6c69muWwccyoz8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3poqeypm6c69muWwccyoz8",
+        "id" : "3poqeypm6c69muWwccyoz8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c143ce1082f8c0c6911d4629",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c143ce1082f8c0c6911d4629",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c143ce1082f8c0c6911d4629",
+          "width" : 64
+        } ],
+        "name" : "Come And Stay With Me: The UK 45s 1964-1969",
+        "release_date" : "2018-11-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3poqeypm6c69muWwccyoz8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+        "id" : "7mlge4peaoNgzTsY6M32RB",
+        "name" : "Marianne Faithfull",
+        "type" : "artist",
+        "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 183413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA171850130"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0kpwdnU1XDGLyY8S19WXZS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0kpwdnU1XDGLyY8S19WXZS",
+      "id" : "0kpwdnU1XDGLyY8S19WXZS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Oh Look Around You",
+      "popularity" : 4,
+      "preview_url" : null,
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:0kpwdnU1XDGLyY8S19WXZS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+          "id" : "7mlge4peaoNgzTsY6M32RB",
+          "name" : "Marianne Faithfull",
+          "type" : "artist",
+          "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3poqeypm6c69muWwccyoz8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3poqeypm6c69muWwccyoz8",
+        "id" : "3poqeypm6c69muWwccyoz8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c143ce1082f8c0c6911d4629",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c143ce1082f8c0c6911d4629",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c143ce1082f8c0c6911d4629",
+          "width" : 64
+        } ],
+        "name" : "Come And Stay With Me: The UK 45s 1964-1969",
+        "release_date" : "2018-11-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3poqeypm6c69muWwccyoz8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+        "id" : "7mlge4peaoNgzTsY6M32RB",
+        "name" : "Marianne Faithfull",
+        "type" : "artist",
+        "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 173560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA171850170"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2dLR1xrecMo2mS1grxonsR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2dLR1xrecMo2mS1grxonsR",
+      "id" : "2dLR1xrecMo2mS1grxonsR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I'd Like To Dial Your Number",
+      "popularity" : 4,
+      "preview_url" : null,
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:2dLR1xrecMo2mS1grxonsR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+          "id" : "7mlge4peaoNgzTsY6M32RB",
+          "name" : "Marianne Faithfull",
+          "type" : "artist",
+          "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3poqeypm6c69muWwccyoz8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3poqeypm6c69muWwccyoz8",
+        "id" : "3poqeypm6c69muWwccyoz8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c143ce1082f8c0c6911d4629",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c143ce1082f8c0c6911d4629",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c143ce1082f8c0c6911d4629",
+          "width" : 64
+        } ],
+        "name" : "Come And Stay With Me: The UK 45s 1964-1969",
+        "release_date" : "2018-11-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3poqeypm6c69muWwccyoz8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+        "id" : "7mlge4peaoNgzTsY6M32RB",
+        "name" : "Marianne Faithfull",
+        "type" : "artist",
+        "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA171850180"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6ElJG1d78md2wCtMwOY7az"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6ElJG1d78md2wCtMwOY7az",
+      "id" : "6ElJG1d78md2wCtMwOY7az",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Is This What I Get For Loving You?",
+      "popularity" : 5,
+      "preview_url" : null,
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:6ElJG1d78md2wCtMwOY7az"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/41N4x8ZUxk7JkHORj8M3bd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/41N4x8ZUxk7JkHORj8M3bd",
+          "id" : "41N4x8ZUxk7JkHORj8M3bd",
+          "name" : "Concordia Publishing House",
+          "type" : "artist",
+          "uri" : "spotify:artist:41N4x8ZUxk7JkHORj8M3bd"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5hwcJebYIlFjD6nt6yhcJ6"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5hwcJebYIlFjD6nt6yhcJ6",
+        "id" : "5hwcJebYIlFjD6nt6yhcJ6",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27328903c223d34944ac7109318",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0228903c223d34944ac7109318",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485128903c223d34944ac7109318",
+          "width" : 64
+        } ],
+        "name" : "Hymns for All Saints: Lent, Easter, Pentecost",
+        "release_date" : "2006",
+        "release_date_precision" : "year",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:5hwcJebYIlFjD6nt6yhcJ6"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/41N4x8ZUxk7JkHORj8M3bd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/41N4x8ZUxk7JkHORj8M3bd",
+        "id" : "41N4x8ZUxk7JkHORj8M3bd",
+        "name" : "Concordia Publishing House",
+        "type" : "artist",
+        "uri" : "spotify:artist:41N4x8ZUxk7JkHORj8M3bd"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 168400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm80856123"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0VRzBYOpPx84aEuLQ5fkl6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0VRzBYOpPx84aEuLQ5fkl6",
+      "id" : "0VRzBYOpPx84aEuLQ5fkl6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, You Faithful, Raise the Strain",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8ae3bc4c3d24e4e1d378f1b445a44c471392caf3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0VRzBYOpPx84aEuLQ5fkl6"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/16jcT0d1rKkQS39quWnA9v"
+          },
+          "href" : "https://api.spotify.com/v1/artists/16jcT0d1rKkQS39quWnA9v",
+          "id" : "16jcT0d1rKkQS39quWnA9v",
+          "name" : "Higher Things",
+          "type" : "artist",
+          "uri" : "spotify:artist:16jcT0d1rKkQS39quWnA9v"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5kX6MW7qiZAtFW5CJWB6gv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5kX6MW7qiZAtFW5CJWB6gv",
+          "id" : "5kX6MW7qiZAtFW5CJWB6gv",
+          "name" : "Chris Loemker",
+          "type" : "artist",
+          "uri" : "spotify:artist:5kX6MW7qiZAtFW5CJWB6gv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1cCMV4TykLDr6taFx0WO4Z"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1cCMV4TykLDr6taFx0WO4Z",
+        "id" : "1cCMV4TykLDr6taFx0WO4Z",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a098bfd0ae6604b50fe063be",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a098bfd0ae6604b50fe063be",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a098bfd0ae6604b50fe063be",
+          "width" : 64
+        } ],
+        "name" : "Glory Be to Jesus: Hymns of Lent, Holy Week, & Easter",
+        "release_date" : "2018-07-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:1cCMV4TykLDr6taFx0WO4Z"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16jcT0d1rKkQS39quWnA9v"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16jcT0d1rKkQS39quWnA9v",
+        "id" : "16jcT0d1rKkQS39quWnA9v",
+        "name" : "Higher Things",
+        "type" : "artist",
+        "uri" : "spotify:artist:16jcT0d1rKkQS39quWnA9v"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5kX6MW7qiZAtFW5CJWB6gv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5kX6MW7qiZAtFW5CJWB6gv",
+        "id" : "5kX6MW7qiZAtFW5CJWB6gv",
+        "name" : "Chris Loemker",
+        "type" : "artist",
+        "uri" : "spotify:artist:5kX6MW7qiZAtFW5CJWB6gv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 250426,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMAAK1866225"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2FLPfT4HimbwGFhw4zcEfC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2FLPfT4HimbwGFhw4zcEfC",
+      "id" : "2FLPfT4HimbwGFhw4zcEfC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, You Faithful, Raise the Strain",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/69d52dae4bc2466bb945b648e37da3c6df776495?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:2FLPfT4HimbwGFhw4zcEfC"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Come%2C+You+Faithful&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Come%2C+You+Faithful&type=track&market=US&offset=0&limit=10",
+    "total" : 444
+  }
+}

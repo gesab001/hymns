@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Blessed+Assurance%2C+Jesus+is+Mine&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Y2wYocZhjSCeyQIOsSDjr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Y2wYocZhjSCeyQIOsSDjr",
+          "id" : "1Y2wYocZhjSCeyQIOsSDjr",
+          "name" : "Dave Cleveland",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Y2wYocZhjSCeyQIOsSDjr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0dPOxEurLZZS5YOI0bVNlU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0dPOxEurLZZS5YOI0bVNlU",
+        "id" : "0dPOxEurLZZS5YOI0bVNlU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734cba101c79c4aed4380d43eb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024cba101c79c4aed4380d43eb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514cba101c79c4aed4380d43eb",
+          "width" : 64
+        } ],
+        "name" : "Blessed Assurance",
+        "release_date" : "2015-10-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0dPOxEurLZZS5YOI0bVNlU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Y2wYocZhjSCeyQIOsSDjr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Y2wYocZhjSCeyQIOsSDjr",
+        "id" : "1Y2wYocZhjSCeyQIOsSDjr",
+        "name" : "Dave Cleveland",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Y2wYocZhjSCeyQIOsSDjr"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 300293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USACX1501174"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7vEHmSjXGV6t6j7ZnVPnqH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7vEHmSjXGV6t6j7ZnVPnqH",
+      "id" : "7vEHmSjXGV6t6j7ZnVPnqH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance, Jesus Is Mine",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b5babaecb3c6b4a6dd90e816d1f72f36be07d38b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:7vEHmSjXGV6t6j7ZnVPnqH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/09TOgappqOohpamkrpP78c"
+          },
+          "href" : "https://api.spotify.com/v1/artists/09TOgappqOohpamkrpP78c",
+          "id" : "09TOgappqOohpamkrpP78c",
+          "name" : "Fountainview Academy Orchestra & Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:09TOgappqOohpamkrpP78c"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0tgdXkG40UHl881VY6DpW2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0tgdXkG40UHl881VY6DpW2",
+        "id" : "0tgdXkG40UHl881VY6DpW2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736eecda8d1aa4a17f0bd0e5cb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026eecda8d1aa4a17f0bd0e5cb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516eecda8d1aa4a17f0bd0e5cb",
+          "width" : 64
+        } ],
+        "name" : "The Great Controversy",
+        "release_date" : "2014",
+        "release_date_precision" : "year",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:0tgdXkG40UHl881VY6DpW2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09TOgappqOohpamkrpP78c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09TOgappqOohpamkrpP78c",
+        "id" : "09TOgappqOohpamkrpP78c",
+        "name" : "Fountainview Academy Orchestra & Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:09TOgappqOohpamkrpP78c"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174997,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE1900711"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6zJB2oaFrtqdX1Qo6PAVO9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6zJB2oaFrtqdX1Qo6PAVO9",
+      "id" : "6zJB2oaFrtqdX1Qo6PAVO9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance, Jesus Is Mine!",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e951f79587548ebb036e18c716fc22cba0194290?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:6zJB2oaFrtqdX1Qo6PAVO9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ZwubZbVtEr49EpmJeUMVn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ZwubZbVtEr49EpmJeUMVn",
+          "id" : "5ZwubZbVtEr49EpmJeUMVn",
+          "name" : "Littlepiano",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ZwubZbVtEr49EpmJeUMVn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7vJYyKBdvP3l3sFlcJLgFl"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7vJYyKBdvP3l3sFlcJLgFl",
+        "id" : "7vJYyKBdvP3l3sFlcJLgFl",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27326f6d17143b3d5387f78cadf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0226f6d17143b3d5387f78cadf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485126f6d17143b3d5387f78cadf",
+          "width" : 64
+        } ],
+        "name" : "My Little Jazz Piano Hymn 4 (내 작은 재즈 피아노 찬송가 4)",
+        "release_date" : "2014-07-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:7vJYyKBdvP3l3sFlcJLgFl"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ZwubZbVtEr49EpmJeUMVn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ZwubZbVtEr49EpmJeUMVn",
+        "id" : "5ZwubZbVtEr49EpmJeUMVn",
+        "name" : "Littlepiano",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ZwubZbVtEr49EpmJeUMVn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 212196,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRB361433067"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1tcY3QtOgxMpsh03whkjNl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1tcY3QtOgxMpsh03whkjNl",
+      "id" : "1tcY3QtOgxMpsh03whkjNl",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance, Jesus Is Mine! (예수를 나의 구주삼고)",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3faea834fbc6dc32f24158d3aea75049a720c8e2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1tcY3QtOgxMpsh03whkjNl"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4s244LtqE98VzeDGhSoUvc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4s244LtqE98VzeDGhSoUvc",
+          "id" : "4s244LtqE98VzeDGhSoUvc",
+          "name" : "Herbster Evangelistic Team",
+          "type" : "artist",
+          "uri" : "spotify:artist:4s244LtqE98VzeDGhSoUvc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0zyPL2DCsxvaT4XyaLmsu8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0zyPL2DCsxvaT4XyaLmsu8",
+        "id" : "0zyPL2DCsxvaT4XyaLmsu8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b916d5f6fe24b87a28df9861",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b916d5f6fe24b87a28df9861",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b916d5f6fe24b87a28df9861",
+          "width" : 64
+        } ],
+        "name" : "You Are Worthy",
+        "release_date" : "2013-02-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:0zyPL2DCsxvaT4XyaLmsu8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4s244LtqE98VzeDGhSoUvc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4s244LtqE98VzeDGhSoUvc",
+        "id" : "4s244LtqE98VzeDGhSoUvc",
+        "name" : "Herbster Evangelistic Team",
+        "type" : "artist",
+        "uri" : "spotify:artist:4s244LtqE98VzeDGhSoUvc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 181946,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCABM1313975"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/76KK0YCqfbPjewMElmkcQm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/76KK0YCqfbPjewMElmkcQm",
+      "id" : "76KK0YCqfbPjewMElmkcQm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance, Jesus Is Mine",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a3362ef58573e5c1bd1ded0b6e3651b25360ff7d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:76KK0YCqfbPjewMElmkcQm"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/256hBSJmjdCUS3ZQLhlbjM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/256hBSJmjdCUS3ZQLhlbjM",
+          "id" : "256hBSJmjdCUS3ZQLhlbjM",
+          "name" : "Morgan State University Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:256hBSJmjdCUS3ZQLhlbjM"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0PpvyAA7TrUCaHjsy3fxgD"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0PpvyAA7TrUCaHjsy3fxgD",
+          "id" : "0PpvyAA7TrUCaHjsy3fxgD",
+          "name" : "James Abbington",
+          "type" : "artist",
+          "uri" : "spotify:artist:0PpvyAA7TrUCaHjsy3fxgD"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4R3PquRzkaajDUmcARP4QH"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4R3PquRzkaajDUmcARP4QH",
+        "id" : "4R3PquRzkaajDUmcARP4QH",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731f14136007230cd385dab3fc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021f14136007230cd385dab3fc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511f14136007230cd385dab3fc",
+          "width" : 64
+        } ],
+        "name" : "42 Treasured Favorites from the African American Heritage Hymnal",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 42,
+        "type" : "album",
+        "uri" : "spotify:album:4R3PquRzkaajDUmcARP4QH"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/256hBSJmjdCUS3ZQLhlbjM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/256hBSJmjdCUS3ZQLhlbjM",
+        "id" : "256hBSJmjdCUS3ZQLhlbjM",
+        "name" : "Morgan State University Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:256hBSJmjdCUS3ZQLhlbjM"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 225413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US7851010588"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5yiCZHGNdO7PlciFF7s5ZN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5yiCZHGNdO7PlciFF7s5ZN",
+      "id" : "5yiCZHGNdO7PlciFF7s5ZN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance, Jesus Is Mine",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2fcfb06e218c69dfb359651fe6d43a3082ec88c0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:5yiCZHGNdO7PlciFF7s5ZN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1IjCQjjExc4HP0byEhEdR8"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1IjCQjjExc4HP0byEhEdR8",
+          "id" : "1IjCQjjExc4HP0byEhEdR8",
+          "name" : "Living Stream Ministry",
+          "type" : "artist",
+          "uri" : "spotify:artist:1IjCQjjExc4HP0byEhEdR8"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3EstOXm1vieAfyBVDB8u44"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3EstOXm1vieAfyBVDB8u44",
+        "id" : "3EstOXm1vieAfyBVDB8u44",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cc984aae1e1d2eda62033b12",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cc984aae1e1d2eda62033b12",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cc984aae1e1d2eda62033b12",
+          "width" : 64
+        } ],
+        "name" : "The Name of Jesus Is Our Stand",
+        "release_date" : "2014-10-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:3EstOXm1vieAfyBVDB8u44"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1IjCQjjExc4HP0byEhEdR8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1IjCQjjExc4HP0byEhEdR8",
+        "id" : "1IjCQjjExc4HP0byEhEdR8",
+        "name" : "Living Stream Ministry",
+        "type" : "artist",
+        "uri" : "spotify:artist:1IjCQjjExc4HP0byEhEdR8"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 175866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMJ8P1400013"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0GeGulaIgPbXxVKAApQTxc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0GeGulaIgPbXxVKAApQTxc",
+      "id" : "0GeGulaIgPbXxVKAApQTxc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance, Jesus Is Mine",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1e87a6488a1399334fe16bdb9203cbb108b09630?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:0GeGulaIgPbXxVKAApQTxc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3JKSiFPFpKSntu64OwWnIw",
+          "id" : "3JKSiFPFpKSntu64OwWnIw",
+          "name" : "Lifeway Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:3JKSiFPFpKSntu64OwWnIw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2Bs99KhmATKmz6CwqtLnNp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2Bs99KhmATKmz6CwqtLnNp",
+        "id" : "2Bs99KhmATKmz6CwqtLnNp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27350fa4e9f40467353e082651f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0250fa4e9f40467353e082651f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485150fa4e9f40467353e082651f",
+          "width" : 64
+        } ],
+        "name" : "Top 100 Hymns",
+        "release_date" : "2018-11-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 100,
+        "type" : "album",
+        "uri" : "spotify:album:2Bs99KhmATKmz6CwqtLnNp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3JKSiFPFpKSntu64OwWnIw",
+        "id" : "3JKSiFPFpKSntu64OwWnIw",
+        "name" : "Lifeway Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:3JKSiFPFpKSntu64OwWnIw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 161776,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USBWZ0800726"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4ixUS9hQCWCnx7yWracvxH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4ixUS9hQCWCnx7yWracvxH",
+      "id" : "4ixUS9hQCWCnx7yWracvxH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance, Jesus Is Mine",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/88e5220ebab88e8ad9913e57a7746ec4a4c197fe?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:4ixUS9hQCWCnx7yWracvxH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zkmOYaXiNHBKxKnnd1rvl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zkmOYaXiNHBKxKnnd1rvl",
+          "id" : "5zkmOYaXiNHBKxKnnd1rvl",
+          "name" : "John Keys",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zkmOYaXiNHBKxKnnd1rvl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0vyIoQmONG6HGbfXTpn8jg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0vyIoQmONG6HGbfXTpn8jg",
+        "id" : "0vyIoQmONG6HGbfXTpn8jg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733860450dc2f00c08fbe15504",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023860450dc2f00c08fbe15504",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513860450dc2f00c08fbe15504",
+          "width" : 64
+        } ],
+        "name" : "Ultimate Hymn Organ Accompaniments, Vol. 33",
+        "release_date" : "2014-05-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:0vyIoQmONG6HGbfXTpn8jg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zkmOYaXiNHBKxKnnd1rvl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zkmOYaXiNHBKxKnnd1rvl",
+        "id" : "5zkmOYaXiNHBKxKnnd1rvl",
+        "name" : "John Keys",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zkmOYaXiNHBKxKnnd1rvl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 150988,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBKPL1410294"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0CttC2lhjlGWlHAmJCE3pr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0CttC2lhjlGWlHAmJCE3pr",
+      "id" : "0CttC2lhjlGWlHAmJCE3pr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance Jesus Is Mine (Blessed Assurance) - Instrumental Version",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2268da0f484e7d64092ce8aafeace1622ee90ae5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:0CttC2lhjlGWlHAmJCE3pr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6dYnFAcU2A5wM90Rs2B4de"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6dYnFAcU2A5wM90Rs2B4de",
+          "id" : "6dYnFAcU2A5wM90Rs2B4de",
+          "name" : "Soma Star Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:6dYnFAcU2A5wM90Rs2B4de"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6R6Md9lE6Tlt4NNY2TfROi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6R6Md9lE6Tlt4NNY2TfROi",
+        "id" : "6R6Md9lE6Tlt4NNY2TfROi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273328c24eb4eff707e892b32a6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02328c24eb4eff707e892b32a6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851328c24eb4eff707e892b32a6",
+          "width" : 64
+        } ],
+        "name" : "공부할 때 듣는 차분한 연주 찬양",
+        "release_date" : "2019-01-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 27,
+        "type" : "album",
+        "uri" : "spotify:album:6R6Md9lE6Tlt4NNY2TfROi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6dYnFAcU2A5wM90Rs2B4de"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6dYnFAcU2A5wM90Rs2B4de",
+        "id" : "6dYnFAcU2A5wM90Rs2B4de",
+        "name" : "Soma Star Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6dYnFAcU2A5wM90Rs2B4de"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 145240,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZEKE1845432"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0IluSBdfH5aQHdquXYSgGS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0IluSBdfH5aQHdquXYSgGS",
+      "id" : "0IluSBdfH5aQHdquXYSgGS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance, Jesus Is Mine",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/85d682059c38bd48b503a9e80ce9b2390d143012?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:0IluSBdfH5aQHdquXYSgGS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3JKSiFPFpKSntu64OwWnIw",
+          "id" : "3JKSiFPFpKSntu64OwWnIw",
+          "name" : "Lifeway Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:3JKSiFPFpKSntu64OwWnIw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1d9BnSvCa4iT2DtudKMGaD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1d9BnSvCa4iT2DtudKMGaD",
+        "id" : "1d9BnSvCa4iT2DtudKMGaD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ecd90bba0ec8c9d031bc872a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ecd90bba0ec8c9d031bc872a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ecd90bba0ec8c9d031bc872a",
+          "width" : 64
+        } ],
+        "name" : "Greatest Hymns Vol. 2",
+        "release_date" : "2019-07-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1d9BnSvCa4iT2DtudKMGaD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3JKSiFPFpKSntu64OwWnIw",
+        "id" : "3JKSiFPFpKSntu64OwWnIw",
+        "name" : "Lifeway Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:3JKSiFPFpKSntu64OwWnIw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 161776,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USBWZ0800726"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0vjcl5E6XD3UJnSsGnoBtU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0vjcl5E6XD3UJnSsGnoBtU",
+      "id" : "0vjcl5E6XD3UJnSsGnoBtU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Blessed Assurance, Jesus Is Mine",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/88e5220ebab88e8ad9913e57a7746ec4a4c197fe?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0vjcl5E6XD3UJnSsGnoBtU"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Blessed+Assurance%2C+Jesus+is+Mine&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Blessed+Assurance%2C+Jesus+is+Mine&type=track&market=US&offset=0&limit=10",
+    "total" : 79
+  }
+}

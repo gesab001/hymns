@@ -1,0 +1,735 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=In+Heavenly+Love+Abiding&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1iEr9JmktmIMlaDLcSZFAL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1iEr9JmktmIMlaDLcSZFAL",
+          "id" : "1iEr9JmktmIMlaDLcSZFAL",
+          "name" : "The London Fox Players",
+          "type" : "artist",
+          "uri" : "spotify:artist:1iEr9JmktmIMlaDLcSZFAL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0j9SD1P3NcUsB1tb6hZ3GI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0j9SD1P3NcUsB1tb6hZ3GI",
+        "id" : "0j9SD1P3NcUsB1tb6hZ3GI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d521004e0fa0c1830ea3df9f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d521004e0fa0c1830ea3df9f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d521004e0fa0c1830ea3df9f",
+          "width" : 64
+        } ],
+        "name" : "Hymn styles - Saxophone",
+        "release_date" : "2000",
+        "release_date_precision" : "year",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0j9SD1P3NcUsB1tb6hZ3GI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1iEr9JmktmIMlaDLcSZFAL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1iEr9JmktmIMlaDLcSZFAL",
+        "id" : "1iEr9JmktmIMlaDLcSZFAL",
+        "name" : "The London Fox Players",
+        "type" : "artist",
+        "uri" : "spotify:artist:1iEr9JmktmIMlaDLcSZFAL"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 187453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCEU0018107"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4AtxkvI8S9qIvrqVMoJMCC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4AtxkvI8S9qIvrqVMoJMCC",
+      "id" : "4AtxkvI8S9qIvrqVMoJMCC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Heavenly Love Abiding",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/926fa0584a74ae890028134621b4fcca57a795cb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4AtxkvI8S9qIvrqVMoJMCC"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0uGPdNG43XoazZZmVPYum3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0uGPdNG43XoazZZmVPYum3",
+          "id" : "0uGPdNG43XoazZZmVPYum3",
+          "name" : "Josh Henn",
+          "type" : "artist",
+          "uri" : "spotify:artist:0uGPdNG43XoazZZmVPYum3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4nka9Q5Tx7QpevwR6DmgU5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4nka9Q5Tx7QpevwR6DmgU5",
+        "id" : "4nka9Q5Tx7QpevwR6DmgU5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738c9e864d14c03da01ea31f67",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028c9e864d14c03da01ea31f67",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518c9e864d14c03da01ea31f67",
+          "width" : 64
+        } ],
+        "name" : "Harmony of Prayer",
+        "release_date" : "2018-07-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:4nka9Q5Tx7QpevwR6DmgU5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0uGPdNG43XoazZZmVPYum3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0uGPdNG43XoazZZmVPYum3",
+        "id" : "0uGPdNG43XoazZZmVPYum3",
+        "name" : "Josh Henn",
+        "type" : "artist",
+        "uri" : "spotify:artist:0uGPdNG43XoazZZmVPYum3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 133773,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZES72013699"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4RDEwF0DYuTWAdnJs7nEOi"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4RDEwF0DYuTWAdnJs7nEOi",
+      "id" : "4RDEwF0DYuTWAdnJs7nEOi",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Heavenly Love Abiding",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/38dc4e3bf4811a2b5552ccb710233ea957b0a0b1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:4RDEwF0DYuTWAdnJs7nEOi"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5oTQhQkSBzwWKoJpZ9tZrB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5oTQhQkSBzwWKoJpZ9tZrB",
+          "id" : "5oTQhQkSBzwWKoJpZ9tZrB",
+          "name" : "Seoul Chamber Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:5oTQhQkSBzwWKoJpZ9tZrB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2vEVKHPgX1U8K5Xw74jCFz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2vEVKHPgX1U8K5Xw74jCFz",
+        "id" : "2vEVKHPgX1U8K5Xw74jCFz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27326dad269c05f6e71217d2b8b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0226dad269c05f6e71217d2b8b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485126dad269c05f6e71217d2b8b",
+          "width" : 64
+        } ],
+        "name" : "Jubilate Vol.32 In His Peaceable Kingdom",
+        "release_date" : "2016-08-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:2vEVKHPgX1U8K5Xw74jCFz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5oTQhQkSBzwWKoJpZ9tZrB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5oTQhQkSBzwWKoJpZ9tZrB",
+        "id" : "5oTQhQkSBzwWKoJpZ9tZrB",
+        "name" : "Seoul Chamber Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:5oTQhQkSBzwWKoJpZ9tZrB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 277473,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRNAR1602673"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7mR8B9k5LIblsQRRMx3yy9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7mR8B9k5LIblsQRRMx3yy9",
+      "id" : "7mR8B9k5LIblsQRRMx3yy9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Heavenly Love Abiding",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b8f8f3a19f5d9df50295e8a7ef53c28ee0601117?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:7mR8B9k5LIblsQRRMx3yy9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3x8JKYweUaLjF441vguZ2D"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3x8JKYweUaLjF441vguZ2D",
+          "id" : "3x8JKYweUaLjF441vguZ2D",
+          "name" : "Altar of Praise Chorale",
+          "type" : "artist",
+          "uri" : "spotify:artist:3x8JKYweUaLjF441vguZ2D"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0EB4qw1FbirWcjyIdBYyOL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0EB4qw1FbirWcjyIdBYyOL",
+        "id" : "0EB4qw1FbirWcjyIdBYyOL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273aebb2870752f16c86fb141f8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02aebb2870752f16c86fb141f8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851aebb2870752f16c86fb141f8",
+          "width" : 64
+        } ],
+        "name" : "The Lord Is in His Holy Temple",
+        "release_date" : "2020-05-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:0EB4qw1FbirWcjyIdBYyOL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3x8JKYweUaLjF441vguZ2D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3x8JKYweUaLjF441vguZ2D",
+        "id" : "3x8JKYweUaLjF441vguZ2D",
+        "name" : "Altar of Praise Chorale",
+        "type" : "artist",
+        "uri" : "spotify:artist:3x8JKYweUaLjF441vguZ2D"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 145600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm22005766"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2kHp1ZRHVibfCX6XgQB5PZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2kHp1ZRHVibfCX6XgQB5PZ",
+      "id" : "2kHp1ZRHVibfCX6XgQB5PZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Heavenly Love Abiding",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/36b78e0ad7ad64e014217961a4d393a3ebb19f35?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:2kHp1ZRHVibfCX6XgQB5PZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2NxATrgtfAcBWW3qUXcSx3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2NxATrgtfAcBWW3qUXcSx3",
+          "id" : "2NxATrgtfAcBWW3qUXcSx3",
+          "name" : "Peter B. Allen",
+          "type" : "artist",
+          "uri" : "spotify:artist:2NxATrgtfAcBWW3qUXcSx3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0uN045UhGS1RwWItRsVKi3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0uN045UhGS1RwWItRsVKi3",
+        "id" : "0uN045UhGS1RwWItRsVKi3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bfcca60502ec992d37696ca0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bfcca60502ec992d37696ca0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bfcca60502ec992d37696ca0",
+          "width" : 64
+        } ],
+        "name" : "Onward",
+        "release_date" : "2006-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:0uN045UhGS1RwWItRsVKi3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2NxATrgtfAcBWW3qUXcSx3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2NxATrgtfAcBWW3qUXcSx3",
+        "id" : "2NxATrgtfAcBWW3qUXcSx3",
+        "name" : "Peter B. Allen",
+        "type" : "artist",
+        "uri" : "spotify:artist:2NxATrgtfAcBWW3qUXcSx3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 543453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q0827356"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3aSTJoDKa2B3b5R4pD5U7K"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3aSTJoDKa2B3b5R4pD5U7K",
+      "id" : "3aSTJoDKa2B3b5R4pD5U7K",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Heavenly Love Abiding",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8f7ca4fb1b06b3b125895713ee03a048e664ce21?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:3aSTJoDKa2B3b5R4pD5U7K"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0xtGTegKCrCcuakhs6XLWK"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0xtGTegKCrCcuakhs6XLWK",
+          "id" : "0xtGTegKCrCcuakhs6XLWK",
+          "name" : "The Jubilate Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:0xtGTegKCrCcuakhs6XLWK"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6dLUmNj2GnqylFZmz5kh2S"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6dLUmNj2GnqylFZmz5kh2S",
+        "id" : "6dLUmNj2GnqylFZmz5kh2S",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739ed49434678062e5c324c1f9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029ed49434678062e5c324c1f9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519ed49434678062e5c324c1f9",
+          "width" : 64
+        } ],
+        "name" : "An Hour Of Hymns Of Joy",
+        "release_date" : "2017-02-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 38,
+        "type" : "album",
+        "uri" : "spotify:album:6dLUmNj2GnqylFZmz5kh2S"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0xtGTegKCrCcuakhs6XLWK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0xtGTegKCrCcuakhs6XLWK",
+        "id" : "0xtGTegKCrCcuakhs6XLWK",
+        "name" : "The Jubilate Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:0xtGTegKCrCcuakhs6XLWK"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 112133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "AUV401439360"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4j04SDL28gvZLJZiZJX8UB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4j04SDL28gvZLJZiZJX8UB",
+      "id" : "4j04SDL28gvZLJZiZJX8UB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Heavenly Love Abiding",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8e95b5ec8e770e1ee814e2a0de6fae79a94d9643?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 31,
+      "type" : "track",
+      "uri" : "spotify:track:4j04SDL28gvZLJZiZJX8UB"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1YiMNJlKUa6MH8QQJi7Vb7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1YiMNJlKUa6MH8QQJi7Vb7",
+          "id" : "1YiMNJlKUa6MH8QQJi7Vb7",
+          "name" : "Westminster Central Hall Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:1YiMNJlKUa6MH8QQJi7Vb7"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/19Yu8yYXAxpmdP6QNW2piS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/19Yu8yYXAxpmdP6QNW2piS",
+          "id" : "19Yu8yYXAxpmdP6QNW2piS",
+          "name" : "The Epworth Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:19Yu8yYXAxpmdP6QNW2piS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4VDYWk5QsJOvM53t5xfiiv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4VDYWk5QsJOvM53t5xfiiv",
+        "id" : "4VDYWk5QsJOvM53t5xfiiv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273acd5c161e361478e36ae572a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02acd5c161e361478e36ae572a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851acd5c161e361478e36ae572a",
+          "width" : 64
+        } ],
+        "name" : "Let Jesus Christ Be Praised: 21 Hymns Methodists Love to Sing",
+        "release_date" : "2011-05-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:4VDYWk5QsJOvM53t5xfiiv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5LKTbxNjJKLq15IsWm47At"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5LKTbxNjJKLq15IsWm47At",
+        "id" : "5LKTbxNjJKLq15IsWm47At",
+        "name" : "Anna Waring",
+        "type" : "artist",
+        "uri" : "spotify:artist:5LKTbxNjJKLq15IsWm47At"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3He2sVFbFl5wN5bFIKLhCJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3He2sVFbFl5wN5bFIKLhCJ",
+        "id" : "3He2sVFbFl5wN5bFIKLhCJ",
+        "name" : "Arthur Mann",
+        "type" : "artist",
+        "uri" : "spotify:artist:3He2sVFbFl5wN5bFIKLhCJ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YiMNJlKUa6MH8QQJi7Vb7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YiMNJlKUa6MH8QQJi7Vb7",
+        "id" : "1YiMNJlKUa6MH8QQJi7Vb7",
+        "name" : "Westminster Central Hall Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YiMNJlKUa6MH8QQJi7Vb7"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/19Yu8yYXAxpmdP6QNW2piS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/19Yu8yYXAxpmdP6QNW2piS",
+        "id" : "19Yu8yYXAxpmdP6QNW2piS",
+        "name" : "The Epworth Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:19Yu8yYXAxpmdP6QNW2piS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 193000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USX761108913"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4p6hqwkGayV6AQ8dog0ijS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4p6hqwkGayV6AQ8dog0ijS",
+      "id" : "4p6hqwkGayV6AQ8dog0ijS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In heavenly love abiding",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/88fcf87851fe08760941b3632b6eda4fda2fb08e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:4p6hqwkGayV6AQ8dog0ijS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zCKr405jB5b6QI1IfFnf2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zCKr405jB5b6QI1IfFnf2",
+          "id" : "6zCKr405jB5b6QI1IfFnf2",
+          "name" : "Dallas Christian Adult Concert Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zCKr405jB5b6QI1IfFnf2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0ijYZrUbRJRYqubBnlxuzc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0ijYZrUbRJRYqubBnlxuzc",
+        "id" : "0ijYZrUbRJRYqubBnlxuzc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fafd165479322c008df2e860",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fafd165479322c008df2e860",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fafd165479322c008df2e860",
+          "width" : 64
+        } ],
+        "name" : "Does Jesus Care?",
+        "release_date" : "2008-03-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:0ijYZrUbRJRYqubBnlxuzc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zCKr405jB5b6QI1IfFnf2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zCKr405jB5b6QI1IfFnf2",
+        "id" : "6zCKr405jB5b6QI1IfFnf2",
+        "name" : "Dallas Christian Adult Concert Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zCKr405jB5b6QI1IfFnf2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 156800,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMZA0810503"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5spiHjYcjjcAbKR0C0mlRa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5spiHjYcjjcAbKR0C0mlRa",
+      "id" : "5spiHjYcjjcAbKR0C0mlRa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Heavenly Love Abiding",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2e29b47c158b0d29816b0c544fbb6bf069c594de?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5spiHjYcjjcAbKR0C0mlRa"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5qUbdxajFsSU9nubU9V8SE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5qUbdxajFsSU9nubU9V8SE",
+          "id" : "5qUbdxajFsSU9nubU9V8SE",
+          "name" : "Paul S. Jones",
+          "type" : "artist",
+          "uri" : "spotify:artist:5qUbdxajFsSU9nubU9V8SE"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1StIkMPMe80g0KsDU2yxEb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1StIkMPMe80g0KsDU2yxEb",
+        "id" : "1StIkMPMe80g0KsDU2yxEb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cebfa3cd171f7670f106da5a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cebfa3cd171f7670f106da5a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cebfa3cd171f7670f106da5a",
+          "width" : 64
+        } ],
+        "name" : "Impromptu: Meditative Hymn Improvisations",
+        "release_date" : "2002",
+        "release_date_precision" : "year",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:1StIkMPMe80g0KsDU2yxEb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5qUbdxajFsSU9nubU9V8SE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5qUbdxajFsSU9nubU9V8SE",
+        "id" : "5qUbdxajFsSU9nubU9V8SE",
+        "name" : "Paul S. Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:5qUbdxajFsSU9nubU9V8SE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 147000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usy280701988"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6ARVMkcfgdobhfYc1UGndQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6ARVMkcfgdobhfYc1UGndQ",
+      "id" : "6ARVMkcfgdobhfYc1UGndQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Heavenly Love Abiding",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/be3866c56a0fdd62de2e988bd844dd529db33014?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6ARVMkcfgdobhfYc1UGndQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1U5zgr455OGyIkLNXvDdrf",
+          "id" : "1U5zgr455OGyIkLNXvDdrf",
+          "name" : "Traditional",
+          "type" : "artist",
+          "uri" : "spotify:artist:1U5zgr455OGyIkLNXvDdrf"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1oHa0rzTMgcmtroGaHUJEQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1oHa0rzTMgcmtroGaHUJEQ",
+          "id" : "1oHa0rzTMgcmtroGaHUJEQ",
+          "name" : "The Jubilee Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:1oHa0rzTMgcmtroGaHUJEQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0fPw0RPyIlCi7pWHsjqydR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0fPw0RPyIlCi7pWHsjqydR",
+        "id" : "0fPw0RPyIlCi7pWHsjqydR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733c2c03a7f9b058945ad99b9e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023c2c03a7f9b058945ad99b9e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513c2c03a7f9b058945ad99b9e",
+          "width" : 64
+        } ],
+        "name" : "Choir Favorites",
+        "release_date" : "2008-09-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 28,
+        "type" : "album",
+        "uri" : "spotify:album:0fPw0RPyIlCi7pWHsjqydR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1U5zgr455OGyIkLNXvDdrf",
+        "id" : "1U5zgr455OGyIkLNXvDdrf",
+        "name" : "Traditional",
+        "type" : "artist",
+        "uri" : "spotify:artist:1U5zgr455OGyIkLNXvDdrf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1oHa0rzTMgcmtroGaHUJEQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1oHa0rzTMgcmtroGaHUJEQ",
+        "id" : "1oHa0rzTMgcmtroGaHUJEQ",
+        "name" : "The Jubilee Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:1oHa0rzTMgcmtroGaHUJEQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 109800,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBSWE0809897"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6bbQRDYVnb7uwfZafXNb2S"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6bbQRDYVnb7uwfZafXNb2S",
+      "id" : "6bbQRDYVnb7uwfZafXNb2S",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Heavenly Love Abiding",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ccdabe3e356d9200e428e9634e6604207334922f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:6bbQRDYVnb7uwfZafXNb2S"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=In+Heavenly+Love+Abiding&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=In+Heavenly+Love+Abiding&type=track&market=US&offset=0&limit=10",
+    "total" : 52
+  }
+}

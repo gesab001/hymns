@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Rock+of+Ages&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2H5elA2mJKrHmqkN9GSfkz",
+          "id" : "2H5elA2mJKrHmqkN9GSfkz",
+          "name" : "Gillian Welch",
+          "type" : "artist",
+          "uri" : "spotify:artist:2H5elA2mJKrHmqkN9GSfkz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7lj5fnqPOsrdANEyn9t8pM",
+        "id" : "7lj5fnqPOsrdANEyn9t8pM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f76ebd63196513e597290f2f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f76ebd63196513e597290f2f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f76ebd63196513e597290f2f",
+          "width" : 64
+        } ],
+        "name" : "Hell Among The Yearlings",
+        "release_date" : "1998-07-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:7lj5fnqPOsrdANEyn9t8pM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2H5elA2mJKrHmqkN9GSfkz",
+        "id" : "2H5elA2mJKrHmqkN9GSfkz",
+        "name" : "Gillian Welch",
+        "type" : "artist",
+        "uri" : "spotify:artist:2H5elA2mJKrHmqkN9GSfkz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 188266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAL19800061"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7CcQGocJ5SYzwIuZDOmxGe"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7CcQGocJ5SYzwIuZDOmxGe",
+      "id" : "7CcQGocJ5SYzwIuZDOmxGe",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock of Ages",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/050e52bb45b058336c155aeacf43790554a11868?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:7CcQGocJ5SYzwIuZDOmxGe"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6z989iXQpOqgPU7vDclfna"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6z989iXQpOqgPU7vDclfna",
+          "id" : "6z989iXQpOqgPU7vDclfna",
+          "name" : "The Modern Post",
+          "type" : "artist",
+          "uri" : "spotify:artist:6z989iXQpOqgPU7vDclfna"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2Chr1Kg4lPsksp7CWpUuta"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2Chr1Kg4lPsksp7CWpUuta",
+        "id" : "2Chr1Kg4lPsksp7CWpUuta",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27388456b499c4a7197ba132809",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0288456b499c4a7197ba132809",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485188456b499c4a7197ba132809",
+          "width" : 64
+        } ],
+        "name" : "The Water & the Blood",
+        "release_date" : "2013-09-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2Chr1Kg4lPsksp7CWpUuta"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6z989iXQpOqgPU7vDclfna"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6z989iXQpOqgPU7vDclfna",
+        "id" : "6z989iXQpOqgPU7vDclfna",
+        "name" : "The Modern Post",
+        "type" : "artist",
+        "uri" : "spotify:artist:6z989iXQpOqgPU7vDclfna"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 278080,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMVP91300016"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0xXoT4UCm4CIDrOHOS6y2h"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0xXoT4UCm4CIDrOHOS6y2h",
+      "id" : "0xXoT4UCm4CIDrOHOS6y2h",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock of Ages",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d53fd76f51bd424d57caff84ad092f0de972c1d3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0xXoT4UCm4CIDrOHOS6y2h"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+          },
+          "href" : "https://api.spotify.com/v1/artists/72Nhcx7prNk2ZCxhx0Y5es",
+          "id" : "72Nhcx7prNk2ZCxhx0Y5es",
+          "name" : "Amy Grant",
+          "type" : "artist",
+          "uri" : "spotify:artist:72Nhcx7prNk2ZCxhx0Y5es"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4kw9LCGUCFSBHiKXk8gTwi",
+        "id" : "4kw9LCGUCFSBHiKXk8gTwi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27320d10f7b953aafba5328008f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0220d10f7b953aafba5328008f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485120d10f7b953aafba5328008f",
+          "width" : 64
+        } ],
+        "name" : "Rock Of Ages...Hymns & Faith",
+        "release_date" : "2005",
+        "release_date_precision" : "year",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        "href" : "https://api.spotify.com/v1/artists/72Nhcx7prNk2ZCxhx0Y5es",
+        "id" : "72Nhcx7prNk2ZCxhx0Y5es",
+        "name" : "Amy Grant",
+        "type" : "artist",
+        "uri" : "spotify:artist:72Nhcx7prNk2ZCxhx0Y5es"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo",
+        "id" : "3IhWQSrLj8EJjdvjFTpCyo",
+        "name" : "Vince Gill",
+        "type" : "artist",
+        "uri" : "spotify:artist:3IhWQSrLj8EJjdvjFTpCyo"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 219320,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP31200353"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2wfog0JEHVGS3jMqFWj3xO",
+      "id" : "2wfog0JEHVGS3jMqFWj3xO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock Of Ages",
+      "popularity" : 30,
+      "preview_url" : null,
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:2wfog0JEHVGS3jMqFWj3xO"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5TB43hYVZMxI193JCzyQJb",
+          "id" : "5TB43hYVZMxI193JCzyQJb",
+          "name" : "Page CXVI",
+          "type" : "artist",
+          "uri" : "spotify:artist:5TB43hYVZMxI193JCzyQJb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1XAwj4FtK8ipTXKmhA0AEg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1XAwj4FtK8ipTXKmhA0AEg",
+        "id" : "1XAwj4FtK8ipTXKmhA0AEg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273161f15f966c936be8581ed80",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02161f15f966c936be8581ed80",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851161f15f966c936be8581ed80",
+          "width" : 64
+        } ],
+        "name" : "Hymns Sampler",
+        "release_date" : "2012-01-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:1XAwj4FtK8ipTXKmhA0AEg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TB43hYVZMxI193JCzyQJb",
+        "id" : "5TB43hYVZMxI193JCzyQJb",
+        "name" : "Page CXVI",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TB43hYVZMxI193JCzyQJb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 287533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US9YS1100014"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6vrKWsHJB6l9u5QQaQOkiT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6vrKWsHJB6l9u5QQaQOkiT",
+      "id" : "6vrKWsHJB6l9u5QQaQOkiT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock Of Ages",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/64394954b2a84a77a3e9145e46f8d05d6f4bb833?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6vrKWsHJB6l9u5QQaQOkiT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6H1RjVyNruCmrBEWRbD0VZ",
+          "id" : "6H1RjVyNruCmrBEWRbD0VZ",
+          "name" : "Def Leppard",
+          "type" : "artist",
+          "uri" : "spotify:artist:6H1RjVyNruCmrBEWRbD0VZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3BO4hNrSnspOVwlloqedRc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3BO4hNrSnspOVwlloqedRc",
+        "id" : "3BO4hNrSnspOVwlloqedRc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27332a05452fb412432eb5fa835",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0232a05452fb412432eb5fa835",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485132a05452fb412432eb5fa835",
+          "width" : 64
+        } ],
+        "name" : "Mirror Ball - Live & More",
+        "release_date" : "2011-06-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:3BO4hNrSnspOVwlloqedRc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6H1RjVyNruCmrBEWRbD0VZ",
+        "id" : "6H1RjVyNruCmrBEWRbD0VZ",
+        "name" : "Def Leppard",
+        "type" : "artist",
+        "uri" : "spotify:artist:6H1RjVyNruCmrBEWRbD0VZ"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 371492,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMB51100037"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7fQb4urky9HI0OjWF9ZKcP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7fQb4urky9HI0OjWF9ZKcP",
+      "id" : "7fQb4urky9HI0OjWF9ZKcP",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock Of Ages - Live",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/99e9fbe873fa805a86559895777bc6b60e0f901f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:7fQb4urky9HI0OjWF9ZKcP"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/435UmkDo0uchwmDeHdKWGN",
+          "id" : "435UmkDo0uchwmDeHdKWGN",
+          "name" : "Sandra McCracken",
+          "type" : "artist",
+          "uri" : "spotify:artist:435UmkDo0uchwmDeHdKWGN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/64Uyo0OcdOVisFt4AZCGiY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/64Uyo0OcdOVisFt4AZCGiY",
+        "id" : "64Uyo0OcdOVisFt4AZCGiY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d9c0abf16adfdac91d56e9a1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d9c0abf16adfdac91d56e9a1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d9c0abf16adfdac91d56e9a1",
+          "width" : 64
+        } ],
+        "name" : "The Builder And The Architect",
+        "release_date" : "2006-07-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:64Uyo0OcdOVisFt4AZCGiY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/435UmkDo0uchwmDeHdKWGN",
+        "id" : "435UmkDo0uchwmDeHdKWGN",
+        "name" : "Sandra McCracken",
+        "type" : "artist",
+        "uri" : "spotify:artist:435UmkDo0uchwmDeHdKWGN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 336653,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm20675664"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5Dpd4k1b8imWZsqZxhNaMm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5Dpd4k1b8imWZsqZxhNaMm",
+      "id" : "5Dpd4k1b8imWZsqZxhNaMm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock Of Ages (When The Day Seems Long)",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e7a836dfb984442bd87128bdd78088528140b160?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:5Dpd4k1b8imWZsqZxhNaMm"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7lYCHQLcDqNrJjIgKAEkje",
+          "id" : "7lYCHQLcDqNrJjIgKAEkje",
+          "name" : "Norton Hall Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:7lYCHQLcDqNrJjIgKAEkje"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6ywoT20oqJzELGRGXBjjPP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6ywoT20oqJzELGRGXBjjPP",
+        "id" : "6ywoT20oqJzELGRGXBjjPP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737dd11eedf1d42544c043e478",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027dd11eedf1d42544c043e478",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517dd11eedf1d42544c043e478",
+          "width" : 64
+        } ],
+        "name" : "Crown Him: Hymns Project Vol. III",
+        "release_date" : "2018-08-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:6ywoT20oqJzELGRGXBjjPP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lYCHQLcDqNrJjIgKAEkje",
+        "id" : "7lYCHQLcDqNrJjIgKAEkje",
+        "name" : "Norton Hall Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lYCHQLcDqNrJjIgKAEkje"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 204533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm81857988"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6CLSmJMaVVjJMpcuTeFUPZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6CLSmJMaVVjJMpcuTeFUPZ",
+      "id" : "6CLSmJMaVVjJMpcuTeFUPZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock of Ages",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4fd081f6d1095a2f356d55842e2859155eabd28a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6CLSmJMaVVjJMpcuTeFUPZ"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3obIEwSdJCDahAb7WtFdjg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3obIEwSdJCDahAb7WtFdjg",
+          "id" : "3obIEwSdJCDahAb7WtFdjg",
+          "name" : "Sojourn",
+          "type" : "artist",
+          "uri" : "spotify:artist:3obIEwSdJCDahAb7WtFdjg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1dJq6BtWzjX529cFgY20yn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1dJq6BtWzjX529cFgY20yn",
+        "id" : "1dJq6BtWzjX529cFgY20yn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732c4b6c3a06b7e4cb3d3f4431",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022c4b6c3a06b7e4cb3d3f4431",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512c4b6c3a06b7e4cb3d3f4431",
+          "width" : 64
+        } ],
+        "name" : "Brooks Ritter - The War EP",
+        "release_date" : "2011-02-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:1dJq6BtWzjX529cFgY20yn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3b6HBVb6W4gferaDMuX4Dx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3b6HBVb6W4gferaDMuX4Dx",
+        "id" : "3b6HBVb6W4gferaDMuX4Dx",
+        "name" : "Brooks Ritter",
+        "type" : "artist",
+        "uri" : "spotify:artist:3b6HBVb6W4gferaDMuX4Dx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 302222,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US5BC1100010"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7zhg3B2KndKR4UoWkBEcQa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7zhg3B2KndKR4UoWkBEcQa",
+      "id" : "7zhg3B2KndKR4UoWkBEcQa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock of Ages (feat. Brooks Ritter)",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d6de6833ee75a553750ca38f839ee620f6aa4fd3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:7zhg3B2KndKR4UoWkBEcQa"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1DQd9MXRThcsgsroznzmdU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1DQd9MXRThcsgsroznzmdU",
+          "id" : "1DQd9MXRThcsgsroznzmdU",
+          "name" : "Christi Stills",
+          "type" : "artist",
+          "uri" : "spotify:artist:1DQd9MXRThcsgsroznzmdU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7ujCpQl3UA6Hv4d6Aht6ZK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7ujCpQl3UA6Hv4d6Aht6ZK",
+        "id" : "7ujCpQl3UA6Hv4d6Aht6ZK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e5db22fcc2bf09e3fd6669b2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e5db22fcc2bf09e3fd6669b2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e5db22fcc2bf09e3fd6669b2",
+          "width" : 64
+        } ],
+        "name" : "All the Day Long",
+        "release_date" : "2018-11-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:7ujCpQl3UA6Hv4d6Aht6ZK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1DQd9MXRThcsgsroznzmdU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1DQd9MXRThcsgsroznzmdU",
+        "id" : "1DQd9MXRThcsgsroznzmdU",
+        "name" : "Christi Stills",
+        "type" : "artist",
+        "uri" : "spotify:artist:1DQd9MXRThcsgsroznzmdU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 204000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q1856804"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3wNKnP17U6Yzv1N8jNtzPB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3wNKnP17U6Yzv1N8jNtzPB",
+      "id" : "3wNKnP17U6Yzv1N8jNtzPB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock of Ages",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/95cb45fbf2c560c63b39dfbe6d6fcbb6bf56d35e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3wNKnP17U6Yzv1N8jNtzPB"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+          "id" : "6kACVPfCOnqzgfEF5ryl0x",
+          "name" : "Johnny Cash",
+          "type" : "artist",
+          "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5qL1WD809ENNyPf4n7rrRZ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5qL1WD809ENNyPf4n7rrRZ",
+        "id" : "5qL1WD809ENNyPf4n7rrRZ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f72375b4a0be94d4ae594b32",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f72375b4a0be94d4ae594b32",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f72375b4a0be94d4ae594b32",
+          "width" : 64
+        } ],
+        "name" : "Man in Black: Live in Denmark 1971",
+        "release_date" : "2015-12-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:5qL1WD809ENNyPf4n7rrRZ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+        "id" : "6kACVPfCOnqzgfEF5ryl0x",
+        "name" : "Johnny Cash",
+        "type" : "artist",
+        "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0FRIWJYklnmsll5M6h4gUL",
+        "id" : "0FRIWJYklnmsll5M6h4gUL",
+        "name" : "The Carter Family",
+        "type" : "artist",
+        "uri" : "spotify:artist:0FRIWJYklnmsll5M6h4gUL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PSWc8Y94zFsAtZlTe7ipI",
+        "id" : "5PSWc8Y94zFsAtZlTe7ipI",
+        "name" : "The Statler Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PSWc8Y94zFsAtZlTe7ipI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 196933,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQX91502122"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0dhbIOIaThlRJUuEIAQFqO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0dhbIOIaThlRJUuEIAQFqO",
+      "id" : "0dhbIOIaThlRJUuEIAQFqO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rock of Ages (with The Carter Family & The Statler Brothers) - Live at Channel DR-TV, Copenhagen, Denmark - September 1971",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/11e17c89235e1d3bee1431a02d835202604d3e99?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:0dhbIOIaThlRJUuEIAQFqO"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Rock+of+Ages&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Rock+of+Ages&type=track&market=US&offset=0&limit=10",
+    "total" : 3932
+  }
+}

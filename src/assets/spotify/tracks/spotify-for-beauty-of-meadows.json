@@ -1,0 +1,78 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=For+Beauty+of+Meadows&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7aXVLuhqYcT9onu3h50qy1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7aXVLuhqYcT9onu3h50qy1",
+          "id" : "7aXVLuhqYcT9onu3h50qy1",
+          "name" : "Spa Music Collection",
+          "type" : "artist",
+          "uri" : "spotify:artist:7aXVLuhqYcT9onu3h50qy1"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/50BZhoyZ7uQXlTPeSwE9A7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/50BZhoyZ7uQXlTPeSwE9A7",
+        "id" : "50BZhoyZ7uQXlTPeSwE9A7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bafac0bf4b74b38889f965f8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bafac0bf4b74b38889f965f8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bafac0bf4b74b38889f965f8",
+          "width" : 64
+        } ],
+        "name" : "Beauty Spa Music - Best 33 Relaxing Songs Collection for Massage Therapy and Salon with Soothing Sounds of Nature",
+        "release_date" : "2015-04-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 33,
+        "type" : "album",
+        "uri" : "spotify:album:50BZhoyZ7uQXlTPeSwE9A7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aXVLuhqYcT9onu3h50qy1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aXVLuhqYcT9onu3h50qy1",
+        "id" : "7aXVLuhqYcT9onu3h50qy1",
+        "name" : "Spa Music Collection",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aXVLuhqYcT9onu3h50qy1"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190798,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ITO101593460"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Ibzojdl8oGXGJOTRn2PQ2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Ibzojdl8oGXGJOTRn2PQ2",
+      "id" : "3Ibzojdl8oGXGJOTRn2PQ2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Calming Meadows of Heaven (Piano Music)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/236fa6832b4dd5149daa1d0d5a8c59cb604e631d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:3Ibzojdl8oGXGJOTRn2PQ2"
+    } ],
+    "limit" : 10,
+    "next" : null,
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=For+Beauty+of+Meadows&type=track&market=US&offset=0&limit=10",
+    "total" : 6
+  }
+}

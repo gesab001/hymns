@@ -23,6 +23,7 @@ import { VideosComponent } from './videos/videos.component';
 import { HttpErrorHandler }     from './http-error-handler.service';
 import { MessageService }       from './message.service';
 import { SpotifyComponent } from './spotify/spotify.component';
+import { ItunesComponent } from './itunes/itunes.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { SpotifyComponent } from './spotify/spotify.component';
     SlideshowComponent,
     HymnInfoComponent,
     VideosComponent,
-    SpotifyComponent
+    SpotifyComponent,
+    ItunesComponent
   ],
   imports: [
     BrowserModule,

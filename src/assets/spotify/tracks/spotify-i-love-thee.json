@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+Love+Thee&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5dZiRoY9Vpp6qrxqXNRwPE",
+          "id" : "5dZiRoY9Vpp6qrxqXNRwPE",
+          "name" : "Selah",
+          "type" : "artist",
+          "uri" : "spotify:artist:5dZiRoY9Vpp6qrxqXNRwPE"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/47BVtVrvqiwEAOYYzeOcnk",
+        "id" : "47BVtVrvqiwEAOYYzeOcnk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dedfabd64ca3bef168c7aa46",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dedfabd64ca3bef168c7aa46",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dedfabd64ca3bef168c7aa46",
+          "width" : 64
+        } ],
+        "name" : "You Deliver Me",
+        "release_date" : "2009-08-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:47BVtVrvqiwEAOYYzeOcnk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dZiRoY9Vpp6qrxqXNRwPE",
+        "id" : "5dZiRoY9Vpp6qrxqXNRwPE",
+        "name" : "Selah",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dZiRoY9Vpp6qrxqXNRwPE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 198146,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USCRB0908666"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7FsmFGgcgr93E3vDbWoHqo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7FsmFGgcgr93E3vDbWoHqo",
+      "id" : "7FsmFGgcgr93E3vDbWoHqo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Jesus I Love Thee",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/628800ac57de5d998d3a47a229118965e82997b2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:7FsmFGgcgr93E3vDbWoHqo"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7rwhybBLjf5jWQsmXfwJhd",
+          "id" : "7rwhybBLjf5jWQsmXfwJhd",
+          "name" : "Kendra Logozar",
+          "type" : "artist",
+          "uri" : "spotify:artist:7rwhybBLjf5jWQsmXfwJhd"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6TBZH7EWnnIxKU08004Dzl"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6TBZH7EWnnIxKU08004Dzl",
+        "id" : "6TBZH7EWnnIxKU08004Dzl",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736922a43856a0079b9388263b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026922a43856a0079b9388263b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516922a43856a0079b9388263b",
+          "width" : 64
+        } ],
+        "name" : "My Jesus I Love Thee",
+        "release_date" : "2019-01-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:6TBZH7EWnnIxKU08004Dzl"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7rwhybBLjf5jWQsmXfwJhd",
+        "id" : "7rwhybBLjf5jWQsmXfwJhd",
+        "name" : "Kendra Logozar",
+        "type" : "artist",
+        "uri" : "spotify:artist:7rwhybBLjf5jWQsmXfwJhd"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 192293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMS8M1800038"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0Kfc9bWgUmFgJ2psOgX1aQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0Kfc9bWgUmFgJ2psOgX1aQ",
+      "id" : "0Kfc9bWgUmFgJ2psOgX1aQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Jesus I Love Thee",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/681663cb69d533e932c4cca83be5ee41b21cf595?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0Kfc9bWgUmFgJ2psOgX1aQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+          "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+          "name" : "Anthem Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/18we0y1PK9lt3Qneye6ciV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/18we0y1PK9lt3Qneye6ciV",
+        "id" : "18we0y1PK9lt3Qneye6ciV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dafdd3fa96666ede04d6bbcb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dafdd3fa96666ede04d6bbcb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dafdd3fa96666ede04d6bbcb",
+          "width" : 64
+        } ],
+        "name" : "Hymns, Vol. II",
+        "release_date" : "2018-03-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:18we0y1PK9lt3Qneye6ciV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+        "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+        "name" : "Anthem Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 164466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921850020"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0YeP2JHQmlU33hG5AtTixe"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0YeP2JHQmlU33hG5AtTixe",
+      "id" : "0YeP2JHQmlU33hG5AtTixe",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Jesus, I Love Thee",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f22d24a7458433ba97621bf7f27ceebb7984791f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0YeP2JHQmlU33hG5AtTixe"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6xBX4T6jaTDWozdYdXEX2Y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6xBX4T6jaTDWozdYdXEX2Y",
+          "id" : "6xBX4T6jaTDWozdYdXEX2Y",
+          "name" : "Barbi Franklin",
+          "type" : "artist",
+          "uri" : "spotify:artist:6xBX4T6jaTDWozdYdXEX2Y"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2nftYsaes6tm8qLOL5mwP5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2nftYsaes6tm8qLOL5mwP5",
+        "id" : "2nftYsaes6tm8qLOL5mwP5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c9394d59989efe645625696c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c9394d59989efe645625696c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c9394d59989efe645625696c",
+          "width" : 64
+        } ],
+        "name" : "Violin Worship, Vol. 2",
+        "release_date" : "2014-12-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:2nftYsaes6tm8qLOL5mwP5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xBX4T6jaTDWozdYdXEX2Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xBX4T6jaTDWozdYdXEX2Y",
+        "id" : "6xBX4T6jaTDWozdYdXEX2Y",
+        "name" : "Barbi Franklin",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xBX4T6jaTDWozdYdXEX2Y"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 234160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSEU1400018"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0cqI3cxm5K81FuYQpc40pv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0cqI3cxm5K81FuYQpc40pv",
+      "id" : "0cqI3cxm5K81FuYQpc40pv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "More Precious Than Silver / My Jesus, I Love Thee",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6ce462d98a0f3fb7add8110b3c7a923762aa611b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0cqI3cxm5K81FuYQpc40pv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ZKBQyNLXQd1VfNf2oH5yF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ZKBQyNLXQd1VfNf2oH5yF",
+          "id" : "5ZKBQyNLXQd1VfNf2oH5yF",
+          "name" : "Phillip Keveren",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ZKBQyNLXQd1VfNf2oH5yF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1Hz5mFMt0zot3VHHs48dfX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1Hz5mFMt0zot3VHHs48dfX",
+        "id" : "1Hz5mFMt0zot3VHHs48dfX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a89ea47037e82c7d4ba36dd6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a89ea47037e82c7d4ba36dd6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a89ea47037e82c7d4ba36dd6",
+          "width" : 64
+        } ],
+        "name" : "Classical Praise: Piano & Flute",
+        "release_date" : "2013-02-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1Hz5mFMt0zot3VHHs48dfX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ZKBQyNLXQd1VfNf2oH5yF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ZKBQyNLXQd1VfNf2oH5yF",
+        "id" : "5ZKBQyNLXQd1VfNf2oH5yF",
+        "name" : "Phillip Keveren",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ZKBQyNLXQd1VfNf2oH5yF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 264013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USLF50801600"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6y0NtzddbOhxSFdIxfiACN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6y0NtzddbOhxSFdIxfiACN",
+      "id" : "6y0NtzddbOhxSFdIxfiACN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Jesus, I Love Thee",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6140d70c213eeaf39f97b1295a0893b4683f51b3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6y0NtzddbOhxSFdIxfiACN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3E1yxE05BnQblIGuJ7yadK",
+          "id" : "3E1yxE05BnQblIGuJ7yadK",
+          "name" : "Dream Baby",
+          "type" : "artist",
+          "uri" : "spotify:artist:3E1yxE05BnQblIGuJ7yadK"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1B7ZQYUjHEffF2UMUdna0V"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1B7ZQYUjHEffF2UMUdna0V",
+        "id" : "1B7ZQYUjHEffF2UMUdna0V",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27314cb12b410680f0f65004035",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0214cb12b410680f0f65004035",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485114cb12b410680f0f65004035",
+          "width" : 64
+        } ],
+        "name" : "Baby's First Hymns",
+        "release_date" : "2013-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:1B7ZQYUjHEffF2UMUdna0V"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3E1yxE05BnQblIGuJ7yadK",
+        "id" : "3E1yxE05BnQblIGuJ7yadK",
+        "name" : "Dream Baby",
+        "type" : "artist",
+        "uri" : "spotify:artist:3E1yxE05BnQblIGuJ7yadK"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 242200,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CASD11200575"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1stEpczjOgziZTb5kVXTrH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1stEpczjOgziZTb5kVXTrH",
+      "id" : "1stEpczjOgziZTb5kVXTrH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Jesus, I Love Thee",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/48c133e472dd9a66c28aa31001fc6cda2a404f6c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:1stEpczjOgziZTb5kVXTrH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7l0sphz32GV0AjjEhECpVg",
+          "id" : "7l0sphz32GV0AjjEhECpVg",
+          "name" : "Caleb and Kelsey",
+          "type" : "artist",
+          "uri" : "spotify:artist:7l0sphz32GV0AjjEhECpVg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0QLa0kcjD4rqNsepGRhFDa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0QLa0kcjD4rqNsepGRhFDa",
+        "id" : "0QLa0kcjD4rqNsepGRhFDa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273924bbf6791731363267b4298",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02924bbf6791731363267b4298",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851924bbf6791731363267b4298",
+          "width" : 64
+        } ],
+        "name" : "Glorious Day: Worship & Hymns",
+        "release_date" : "2020-03-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0QLa0kcjD4rqNsepGRhFDa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7l0sphz32GV0AjjEhECpVg",
+        "id" : "7l0sphz32GV0AjjEhECpVg",
+        "name" : "Caleb and Kelsey",
+        "type" : "artist",
+        "uri" : "spotify:artist:7l0sphz32GV0AjjEhECpVg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 196789,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF922050036"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3RByvP2fhsUSjnTnoo8aHX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3RByvP2fhsUSjnTnoo8aHX",
+      "id" : "3RByvP2fhsUSjnTnoo8aHX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Jesus, I Love Thee (Love Song)",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4c67608b1b353c320a18bd687691161e283fbaa9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:3RByvP2fhsUSjnTnoo8aHX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LIG4IMVuzGJjAhMxXtll1",
+          "id" : "4LIG4IMVuzGJjAhMxXtll1",
+          "name" : "Jadon Lavik",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LIG4IMVuzGJjAhMxXtll1"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6Pcu1C4dXMinzA7AoQa83v",
+        "id" : "6Pcu1C4dXMinzA7AoQa83v",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f633c6603caeb1053310119a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f633c6603caeb1053310119a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f633c6603caeb1053310119a",
+          "width" : 64
+        } ],
+        "name" : "Roots Run Deeper",
+        "release_date" : "2012-09-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6Pcu1C4dXMinzA7AoQa83v"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LIG4IMVuzGJjAhMxXtll1",
+        "id" : "4LIG4IMVuzGJjAhMxXtll1",
+        "name" : "Jadon Lavik",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LIG4IMVuzGJjAhMxXtll1"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 281373,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US9XZ1200063"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0j8vA3sKHvcAhTG0MjlWMK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0j8vA3sKHvcAhTG0MjlWMK",
+      "id" : "0j8vA3sKHvcAhTG0MjlWMK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Jesus I Love Thee",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4831dc4dff2da17623ea21c71af30986b722d700?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0j8vA3sKHvcAhTG0MjlWMK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1R2XZ4GRGYqhRV4QHado6o"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1R2XZ4GRGYqhRV4QHado6o",
+          "id" : "1R2XZ4GRGYqhRV4QHado6o",
+          "name" : "Andrew Kiteck",
+          "type" : "artist",
+          "uri" : "spotify:artist:1R2XZ4GRGYqhRV4QHado6o"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2wTGAATm4EFWekdZpH7XRF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2wTGAATm4EFWekdZpH7XRF",
+        "id" : "2wTGAATm4EFWekdZpH7XRF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273532b497581b4b5d4a92a0999",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02532b497581b4b5d4a92a0999",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851532b497581b4b5d4a92a0999",
+          "width" : 64
+        } ],
+        "name" : "Hymns on Piano",
+        "release_date" : "2019-04-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:2wTGAATm4EFWekdZpH7XRF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1R2XZ4GRGYqhRV4QHado6o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1R2XZ4GRGYqhRV4QHado6o",
+        "id" : "1R2XZ4GRGYqhRV4QHado6o",
+        "name" : "Andrew Kiteck",
+        "type" : "artist",
+        "uri" : "spotify:artist:1R2XZ4GRGYqhRV4QHado6o"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 216500,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEF1909400"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1qOx90fUsuo1zVk3KE9VjU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1qOx90fUsuo1zVk3KE9VjU",
+      "id" : "1qOx90fUsuo1zVk3KE9VjU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Jesus I Love Thee",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a03cd14c6ded9618b1ab9e4bf77f828443053c1f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:1qOx90fUsuo1zVk3KE9VjU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+          "id" : "7dc9jcxR0GgRMoNasStnmZ",
+          "name" : "David Baroni",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0QOzN93Vhpw1rwTonEKrnf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0QOzN93Vhpw1rwTonEKrnf",
+        "id" : "0QOzN93Vhpw1rwTonEKrnf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ddfd3808b869d69ac7b94ceb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ddfd3808b869d69ac7b94ceb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ddfd3808b869d69ac7b94ceb",
+          "width" : 64
+        } ],
+        "name" : "A Quiet Place: Instrumental Hymns",
+        "release_date" : "2009-11-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0QOzN93Vhpw1rwTonEKrnf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+        "id" : "7dc9jcxR0GgRMoNasStnmZ",
+        "name" : "David Baroni",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 272400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p0933845"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1MbpvVADduYUWQB3QSFZdd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1MbpvVADduYUWQB3QSFZdd",
+      "id" : "1MbpvVADduYUWQB3QSFZdd",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Jesus I Love Thee",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9be7d141508db81403e25b9074359260997f368b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:1MbpvVADduYUWQB3QSFZdd"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=I+Love+Thee&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=I+Love+Thee&type=track&market=US&offset=0&limit=10",
+    "total" : 2261
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Sound+the+Battle+Cry&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/09TOgappqOohpamkrpP78c"
+          },
+          "href" : "https://api.spotify.com/v1/artists/09TOgappqOohpamkrpP78c",
+          "id" : "09TOgappqOohpamkrpP78c",
+          "name" : "Fountainview Academy Orchestra & Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:09TOgappqOohpamkrpP78c"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0tgdXkG40UHl881VY6DpW2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0tgdXkG40UHl881VY6DpW2",
+        "id" : "0tgdXkG40UHl881VY6DpW2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736eecda8d1aa4a17f0bd0e5cb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026eecda8d1aa4a17f0bd0e5cb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516eecda8d1aa4a17f0bd0e5cb",
+          "width" : 64
+        } ],
+        "name" : "The Great Controversy",
+        "release_date" : "2014",
+        "release_date_precision" : "year",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:0tgdXkG40UHl881VY6DpW2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09TOgappqOohpamkrpP78c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09TOgappqOohpamkrpP78c",
+        "id" : "09TOgappqOohpamkrpP78c",
+        "name" : "Fountainview Academy Orchestra & Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:09TOgappqOohpamkrpP78c"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 163050,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE1900736"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6VYoP5IUBcXwv0nKFJKsD0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6VYoP5IUBcXwv0nKFJKsD0",
+      "id" : "6VYoP5IUBcXwv0nKFJKsD0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sound The Battle Cry",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/edf20d320a07b352f619c7c3c97a6e9ad5a2e21d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:6VYoP5IUBcXwv0nKFJKsD0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0Xk15jHKly4c3AhPr5vjoA",
+          "id" : "0Xk15jHKly4c3AhPr5vjoA",
+          "name" : "Alan Silvestri",
+          "type" : "artist",
+          "uri" : "spotify:artist:0Xk15jHKly4c3AhPr5vjoA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6XUXN5uWCpSiybOplfUj0e"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6XUXN5uWCpSiybOplfUj0e",
+        "id" : "6XUXN5uWCpSiybOplfUj0e",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e3484aba4f72352bfc614129",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e3484aba4f72352bfc614129",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e3484aba4f72352bfc614129",
+          "width" : 64
+        } ],
+        "name" : "Back To The Future Part III: 25th Anniversary Edition (Original Motion Picture Soundtrack)",
+        "release_date" : "1990",
+        "release_date_precision" : "year",
+        "total_tracks" : 49,
+        "type" : "album",
+        "uri" : "spotify:album:6XUXN5uWCpSiybOplfUj0e"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Xk15jHKly4c3AhPr5vjoA",
+        "id" : "0Xk15jHKly4c3AhPr5vjoA",
+        "name" : "Alan Silvestri",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Xk15jHKly4c3AhPr5vjoA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 64360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3M51515937"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1AN9kQfswBo09g0bI0Lpst"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1AN9kQfswBo09g0bI0Lpst",
+      "id" : "1AN9kQfswBo09g0bI0Lpst",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Clock Dedication / Battle Cry Of Freedom",
+      "popularity" : 8,
+      "preview_url" : null,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:1AN9kQfswBo09g0bI0Lpst"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4HBiRX8Ok4gM6SwksbtyQz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4HBiRX8Ok4gM6SwksbtyQz",
+          "id" : "4HBiRX8Ok4gM6SwksbtyQz",
+          "name" : "Herbster Trio",
+          "type" : "artist",
+          "uri" : "spotify:artist:4HBiRX8Ok4gM6SwksbtyQz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7H5mKCqXCAgaozmTVdqDaK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7H5mKCqXCAgaozmTVdqDaK",
+        "id" : "7H5mKCqXCAgaozmTVdqDaK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a72e3b522743a8f14453cd87",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a72e3b522743a8f14453cd87",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a72e3b522743a8f14453cd87",
+          "width" : 64
+        } ],
+        "name" : "Faithful Servant",
+        "release_date" : "2013-04-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:7H5mKCqXCAgaozmTVdqDaK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4HBiRX8Ok4gM6SwksbtyQz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4HBiRX8Ok4gM6SwksbtyQz",
+        "id" : "4HBiRX8Ok4gM6SwksbtyQz",
+        "name" : "Herbster Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:4HBiRX8Ok4gM6SwksbtyQz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167053,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCABN1340099"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1yIv8fuv9bhVbCUIX5GvqE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1yIv8fuv9bhVbCUIX5GvqE",
+      "id" : "1yIv8fuv9bhVbCUIX5GvqE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sound the Battle Cry/Souls for Jesus",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6a568fdeba1a1a8d4bfe091dc2b10431ea4dd1a5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:1yIv8fuv9bhVbCUIX5GvqE"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4MSEJAKZo4mkG4H6ORgllP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4MSEJAKZo4mkG4H6ORgllP",
+          "id" : "4MSEJAKZo4mkG4H6ORgllP",
+          "name" : "Jonathan Reed",
+          "type" : "artist",
+          "uri" : "spotify:artist:4MSEJAKZo4mkG4H6ORgllP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1PJZXqWlKRhIm5ImHLfIuN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1PJZXqWlKRhIm5ImHLfIuN",
+        "id" : "1PJZXqWlKRhIm5ImHLfIuN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737816bd2074912ccb3a7a4fe9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027816bd2074912ccb3a7a4fe9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517816bd2074912ccb3a7a4fe9",
+          "width" : 64
+        } ],
+        "name" : "All Hail the Power",
+        "release_date" : "2005-06-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 52,
+        "type" : "album",
+        "uri" : "spotify:album:1PJZXqWlKRhIm5ImHLfIuN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4MSEJAKZo4mkG4H6ORgllP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4MSEJAKZo4mkG4H6ORgllP",
+        "id" : "4MSEJAKZo4mkG4H6ORgllP",
+        "name" : "Jonathan Reed",
+        "type" : "artist",
+        "uri" : "spotify:artist:4MSEJAKZo4mkG4H6ORgllP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 61613,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm81491393"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5FQgZREZMurQuxVHAiHLA8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5FQgZREZMurQuxVHAiHLA8",
+      "id" : "5FQgZREZMurQuxVHAiHLA8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sound the Battle Cry",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/85424f1485c0c81b6c4580512172b228297fdae7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 43,
+      "type" : "track",
+      "uri" : "spotify:track:5FQgZREZMurQuxVHAiHLA8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3w1Q754jb31h5CXQCcnLNL",
+          "id" : "3w1Q754jb31h5CXQCcnLNL",
+          "name" : "Capcom Sound Team",
+          "type" : "artist",
+          "uri" : "spotify:artist:3w1Q754jb31h5CXQCcnLNL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1tNWUMsxLIT92wZcrYWkyT",
+        "id" : "1tNWUMsxLIT92wZcrYWkyT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738df682e8984ac7152e656f10",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028df682e8984ac7152e656f10",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518df682e8984ac7152e656f10",
+          "width" : 64
+        } ],
+        "name" : "Devil May Cry 4 Original Soundtrack",
+        "release_date" : "2008-02-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 104,
+        "type" : "album",
+        "uri" : "spotify:album:1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3w1Q754jb31h5CXQCcnLNL",
+        "id" : "3w1Q754jb31h5CXQCcnLNL",
+        "name" : "Capcom Sound Team",
+        "type" : "artist",
+        "uri" : "spotify:artist:3w1Q754jb31h5CXQCcnLNL"
+      } ],
+      "disc_number" : 3,
+      "duration_ms" : 89813,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "JPE100801140"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1XmLkCMosu125DR0Bmm3nv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1XmLkCMosu125DR0Bmm3nv",
+      "id" : "1XmLkCMosu125DR0Bmm3nv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "To the Last Battle",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4ef090c8e3801afbd13613155404f165741f8f5a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 34,
+      "type" : "track",
+      "uri" : "spotify:track:1XmLkCMosu125DR0Bmm3nv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zkmOYaXiNHBKxKnnd1rvl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zkmOYaXiNHBKxKnnd1rvl",
+          "id" : "5zkmOYaXiNHBKxKnnd1rvl",
+          "name" : "John Keys",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zkmOYaXiNHBKxKnnd1rvl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7jsfCeurM2hbi7pliZYMTa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7jsfCeurM2hbi7pliZYMTa",
+        "id" : "7jsfCeurM2hbi7pliZYMTa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733827ec5233e8af808226fadb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023827ec5233e8af808226fadb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513827ec5233e8af808226fadb",
+          "width" : 64
+        } ],
+        "name" : "Seventh Day Adventist Hymns, Vol. 2 (Organ Accompaniments)",
+        "release_date" : "2008-09-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:7jsfCeurM2hbi7pliZYMTa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zkmOYaXiNHBKxKnnd1rvl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zkmOYaXiNHBKxKnnd1rvl",
+        "id" : "5zkmOYaXiNHBKxKnnd1rvl",
+        "name" : "John Keys",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zkmOYaXiNHBKxKnnd1rvl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 153277,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBKPL1262513"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2mwzV3UmE2U9auQyRw5bPe"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2mwzV3UmE2U9auQyRw5bPe",
+      "id" : "2mwzV3UmE2U9auQyRw5bPe",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sound the Battle Cry (Battle Cry) [Instrumental Version]",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e8f35c5df026c23fd339476eed374cc2f2bc719a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2mwzV3UmE2U9auQyRw5bPe"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5SMhIcoVglw8EtXQsM58hz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5SMhIcoVglw8EtXQsM58hz",
+          "id" : "5SMhIcoVglw8EtXQsM58hz",
+          "name" : "Bill Westin",
+          "type" : "artist",
+          "uri" : "spotify:artist:5SMhIcoVglw8EtXQsM58hz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/230OrwFf3hyeOlFr5EsTqx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/230OrwFf3hyeOlFr5EsTqx",
+        "id" : "230OrwFf3hyeOlFr5EsTqx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cd5005b2ed31b82885a5daf7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cd5005b2ed31b82885a5daf7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cd5005b2ed31b82885a5daf7",
+          "width" : 64
+        } ],
+        "name" : "Revival Piano Solos",
+        "release_date" : "2016-02-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:230OrwFf3hyeOlFr5EsTqx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5SMhIcoVglw8EtXQsM58hz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5SMhIcoVglw8EtXQsM58hz",
+        "id" : "5SMhIcoVglw8EtXQsM58hz",
+        "name" : "Bill Westin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5SMhIcoVglw8EtXQsM58hz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 103263,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ6BW1700268"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5dUYtxkFqB5fJJXlEeKHIO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5dUYtxkFqB5fJJXlEeKHIO",
+      "id" : "5dUYtxkFqB5fJJXlEeKHIO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sound the Battle Cry",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1cf0e9a8984563d4036b96d4e9dde84e2df5dec6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:5dUYtxkFqB5fJJXlEeKHIO"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7F1hOk1yeCpnGlxIm33vQm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7F1hOk1yeCpnGlxIm33vQm",
+          "id" : "7F1hOk1yeCpnGlxIm33vQm",
+          "name" : "Bible Truth Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:7F1hOk1yeCpnGlxIm33vQm"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6g1O2Ve0IT8EYpkgLDOarg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6g1O2Ve0IT8EYpkgLDOarg",
+        "id" : "6g1O2Ve0IT8EYpkgLDOarg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731ffb8ada00cf73893f5818c1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021ffb8ada00cf73893f5818c1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511ffb8ada00cf73893f5818c1",
+          "width" : 64
+        } ],
+        "name" : "Songs from Our Hymnbook",
+        "release_date" : "2007-02-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:6g1O2Ve0IT8EYpkgLDOarg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7F1hOk1yeCpnGlxIm33vQm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7F1hOk1yeCpnGlxIm33vQm",
+        "id" : "7F1hOk1yeCpnGlxIm33vQm",
+        "name" : "Bible Truth Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:7F1hOk1yeCpnGlxIm33vQm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174837,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ6BW1600298"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7DFAiE28nrPx9AuBHhMdE3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7DFAiE28nrPx9AuBHhMdE3",
+      "id" : "7DFAiE28nrPx9AuBHhMdE3",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sound the Battle Cry",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e6649c6f63004744dd6971e2dc30e384220ad777?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7DFAiE28nrPx9AuBHhMdE3"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6hGjuEIwPVTdZrvQbGCodE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6hGjuEIwPVTdZrvQbGCodE",
+          "id" : "6hGjuEIwPVTdZrvQbGCodE",
+          "name" : "Glorious Sound",
+          "type" : "artist",
+          "uri" : "spotify:artist:6hGjuEIwPVTdZrvQbGCodE"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1n6JwbZL2PjFso2oa41Zvd"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1n6JwbZL2PjFso2oa41Zvd",
+        "id" : "1n6JwbZL2PjFso2oa41Zvd",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b97d777b7df3d5328b88587a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b97d777b7df3d5328b88587a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b97d777b7df3d5328b88587a",
+          "width" : 64
+        } ],
+        "name" : "Remembering Hymns",
+        "release_date" : "2017-07-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:1n6JwbZL2PjFso2oa41Zvd"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6hGjuEIwPVTdZrvQbGCodE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6hGjuEIwPVTdZrvQbGCodE",
+        "id" : "6hGjuEIwPVTdZrvQbGCodE",
+        "name" : "Glorious Sound",
+        "type" : "artist",
+        "uri" : "spotify:artist:6hGjuEIwPVTdZrvQbGCodE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 141924,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21731253"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/15F4NviaTP62R8OqW0itRL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/15F4NviaTP62R8OqW0itRL",
+      "id" : "15F4NviaTP62R8OqW0itRL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sound the Battle Cry",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8bc230db237f9ecc29ff515e7bf024f9a6c9f56f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:15F4NviaTP62R8OqW0itRL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7iIG7w3LrKaycEtVJlZVTv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7iIG7w3LrKaycEtVJlZVTv",
+          "id" : "7iIG7w3LrKaycEtVJlZVTv",
+          "name" : "The Messengers of Truth",
+          "type" : "artist",
+          "uri" : "spotify:artist:7iIG7w3LrKaycEtVJlZVTv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/52DRD7OL9DUEQHDnCBZ9bw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/52DRD7OL9DUEQHDnCBZ9bw",
+        "id" : "52DRD7OL9DUEQHDnCBZ9bw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27311432cf392294dde60df1df6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0211432cf392294dde60df1df6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485111432cf392294dde60df1df6",
+          "width" : 64
+        } ],
+        "name" : "Glorious Victory!",
+        "release_date" : "2009-10-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:52DRD7OL9DUEQHDnCBZ9bw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Ej92FYsj9AIbNphVwAwuQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Ej92FYsj9AIbNphVwAwuQ",
+        "id" : "6Ej92FYsj9AIbNphVwAwuQ",
+        "name" : "The Messengers of Truth Men's Quartet",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Ej92FYsj9AIbNphVwAwuQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 139306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90909495"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4a6uLUo5Y6odD9CWpXLlI5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4a6uLUo5Y6odD9CWpXLlI5",
+      "id" : "4a6uLUo5Y6odD9CWpXLlI5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sound the Battle Cry",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/903815590c9e7526594f907b8325bfdaadbb7a93?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:4a6uLUo5Y6odD9CWpXLlI5"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Sound+the+Battle+Cry&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Sound+the+Battle+Cry&type=track&market=US&offset=0&limit=10",
+    "total" : 42
+  }
+}

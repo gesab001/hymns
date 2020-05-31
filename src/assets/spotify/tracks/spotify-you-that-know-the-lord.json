@@ -1,0 +1,614 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=You+That+Know+the+Lord&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0z9D4hwNN1J7b4tUtjVbDC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0z9D4hwNN1J7b4tUtjVbDC",
+          "id" : "0z9D4hwNN1J7b4tUtjVbDC",
+          "name" : "Samuel Cross",
+          "type" : "artist",
+          "uri" : "spotify:artist:0z9D4hwNN1J7b4tUtjVbDC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4qDuj7P8jIF3Q1wuGGqPaI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4qDuj7P8jIF3Q1wuGGqPaI",
+        "id" : "4qDuj7P8jIF3Q1wuGGqPaI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ea20f452160f649220824c0b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ea20f452160f649220824c0b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ea20f452160f649220824c0b",
+          "width" : 64
+        } ],
+        "name" : "I Need You",
+        "release_date" : "2002-10-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:4qDuj7P8jIF3Q1wuGGqPaI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0z9D4hwNN1J7b4tUtjVbDC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0z9D4hwNN1J7b4tUtjVbDC",
+        "id" : "0z9D4hwNN1J7b4tUtjVbDC",
+        "name" : "Samuel Cross",
+        "type" : "artist",
+        "uri" : "spotify:artist:0z9D4hwNN1J7b4tUtjVbDC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 152453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm80343266"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/436A2u0O2J9WJNSnanCPVF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/436A2u0O2J9WJNSnanCPVF",
+      "id" : "436A2u0O2J9WJNSnanCPVF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Know That the Lord Will Come For Me",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3dbb662d6fc701c6551d02cac58c92b5cffa3653?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:436A2u0O2J9WJNSnanCPVF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/73Q3QcUPYiUcODe2X8J2WR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/73Q3QcUPYiUcODe2X8J2WR",
+          "id" : "73Q3QcUPYiUcODe2X8J2WR",
+          "name" : "Liberation Suite",
+          "type" : "artist",
+          "uri" : "spotify:artist:73Q3QcUPYiUcODe2X8J2WR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4i9XvLnfTRlyJ1c13VNvWE"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4i9XvLnfTRlyJ1c13VNvWE",
+        "id" : "4i9XvLnfTRlyJ1c13VNvWE",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734fceaa881236ca37fc698216",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024fceaa881236ca37fc698216",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514fceaa881236ca37fc698216",
+          "width" : 64
+        } ],
+        "name" : "Fight For The Light",
+        "release_date" : "2002",
+        "release_date_precision" : "year",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:4i9XvLnfTRlyJ1c13VNvWE"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Q3QcUPYiUcODe2X8J2WR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Q3QcUPYiUcODe2X8J2WR",
+        "id" : "73Q3QcUPYiUcODe2X8J2WR",
+        "name" : "Liberation Suite",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Q3QcUPYiUcODe2X8J2WR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 211680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm80488598"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1F0cXKPEz94k5RwG3R58bV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1F0cXKPEz94k5RwG3R58bV",
+      "id" : "1F0cXKPEz94k5RwG3R58bV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Oh Lord You Know - That I Feel So Fine",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/24434c96ddd9edb109c12908f90d8dff1a72a524?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1F0cXKPEz94k5RwG3R58bV"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5HZdvyv3mhTabW2C2gxuR7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5HZdvyv3mhTabW2C2gxuR7",
+          "id" : "5HZdvyv3mhTabW2C2gxuR7",
+          "name" : "Oliver K. Hager",
+          "type" : "artist",
+          "uri" : "spotify:artist:5HZdvyv3mhTabW2C2gxuR7"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4wtO1PclvkKMLXYX5tEkYM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4wtO1PclvkKMLXYX5tEkYM",
+        "id" : "4wtO1PclvkKMLXYX5tEkYM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d20daf26a13988bdad2b4cc4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d20daf26a13988bdad2b4cc4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d20daf26a13988bdad2b4cc4",
+          "width" : 64
+        } ],
+        "name" : "Songs from the Lord's Book",
+        "release_date" : "2020-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 35,
+        "type" : "album",
+        "uri" : "spotify:album:4wtO1PclvkKMLXYX5tEkYM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5HZdvyv3mhTabW2C2gxuR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5HZdvyv3mhTabW2C2gxuR7",
+        "id" : "5HZdvyv3mhTabW2C2gxuR7",
+        "name" : "Oliver K. Hager",
+        "type" : "artist",
+        "uri" : "spotify:artist:5HZdvyv3mhTabW2C2gxuR7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 128720,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh2023844"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5kOCqpXvBFPzuus4mQRjkX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5kOCqpXvBFPzuus4mQRjkX",
+      "id" : "5kOCqpXvBFPzuus4mQRjkX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Did You Know That Jesus Loves You",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ff94e89f1b71b0294faf4c3bb5965692e848a078?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5kOCqpXvBFPzuus4mQRjkX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/42FW0zsPvkgiK44EavtOxj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/42FW0zsPvkgiK44EavtOxj",
+          "id" : "42FW0zsPvkgiK44EavtOxj",
+          "name" : "Junnes",
+          "type" : "artist",
+          "uri" : "spotify:artist:42FW0zsPvkgiK44EavtOxj"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3YIU7O7U3MybsRmkvejRd0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3YIU7O7U3MybsRmkvejRd0",
+        "id" : "3YIU7O7U3MybsRmkvejRd0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27319d8ca9cbdef098890c561b8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0219d8ca9cbdef098890c561b8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485119d8ca9cbdef098890c561b8",
+          "width" : 64
+        } ],
+        "name" : "Just the Lord and Me",
+        "release_date" : "2010-03-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:3YIU7O7U3MybsRmkvejRd0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/42FW0zsPvkgiK44EavtOxj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/42FW0zsPvkgiK44EavtOxj",
+        "id" : "42FW0zsPvkgiK44EavtOxj",
+        "name" : "Junnes",
+        "type" : "artist",
+        "uri" : "spotify:artist:42FW0zsPvkgiK44EavtOxj"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 303666,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1036480"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1IsXtqmydvnVkVUPrMgAul"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1IsXtqmydvnVkVUPrMgAul",
+      "id" : "1IsXtqmydvnVkVUPrMgAul",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You Don't Know Me Like That",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/83869f0e260749e94413bb3ab9ecd6befdd60d28?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1IsXtqmydvnVkVUPrMgAul"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1VbeekCQ2rJ2t49Yj0nm7G"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1VbeekCQ2rJ2t49Yj0nm7G",
+          "id" : "1VbeekCQ2rJ2t49Yj0nm7G",
+          "name" : "The Lighthouse Gospelettes",
+          "type" : "artist",
+          "uri" : "spotify:artist:1VbeekCQ2rJ2t49Yj0nm7G"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/06yWBgNJTgXQqHx3i1dQ7k"
+        },
+        "href" : "https://api.spotify.com/v1/albums/06yWBgNJTgXQqHx3i1dQ7k",
+        "id" : "06yWBgNJTgXQqHx3i1dQ7k",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d0236f93b63fabc1a32e43aa",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d0236f93b63fabc1a32e43aa",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d0236f93b63fabc1a32e43aa",
+          "width" : 64
+        } ],
+        "name" : "Thank You Lord For Saving Me",
+        "release_date" : "1999-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:06yWBgNJTgXQqHx3i1dQ7k"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1VbeekCQ2rJ2t49Yj0nm7G"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1VbeekCQ2rJ2t49Yj0nm7G",
+        "id" : "1VbeekCQ2rJ2t49Yj0nm7G",
+        "name" : "The Lighthouse Gospelettes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1VbeekCQ2rJ2t49Yj0nm7G"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 230266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm80317438"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7L1NnsyHl2jsesOGkTqj3T"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7L1NnsyHl2jsesOGkTqj3T",
+      "id" : "7L1NnsyHl2jsesOGkTqj3T",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Know That's Right",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9981f611cfc8bed1b6816e066335c0d055acfb95?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7L1NnsyHl2jsesOGkTqj3T"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1VbeekCQ2rJ2t49Yj0nm7G"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1VbeekCQ2rJ2t49Yj0nm7G",
+          "id" : "1VbeekCQ2rJ2t49Yj0nm7G",
+          "name" : "The Lighthouse Gospelettes",
+          "type" : "artist",
+          "uri" : "spotify:artist:1VbeekCQ2rJ2t49Yj0nm7G"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4JaJRGXcye4t72EWY72q1t"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4JaJRGXcye4t72EWY72q1t",
+        "id" : "4JaJRGXcye4t72EWY72q1t",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27314202ef518f53a5a55f8afd5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0214202ef518f53a5a55f8afd5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485114202ef518f53a5a55f8afd5",
+          "width" : 64
+        } ],
+        "name" : "Thank You Lord For Saving Me",
+        "release_date" : "1999-06-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4JaJRGXcye4t72EWY72q1t"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1VbeekCQ2rJ2t49Yj0nm7G"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1VbeekCQ2rJ2t49Yj0nm7G",
+        "id" : "1VbeekCQ2rJ2t49Yj0nm7G",
+        "name" : "The Lighthouse Gospelettes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1VbeekCQ2rJ2t49Yj0nm7G"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 230266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA370311955"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0EA8hanx5zd78vemF11W38"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0EA8hanx5zd78vemF11W38",
+      "id" : "0EA8hanx5zd78vemF11W38",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Know Thats Right",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4e1faa0bd501f9da9e52280579d8a46619372382?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0EA8hanx5zd78vemF11W38"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/62ISuJqE42ueZqRij7wwRO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/62ISuJqE42ueZqRij7wwRO",
+          "id" : "62ISuJqE42ueZqRij7wwRO",
+          "name" : "Ervin Lowvell Swan III",
+          "type" : "artist",
+          "uri" : "spotify:artist:62ISuJqE42ueZqRij7wwRO"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/31fIav9yBFKAhxEMQlPgbS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/31fIav9yBFKAhxEMQlPgbS",
+        "id" : "31fIav9yBFKAhxEMQlPgbS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c2acc6a97ca30a4e8d27df7d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c2acc6a97ca30a4e8d27df7d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c2acc6a97ca30a4e8d27df7d",
+          "width" : 64
+        } ],
+        "name" : "That's When I Call Your Name",
+        "release_date" : "2002-02-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:31fIav9yBFKAhxEMQlPgbS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/62ISuJqE42ueZqRij7wwRO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/62ISuJqE42ueZqRij7wwRO",
+        "id" : "62ISuJqE42ueZqRij7wwRO",
+        "name" : "Ervin Lowvell Swan III",
+        "type" : "artist",
+        "uri" : "spotify:artist:62ISuJqE42ueZqRij7wwRO"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 262896,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA370396791"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3HPdTAgxESbSIW7E3teqsF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3HPdTAgxESbSIW7E3teqsF",
+      "id" : "3HPdTAgxESbSIW7E3teqsF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I know the Lord has heard my moan",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8d972d9812d3755ecb3a9482e1cb9283348b7047?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:3HPdTAgxESbSIW7E3teqsF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7CoCw8ImrtW0m3ycH7Pwa2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7CoCw8ImrtW0m3ycH7Pwa2",
+          "id" : "7CoCw8ImrtW0m3ycH7Pwa2",
+          "name" : "Ervin L. Swan III",
+          "type" : "artist",
+          "uri" : "spotify:artist:7CoCw8ImrtW0m3ycH7Pwa2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1l8bGoi368MX3Mh3NIydtM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1l8bGoi368MX3Mh3NIydtM",
+        "id" : "1l8bGoi368MX3Mh3NIydtM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fc40131184d50692f39cb43c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fc40131184d50692f39cb43c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fc40131184d50692f39cb43c",
+          "width" : 64
+        } ],
+        "name" : "That's When I Call Your Name",
+        "release_date" : "2013-02-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1l8bGoi368MX3Mh3NIydtM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CoCw8ImrtW0m3ycH7Pwa2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CoCw8ImrtW0m3ycH7Pwa2",
+        "id" : "7CoCw8ImrtW0m3ycH7Pwa2",
+        "name" : "Ervin L. Swan III",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CoCw8ImrtW0m3ycH7Pwa2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 262853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1387998"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0RtRuovDbapgBXm4PXVdWm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0RtRuovDbapgBXm4PXVdWm",
+      "id" : "0RtRuovDbapgBXm4PXVdWm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Know the Lord Has Heard My Moan",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/32eacec9ff9184babe5aaa3f6a7eb0c4fb0e2af3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0RtRuovDbapgBXm4PXVdWm"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/76PJKS3IQsf4sSayx2taE0",
+          "id" : "76PJKS3IQsf4sSayx2taE0",
+          "name" : "The Hit Crew",
+          "type" : "artist",
+          "uri" : "spotify:artist:76PJKS3IQsf4sSayx2taE0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/60OjoHy7AJbpXbBAEl6qwZ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/60OjoHy7AJbpXbBAEl6qwZ",
+        "id" : "60OjoHy7AJbpXbBAEl6qwZ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27314e6afc8326b13a65ef0e3eb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0214e6afc8326b13a65ef0e3eb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485114e6afc8326b13a65ef0e3eb",
+          "width" : 64
+        } ],
+        "name" : "Praise the Lord: The Best of Christian Gospel, Vol. 3",
+        "release_date" : "2013-02-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:60OjoHy7AJbpXbBAEl6qwZ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/76PJKS3IQsf4sSayx2taE0",
+        "id" : "76PJKS3IQsf4sSayx2taE0",
+        "name" : "The Hit Crew",
+        "type" : "artist",
+        "uri" : "spotify:artist:76PJKS3IQsf4sSayx2taE0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231802,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US85C1219293"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/34558BOwjqJ3YVVmKPIXII"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/34558BOwjqJ3YVVmKPIXII",
+      "id" : "34558BOwjqJ3YVVmKPIXII",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You Know That You Know It",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/08eabb76e6a90a986d522a193cad869d3429f414?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 23,
+      "type" : "track",
+      "uri" : "spotify:track:34558BOwjqJ3YVVmKPIXII"
+    } ],
+    "limit" : 10,
+    "next" : null,
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=You+That+Know+the+Lord&type=track&market=US&offset=0&limit=10",
+    "total" : 14
+  }
+}

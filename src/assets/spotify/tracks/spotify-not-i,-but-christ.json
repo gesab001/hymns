@@ -1,0 +1,726 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Not+I%2C+But+Christ&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+          "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name" : "Frank Sinatra",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3i67sGIVw8EBlgfSRv3Lj2",
+        "id" : "3i67sGIVw8EBlgfSRv3Lj2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b81d66d1416afa139d12767b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b81d66d1416afa139d12767b",
+          "width" : 64
+        } ],
+        "name" : "Nothing But The Best (Remastered)",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name" : "Frank Sinatra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2jFZlvIea42ZvcCw4OeEdA",
+        "id" : "2jFZlvIea42ZvcCw4OeEdA",
+        "name" : "Count Basie",
+        "type" : "artist",
+        "uri" : "spotify:artist:2jFZlvIea42ZvcCw4OeEdA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 175813,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRH10723023"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0mF3Ysmjl4QluLh4sZVnzf"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0mF3Ysmjl4QluLh4sZVnzf",
+      "id" : "0mF3Ysmjl4QluLh4sZVnzf",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Best Is Yet To Come - 2008 Remastered",
+      "popularity" : 42,
+      "preview_url" : null,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0mF3Ysmjl4QluLh4sZVnzf"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5dZiRoY9Vpp6qrxqXNRwPE",
+          "id" : "5dZiRoY9Vpp6qrxqXNRwPE",
+          "name" : "Selah",
+          "type" : "artist",
+          "uri" : "spotify:artist:5dZiRoY9Vpp6qrxqXNRwPE"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0MNSERnoOEmtKVGAodUdao"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0MNSERnoOEmtKVGAodUdao",
+        "id" : "0MNSERnoOEmtKVGAodUdao",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273612b4fabb680d3ab3949be1e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02612b4fabb680d3ab3949be1e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851612b4fabb680d3ab3949be1e",
+          "width" : 64
+        } ],
+        "name" : "Firm Foundation",
+        "release_date" : "2019-11-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:0MNSERnoOEmtKVGAodUdao"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dZiRoY9Vpp6qrxqXNRwPE",
+        "id" : "5dZiRoY9Vpp6qrxqXNRwPE",
+        "name" : "Selah",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dZiRoY9Vpp6qrxqXNRwPE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 291586,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US25L1900377"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7GLyqauZf6uX30n6EnvC0h"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7GLyqauZf6uX30n6EnvC0h",
+      "id" : "7GLyqauZf6uX30n6EnvC0h",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Yet Not I But Through Christ In Me",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ae0206420c811de2ec5daa51ef71162abfe7774c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7GLyqauZf6uX30n6EnvC0h"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+          "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name" : "Frank Sinatra",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3i67sGIVw8EBlgfSRv3Lj2",
+        "id" : "3i67sGIVw8EBlgfSRv3Lj2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b81d66d1416afa139d12767b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b81d66d1416afa139d12767b",
+          "width" : 64
+        } ],
+        "name" : "Nothing But The Best (Remastered)",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name" : "Frank Sinatra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 175586,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRH10800577"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0oeM1wuV8lRBJQg3Emvg9c"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0oeM1wuV8lRBJQg3Emvg9c",
+      "id" : "0oeM1wuV8lRBJQg3Emvg9c",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Call Me Irresponsible - Remastered Album Version",
+      "popularity" : 38,
+      "preview_url" : null,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:0oeM1wuV8lRBJQg3Emvg9c"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+          "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name" : "Frank Sinatra",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3i67sGIVw8EBlgfSRv3Lj2",
+        "id" : "3i67sGIVw8EBlgfSRv3Lj2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b81d66d1416afa139d12767b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b81d66d1416afa139d12767b",
+          "width" : 64
+        } ],
+        "name" : "Nothing But The Best (Remastered)",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name" : "Frank Sinatra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 164826,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRH10723031"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2F8DsV74G8roccHCegEAeE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2F8DsV74G8roccHCegEAeE",
+      "id" : "2F8DsV74G8roccHCegEAeE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Strangers In The Night - Remastered 2008",
+      "popularity" : 38,
+      "preview_url" : null,
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:2F8DsV74G8roccHCegEAeE"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+          "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name" : "Frank Sinatra",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3i67sGIVw8EBlgfSRv3Lj2",
+        "id" : "3i67sGIVw8EBlgfSRv3Lj2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b81d66d1416afa139d12767b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b81d66d1416afa139d12767b",
+          "width" : 64
+        } ],
+        "name" : "Nothing But The Best (Remastered)",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name" : "Frank Sinatra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 266973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRH10723035"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1vLPTWPfJSIrqOhNUWNfNY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1vLPTWPfJSIrqOhNUWNfNY",
+      "id" : "1vLPTWPfJSIrqOhNUWNfNY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "It Was A Very Good Year - Remastered 2008",
+      "popularity" : 39,
+      "preview_url" : null,
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:1vLPTWPfJSIrqOhNUWNfNY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0XnterAMV09fuPjq4joR0c",
+          "id" : "0XnterAMV09fuPjq4joR0c",
+          "name" : "Rita Springer",
+          "type" : "artist",
+          "uri" : "spotify:artist:0XnterAMV09fuPjq4joR0c"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4ZMZAjIUiQa9qMmOT1nSDR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4ZMZAjIUiQa9qMmOT1nSDR",
+        "id" : "4ZMZAjIUiQa9qMmOT1nSDR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273932603564067489e03886d5d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02932603564067489e03886d5d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851932603564067489e03886d5d",
+          "width" : 64
+        } ],
+        "name" : "Worth It All",
+        "release_date" : "2007-10-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:4ZMZAjIUiQa9qMmOT1nSDR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XnterAMV09fuPjq4joR0c",
+        "id" : "0XnterAMV09fuPjq4joR0c",
+        "name" : "Rita Springer",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XnterAMV09fuPjq4joR0c"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 437866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USKO10702710"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6wUuvio0Y25ArLxVStHOwt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6wUuvio0Y25ArLxVStHOwt",
+      "id" : "6wUuvio0Y25ArLxVStHOwt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Christ Alone / Nothing But The Blood",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/113b5022595439569600ff577ae1f17ed77936dc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6wUuvio0Y25ArLxVStHOwt"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3JKSiFPFpKSntu64OwWnIw",
+          "id" : "3JKSiFPFpKSntu64OwWnIw",
+          "name" : "Lifeway Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:3JKSiFPFpKSntu64OwWnIw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/127Z207AKRtEEOa20ieRlj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/127Z207AKRtEEOa20ieRlj",
+        "id" : "127Z207AKRtEEOa20ieRlj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ae6a371411334d6a5924adfc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ae6a371411334d6a5924adfc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ae6a371411334d6a5924adfc",
+          "width" : 64
+        } ],
+        "name" : "Greatest Worship Songs 2020",
+        "release_date" : "2020-05-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:127Z207AKRtEEOa20ieRlj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3JKSiFPFpKSntu64OwWnIw",
+        "id" : "3JKSiFPFpKSntu64OwWnIw",
+        "name" : "Lifeway Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:3JKSiFPFpKSntu64OwWnIw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 329386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USBWZ1900675"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1oUlovUa0M8gwgp44rx7ia"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1oUlovUa0M8gwgp44rx7ia",
+      "id" : "1oUlovUa0M8gwgp44rx7ia",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Yet Not I But Through Christ in Me",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b840fae67995cac44cc618e03e2255deb7100062?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1oUlovUa0M8gwgp44rx7ia"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3JKSiFPFpKSntu64OwWnIw",
+          "id" : "3JKSiFPFpKSntu64OwWnIw",
+          "name" : "Lifeway Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:3JKSiFPFpKSntu64OwWnIw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/77ak45MJz1uR9ZjPB9oHeY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/77ak45MJz1uR9ZjPB9oHeY",
+        "id" : "77ak45MJz1uR9ZjPB9oHeY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a2944ce49f0dc25ae1b3ecdd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a2944ce49f0dc25ae1b3ecdd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a2944ce49f0dc25ae1b3ecdd",
+          "width" : 64
+        } ],
+        "name" : "Top 50 Worship Songs for Personal Devotions",
+        "release_date" : "2020-05-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 50,
+        "type" : "album",
+        "uri" : "spotify:album:77ak45MJz1uR9ZjPB9oHeY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3JKSiFPFpKSntu64OwWnIw",
+        "id" : "3JKSiFPFpKSntu64OwWnIw",
+        "name" : "Lifeway Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:3JKSiFPFpKSntu64OwWnIw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 334106,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USBWZ1900675"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4EQcfGZbl7R3DMo9304UkW"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4EQcfGZbl7R3DMo9304UkW",
+      "id" : "4EQcfGZbl7R3DMo9304UkW",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Yet Not I But Through Christ in Me",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f94913c3afacfdea91924ddb5d0d54d354c3400d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:4EQcfGZbl7R3DMo9304UkW"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1bMkQIx4MpNHLxoylvipdQ",
+          "id" : "1bMkQIx4MpNHLxoylvipdQ",
+          "name" : "The Worship Initiative",
+          "type" : "artist",
+          "uri" : "spotify:artist:1bMkQIx4MpNHLxoylvipdQ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2LFbgsbEhfilNpQYW7mied",
+          "id" : "2LFbgsbEhfilNpQYW7mied",
+          "name" : "Shane & Shane",
+          "type" : "artist",
+          "uri" : "spotify:artist:2LFbgsbEhfilNpQYW7mied"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2djVzi36Y3DdaDBo8FIDzz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2djVzi36Y3DdaDBo8FIDzz",
+        "id" : "2djVzi36Y3DdaDBo8FIDzz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c8b82dce7ed7db2c015231a6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c8b82dce7ed7db2c015231a6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c8b82dce7ed7db2c015231a6",
+          "width" : 64
+        } ],
+        "name" : "The Worship Initiative, Vol. 18 (Accompaniments)",
+        "release_date" : "2020-01-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:2djVzi36Y3DdaDBo8FIDzz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bMkQIx4MpNHLxoylvipdQ",
+        "id" : "1bMkQIx4MpNHLxoylvipdQ",
+        "name" : "The Worship Initiative",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bMkQIx4MpNHLxoylvipdQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2LFbgsbEhfilNpQYW7mied",
+        "id" : "2LFbgsbEhfilNpQYW7mied",
+        "name" : "Shane & Shane",
+        "type" : "artist",
+        "uri" : "spotify:artist:2LFbgsbEhfilNpQYW7mied"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 352086,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM2001221"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3f6IH7eh1P5z6YUMJx8hbr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3f6IH7eh1P5z6YUMJx8hbr",
+      "id" : "3f6IH7eh1P5z6YUMJx8hbr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Yet Not I but Through Christ in Me (Instrumental)",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/204f1b13c9f2663ba720a3428d6c05837ff4b628?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3f6IH7eh1P5z6YUMJx8hbr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+          "id" : "5V0MlUE1Bft0mbLlND7FJz",
+          "name" : "Ella Fitzgerald",
+          "type" : "artist",
+          "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4DuZTASH5eSyd0K73W6fuZ",
+          "id" : "4DuZTASH5eSyd0K73W6fuZ",
+          "name" : "Joe Pass",
+          "type" : "artist",
+          "uri" : "spotify:artist:4DuZTASH5eSyd0K73W6fuZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0XjMuNIHThcE8jHfHO3rYa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0XjMuNIHThcE8jHfHO3rYa",
+        "id" : "0XjMuNIHThcE8jHfHO3rYa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273af1643b08b13ee6088b55d17",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02af1643b08b13ee6088b55d17",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851af1643b08b13ee6088b55d17",
+          "width" : 64
+        } ],
+        "name" : "Fitzgerald & Pass...Again",
+        "release_date" : "1976-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:0XjMuNIHThcE8jHfHO3rYa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+        "id" : "5V0MlUE1Bft0mbLlND7FJz",
+        "name" : "Ella Fitzgerald",
+        "type" : "artist",
+        "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4DuZTASH5eSyd0K73W6fuZ",
+        "id" : "4DuZTASH5eSyd0K73W6fuZ",
+        "name" : "Joe Pass",
+        "type" : "artist",
+        "uri" : "spotify:artist:4DuZTASH5eSyd0K73W6fuZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 246640,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USFI87600173"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/67fKoMzuUQT1cltsSxYFoU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/67fKoMzuUQT1cltsSxYFoU",
+      "id" : "67fKoMzuUQT1cltsSxYFoU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Ain't Got Nothing But The Blues",
+      "popularity" : 26,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:67fKoMzuUQT1cltsSxYFoU"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Not+I%2C+But+Christ&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Not+I%2C+But+Christ&type=track&market=US&offset=0&limit=10",
+    "total" : 238
+  }
+}

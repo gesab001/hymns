@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Power+in+the+Blood&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4q7PS6zi0CyrEo23orQCkW",
+          "id" : "4q7PS6zi0CyrEo23orQCkW",
+          "name" : "Travis Cottrell",
+          "type" : "artist",
+          "uri" : "spotify:artist:4q7PS6zi0CyrEo23orQCkW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0aUpUdpGoIWEfyDaqt2Iiz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0aUpUdpGoIWEfyDaqt2Iiz",
+        "id" : "0aUpUdpGoIWEfyDaqt2Iiz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27378bf0c577148ffe01c3f8322",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0278bf0c577148ffe01c3f8322",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485178bf0c577148ffe01c3f8322",
+          "width" : 64
+        } ],
+        "name" : "When the Stars Burn Down",
+        "release_date" : "2011-11-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0aUpUdpGoIWEfyDaqt2Iiz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4q7PS6zi0CyrEo23orQCkW",
+        "id" : "4q7PS6zi0CyrEo23orQCkW",
+        "name" : "Travis Cottrell",
+        "type" : "artist",
+        "uri" : "spotify:artist:4q7PS6zi0CyrEo23orQCkW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 318640,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q1730631"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/16mVaENE76N1nM3pnwnULI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/16mVaENE76N1nM3pnwnULI",
+      "id" : "16mVaENE76N1nM3pnwnULI",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Power in the Blood",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4fcb6355a69cef6ab2be19e70a110bc237d140e9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:16mVaENE76N1nM3pnwnULI"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4PSu1SQggtYR5cLPHddoOJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4PSu1SQggtYR5cLPHddoOJ",
+          "id" : "4PSu1SQggtYR5cLPHddoOJ",
+          "name" : "Piano Prayer",
+          "type" : "artist",
+          "uri" : "spotify:artist:4PSu1SQggtYR5cLPHddoOJ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/59trvOiqEcO2Xkoc8r6C1h"
+        },
+        "href" : "https://api.spotify.com/v1/albums/59trvOiqEcO2Xkoc8r6C1h",
+        "id" : "59trvOiqEcO2Xkoc8r6C1h",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c6eb8e404e704193c1e9e715",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c6eb8e404e704193c1e9e715",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c6eb8e404e704193c1e9e715",
+          "width" : 64
+        } ],
+        "name" : "Run to the Father",
+        "release_date" : "2020-03-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:59trvOiqEcO2Xkoc8r6C1h"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4PSu1SQggtYR5cLPHddoOJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4PSu1SQggtYR5cLPHddoOJ",
+        "id" : "4PSu1SQggtYR5cLPHddoOJ",
+        "name" : "Piano Prayer",
+        "type" : "artist",
+        "uri" : "spotify:artist:4PSu1SQggtYR5cLPHddoOJ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 344456,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZGWW2068854"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Nv6Q8YXCcwu5n8yLFbHIn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Nv6Q8YXCcwu5n8yLFbHIn",
+      "id" : "3Nv6Q8YXCcwu5n8yLFbHIn",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Power in the Blood",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cd86ed0764bf42cfdb6150e1fa167a6560ed6027?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3Nv6Q8YXCcwu5n8yLFbHIn"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+          "id" : "7dc9jcxR0GgRMoNasStnmZ",
+          "name" : "David Baroni",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/08oXj679XBuPtLB8IhOQ3T"
+        },
+        "href" : "https://api.spotify.com/v1/albums/08oXj679XBuPtLB8IhOQ3T",
+        "id" : "08oXj679XBuPtLB8IhOQ3T",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e8c8e557d36cf3577b8937b1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e8c8e557d36cf3577b8937b1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e8c8e557d36cf3577b8937b1",
+          "width" : 64
+        } ],
+        "name" : "A Quiet Place: Instrumental Hymns, Vol. IV",
+        "release_date" : "2016-01-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:08oXj679XBuPtLB8IhOQ3T"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+        "id" : "7dc9jcxR0GgRMoNasStnmZ",
+        "name" : "David Baroni",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 198947,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1632164"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5GZFQVdDJejf49X7a3Tf3U"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5GZFQVdDJejf49X7a3Tf3U",
+      "id" : "5GZFQVdDJejf49X7a3Tf3U",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Power in the Blood",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ec7a89eace972dacc10d9007dad6b0715d889a5f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5GZFQVdDJejf49X7a3Tf3U"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5iYiRsijHsywlnWC8iHdyx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5iYiRsijHsywlnWC8iHdyx",
+          "id" : "5iYiRsijHsywlnWC8iHdyx",
+          "name" : "Redeemer Presbyterian Church",
+          "type" : "artist",
+          "uri" : "spotify:artist:5iYiRsijHsywlnWC8iHdyx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/22urzO5V2A4JZJGMCEd3oU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/22urzO5V2A4JZJGMCEd3oU",
+        "id" : "22urzO5V2A4JZJGMCEd3oU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730cb575dab9a89338a53e5b55",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020cb575dab9a89338a53e5b55",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510cb575dab9a89338a53e5b55",
+          "width" : 64
+        } ],
+        "name" : "Good News, Vol.1",
+        "release_date" : "2007-09-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:22urzO5V2A4JZJGMCEd3oU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5iYiRsijHsywlnWC8iHdyx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5iYiRsijHsywlnWC8iHdyx",
+        "id" : "5iYiRsijHsywlnWC8iHdyx",
+        "name" : "Redeemer Presbyterian Church",
+        "type" : "artist",
+        "uri" : "spotify:artist:5iYiRsijHsywlnWC8iHdyx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 269000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p0710711"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3DT9yTOy4CvnmwosbkIdkc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3DT9yTOy4CvnmwosbkIdkc",
+      "id" : "3DT9yTOy4CvnmwosbkIdkc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Power In The Blood(Nothing But The Blood Of Jesus)",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/88dcafb9718c1c33e2ee43bc6c1c32b92da184c7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:3DT9yTOy4CvnmwosbkIdkc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6weeLM99JwrUAncX6igRcs",
+          "id" : "6weeLM99JwrUAncX6igRcs",
+          "name" : "Jimmy D Psalmist",
+          "type" : "artist",
+          "uri" : "spotify:artist:6weeLM99JwrUAncX6igRcs"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0Cy8KCcx3vEyN0yOtOoyI3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0Cy8KCcx3vEyN0yOtOoyI3",
+        "id" : "0Cy8KCcx3vEyN0yOtOoyI3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27390d01bd72cde2a3ca844ab9b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0290d01bd72cde2a3ca844ab9b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485190d01bd72cde2a3ca844ab9b",
+          "width" : 64
+        } ],
+        "name" : "Mighty Man Of War",
+        "release_date" : "2017-12-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0Cy8KCcx3vEyN0yOtOoyI3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6weeLM99JwrUAncX6igRcs",
+        "id" : "6weeLM99JwrUAncX6igRcs",
+        "name" : "Jimmy D Psalmist",
+        "type" : "artist",
+        "uri" : "spotify:artist:6weeLM99JwrUAncX6igRcs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 311120,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBLPF0603655"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5F2tEQdMdVrjXvAG3cASt2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5F2tEQdMdVrjXvAG3cASt2",
+      "id" : "5F2tEQdMdVrjXvAG3cASt2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Power In The Blood",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d5971056869d970aa27100fbaa14e59bec02a5c7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:5F2tEQdMdVrjXvAG3cASt2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+          "id" : "4mxWe1mtYIYfP040G38yvS",
+          "name" : "Alan Jackson",
+          "type" : "artist",
+          "uri" : "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7KitNG3Z6NUBXkCiBK1Wvb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7KitNG3Z6NUBXkCiBK1Wvb",
+        "id" : "7KitNG3Z6NUBXkCiBK1Wvb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273927ec4f34778ea985b0e9b2e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02927ec4f34778ea985b0e9b2e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851927ec4f34778ea985b0e9b2e",
+          "width" : 64
+        } ],
+        "name" : "Precious Memories: Vol. II",
+        "release_date" : "2013-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:7KitNG3Z6NUBXkCiBK1Wvb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+        "id" : "4mxWe1mtYIYfP040G38yvS",
+        "name" : "Alan Jackson",
+        "type" : "artist",
+        "uri" : "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 158506,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USCN11300079"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Az30cWGwvOHpsI0eMSwTQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Az30cWGwvOHpsI0eMSwTQ",
+      "id" : "2Az30cWGwvOHpsI0eMSwTQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is Power In The Blood",
+      "popularity" : 41,
+      "preview_url" : null,
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:2Az30cWGwvOHpsI0eMSwTQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5exO2eW84QucBhrRhcK76x",
+          "id" : "5exO2eW84QucBhrRhcK76x",
+          "name" : "Buffy Sainte-Marie",
+          "type" : "artist",
+          "uri" : "spotify:artist:5exO2eW84QucBhrRhcK76x"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4bUeoig4SmWbyiG7KqbcaN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4bUeoig4SmWbyiG7KqbcaN",
+        "id" : "4bUeoig4SmWbyiG7KqbcaN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f744d4511117ca01885de6bd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f744d4511117ca01885de6bd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f744d4511117ca01885de6bd",
+          "width" : 64
+        } ],
+        "name" : "Power In The Blood",
+        "release_date" : "2015-05-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4bUeoig4SmWbyiG7KqbcaN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5exO2eW84QucBhrRhcK76x",
+        "id" : "5exO2eW84QucBhrRhcK76x",
+        "name" : "Buffy Sainte-Marie",
+        "type" : "artist",
+        "uri" : "spotify:artist:5exO2eW84QucBhrRhcK76x"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 243418,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAT241500002"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6teiPkYrKJCNGeYS14AVFH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6teiPkYrKJCNGeYS14AVFH",
+      "id" : "6teiPkYrKJCNGeYS14AVFH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Power In The Blood",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ef43e93eb7010bc46f15a942353caa3b387dcd65?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6teiPkYrKJCNGeYS14AVFH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+          "id" : "32DWM2tctxuDatAYWHjCtC",
+          "name" : "Hymns on Piano",
+          "type" : "artist",
+          "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5fQB6By4CMRW3x9z8htgwx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5fQB6By4CMRW3x9z8htgwx",
+        "id" : "5fQB6By4CMRW3x9z8htgwx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cdaab5da231683ce044564f9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cdaab5da231683ce044564f9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cdaab5da231683ce044564f9",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Worship, Vol. 5",
+        "release_date" : "2017-09-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5fQB6By4CMRW3x9z8htgwx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+        "id" : "32DWM2tctxuDatAYWHjCtC",
+        "name" : "Hymns on Piano",
+        "type" : "artist",
+        "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 234498,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ22B1833437"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/78D1z6RgRyLBQ7CuXvzWa4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/78D1z6RgRyLBQ7CuXvzWa4",
+      "id" : "78D1z6RgRyLBQ7CuXvzWa4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is Power in the Blood",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ede232f6aa68b94b29bc3bcb9f27da8d5c2a9ece?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:78D1z6RgRyLBQ7CuXvzWa4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+          "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+          "name" : "Anthem Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/18we0y1PK9lt3Qneye6ciV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/18we0y1PK9lt3Qneye6ciV",
+        "id" : "18we0y1PK9lt3Qneye6ciV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dafdd3fa96666ede04d6bbcb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dafdd3fa96666ede04d6bbcb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dafdd3fa96666ede04d6bbcb",
+          "width" : 64
+        } ],
+        "name" : "Hymns, Vol. II",
+        "release_date" : "2018-03-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:18we0y1PK9lt3Qneye6ciV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+        "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+        "name" : "Anthem Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 125921,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921850015"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1WvEbDeQ0VaeweAHdNfy4T"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1WvEbDeQ0VaeweAHdNfy4T",
+      "id" : "1WvEbDeQ0VaeweAHdNfy4T",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Blood Medley: Victory in Jesus / Are You Washed in the Blood? / Nothing but the Blood of Jesus / Power in the Blood",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/81cb2d5cd0762b7bf270e1d710c8dcb1b4ab973a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:1WvEbDeQ0VaeweAHdNfy4T"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7cI6JpPjdbp5dB1cGTxp94"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7cI6JpPjdbp5dB1cGTxp94",
+          "id" : "7cI6JpPjdbp5dB1cGTxp94",
+          "name" : "Samuel Ljungblahd",
+          "type" : "artist",
+          "uri" : "spotify:artist:7cI6JpPjdbp5dB1cGTxp94"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4FVW6rHguXFwmN02q7B6HQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4FVW6rHguXFwmN02q7B6HQ",
+        "id" : "4FVW6rHguXFwmN02q7B6HQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f0fbaf326967a30acb1f389c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f0fbaf326967a30acb1f389c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f0fbaf326967a30acb1f389c",
+          "width" : 64
+        } ],
+        "name" : "The Psalmist",
+        "release_date" : "2015-04-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4FVW6rHguXFwmN02q7B6HQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7cI6JpPjdbp5dB1cGTxp94"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7cI6JpPjdbp5dB1cGTxp94",
+        "id" : "7cI6JpPjdbp5dB1cGTxp94",
+        "name" : "Samuel Ljungblahd",
+        "type" : "artist",
+        "uri" : "spotify:artist:7cI6JpPjdbp5dB1cGTxp94"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 283946,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEVPA1500104"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6hBvO0WowfATRs9OKN7SM9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6hBvO0WowfATRs9OKN7SM9",
+      "id" : "6hBvO0WowfATRs9OKN7SM9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Power in the Blood",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5edfa92b536c3ccbdd45d30b13db4a2963ec86be?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6hBvO0WowfATRs9OKN7SM9"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Power+in+the+Blood&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Power+in+the+Blood&type=track&market=US&offset=0&limit=10",
+    "total" : 1019
+  }
+}

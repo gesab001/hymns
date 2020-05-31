@@ -1,0 +1,699 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=This+is+My+Father%E2%80%99s+World&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0vD3f3r69jBB1bL6VWnGM2",
+          "id" : "0vD3f3r69jBB1bL6VWnGM2",
+          "name" : "Chris Rice",
+          "type" : "artist",
+          "uri" : "spotify:artist:0vD3f3r69jBB1bL6VWnGM2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4XDj1573h0qRdkUNPiJKVP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4XDj1573h0qRdkUNPiJKVP",
+        "id" : "4XDj1573h0qRdkUNPiJKVP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731ff0913a6c9cb48c8611c552",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021ff0913a6c9cb48c8611c552",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511ff0913a6c9cb48c8611c552",
+          "width" : 64
+        } ],
+        "name" : "Untitled Hymn: A Collection of Hymns",
+        "release_date" : "2019-05-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4XDj1573h0qRdkUNPiJKVP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0vD3f3r69jBB1bL6VWnGM2",
+        "id" : "0vD3f3r69jBB1bL6VWnGM2",
+        "name" : "Chris Rice",
+        "type" : "artist",
+        "uri" : "spotify:artist:0vD3f3r69jBB1bL6VWnGM2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 172946,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USM2C1801406"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4ipVxFW75zXceushTlxpZH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4ipVxFW75zXceushTlxpZH",
+      "id" : "4ipVxFW75zXceushTlxpZH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/95065af944503a896d72ac5e024c98e102cec346?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:4ipVxFW75zXceushTlxpZH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0I4Bk2s2BUJyykCwtxx8Xx",
+          "id" : "0I4Bk2s2BUJyykCwtxx8Xx",
+          "name" : "Keith & Kristyn Getty",
+          "type" : "artist",
+          "uri" : "spotify:artist:0I4Bk2s2BUJyykCwtxx8Xx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7B7T6Cqj9VNvkP2ZPpBXZ7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7B7T6Cqj9VNvkP2ZPpBXZ7",
+        "id" : "7B7T6Cqj9VNvkP2ZPpBXZ7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730e7ff10b3052343004c525fa",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020e7ff10b3052343004c525fa",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510e7ff10b3052343004c525fa",
+          "width" : 64
+        } ],
+        "name" : "Getty Kids Hymnal – Family Hymn Sing",
+        "release_date" : "2018-09-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:7B7T6Cqj9VNvkP2ZPpBXZ7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0I4Bk2s2BUJyykCwtxx8Xx",
+        "id" : "0I4Bk2s2BUJyykCwtxx8Xx",
+        "name" : "Keith & Kristyn Getty",
+        "type" : "artist",
+        "uri" : "spotify:artist:0I4Bk2s2BUJyykCwtxx8Xx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 173377,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USY5K1800152"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5iWJ0Iwv0casb655RIXEmu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5iWJ0Iwv0casb655RIXEmu",
+      "id" : "5iWJ0Iwv0casb655RIXEmu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World",
+      "popularity" : 30,
+      "preview_url" : null,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:5iWJ0Iwv0casb655RIXEmu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0uIyzjmP48YI0dpgdAjdeI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0uIyzjmP48YI0dpgdAjdeI",
+          "id" : "0uIyzjmP48YI0dpgdAjdeI",
+          "name" : "The Praise Baby Collection",
+          "type" : "artist",
+          "uri" : "spotify:artist:0uIyzjmP48YI0dpgdAjdeI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2zG1nHENk1Rmp6yyHXqHjW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2zG1nHENk1Rmp6yyHXqHjW",
+        "id" : "2zG1nHENk1Rmp6yyHXqHjW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738794bbd098968a8c61c35636",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028794bbd098968a8c61c35636",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518794bbd098968a8c61c35636",
+          "width" : 64
+        } ],
+        "name" : "Forever Reign",
+        "release_date" : "2012-10-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2zG1nHENk1Rmp6yyHXqHjW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0uIyzjmP48YI0dpgdAjdeI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0uIyzjmP48YI0dpgdAjdeI",
+        "id" : "0uIyzjmP48YI0dpgdAjdeI",
+        "name" : "The Praise Baby Collection",
+        "type" : "artist",
+        "uri" : "spotify:artist:0uIyzjmP48YI0dpgdAjdeI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 181840,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USFLK0400206"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6jXmG44OPz4MoMQBUkgHv4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6jXmG44OPz4MoMQBUkgHv4",
+      "id" : "6jXmG44OPz4MoMQBUkgHv4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4022bc5eb4f873a80acd207f316d6ad83ec97c23?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6jXmG44OPz4MoMQBUkgHv4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5EAAeAomSu7La5REQJhrUw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5EAAeAomSu7La5REQJhrUw",
+          "id" : "5EAAeAomSu7La5REQJhrUw",
+          "name" : "Jason Wright",
+          "type" : "artist",
+          "uri" : "spotify:artist:5EAAeAomSu7La5REQJhrUw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7uJlJ1oOxViTyBJBnuLPep"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7uJlJ1oOxViTyBJBnuLPep",
+        "id" : "7uJlJ1oOxViTyBJBnuLPep",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ce229f287667a733994887da",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ce229f287667a733994887da",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ce229f287667a733994887da",
+          "width" : 64
+        } ],
+        "name" : "Heavenward",
+        "release_date" : "2007-05-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:7uJlJ1oOxViTyBJBnuLPep"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5EAAeAomSu7La5REQJhrUw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5EAAeAomSu7La5REQJhrUw",
+        "id" : "5EAAeAomSu7La5REQJhrUw",
+        "name" : "Jason Wright",
+        "type" : "artist",
+        "uri" : "spotify:artist:5EAAeAomSu7La5REQJhrUw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 225560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx7v0700012"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/53Y2qvs7ZV1lW4xpFTOTUy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/53Y2qvs7ZV1lW4xpFTOTUy",
+      "id" : "53Y2qvs7ZV1lW4xpFTOTUy",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c2a02a31de559c2e568688e75a61707edeb584c1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:53Y2qvs7ZV1lW4xpFTOTUy"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+          "id" : "32DWM2tctxuDatAYWHjCtC",
+          "name" : "Hymns on Piano",
+          "type" : "artist",
+          "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6dXrvNudBlYNwLurcV47WZ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6dXrvNudBlYNwLurcV47WZ",
+        "id" : "6dXrvNudBlYNwLurcV47WZ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733e27d563a49a2564bed32a12",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023e27d563a49a2564bed32a12",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513e27d563a49a2564bed32a12",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Thanksgiving - Volume 1",
+        "release_date" : "2015-11-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:6dXrvNudBlYNwLurcV47WZ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+        "id" : "32DWM2tctxuDatAYWHjCtC",
+        "name" : "Hymns on Piano",
+        "type" : "artist",
+        "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174509,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USE831519260"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Uxckartobabn6m9kpUnv2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Uxckartobabn6m9kpUnv2",
+      "id" : "1Uxckartobabn6m9kpUnv2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World (Terra Beata)",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f6594aa842d9cc04e816e2ca3e09f5ffae372e81?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1Uxckartobabn6m9kpUnv2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2AQVIbXzroJV8VBwKdy7Pc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2AQVIbXzroJV8VBwKdy7Pc",
+          "id" : "2AQVIbXzroJV8VBwKdy7Pc",
+          "name" : "Wilder Adkins",
+          "type" : "artist",
+          "uri" : "spotify:artist:2AQVIbXzroJV8VBwKdy7Pc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0JmOjAuq7M5sGEoIvZfJ6T"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0JmOjAuq7M5sGEoIvZfJ6T",
+        "id" : "0JmOjAuq7M5sGEoIvZfJ6T",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c7739eb5375fc0a2334a8973",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c7739eb5375fc0a2334a8973",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c7739eb5375fc0a2334a8973",
+          "width" : 64
+        } ],
+        "name" : "Oak & Apple",
+        "release_date" : "2011-10-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0JmOjAuq7M5sGEoIvZfJ6T"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2AQVIbXzroJV8VBwKdy7Pc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2AQVIbXzroJV8VBwKdy7Pc",
+        "id" : "2AQVIbXzroJV8VBwKdy7Pc",
+        "name" : "Wilder Adkins",
+        "type" : "artist",
+        "uri" : "spotify:artist:2AQVIbXzroJV8VBwKdy7Pc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 258906,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91100884"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0vdJDNFEZCZe6sZ7NzvdbU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0vdJDNFEZCZe6sZ7NzvdbU",
+      "id" : "0vdJDNFEZCZe6sZ7NzvdbU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ac73b7b81a6a90d9c2f90e2dcf6f1291159f65d0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0vdJDNFEZCZe6sZ7NzvdbU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0cylxW7HGdK9xMdubw2oYW",
+          "id" : "0cylxW7HGdK9xMdubw2oYW",
+          "name" : "The O'Neill Brothers Group",
+          "type" : "artist",
+          "uri" : "spotify:artist:0cylxW7HGdK9xMdubw2oYW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4vxX8g6W271QU5MidNrat8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4vxX8g6W271QU5MidNrat8",
+        "id" : "4vxX8g6W271QU5MidNrat8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273eff77d47e8ad0c3a91142ef9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02eff77d47e8ad0c3a91142ef9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851eff77d47e8ad0c3a91142ef9",
+          "width" : 64
+        } ],
+        "name" : "Christian Piano Songs: This Is My Father's World",
+        "release_date" : "2013-01-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4vxX8g6W271QU5MidNrat8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K7pmz8QeBKWsA3Ty8j3qI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K7pmz8QeBKWsA3Ty8j3qI",
+        "id" : "5K7pmz8QeBKWsA3Ty8j3qI",
+        "name" : "The O'Neil Brothers Group",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K7pmz8QeBKWsA3Ty8j3qI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 225560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USCHR1310655"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6u6M5VTJLfRaZhEzTveznt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6u6M5VTJLfRaZhEzTveznt",
+      "id" : "6u6M5VTJLfRaZhEzTveznt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a1429f2fd423458ebf27f510407f6ea340812ac?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6u6M5VTJLfRaZhEzTveznt"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3PAoiSw2HBTCzSxo84weZ4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3PAoiSw2HBTCzSxo84weZ4",
+          "id" : "3PAoiSw2HBTCzSxo84weZ4",
+          "name" : "Chun Jiyoun",
+          "type" : "artist",
+          "uri" : "spotify:artist:3PAoiSw2HBTCzSxo84weZ4"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3nXTY7Bkz0gpGfxUPhOdTP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3nXTY7Bkz0gpGfxUPhOdTP",
+          "id" : "3nXTY7Bkz0gpGfxUPhOdTP",
+          "name" : "KTG Park Sanghyun",
+          "type" : "artist",
+          "uri" : "spotify:artist:3nXTY7Bkz0gpGfxUPhOdTP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3MDKpvj3cXY7q2o7fmqwE7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3MDKpvj3cXY7q2o7fmqwE7",
+        "id" : "3MDKpvj3cXY7q2o7fmqwE7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736f878ea2905c2a1231d94a00",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026f878ea2905c2a1231d94a00",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516f878ea2905c2a1231d94a00",
+          "width" : 64
+        } ],
+        "name" : "Instrumental Hymns",
+        "release_date" : "2016-03-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:3MDKpvj3cXY7q2o7fmqwE7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PAoiSw2HBTCzSxo84weZ4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PAoiSw2HBTCzSxo84weZ4",
+        "id" : "3PAoiSw2HBTCzSxo84weZ4",
+        "name" : "Chun Jiyoun",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PAoiSw2HBTCzSxo84weZ4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nXTY7Bkz0gpGfxUPhOdTP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nXTY7Bkz0gpGfxUPhOdTP",
+        "id" : "3nXTY7Bkz0gpGfxUPhOdTP",
+        "name" : "KTG Park Sanghyun",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nXTY7Bkz0gpGfxUPhOdTP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 237874,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRA031212623"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7BtxSjX6IRdgxej6ir7uP1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7BtxSjX6IRdgxej6ir7uP1",
+      "id" : "7BtxSjX6IRdgxej6ir7uP1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e4cff74449336874c744127256204af07f9fb026?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:7BtxSjX6IRdgxej6ir7uP1"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+          "id" : "4QKx7KohkWZAOkO4sI3GRx",
+          "name" : "VeggieTales",
+          "type" : "artist",
+          "uri" : "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7DCaLcwncrvL3Tutchzobe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7DCaLcwncrvL3Tutchzobe",
+        "id" : "7DCaLcwncrvL3Tutchzobe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a1c03a71230169132303a11c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a1c03a71230169132303a11c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a1c03a71230169132303a11c",
+          "width" : 64
+        } ],
+        "name" : "25 Favorite Lullaby Songs!",
+        "release_date" : "2009-10-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:7DCaLcwncrvL3Tutchzobe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+        "id" : "4QKx7KohkWZAOkO4sI3GRx",
+        "name" : "VeggieTales",
+        "type" : "artist",
+        "uri" : "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 173360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4EW0700008"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0lVHu4kNctKIUKbw18zGhN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0lVHu4kNctKIUKbw18zGhN",
+      "id" : "0lVHu4kNctKIUKbw18zGhN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World",
+      "popularity" : 24,
+      "preview_url" : null,
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:0lVHu4kNctKIUKbw18zGhN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0MCU2OpgnSB7rm5UPUMHgt",
+          "id" : "0MCU2OpgnSB7rm5UPUMHgt",
+          "name" : "Cedarmont Kids",
+          "type" : "artist",
+          "uri" : "spotify:artist:0MCU2OpgnSB7rm5UPUMHgt"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6IsMuKCzRSdfK9uRNq5Bfd",
+        "id" : "6IsMuKCzRSdfK9uRNq5Bfd",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739e6ce337aa67d1f0162a5ba4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029e6ce337aa67d1f0162a5ba4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519e6ce337aa67d1f0162a5ba4",
+          "width" : 64
+        } ],
+        "name" : "Hymns",
+        "release_date" : "1997-07-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 32,
+        "type" : "album",
+        "uri" : "spotify:album:6IsMuKCzRSdfK9uRNq5Bfd"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0MCU2OpgnSB7rm5UPUMHgt",
+        "id" : "0MCU2OpgnSB7rm5UPUMHgt",
+        "name" : "Cedarmont Kids",
+        "type" : "artist",
+        "uri" : "spotify:artist:0MCU2OpgnSB7rm5UPUMHgt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 143773,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA5W0400438"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4Bu9EuqQexHbydzSOQZEI2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4Bu9EuqQexHbydzSOQZEI2",
+      "id" : "4Bu9EuqQexHbydzSOQZEI2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Is My Father's World",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8d8546b5a2879935b18babbb7770d514111b94be?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4Bu9EuqQexHbydzSOQZEI2"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=This+is+My+Father%E2%80%99s+World&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=This+is+My+Father%E2%80%99s+World&type=track&market=US&offset=0&limit=10",
+    "total" : 993
+  }
+}

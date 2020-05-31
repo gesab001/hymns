@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+Need+the+Prayers&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2OmbA7QlIOP6jrevUft2BG",
+          "id" : "2OmbA7QlIOP6jrevUft2BG",
+          "name" : "Greater Vision",
+          "type" : "artist",
+          "uri" : "spotify:artist:2OmbA7QlIOP6jrevUft2BG"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0ib0EaUUCTkAgD1P3xBMiK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0ib0EaUUCTkAgD1P3xBMiK",
+        "id" : "0ib0EaUUCTkAgD1P3xBMiK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736cfcf923936b2a7afa746da5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026cfcf923936b2a7afa746da5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516cfcf923936b2a7afa746da5",
+          "width" : 64
+        } ],
+        "name" : "Songs of the 1900s (feat. Gene McDonald)",
+        "release_date" : "2011-05-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0ib0EaUUCTkAgD1P3xBMiK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OmbA7QlIOP6jrevUft2BG",
+        "id" : "2OmbA7QlIOP6jrevUft2BG",
+        "name" : "Greater Vision",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OmbA7QlIOP6jrevUft2BG"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 196520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3U81100141"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2e0mJNUGDDnzZRoGed6RuD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2e0mJNUGDDnzZRoGed6RuD",
+      "id" : "2e0mJNUGDDnzZRoGed6RuD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need the Prayers of Those I Love",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3582de3cdeb6213a7eebd1ea9568c52f5c37e894?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:2e0mJNUGDDnzZRoGed6RuD"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3x9g0iyE0GWSpYpC102G6H"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3x9g0iyE0GWSpYpC102G6H",
+          "id" : "3x9g0iyE0GWSpYpC102G6H",
+          "name" : "Bluegrass Martins",
+          "type" : "artist",
+          "uri" : "spotify:artist:3x9g0iyE0GWSpYpC102G6H"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1DTyCDiQiZKR6FzdpbCBed"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1DTyCDiQiZKR6FzdpbCBed",
+        "id" : "1DTyCDiQiZKR6FzdpbCBed",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27304132a6745fc6808dff35047",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0204132a6745fc6808dff35047",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485104132a6745fc6808dff35047",
+          "width" : 64
+        } ],
+        "name" : "Turn Back The Years",
+        "release_date" : "2013-09-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:1DTyCDiQiZKR6FzdpbCBed"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3x9g0iyE0GWSpYpC102G6H"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3x9g0iyE0GWSpYpC102G6H",
+        "id" : "3x9g0iyE0GWSpYpC102G6H",
+        "name" : "Bluegrass Martins",
+        "type" : "artist",
+        "uri" : "spotify:artist:3x9g0iyE0GWSpYpC102G6H"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 207480,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91312389"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1si6eeS9f07rClwQYSLCUT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1si6eeS9f07rClwQYSLCUT",
+      "id" : "1si6eeS9f07rClwQYSLCUT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need the Prayers",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cf829218a48e9d00eead4bd248a789bd7fdbe4ea?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1si6eeS9f07rClwQYSLCUT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/62FDV6cSw04NmXcuTdZoIl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/62FDV6cSw04NmXcuTdZoIl",
+          "id" : "62FDV6cSw04NmXcuTdZoIl",
+          "name" : "Wayne Raney",
+          "type" : "artist",
+          "uri" : "spotify:artist:62FDV6cSw04NmXcuTdZoIl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5UevmVXe7Bb44g3ijjBt7s"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5UevmVXe7Bb44g3ijjBt7s",
+        "id" : "5UevmVXe7Bb44g3ijjBt7s",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273859263a17e05df9f974d4359",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02859263a17e05df9f974d4359",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851859263a17e05df9f974d4359",
+          "width" : 64
+        } ],
+        "name" : "20 Old Time Gospel Favorites",
+        "release_date" : "2005",
+        "release_date_precision" : "year",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:5UevmVXe7Bb44g3ijjBt7s"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/62FDV6cSw04NmXcuTdZoIl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/62FDV6cSw04NmXcuTdZoIl",
+        "id" : "62FDV6cSw04NmXcuTdZoIl",
+        "name" : "Wayne Raney",
+        "type" : "artist",
+        "uri" : "spotify:artist:62FDV6cSw04NmXcuTdZoIl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 152346,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USACU0509037"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3y5XyQ2zHyf1Srx5Mq4t9L"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3y5XyQ2zHyf1Srx5Mq4t9L",
+      "id" : "3y5XyQ2zHyf1Srx5Mq4t9L",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need The Prayers",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8e0ae8c00118f4266aa43c3021a9a275d9c12347?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3y5XyQ2zHyf1Srx5Mq4t9L"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7JR379NHp71w90lezz43YD"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7JR379NHp71w90lezz43YD",
+          "id" : "7JR379NHp71w90lezz43YD",
+          "name" : "The England Brothers",
+          "type" : "artist",
+          "uri" : "spotify:artist:7JR379NHp71w90lezz43YD"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4u9qaovMGqNaTURIGxQlz8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4u9qaovMGqNaTURIGxQlz8",
+        "id" : "4u9qaovMGqNaTURIGxQlz8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735cc819716e31638af21d0fb5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025cc819716e31638af21d0fb5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515cc819716e31638af21d0fb5",
+          "width" : 64
+        } ],
+        "name" : "Twilight in Alabama",
+        "release_date" : "2016-02-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:4u9qaovMGqNaTURIGxQlz8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7JR379NHp71w90lezz43YD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7JR379NHp71w90lezz43YD",
+        "id" : "7JR379NHp71w90lezz43YD",
+        "name" : "The England Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7JR379NHp71w90lezz43YD"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 227850,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1697460"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4lCXStqdw6VQqeIJVFdAV9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4lCXStqdw6VQqeIJVFdAV9",
+      "id" : "4lCXStqdw6VQqeIJVFdAV9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need the Prayers",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e53c0eda20cc7683c5474a1ffc1a327497c3b816?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:4lCXStqdw6VQqeIJVFdAV9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/70pg8ha5rPhpNKBhcdltbY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/70pg8ha5rPhpNKBhcdltbY",
+          "id" : "70pg8ha5rPhpNKBhcdltbY",
+          "name" : "Rual Yarbrough",
+          "type" : "artist",
+          "uri" : "spotify:artist:70pg8ha5rPhpNKBhcdltbY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3AVjXVobxTVdPRbOY2ko5j"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3AVjXVobxTVdPRbOY2ko5j",
+        "id" : "3AVjXVobxTVdPRbOY2ko5j",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27393cf84d3c26510527dd66e85",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0293cf84d3c26510527dd66e85",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485193cf84d3c26510527dd66e85",
+          "width" : 64
+        } ],
+        "name" : "The Greatest Day of My Life",
+        "release_date" : "1973",
+        "release_date_precision" : "year",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:3AVjXVobxTVdPRbOY2ko5j"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/70pg8ha5rPhpNKBhcdltbY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/70pg8ha5rPhpNKBhcdltbY",
+        "id" : "70pg8ha5rPhpNKBhcdltbY",
+        "name" : "Rual Yarbrough",
+        "type" : "artist",
+        "uri" : "spotify:artist:70pg8ha5rPhpNKBhcdltbY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/13pyuvTMvT32VboefnusdK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/13pyuvTMvT32VboefnusdK",
+        "id" : "13pyuvTMvT32VboefnusdK",
+        "name" : "The Dixiemen",
+        "type" : "artist",
+        "uri" : "spotify:artist:13pyuvTMvT32VboefnusdK"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ22B1975799"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5w2UAyMh0Z3Kil1nW1shpy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5w2UAyMh0Z3Kil1nW1shpy",
+      "id" : "5w2UAyMh0Z3Kil1nW1shpy",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need the Prayers",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/eb5e48ad8744743c3185ccdf9c59059d196817ac?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:5w2UAyMh0Z3Kil1nW1shpy"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5HM53quAGtuFmztsHm0e2I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5HM53quAGtuFmztsHm0e2I",
+          "id" : "5HM53quAGtuFmztsHm0e2I",
+          "name" : "Larry Stephenson",
+          "type" : "artist",
+          "uri" : "spotify:artist:5HM53quAGtuFmztsHm0e2I"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4w1fXzfcAjYmSgPMnok4VX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4w1fXzfcAjYmSgPMnok4VX",
+        "id" : "4w1fXzfcAjYmSgPMnok4VX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736a0617fd6d18e6f9cc96bbc7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026a0617fd6d18e6f9cc96bbc7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516a0617fd6d18e6f9cc96bbc7",
+          "width" : 64
+        } ],
+        "name" : "Thankful",
+        "release_date" : "2006-09-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4w1fXzfcAjYmSgPMnok4VX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5HM53quAGtuFmztsHm0e2I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5HM53quAGtuFmztsHm0e2I",
+        "id" : "5HM53quAGtuFmztsHm0e2I",
+        "name" : "Larry Stephenson",
+        "type" : "artist",
+        "uri" : "spotify:artist:5HM53quAGtuFmztsHm0e2I"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 213960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USPR90716105"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2KhTfgkNmDRBF4zDF3nmwu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2KhTfgkNmDRBF4zDF3nmwu",
+      "id" : "2KhTfgkNmDRBF4zDF3nmwu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need The Prayers",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8c7290e2acaa1ff8be854e087756c49b98d61e9c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:2KhTfgkNmDRBF4zDF3nmwu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5v068ufhr6caotaVjTZqGm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5v068ufhr6caotaVjTZqGm",
+          "id" : "5v068ufhr6caotaVjTZqGm",
+          "name" : "Voices For Christ",
+          "type" : "artist",
+          "uri" : "spotify:artist:5v068ufhr6caotaVjTZqGm"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5j5iSvyPHEIAViti1rISvc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5j5iSvyPHEIAViti1rISvc",
+        "id" : "5j5iSvyPHEIAViti1rISvc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27307646b289e3b536d1b6a08bf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0207646b289e3b536d1b6a08bf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485107646b289e3b536d1b6a08bf",
+          "width" : 64
+        } ],
+        "name" : "Grace Alone",
+        "release_date" : "2018-05-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:5j5iSvyPHEIAViti1rISvc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5v068ufhr6caotaVjTZqGm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5v068ufhr6caotaVjTZqGm",
+        "id" : "5v068ufhr6caotaVjTZqGm",
+        "name" : "Voices For Christ",
+        "type" : "artist",
+        "uri" : "spotify:artist:5v068ufhr6caotaVjTZqGm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 254457,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADQ1816426"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5G3HVjixJjFmHWlSBm21AB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5G3HVjixJjFmHWlSBm21AB",
+      "id" : "5G3HVjixJjFmHWlSBm21AB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need the Prayers",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1e449cf71a0b549990abbfddc75ed0c397959556?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:5G3HVjixJjFmHWlSBm21AB"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5yqcfQJB6S4uTWjL0wqZkr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5yqcfQJB6S4uTWjL0wqZkr",
+          "id" : "5yqcfQJB6S4uTWjL0wqZkr",
+          "name" : "Bridget Blucher",
+          "type" : "artist",
+          "uri" : "spotify:artist:5yqcfQJB6S4uTWjL0wqZkr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2OT1mUrucTiinAx5aPa5H7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2OT1mUrucTiinAx5aPa5H7",
+        "id" : "2OT1mUrucTiinAx5aPa5H7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273265373f48837f69447f2538f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02265373f48837f69447f2538f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851265373f48837f69447f2538f",
+          "width" : 64
+        } ],
+        "name" : "Something New",
+        "release_date" : "2005-06-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2OT1mUrucTiinAx5aPa5H7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5yqcfQJB6S4uTWjL0wqZkr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5yqcfQJB6S4uTWjL0wqZkr",
+        "id" : "5yqcfQJB6S4uTWjL0wqZkr",
+        "name" : "Bridget Blucher",
+        "type" : "artist",
+        "uri" : "spotify:artist:5yqcfQJB6S4uTWjL0wqZkr"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 214773,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQY50913605"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2ui0RTr232bEqpWGdHUfDN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2ui0RTr232bEqpWGdHUfDN",
+      "id" : "2ui0RTr232bEqpWGdHUfDN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need the Prayers",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cc60ef3bb2390b36184fabe0a3697ac36a1600b6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:2ui0RTr232bEqpWGdHUfDN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4ZnkNGpYSX00OJd3GkbLPB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4ZnkNGpYSX00OJd3GkbLPB",
+          "id" : "4ZnkNGpYSX00OJd3GkbLPB",
+          "name" : "The Anita Fisher Band with Ray Deaton",
+          "type" : "artist",
+          "uri" : "spotify:artist:4ZnkNGpYSX00OJd3GkbLPB"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/22zl00SEwBuwUMGbyWTtns"
+          },
+          "href" : "https://api.spotify.com/v1/artists/22zl00SEwBuwUMGbyWTtns",
+          "id" : "22zl00SEwBuwUMGbyWTtns",
+          "name" : "Ray Deaton",
+          "type" : "artist",
+          "uri" : "spotify:artist:22zl00SEwBuwUMGbyWTtns"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0rtgd63RMJp1bQNduDlobP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0rtgd63RMJp1bQNduDlobP",
+        "id" : "0rtgd63RMJp1bQNduDlobP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27315daa6b434a341a691ff764e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0215daa6b434a341a691ff764e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485115daa6b434a341a691ff764e",
+          "width" : 64
+        } ],
+        "name" : "It's Amazing What a Prayer Can Do",
+        "release_date" : "2008-09-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0rtgd63RMJp1bQNduDlobP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/65EQ8AwJGJd6Ils9oPEem1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/65EQ8AwJGJd6Ils9oPEem1",
+        "id" : "65EQ8AwJGJd6Ils9oPEem1",
+        "name" : "The Anita Fisher Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:65EQ8AwJGJd6Ils9oPEem1"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22zl00SEwBuwUMGbyWTtns"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22zl00SEwBuwUMGbyWTtns",
+        "id" : "22zl00SEwBuwUMGbyWTtns",
+        "name" : "Ray Deaton",
+        "type" : "artist",
+        "uri" : "spotify:artist:22zl00SEwBuwUMGbyWTtns"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 245746,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQ2S0810041"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1F8Fxy6SAJCZkSpxJbAThL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1F8Fxy6SAJCZkSpxJbAThL",
+      "id" : "1F8Fxy6SAJCZkSpxJbAThL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need the Prayers",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/634b02aeddadebb836a5bf1057e194abada5fff0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:1F8Fxy6SAJCZkSpxJbAThL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/62FDV6cSw04NmXcuTdZoIl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/62FDV6cSw04NmXcuTdZoIl",
+          "id" : "62FDV6cSw04NmXcuTdZoIl",
+          "name" : "Wayne Raney",
+          "type" : "artist",
+          "uri" : "spotify:artist:62FDV6cSw04NmXcuTdZoIl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5KSSoWCiTincO8UyjlEOtQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5KSSoWCiTincO8UyjlEOtQ",
+        "id" : "5KSSoWCiTincO8UyjlEOtQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27391cd083939c92461c6603e32",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0291cd083939c92461c6603e32",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485191cd083939c92461c6603e32",
+          "width" : 64
+        } ],
+        "name" : "16 Radio Gospel Favorites",
+        "release_date" : "2005",
+        "release_date_precision" : "year",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:5KSSoWCiTincO8UyjlEOtQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/62FDV6cSw04NmXcuTdZoIl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/62FDV6cSw04NmXcuTdZoIl",
+        "id" : "62FDV6cSw04NmXcuTdZoIl",
+        "name" : "Wayne Raney",
+        "type" : "artist",
+        "uri" : "spotify:artist:62FDV6cSw04NmXcuTdZoIl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 148840,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USACU0509037"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4FaMFfktN5x1m2I027EUvx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4FaMFfktN5x1m2I027EUvx",
+      "id" : "4FaMFfktN5x1m2I027EUvx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Need The Prayers",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7bf8640d9e7125274da9a9e3cf543d71ceb87b81?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:4FaMFfktN5x1m2I027EUvx"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=I+Need+the+Prayers&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=I+Need+the+Prayers&type=track&market=US&offset=0&limit=10",
+    "total" : 34
+  }
+}

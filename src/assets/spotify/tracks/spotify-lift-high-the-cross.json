@@ -1,0 +1,735 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Lift+High+the+Cross&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0cylxW7HGdK9xMdubw2oYW",
+          "id" : "0cylxW7HGdK9xMdubw2oYW",
+          "name" : "The O'Neill Brothers Group",
+          "type" : "artist",
+          "uri" : "spotify:artist:0cylxW7HGdK9xMdubw2oYW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/22ks09J5vktysh0kHTIKZV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/22ks09J5vktysh0kHTIKZV",
+        "id" : "22ks09J5vktysh0kHTIKZV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e43a83b1e049047436b83978",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e43a83b1e049047436b83978",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e43a83b1e049047436b83978",
+          "width" : 64
+        } ],
+        "name" : "Catholic Piano Hymns",
+        "release_date" : "2013-05-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:22ks09J5vktysh0kHTIKZV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0cylxW7HGdK9xMdubw2oYW",
+        "id" : "0cylxW7HGdK9xMdubw2oYW",
+        "name" : "The O'Neill Brothers Group",
+        "type" : "artist",
+        "uri" : "spotify:artist:0cylxW7HGdK9xMdubw2oYW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 142746,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA371630436"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5glEaTIEsZB4eQLQ2QOqqr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5glEaTIEsZB4eQLQ2QOqqr",
+      "id" : "5glEaTIEsZB4eQLQ2QOqqr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross",
+      "popularity" : 16,
+      "preview_url" : "https://p.scdn.co/mp3-preview/053fb1e7967c30b9e4958e8361e7354d3207d0c0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5glEaTIEsZB4eQLQ2QOqqr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6OLegABYqaWXx6d2SNh1Dw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6OLegABYqaWXx6d2SNh1Dw",
+          "id" : "6OLegABYqaWXx6d2SNh1Dw",
+          "name" : "Norwich Cathedral Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:6OLegABYqaWXx6d2SNh1Dw"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4qenjQZBIuPL8Ridz3sLH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4qenjQZBIuPL8Ridz3sLH4",
+          "id" : "4qenjQZBIuPL8Ridz3sLH4",
+          "name" : "York Minster Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:4qenjQZBIuPL8Ridz3sLH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0OMLK3sHuFh75iFasSWmhe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0OMLK3sHuFh75iFasSWmhe",
+        "id" : "0OMLK3sHuFh75iFasSWmhe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cda372265ad768bf3067d90d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cda372265ad768bf3067d90d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cda372265ad768bf3067d90d",
+          "width" : 64
+        } ],
+        "name" : "20 Famous Cathedral Hymns - Volume 2",
+        "release_date" : "2012-05-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:0OMLK3sHuFh75iFasSWmhe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6OLegABYqaWXx6d2SNh1Dw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6OLegABYqaWXx6d2SNh1Dw",
+        "id" : "6OLegABYqaWXx6d2SNh1Dw",
+        "name" : "Norwich Cathedral Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:6OLegABYqaWXx6d2SNh1Dw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 250800,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCEU1112403"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5eTwyRPwx1xCeGIO9tOLp8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5eTwyRPwx1xCeGIO9tOLp8",
+      "id" : "5eTwyRPwx1xCeGIO9tOLp8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross",
+      "popularity" : 15,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6ef43abc522427e871ab8206aa072399027815cc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:5eTwyRPwx1xCeGIO9tOLp8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6Mpnuw1zAeDxd9Y7clGNrX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6Mpnuw1zAeDxd9Y7clGNrX",
+          "id" : "6Mpnuw1zAeDxd9Y7clGNrX",
+          "name" : "Christian Hymns Players",
+          "type" : "artist",
+          "uri" : "spotify:artist:6Mpnuw1zAeDxd9Y7clGNrX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5ZTNBPmtf07Hq7xFN4cssK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5ZTNBPmtf07Hq7xFN4cssK",
+        "id" : "5ZTNBPmtf07Hq7xFN4cssK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739c77259d89595361363c63a6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029c77259d89595361363c63a6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519c77259d89595361363c63a6",
+          "width" : 64
+        } ],
+        "name" : "Classic Piano Hymns: The Church Is One Foundation",
+        "release_date" : "2012-10-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5ZTNBPmtf07Hq7xFN4cssK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Mpnuw1zAeDxd9Y7clGNrX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Mpnuw1zAeDxd9Y7clGNrX",
+        "id" : "6Mpnuw1zAeDxd9Y7clGNrX",
+        "name" : "Christian Hymns Players",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Mpnuw1zAeDxd9Y7clGNrX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 104359,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA371636727"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3PKFCK80kJMq99ewax4k6k"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3PKFCK80kJMq99ewax4k6k",
+      "id" : "3PKFCK80kJMq99ewax4k6k",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross",
+      "popularity" : 14,
+      "preview_url" : "https://p.scdn.co/mp3-preview/caf06e0b42c3e2e460e9daea4aa7b6c075b1109b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:3PKFCK80kJMq99ewax4k6k"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1bI2Gw4q2EJbDFNp5vzpUd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1bI2Gw4q2EJbDFNp5vzpUd",
+          "id" : "1bI2Gw4q2EJbDFNp5vzpUd",
+          "name" : "The Midwestern Lutheran",
+          "type" : "artist",
+          "uri" : "spotify:artist:1bI2Gw4q2EJbDFNp5vzpUd"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0CN9GrS9ZKfSZRyXyin0ZL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0CN9GrS9ZKfSZRyXyin0ZL",
+        "id" : "0CN9GrS9ZKfSZRyXyin0ZL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734f0e5af95cb2126726bebf81",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024f0e5af95cb2126726bebf81",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514f0e5af95cb2126726bebf81",
+          "width" : 64
+        } ],
+        "name" : "Lutheran Hymns",
+        "release_date" : "2015-12-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:0CN9GrS9ZKfSZRyXyin0ZL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bI2Gw4q2EJbDFNp5vzpUd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bI2Gw4q2EJbDFNp5vzpUd",
+        "id" : "1bI2Gw4q2EJbDFNp5vzpUd",
+        "name" : "The Midwestern Lutheran",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bI2Gw4q2EJbDFNp5vzpUd"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 100867,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA2P1563075"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5wdmgxzVTeD2BtpamyemtQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5wdmgxzVTeD2BtpamyemtQ",
+      "id" : "5wdmgxzVTeD2BtpamyemtQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1d40e2a03c8e82b7d27df610abfedc948746f1cb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:5wdmgxzVTeD2BtpamyemtQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6MYKRhEIKscR8qdGlvpk9y",
+          "id" : "6MYKRhEIKscR8qdGlvpk9y",
+          "name" : "Sovereign Grace Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:6MYKRhEIKscR8qdGlvpk9y"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1uTJnQAHKWrpck8nA3x2DZ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1uTJnQAHKWrpck8nA3x2DZ",
+        "id" : "1uTJnQAHKWrpck8nA3x2DZ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273598bf7a1e2267ba6c35594b7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02598bf7a1e2267ba6c35594b7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851598bf7a1e2267ba6c35594b7",
+          "width" : 64
+        } ],
+        "name" : "The Gathering: Live from WorshipGod11",
+        "release_date" : "2011-11-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:1uTJnQAHKWrpck8nA3x2DZ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6MYKRhEIKscR8qdGlvpk9y",
+        "id" : "6MYKRhEIKscR8qdGlvpk9y",
+        "name" : "Sovereign Grace Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:6MYKRhEIKscR8qdGlvpk9y"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 238600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM1112254"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3j4UEIoDilc1g4EPPQG34g"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3j4UEIoDilc1g4EPPQG34g",
+      "id" : "3j4UEIoDilc1g4EPPQG34g",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/da71519dcd88d61fec559de363892c01f241a0a0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:3j4UEIoDilc1g4EPPQG34g"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+          "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+          "name" : "Instrumental Christian Songs, Christian Piano Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0cylxW7HGdK9xMdubw2oYW",
+          "id" : "0cylxW7HGdK9xMdubw2oYW",
+          "name" : "The O'Neill Brothers Group",
+          "type" : "artist",
+          "uri" : "spotify:artist:0cylxW7HGdK9xMdubw2oYW"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+          "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+          "name" : "Praise and Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2hoefHLF5c0EDLzxI06pWT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2hoefHLF5c0EDLzxI06pWT",
+        "id" : "2hoefHLF5c0EDLzxI06pWT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27388455cd65f245e27ff36279c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0288455cd65f245e27ff36279c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485188455cd65f245e27ff36279c",
+          "width" : 64
+        } ],
+        "name" : "On Eagle's Wings - Peaceful Music for Reflection and Praise",
+        "release_date" : "2016-09-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:2hoefHLF5c0EDLzxI06pWT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+        "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+        "name" : "Instrumental Christian Songs, Christian Piano Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0cylxW7HGdK9xMdubw2oYW",
+        "id" : "0cylxW7HGdK9xMdubw2oYW",
+        "name" : "The O'Neill Brothers Group",
+        "type" : "artist",
+        "uri" : "spotify:artist:0cylxW7HGdK9xMdubw2oYW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+        "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+        "name" : "Praise and Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 142746,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACS1632132"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4q0Gzl12kM0Q0RyQKtPyIi"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4q0Gzl12kM0Q0RyQKtPyIi",
+      "id" : "4q0Gzl12kM0Q0RyQKtPyIi",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross (Instrumental Version)",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a1954ce7c5a7edab074f0030fbf8d4235a5bf6bb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:4q0Gzl12kM0Q0RyQKtPyIi"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5qBhbhdSiJuAoo1Xln1Xd8"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5qBhbhdSiJuAoo1Xln1Xd8",
+          "id" : "5qBhbhdSiJuAoo1Xln1Xd8",
+          "name" : "Chris Rupp",
+          "type" : "artist",
+          "uri" : "spotify:artist:5qBhbhdSiJuAoo1Xln1Xd8"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2QHBAgqlVna7iVAtpTcueD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2QHBAgqlVna7iVAtpTcueD",
+        "id" : "2QHBAgqlVna7iVAtpTcueD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27388c35c794745b79482fb9add",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0288c35c794745b79482fb9add",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485188c35c794745b79482fb9add",
+          "width" : 64
+        } ],
+        "name" : "A New Day: A Cappella, Vol. II",
+        "release_date" : "2018-06-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:2QHBAgqlVna7iVAtpTcueD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5qBhbhdSiJuAoo1Xln1Xd8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5qBhbhdSiJuAoo1Xln1Xd8",
+        "id" : "5qBhbhdSiJuAoo1Xln1Xd8",
+        "name" : "Chris Rupp",
+        "type" : "artist",
+        "uri" : "spotify:artist:5qBhbhdSiJuAoo1Xln1Xd8"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 224493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZADK1800001"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3nNQ7vhlQZznYSrUjmOxwi"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3nNQ7vhlQZznYSrUjmOxwi",
+      "id" : "3nNQ7vhlQZznYSrUjmOxwi",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/09f47281199e20f72007cd6aff72d83550827fc3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3nNQ7vhlQZznYSrUjmOxwi"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5VyxpAP712MzejnUeVqXaG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5VyxpAP712MzejnUeVqXaG",
+          "id" : "5VyxpAP712MzejnUeVqXaG",
+          "name" : "All 4 Kids",
+          "type" : "artist",
+          "uri" : "spotify:artist:5VyxpAP712MzejnUeVqXaG"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3vrg0CarVdMWscBU4gFk3q"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3vrg0CarVdMWscBU4gFk3q",
+        "id" : "3vrg0CarVdMWscBU4gFk3q",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a0c94c486113f4b812fe1975",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a0c94c486113f4b812fe1975",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a0c94c486113f4b812fe1975",
+          "width" : 64
+        } ],
+        "name" : "Top 25 Children's Bible Songs, Vol. 2",
+        "release_date" : "2012-01-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:3vrg0CarVdMWscBU4gFk3q"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5VyxpAP712MzejnUeVqXaG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5VyxpAP712MzejnUeVqXaG",
+        "id" : "5VyxpAP712MzejnUeVqXaG",
+        "name" : "All 4 Kids",
+        "type" : "artist",
+        "uri" : "spotify:artist:5VyxpAP712MzejnUeVqXaG"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 106000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAM460701484"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4jQvLOBX75JSWLvzc9BI7b"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4jQvLOBX75JSWLvzc9BI7b",
+      "id" : "4jQvLOBX75JSWLvzc9BI7b",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b8fb02ff7ccf06dd7a0ee0241e5b360c967c8d22?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 21,
+      "type" : "track",
+      "uri" : "spotify:track:4jQvLOBX75JSWLvzc9BI7b"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7MGlZPaZPKJJFUbp8wToNb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7MGlZPaZPKJJFUbp8wToNb",
+          "id" : "7MGlZPaZPKJJFUbp8wToNb",
+          "name" : "Steven C",
+          "type" : "artist",
+          "uri" : "spotify:artist:7MGlZPaZPKJJFUbp8wToNb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/72KRPKBye7GCU5isr7B8T5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/72KRPKBye7GCU5isr7B8T5",
+        "id" : "72KRPKBye7GCU5isr7B8T5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738231f38b98d1c47b8e9a20dc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028231f38b98d1c47b8e9a20dc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518231f38b98d1c47b8e9a20dc",
+          "width" : 64
+        } ],
+        "name" : "Easter Music: Christian Favorites on Piano",
+        "release_date" : "2015-01-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:72KRPKBye7GCU5isr7B8T5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MGlZPaZPKJJFUbp8wToNb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MGlZPaZPKJJFUbp8wToNb",
+        "id" : "7MGlZPaZPKJJFUbp8wToNb",
+        "name" : "Steven C",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MGlZPaZPKJJFUbp8wToNb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 104359,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA371636727"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/37RXm6t6zQ1NBBIkbrtPwq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/37RXm6t6zQ1NBBIkbrtPwq",
+      "id" : "37RXm6t6zQ1NBBIkbrtPwq",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross (Instrumental Version)",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/23b21adaf33fbcdb723eadf7a9bdf017be8104ba?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:37RXm6t6zQ1NBBIkbrtPwq"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0pR7JAzTGKn2N1topz2frb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0pR7JAzTGKn2N1topz2frb",
+          "id" : "0pR7JAzTGKn2N1topz2frb",
+          "name" : "Paul Manz",
+          "type" : "artist",
+          "uri" : "spotify:artist:0pR7JAzTGKn2N1topz2frb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VYnMKLNlAaDSvyZ7Zb0ma"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VYnMKLNlAaDSvyZ7Zb0ma",
+        "id" : "5VYnMKLNlAaDSvyZ7Zb0ma",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27311857adfd7f400d2fb17ac31",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0211857adfd7f400d2fb17ac31",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485111857adfd7f400d2fb17ac31",
+          "width" : 64
+        } ],
+        "name" : "Paul Manz, Vol. 2",
+        "release_date" : "2016-03-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 37,
+        "type" : "album",
+        "uri" : "spotify:album:5VYnMKLNlAaDSvyZ7Zb0ma"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jCwAA8Z8AgOc91mXe3EL0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jCwAA8Z8AgOc91mXe3EL0",
+        "id" : "0jCwAA8Z8AgOc91mXe3EL0",
+        "name" : "George Kitchin",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jCwAA8Z8AgOc91mXe3EL0"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0pR7JAzTGKn2N1topz2frb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0pR7JAzTGKn2N1topz2frb",
+        "id" : "0pR7JAzTGKn2N1topz2frb",
+        "name" : "Paul Manz",
+        "type" : "artist",
+        "uri" : "spotify:artist:0pR7JAzTGKn2N1topz2frb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 147853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAR90219101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3LKiU9sZpjI12h5nEM72Pe"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3LKiU9sZpjI12h5nEM72Pe",
+      "id" : "3LKiU9sZpjI12h5nEM72Pe",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift High the Cross (arr. P. Manz for pipe organ)",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c877ed46769c1916879178e26dda2923adc9a6a5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3LKiU9sZpjI12h5nEM72Pe"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Lift+High+the+Cross&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Lift+High+the+Cross&type=track&market=US&offset=0&limit=10",
+    "total" : 160
+  }
+}

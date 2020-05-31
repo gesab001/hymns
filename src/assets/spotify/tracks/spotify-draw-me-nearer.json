@@ -1,0 +1,717 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Draw+Me+Nearer&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/29b16ffoFwv9RJb8RsVWXJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/29b16ffoFwv9RJb8RsVWXJ",
+          "id" : "29b16ffoFwv9RJb8RsVWXJ",
+          "name" : "Psalty",
+          "type" : "artist",
+          "uri" : "spotify:artist:29b16ffoFwv9RJb8RsVWXJ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1bI6zGm0tJiNLQ4KeJHzaU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1bI6zGm0tJiNLQ4KeJHzaU",
+          "id" : "1bI6zGm0tJiNLQ4KeJHzaU",
+          "name" : "Ernie Rettino",
+          "type" : "artist",
+          "uri" : "spotify:artist:1bI6zGm0tJiNLQ4KeJHzaU"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0UCxgt8nLgly2693fUrDbz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0UCxgt8nLgly2693fUrDbz",
+          "id" : "0UCxgt8nLgly2693fUrDbz",
+          "name" : "Debby Kerner Rettino",
+          "type" : "artist",
+          "uri" : "spotify:artist:0UCxgt8nLgly2693fUrDbz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0q1KqZh0yvYJxTwFavblIH"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0q1KqZh0yvYJxTwFavblIH",
+        "id" : "0q1KqZh0yvYJxTwFavblIH",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273466ea37312ef318da5552872",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02466ea37312ef318da5552872",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851466ea37312ef318da5552872",
+          "width" : 64
+        } ],
+        "name" : "Kids Praise! 4 \"Singsational Servants!\"",
+        "release_date" : "2015-05-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:0q1KqZh0yvYJxTwFavblIH"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/29b16ffoFwv9RJb8RsVWXJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/29b16ffoFwv9RJb8RsVWXJ",
+        "id" : "29b16ffoFwv9RJb8RsVWXJ",
+        "name" : "Psalty",
+        "type" : "artist",
+        "uri" : "spotify:artist:29b16ffoFwv9RJb8RsVWXJ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bI6zGm0tJiNLQ4KeJHzaU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bI6zGm0tJiNLQ4KeJHzaU",
+        "id" : "1bI6zGm0tJiNLQ4KeJHzaU",
+        "name" : "Ernie Rettino",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bI6zGm0tJiNLQ4KeJHzaU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0UCxgt8nLgly2693fUrDbz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0UCxgt8nLgly2693fUrDbz",
+        "id" : "0UCxgt8nLgly2693fUrDbz",
+        "name" : "Debby Kerner Rettino",
+        "type" : "artist",
+        "uri" : "spotify:artist:0UCxgt8nLgly2693fUrDbz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 228203,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMTKB1500033"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2FqDiTtnZiA1msV2cLoCo3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2FqDiTtnZiA1msV2cLoCo3",
+      "id" : "2FqDiTtnZiA1msV2cLoCo3",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Draw Me Nearer",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/47888dfd1d2670d7442e904e421593e080d23a9f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:2FqDiTtnZiA1msV2cLoCo3"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6QHA0Ju1zeevkCUGlFG04w",
+          "id" : "6QHA0Ju1zeevkCUGlFG04w",
+          "name" : "DappyTKeys",
+          "type" : "artist",
+          "uri" : "spotify:artist:6QHA0Ju1zeevkCUGlFG04w"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2pzSrk3LX8KQFtMWVIv6mM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2pzSrk3LX8KQFtMWVIv6mM",
+        "id" : "2pzSrk3LX8KQFtMWVIv6mM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273880adbc367ff5b9936f04d15",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02880adbc367ff5b9936f04d15",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851880adbc367ff5b9936f04d15",
+          "width" : 64
+        } ],
+        "name" : "The Secret Place, Vol. 2",
+        "release_date" : "2019-08-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:2pzSrk3LX8KQFtMWVIv6mM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6QHA0Ju1zeevkCUGlFG04w",
+        "id" : "6QHA0Ju1zeevkCUGlFG04w",
+        "name" : "DappyTKeys",
+        "type" : "artist",
+        "uri" : "spotify:artist:6QHA0Ju1zeevkCUGlFG04w"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 1670279,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEJ1913365"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3CS5gfegQbijmnLq4fHr0q"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3CS5gfegQbijmnLq4fHr0q",
+      "id" : "3CS5gfegQbijmnLq4fHr0q",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Draw Me Nearer",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/109c1659e8f18ba1207bd82e25125f5c5e68d0b6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3CS5gfegQbijmnLq4fHr0q"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/29PfPMTOAqc611mj1siNoH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/29PfPMTOAqc611mj1siNoH",
+          "id" : "29PfPMTOAqc611mj1siNoH",
+          "name" : "Guy Penrod",
+          "type" : "artist",
+          "uri" : "spotify:artist:29PfPMTOAqc611mj1siNoH"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0wvJrJsbryrS70BzvlTt4s"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0wvJrJsbryrS70BzvlTt4s",
+        "id" : "0wvJrJsbryrS70BzvlTt4s",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27383eeb48ba416a635b2b1293a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0283eeb48ba416a635b2b1293a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485183eeb48ba416a635b2b1293a",
+          "width" : 64
+        } ],
+        "name" : "Blessed Assurance",
+        "release_date" : "2018-02-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0wvJrJsbryrS70BzvlTt4s"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/29PfPMTOAqc611mj1siNoH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/29PfPMTOAqc611mj1siNoH",
+        "id" : "29PfPMTOAqc611mj1siNoH",
+        "name" : "Guy Penrod",
+        "type" : "artist",
+        "uri" : "spotify:artist:29PfPMTOAqc611mj1siNoH"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 195266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US5X41800010"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1zRTVWpmfmiaKV2nKR2NfT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1zRTVWpmfmiaKV2nKR2NfT",
+      "id" : "1zRTVWpmfmiaKV2nKR2NfT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Draw Me Nearer",
+      "popularity" : 21,
+      "preview_url" : null,
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1zRTVWpmfmiaKV2nKR2NfT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          },
+          "href" : "https://api.spotify.com/v1/artists/74IEeKcuS34kF2TjOigXra",
+          "id" : "74IEeKcuS34kF2TjOigXra",
+          "name" : "Donnie McClurkin",
+          "type" : "artist",
+          "uri" : "spotify:artist:74IEeKcuS34kF2TjOigXra"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
+        },
+        "href" : "https://api.spotify.com/v1/albums/20Ahz7xI2IFw7bdl0FE6On",
+        "id" : "20Ahz7xI2IFw7bdl0FE6On",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730178463a930e43f73ebeefaf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020178463a930e43f73ebeefaf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510178463a930e43f73ebeefaf",
+          "width" : 64
+        } ],
+        "name" : "Psalms, Hymns & Spiritual Songs",
+        "release_date" : "2001-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:20Ahz7xI2IFw7bdl0FE6On"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
+        "href" : "https://api.spotify.com/v1/artists/74IEeKcuS34kF2TjOigXra",
+        "id" : "74IEeKcuS34kF2TjOigXra",
+        "name" : "Donnie McClurkin",
+        "type" : "artist",
+        "uri" : "spotify:artist:74IEeKcuS34kF2TjOigXra"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 237600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USVE20500051"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3SAS2gX0MZyxLjOxBlGi5a"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3SAS2gX0MZyxLjOxBlGi5a",
+      "id" : "3SAS2gX0MZyxLjOxBlGi5a",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Draw Me Close/ I Am Thine Oh Lord (Draw Me Nearer)",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3525e5039ab8ecf571dfaca706f23b5d5fe21824?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:3SAS2gX0MZyxLjOxBlGi5a"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3Qp9Qtdb5G8QYHWfe5qxi0",
+          "id" : "3Qp9Qtdb5G8QYHWfe5qxi0",
+          "name" : "Ernie Haase & Signature Sound",
+          "type" : "artist",
+          "uri" : "spotify:artist:3Qp9Qtdb5G8QYHWfe5qxi0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/13DHCwPmwdz4zVZkgEnG4n"
+        },
+        "href" : "https://api.spotify.com/v1/albums/13DHCwPmwdz4zVZkgEnG4n",
+        "id" : "13DHCwPmwdz4zVZkgEnG4n",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c2ad65afeceed96fa9ac47e1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c2ad65afeceed96fa9ac47e1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c2ad65afeceed96fa9ac47e1",
+          "width" : 64
+        } ],
+        "name" : "The Favorite Hymns of Fanny Crosby",
+        "release_date" : "2016-05-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:13DHCwPmwdz4zVZkgEnG4n"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Qp9Qtdb5G8QYHWfe5qxi0",
+        "id" : "3Qp9Qtdb5G8QYHWfe5qxi0",
+        "name" : "Ernie Haase & Signature Sound",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Qp9Qtdb5G8QYHWfe5qxi0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 244226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USC5G1600032"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6xc9VjigoRmRlDPFCFtcdz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6xc9VjigoRmRlDPFCFtcdz",
+      "id" : "6xc9VjigoRmRlDPFCFtcdz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Am Thine, O Lord / Draw Me Nearer",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6a3f0c09826ea9b8eae8c7f5b4d0c2bdc3f85ef9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6xc9VjigoRmRlDPFCFtcdz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Z7ndTqS6EPzpNn322s0Nw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Z7ndTqS6EPzpNn322s0Nw",
+          "id" : "5Z7ndTqS6EPzpNn322s0Nw",
+          "name" : "Jaime Jorge",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Z7ndTqS6EPzpNn322s0Nw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5GbSadBoBzlHzD4m8uNEqv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5GbSadBoBzlHzD4m8uNEqv",
+        "id" : "5GbSadBoBzlHzD4m8uNEqv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d7acd13c5de68f1469b0f005",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d7acd13c5de68f1469b0f005",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d7acd13c5de68f1469b0f005",
+          "width" : 64
+        } ],
+        "name" : "Blessed Assurance",
+        "release_date" : "2006",
+        "release_date_precision" : "year",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5GbSadBoBzlHzD4m8uNEqv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Z7ndTqS6EPzpNn322s0Nw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Z7ndTqS6EPzpNn322s0Nw",
+        "id" : "5Z7ndTqS6EPzpNn322s0Nw",
+        "name" : "Jaime Jorge",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Z7ndTqS6EPzpNn322s0Nw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 201400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usy280734560"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5CnPJB0dhymk5DdD1VLeiJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5CnPJB0dhymk5DdD1VLeiJ",
+      "id" : "5CnPJB0dhymk5DdD1VLeiJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Am Thine, O Lord - Draw Me Nearer",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4b4bf014a167fb47367184b44bf1240de07f57e4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5CnPJB0dhymk5DdD1VLeiJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6Rn9kRNfbK9Pthldb4RYj9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6Rn9kRNfbK9Pthldb4RYj9",
+          "id" : "6Rn9kRNfbK9Pthldb4RYj9",
+          "name" : "Jireh",
+          "type" : "artist",
+          "uri" : "spotify:artist:6Rn9kRNfbK9Pthldb4RYj9"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6p26bNJKVWypzEojkT4Ue4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6p26bNJKVWypzEojkT4Ue4",
+        "id" : "6p26bNJKVWypzEojkT4Ue4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ebe297fca2b825abc1118f28",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ebe297fca2b825abc1118f28",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ebe297fca2b825abc1118f28",
+          "width" : 64
+        } ],
+        "name" : "Jireh",
+        "release_date" : "2020-05-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:6p26bNJKVWypzEojkT4Ue4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Rn9kRNfbK9Pthldb4RYj9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Rn9kRNfbK9Pthldb4RYj9",
+        "id" : "6Rn9kRNfbK9Pthldb4RYj9",
+        "name" : "Jireh",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Rn9kRNfbK9Pthldb4RYj9"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 268179,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "AUXMG2000019"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/40orGftmXoBVzPta2CL0W1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/40orGftmXoBVzPta2CL0W1",
+      "id" : "40orGftmXoBVzPta2CL0W1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Draw Me Nearer",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7f60cb7637dc5b314db9a35a358cb05b36788d3f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:40orGftmXoBVzPta2CL0W1"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0I4Bk2s2BUJyykCwtxx8Xx",
+          "id" : "0I4Bk2s2BUJyykCwtxx8Xx",
+          "name" : "Keith & Kristyn Getty",
+          "type" : "artist",
+          "uri" : "spotify:artist:0I4Bk2s2BUJyykCwtxx8Xx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6ZVTgCnYuK6Y5TFO4lna5V",
+        "id" : "6ZVTgCnYuK6Y5TFO4lna5V",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b0bb14d61afaa2406921f291",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b0bb14d61afaa2406921f291",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b0bb14d61afaa2406921f291",
+          "width" : 64
+        } ],
+        "name" : "In Christ Alone",
+        "release_date" : "2006-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0I4Bk2s2BUJyykCwtxx8Xx",
+        "id" : "0I4Bk2s2BUJyykCwtxx8Xx",
+        "name" : "Keith & Kristyn Getty",
+        "type" : "artist",
+        "uri" : "spotify:artist:0I4Bk2s2BUJyykCwtxx8Xx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 291866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USY5K0600030"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0zapL2lsxU7yABhaVJBkpx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0zapL2lsxU7yABhaVJBkpx",
+      "id" : "0zapL2lsxU7yABhaVJBkpx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus, Draw Me Ever Nearer",
+      "popularity" : 29,
+      "preview_url" : null,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0zapL2lsxU7yABhaVJBkpx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6rHhgihbBa7mINFU9Ixn07"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6rHhgihbBa7mINFU9Ixn07",
+          "id" : "6rHhgihbBa7mINFU9Ixn07",
+          "name" : "Church of God Edmonton Youth Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:6rHhgihbBa7mINFU9Ixn07"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3AspkspRd84SOvNCCCxw3I"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3AspkspRd84SOvNCCCxw3I",
+        "id" : "3AspkspRd84SOvNCCCxw3I",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737d6cecf127c0d94e820c7483",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027d6cecf127c0d94e820c7483",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517d6cecf127c0d94e820c7483",
+          "width" : 64
+        } ],
+        "name" : "Draw Me Nearer",
+        "release_date" : "2015-09-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:3AspkspRd84SOvNCCCxw3I"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6rHhgihbBa7mINFU9Ixn07"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6rHhgihbBa7mINFU9Ixn07",
+        "id" : "6rHhgihbBa7mINFU9Ixn07",
+        "name" : "Church of God Edmonton Youth Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:6rHhgihbBa7mINFU9Ixn07"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 162484,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21525389"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1kmuLQjnLKiPp46eLxsdj0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1kmuLQjnLKiPp46eLxsdj0",
+      "id" : "1kmuLQjnLKiPp46eLxsdj0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seek Ye First",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/94e234402cf5e6e2688daee990bc113cf0130063?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:1kmuLQjnLKiPp46eLxsdj0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/16dGAOg7n1wfPuLLwfdwur"
+          },
+          "href" : "https://api.spotify.com/v1/artists/16dGAOg7n1wfPuLLwfdwur",
+          "id" : "16dGAOg7n1wfPuLLwfdwur",
+          "name" : "Acapeldridge",
+          "type" : "artist",
+          "uri" : "spotify:artist:16dGAOg7n1wfPuLLwfdwur"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7sR6rl1DOBRDAgungdFaa1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7sR6rl1DOBRDAgungdFaa1",
+        "id" : "7sR6rl1DOBRDAgungdFaa1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739e5407eb5fd8b7e690c7965b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029e5407eb5fd8b7e690c7965b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519e5407eb5fd8b7e690c7965b",
+          "width" : 64
+        } ],
+        "name" : "Whatever Is Noble",
+        "release_date" : "2018-05-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:7sR6rl1DOBRDAgungdFaa1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16dGAOg7n1wfPuLLwfdwur"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16dGAOg7n1wfPuLLwfdwur",
+        "id" : "16dGAOg7n1wfPuLLwfdwur",
+        "name" : "Acapeldridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:16dGAOg7n1wfPuLLwfdwur"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 186720,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usdy41815885"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1wHAR7sNIoED2vkenZV3WQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1wHAR7sNIoED2vkenZV3WQ",
+      "id" : "1wHAR7sNIoED2vkenZV3WQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus, Draw Me Ever Nearer",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cc32e54eb99d9579d576029b9e89777151582a3a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1wHAR7sNIoED2vkenZV3WQ"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Draw+Me+Nearer&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Draw+Me+Nearer&type=track&market=US&offset=0&limit=10",
+    "total" : 504
+  }
+}

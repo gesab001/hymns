@@ -1,0 +1,735 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Shall+We+Gather+at+the+River&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5JiCHmso7KrIrNdhjRuElw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5JiCHmso7KrIrNdhjRuElw",
+          "id" : "5JiCHmso7KrIrNdhjRuElw",
+          "name" : "Pacific Gold",
+          "type" : "artist",
+          "uri" : "spotify:artist:5JiCHmso7KrIrNdhjRuElw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4ttwotgUnhqG0g2MuKtULv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4ttwotgUnhqG0g2MuKtULv",
+        "id" : "4ttwotgUnhqG0g2MuKtULv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a283f6a762ecbf915b404c7f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a283f6a762ecbf915b404c7f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a283f6a762ecbf915b404c7f",
+          "width" : 64
+        } ],
+        "name" : "The River",
+        "release_date" : "2012-07-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:4ttwotgUnhqG0g2MuKtULv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JiCHmso7KrIrNdhjRuElw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JiCHmso7KrIrNdhjRuElw",
+        "id" : "5JiCHmso7KrIrNdhjRuElw",
+        "name" : "Pacific Gold",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JiCHmso7KrIrNdhjRuElw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 239453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCABR1360532"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3bSGyrurpOr6tPEfFQLwh2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3bSGyrurpOr6tPEfFQLwh2",
+      "id" : "3bSGyrurpOr6tPEfFQLwh2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather at the River?",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/22acb5d785bee9a36ff1afe167c61e695d7c0fc3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3bSGyrurpOr6tPEfFQLwh2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/652mJtf86ADYzaZM5WKD0T"
+          },
+          "href" : "https://api.spotify.com/v1/artists/652mJtf86ADYzaZM5WKD0T",
+          "id" : "652mJtf86ADYzaZM5WKD0T",
+          "name" : "Bruce Kurnow",
+          "type" : "artist",
+          "uri" : "spotify:artist:652mJtf86ADYzaZM5WKD0T"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7DJGJFX6S7r8l3eBfVNF3U"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7DJGJFX6S7r8l3eBfVNF3U",
+        "id" : "7DJGJFX6S7r8l3eBfVNF3U",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b2916584b125c2d21aa2a317",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b2916584b125c2d21aa2a317",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b2916584b125c2d21aa2a317",
+          "width" : 64
+        } ],
+        "name" : "Inspirational Harp: Hymns",
+        "release_date" : "2014-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:7DJGJFX6S7r8l3eBfVNF3U"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/652mJtf86ADYzaZM5WKD0T"
+        },
+        "href" : "https://api.spotify.com/v1/artists/652mJtf86ADYzaZM5WKD0T",
+        "id" : "652mJtf86ADYzaZM5WKD0T",
+        "name" : "Bruce Kurnow",
+        "type" : "artist",
+        "uri" : "spotify:artist:652mJtf86ADYzaZM5WKD0T"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 230760,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USP3J1006135"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Bx8VaH9ssfeTo7C1jPkPK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Bx8VaH9ssfeTo7C1jPkPK",
+      "id" : "3Bx8VaH9ssfeTo7C1jPkPK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather at the River?",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ca4aaf658f6b4b3e3ccbcfffd0224f18eeafc94d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:3Bx8VaH9ssfeTo7C1jPkPK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
+          },
+          "href" : "https://api.spotify.com/v1/artists/24GBjJEWkP0b1NiOTheF54",
+          "id" : "24GBjJEWkP0b1NiOTheF54",
+          "name" : "Lucienne Renaudin Vary",
+          "type" : "artist",
+          "uri" : "spotify:artist:24GBjJEWkP0b1NiOTheF54"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1KHLMHhRs0j01UiV7EklV4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1KHLMHhRs0j01UiV7EklV4",
+          "id" : "1KHLMHhRs0j01UiV7EklV4",
+          "name" : "Bill Elliot",
+          "type" : "artist",
+          "uri" : "spotify:artist:1KHLMHhRs0j01UiV7EklV4"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3dIPaddbWppnquuPkcYVDg",
+          "id" : "3dIPaddbWppnquuPkcYVDg",
+          "name" : "BBC Concert Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:3dIPaddbWppnquuPkcYVDg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/024Dffa0Le6qspFynJmMGU",
+        "id" : "024Dffa0Le6qspFynJmMGU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738681182015d1edcea5c011bf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028681182015d1edcea5c011bf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518681182015d1edcea5c011bf",
+          "width" : 64
+        } ],
+        "name" : "Mademoiselle in New York",
+        "release_date" : "2019-10-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:024Dffa0Le6qspFynJmMGU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/71pAV5TkgpnAw7P8WzjIov"
+        },
+        "href" : "https://api.spotify.com/v1/artists/71pAV5TkgpnAw7P8WzjIov",
+        "id" : "71pAV5TkgpnAw7P8WzjIov",
+        "name" : "Robert Lowry",
+        "type" : "artist",
+        "uri" : "spotify:artist:71pAV5TkgpnAw7P8WzjIov"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
+        },
+        "href" : "https://api.spotify.com/v1/artists/24GBjJEWkP0b1NiOTheF54",
+        "id" : "24GBjJEWkP0b1NiOTheF54",
+        "name" : "Lucienne Renaudin Vary",
+        "type" : "artist",
+        "uri" : "spotify:artist:24GBjJEWkP0b1NiOTheF54"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3m37vbDpkiEDSUXQcJJhcZ",
+        "id" : "3m37vbDpkiEDSUXQcJJhcZ",
+        "name" : "Bill Elliott",
+        "type" : "artist",
+        "uri" : "spotify:artist:3m37vbDpkiEDSUXQcJJhcZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3dIPaddbWppnquuPkcYVDg",
+        "id" : "3dIPaddbWppnquuPkcYVDg",
+        "name" : "BBC Concert Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:3dIPaddbWppnquuPkcYVDg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 214986,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAYC1900385"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1NpmFmDc4c5Y9vGqSA8htr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1NpmFmDc4c5Y9vGqSA8htr",
+      "id" : "1NpmFmDc4c5Y9vGqSA8htr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather at the River?",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/60954e59588512f48100ac1c30e826a6e8ecd78e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1NpmFmDc4c5Y9vGqSA8htr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5uPsLeGYiqPxjPZaMUK3Fy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5uPsLeGYiqPxjPZaMUK3Fy",
+          "id" : "5uPsLeGYiqPxjPZaMUK3Fy",
+          "name" : "Nashville Country Chorale",
+          "type" : "artist",
+          "uri" : "spotify:artist:5uPsLeGYiqPxjPZaMUK3Fy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5m8TMyRvxRM69KWO5j5PuV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5m8TMyRvxRM69KWO5j5PuV",
+        "id" : "5m8TMyRvxRM69KWO5j5PuV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738d932bda126cb364ebf436b5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028d932bda126cb364ebf436b5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518d932bda126cb364ebf436b5",
+          "width" : 64
+        } ],
+        "name" : "20 Country Gospel Hymns",
+        "release_date" : "2015-06-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:5m8TMyRvxRM69KWO5j5PuV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5uPsLeGYiqPxjPZaMUK3Fy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5uPsLeGYiqPxjPZaMUK3Fy",
+        "id" : "5uPsLeGYiqPxjPZaMUK3Fy",
+        "name" : "Nashville Country Chorale",
+        "type" : "artist",
+        "uri" : "spotify:artist:5uPsLeGYiqPxjPZaMUK3Fy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 164453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM7281559619"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/78rNLdnl1uy7f4uAeHVEM4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/78rNLdnl1uy7f4uAeHVEM4",
+      "id" : "78rNLdnl1uy7f4uAeHVEM4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather at the River",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3f547e2fee9c4aff73c52f6072721ec7f4a0dfa9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:78rNLdnl1uy7f4uAeHVEM4"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1PCJfBD2SVVE8cGqpg1pC9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1PCJfBD2SVVE8cGqpg1pC9",
+          "id" : "1PCJfBD2SVVE8cGqpg1pC9",
+          "name" : "Hal Wright",
+          "type" : "artist",
+          "uri" : "spotify:artist:1PCJfBD2SVVE8cGqpg1pC9"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5oWBMNvHBpJEJbIuuWYIEO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5oWBMNvHBpJEJbIuuWYIEO",
+        "id" : "5oWBMNvHBpJEJbIuuWYIEO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b27b0222733203b3fa0d9301",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b27b0222733203b3fa0d9301",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b27b0222733203b3fa0d9301",
+          "width" : 64
+        } ],
+        "name" : "Instrumental Hymns 1",
+        "release_date" : "2020-05-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:5oWBMNvHBpJEJbIuuWYIEO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PCJfBD2SVVE8cGqpg1pC9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PCJfBD2SVVE8cGqpg1pC9",
+        "id" : "1PCJfBD2SVVE8cGqpg1pC9",
+        "name" : "Hal Wright",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PCJfBD2SVVE8cGqpg1pC9"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aerx1PdoW4F5Yvrus4bDE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aerx1PdoW4F5Yvrus4bDE",
+        "id" : "5Aerx1PdoW4F5Yvrus4bDE",
+        "name" : "Twin Sisters",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aerx1PdoW4F5Yvrus4bDE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 163280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US6PD1903949"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6rBz2rHDgxw9mXprYlq5wd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6rBz2rHDgxw9mXprYlq5wd",
+      "id" : "6rBz2rHDgxw9mXprYlq5wd",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather At The River",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4166e121a9d6d2d08b6e0d3bd294c7da6aa83a89?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:6rBz2rHDgxw9mXprYlq5wd"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6BXJ73P2FCMksXko3ElG0y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6BXJ73P2FCMksXko3ElG0y",
+          "id" : "6BXJ73P2FCMksXko3ElG0y",
+          "name" : "LuWayne Arnold",
+          "type" : "artist",
+          "uri" : "spotify:artist:6BXJ73P2FCMksXko3ElG0y"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6CpRIWJTKCNnfwSwXXAqzx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6CpRIWJTKCNnfwSwXXAqzx",
+        "id" : "6CpRIWJTKCNnfwSwXXAqzx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731d2623798c3e1432e59eda1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021d2623798c3e1432e59eda1f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511d2623798c3e1432e59eda1f",
+          "width" : 64
+        } ],
+        "name" : "America’s Favorite Gospel by LuWayne",
+        "release_date" : "2020-05-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6CpRIWJTKCNnfwSwXXAqzx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6BXJ73P2FCMksXko3ElG0y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6BXJ73P2FCMksXko3ElG0y",
+        "id" : "6BXJ73P2FCMksXko3ElG0y",
+        "name" : "LuWayne Arnold",
+        "type" : "artist",
+        "uri" : "spotify:artist:6BXJ73P2FCMksXko3ElG0y"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 132306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEU2058632"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7lV6FkViLwn9lr2yFit3Bz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7lV6FkViLwn9lr2yFit3Bz",
+      "id" : "7lV6FkViLwn9lr2yFit3Bz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather at the River",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/69ca0298f0c2b610403e4e96552e81d3adfed514?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:7lV6FkViLwn9lr2yFit3Bz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1pTuR132U5b4Rizal2Pr7m",
+          "id" : "1pTuR132U5b4Rizal2Pr7m",
+          "name" : "Randy Travis",
+          "type" : "artist",
+          "uri" : "spotify:artist:1pTuR132U5b4Rizal2Pr7m"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1XKX6X6KDjGvWaFlOp5K1H"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1XKX6X6KDjGvWaFlOp5K1H",
+        "id" : "1XKX6X6KDjGvWaFlOp5K1H",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cc597613643763a5aa37b16d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cc597613643763a5aa37b16d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cc597613643763a5aa37b16d",
+          "width" : 64
+        } ],
+        "name" : "Hymns: 17 Timeless Songs of Faith",
+        "release_date" : "2014-03-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:1XKX6X6KDjGvWaFlOp5K1H"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1pTuR132U5b4Rizal2Pr7m",
+        "id" : "1pTuR132U5b4Rizal2Pr7m",
+        "name" : "Randy Travis",
+        "type" : "artist",
+        "uri" : "spotify:artist:1pTuR132U5b4Rizal2Pr7m"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 195173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR60300850"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5H2s2zFKCvgUPJJ75zSyCK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5H2s2zFKCvgUPJJ75zSyCK",
+      "id" : "5H2s2zFKCvgUPJJ75zSyCK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather At the River?",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d41512e0ab70e229bc310c593819d50fa128b850?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5H2s2zFKCvgUPJJ75zSyCK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7hEbJvh3BAedDS2vVJvx0B"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7hEbJvh3BAedDS2vVJvx0B",
+          "id" : "7hEbJvh3BAedDS2vVJvx0B",
+          "name" : "Andy Griffith",
+          "type" : "artist",
+          "uri" : "spotify:artist:7hEbJvh3BAedDS2vVJvx0B"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4BpPhRItbmc0vSX5ZuarRC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4BpPhRItbmc0vSX5ZuarRC",
+        "id" : "4BpPhRItbmc0vSX5ZuarRC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27311bfc006076cebbf3e4fe726",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0211bfc006076cebbf3e4fe726",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485111bfc006076cebbf3e4fe726",
+          "width" : 64
+        } ],
+        "name" : "Love To Tell Story: 25 Hymns",
+        "release_date" : "1996-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:4BpPhRItbmc0vSX5ZuarRC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7hEbJvh3BAedDS2vVJvx0B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7hEbJvh3BAedDS2vVJvx0B",
+        "id" : "7hEbJvh3BAedDS2vVJvx0B",
+        "name" : "Andy Griffith",
+        "type" : "artist",
+        "uri" : "spotify:artist:7hEbJvh3BAedDS2vVJvx0B"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 287826,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP39610108"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0isDZk39d1PKPZxPosMclT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0isDZk39d1PKPZxPosMclT",
+      "id" : "0isDZk39d1PKPZxPosMclT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather At The River / Will The Circle Be Unbroken - Medley",
+      "popularity" : 16,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0isDZk39d1PKPZxPosMclT"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5q5T2QTyvv6lxUQSlRLXAe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5q5T2QTyvv6lxUQSlRLXAe",
+        "id" : "5q5T2QTyvv6lxUQSlRLXAe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27347af8963621d8ea73a64fb22",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0247af8963621d8ea73a64fb22",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485147af8963621d8ea73a64fb22",
+          "width" : 64
+        } ],
+        "name" : "30 Favorite Bluegrass Hymns: Instrumental Bluegrass Gospel Favorites",
+        "release_date" : "2011-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:5q5T2QTyvv6lxUQSlRLXAe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0zYyfhX87rISSc9dyJQK5t",
+        "id" : "0zYyfhX87rISSc9dyJQK5t",
+        "name" : "Craig Duncan",
+        "type" : "artist",
+        "uri" : "spotify:artist:0zYyfhX87rISSc9dyJQK5t"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 194786,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USB4U0850733"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0r6rHZMfhircmWn8ctFBHa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0r6rHZMfhircmWn8ctFBHa",
+      "id" : "0r6rHZMfhircmWn8ctFBHa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather At The River",
+      "popularity" : 15,
+      "preview_url" : null,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0r6rHZMfhircmWn8ctFBHa"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/43pE9XqhpozqaefS7lXZw6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/43pE9XqhpozqaefS7lXZw6",
+          "id" : "43pE9XqhpozqaefS7lXZw6",
+          "name" : "Cynthia A. Boener",
+          "type" : "artist",
+          "uri" : "spotify:artist:43pE9XqhpozqaefS7lXZw6"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4DXvtHxb32UFPmlzLBuOJc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4DXvtHxb32UFPmlzLBuOJc",
+        "id" : "4DXvtHxb32UFPmlzLBuOJc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736d319cb55ee222f3fce1d729",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026d319cb55ee222f3fce1d729",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516d319cb55ee222f3fce1d729",
+          "width" : 64
+        } ],
+        "name" : "My Father's World",
+        "release_date" : "2019-11-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4DXvtHxb32UFPmlzLBuOJc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43pE9XqhpozqaefS7lXZw6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43pE9XqhpozqaefS7lXZw6",
+        "id" : "43pE9XqhpozqaefS7lXZw6",
+        "name" : "Cynthia A. Boener",
+        "type" : "artist",
+        "uri" : "spotify:artist:43pE9XqhpozqaefS7lXZw6"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 180062,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91998096"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/206LI9d2rKOXzr5EF4eEVZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/206LI9d2rKOXzr5EF4eEVZ",
+      "id" : "206LI9d2rKOXzr5EF4eEVZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shall We Gather at the River?",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d416770f07f3b6287308c377a7e234c7ad94f1ad?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:206LI9d2rKOXzr5EF4eEVZ"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Shall+We+Gather+at+the+River&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Shall+We+Gather+at+the+River&type=track&market=US&offset=0&limit=10",
+    "total" : 581
+  }
+}

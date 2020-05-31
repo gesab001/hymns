@@ -1,0 +1,762 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Were+You+There%3F&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4AwLiAGc1rRLrCepj5rdTI",
+          "id" : "4AwLiAGc1rRLrCepj5rdTI",
+          "name" : "Collin Raye",
+          "type" : "artist",
+          "uri" : "spotify:artist:4AwLiAGc1rRLrCepj5rdTI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/04DPDJvC8GDbJ9iYKsgmRB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/04DPDJvC8GDbJ9iYKsgmRB",
+        "id" : "04DPDJvC8GDbJ9iYKsgmRB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735a1866190313095228de9f4d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025a1866190313095228de9f4d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515a1866190313095228de9f4d",
+          "width" : 64
+        } ],
+        "name" : "His Love Remains",
+        "release_date" : "2011-10-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:04DPDJvC8GDbJ9iYKsgmRB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4AwLiAGc1rRLrCepj5rdTI",
+        "id" : "4AwLiAGc1rRLrCepj5rdTI",
+        "name" : "Collin Raye",
+        "type" : "artist",
+        "uri" : "spotify:artist:4AwLiAGc1rRLrCepj5rdTI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 237280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCABB1133380"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5bcAMm4vFqvirZ22D4urpT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5bcAMm4vFqvirZ22D4urpT",
+      "id" : "5bcAMm4vFqvirZ22D4urpT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There?",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9da6f90fd5f2ebe82780fbd62636517650b08807?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:5bcAMm4vFqvirZ22D4urpT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6hnWRPzGGKiapVX1UCdEAC",
+          "id" : "6hnWRPzGGKiapVX1UCdEAC",
+          "name" : "Sam Cooke",
+          "type" : "artist",
+          "uri" : "spotify:artist:6hnWRPzGGKiapVX1UCdEAC"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1bZKspL8h396R1WihOiPb5",
+          "id" : "1bZKspL8h396R1WihOiPb5",
+          "name" : "The Soul Stirrers",
+          "type" : "artist",
+          "uri" : "spotify:artist:1bZKspL8h396R1WihOiPb5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5nPS73uMM3URxKSrJzrYe0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5nPS73uMM3URxKSrJzrYe0",
+        "id" : "5nPS73uMM3URxKSrJzrYe0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27387e42ed8f18f3206b7e55ad4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0287e42ed8f18f3206b7e55ad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485187e42ed8f18f3206b7e55ad4",
+          "width" : 64
+        } ],
+        "name" : "Sam Cooke With The Soul Stirrers",
+        "release_date" : "2002-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 84,
+        "type" : "album",
+        "uri" : "spotify:album:5nPS73uMM3URxKSrJzrYe0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6hnWRPzGGKiapVX1UCdEAC",
+        "id" : "6hnWRPzGGKiapVX1UCdEAC",
+        "name" : "Sam Cooke",
+        "type" : "artist",
+        "uri" : "spotify:artist:6hnWRPzGGKiapVX1UCdEAC"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bZKspL8h396R1WihOiPb5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bZKspL8h396R1WihOiPb5",
+        "id" : "1bZKspL8h396R1WihOiPb5",
+        "name" : "The Soul Stirrers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bZKspL8h396R1WihOiPb5"
+      } ],
+      "disc_number" : 3,
+      "duration_ms" : 150200,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSPI5700019"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3MNXX2a8loXA8iR4aQYgL0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3MNXX2a8loXA8iR4aQYgL0",
+      "id" : "3MNXX2a8loXA8iR4aQYgL0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There",
+      "popularity" : 23,
+      "preview_url" : null,
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:3MNXX2a8loXA8iR4aQYgL0"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/52hAmvO6HNjlU7YQH6WTYj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/52hAmvO6HNjlU7YQH6WTYj",
+        "id" : "52hAmvO6HNjlU7YQH6WTYj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e15ecd863dbc8ee572885a7d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e15ecd863dbc8ee572885a7d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e15ecd863dbc8ee572885a7d",
+          "width" : 64
+        } ],
+        "name" : "Gloryland - 30 Bluegrass Gospel Classics",
+        "release_date" : "2007-07-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:52hAmvO6HNjlU7YQH6WTYj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2oxmEjNo7UXIiZi7X7ovGq",
+        "id" : "2oxmEjNo7UXIiZi7X7ovGq",
+        "name" : "The Seldom Scene",
+        "type" : "artist",
+        "uri" : "spotify:artist:2oxmEjNo7UXIiZi7X7ovGq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 202000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US37G0400567"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3GSC0RG0TMrujEKcjmtoRm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3GSC0RG0TMrujEKcjmtoRm",
+      "id" : "3GSC0RG0TMrujEKcjmtoRm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There?",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/45c9906193aaf0bb0b71e6a8d8ef1498ef6f72a1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3GSC0RG0TMrujEKcjmtoRm"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0vD3f3r69jBB1bL6VWnGM2",
+          "id" : "0vD3f3r69jBB1bL6VWnGM2",
+          "name" : "Chris Rice",
+          "type" : "artist",
+          "uri" : "spotify:artist:0vD3f3r69jBB1bL6VWnGM2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4XDj1573h0qRdkUNPiJKVP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4XDj1573h0qRdkUNPiJKVP",
+        "id" : "4XDj1573h0qRdkUNPiJKVP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731ff0913a6c9cb48c8611c552",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021ff0913a6c9cb48c8611c552",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511ff0913a6c9cb48c8611c552",
+          "width" : 64
+        } ],
+        "name" : "Untitled Hymn: A Collection of Hymns",
+        "release_date" : "2019-05-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4XDj1573h0qRdkUNPiJKVP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0vD3f3r69jBB1bL6VWnGM2",
+        "id" : "0vD3f3r69jBB1bL6VWnGM2",
+        "name" : "Chris Rice",
+        "type" : "artist",
+        "uri" : "spotify:artist:0vD3f3r69jBB1bL6VWnGM2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 179893,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USM2C1801410"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3bml5hwCQqaqtdy6AoemU4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3bml5hwCQqaqtdy6AoemU4",
+      "id" : "3bml5hwCQqaqtdy6AoemU4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9e0d95386215b144e26a246a98058fc827c1d293?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:3bml5hwCQqaqtdy6AoemU4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5aBxFPaaGk9204ssHUvXWN",
+          "id" : "5aBxFPaaGk9204ssHUvXWN",
+          "name" : "Michael W. Smith",
+          "type" : "artist",
+          "uri" : "spotify:artist:5aBxFPaaGk9204ssHUvXWN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7i8SdLdKus9UP5WufzYwiN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7i8SdLdKus9UP5WufzYwiN",
+        "id" : "7i8SdLdKus9UP5WufzYwiN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733b34b6edb850f30fc0cb158a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023b34b6edb850f30fc0cb158a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513b34b6edb850f30fc0cb158a",
+          "width" : 64
+        } ],
+        "name" : "The Hymns",
+        "release_date" : "2019-10-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:7i8SdLdKus9UP5WufzYwiN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aBxFPaaGk9204ssHUvXWN",
+        "id" : "5aBxFPaaGk9204ssHUvXWN",
+        "name" : "Michael W. Smith",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aBxFPaaGk9204ssHUvXWN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 201426,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US9F21900003"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6gYfSp0bHVWeWIrbcWHIy7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6gYfSp0bHVWeWIrbcWHIy7",
+      "id" : "6gYfSp0bHVWeWIrbcWHIy7",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a0a75eb1b565a250ceb7115ecff9e9f1a68bdfa2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6gYfSp0bHVWeWIrbcWHIy7"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+          "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+          "name" : "Instrumental Christian Songs, Christian Piano Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1tJVia5eeqSOYTb6pQZeDg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1tJVia5eeqSOYTb6pQZeDg",
+          "id" : "1tJVia5eeqSOYTb6pQZeDg",
+          "name" : "Catholic Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1tJVia5eeqSOYTb6pQZeDg"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+          "id" : "1fO0DHOhFIvuPtObA3LtHR",
+          "name" : "Christian Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1VVdLzXUXpoih3OYx7wcTX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1VVdLzXUXpoih3OYx7wcTX",
+        "id" : "1VVdLzXUXpoih3OYx7wcTX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d9b63f019208219690d963b0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d9b63f019208219690d963b0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d9b63f019208219690d963b0",
+          "width" : 64
+        } ],
+        "name" : "Christian Piano Music - How Can I Keep from Singing",
+        "release_date" : "2016-09-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:1VVdLzXUXpoih3OYx7wcTX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+        "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+        "name" : "Instrumental Christian Songs, Christian Piano Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1tJVia5eeqSOYTb6pQZeDg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1tJVia5eeqSOYTb6pQZeDg",
+        "id" : "1tJVia5eeqSOYTb6pQZeDg",
+        "name" : "Catholic Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1tJVia5eeqSOYTb6pQZeDg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+        "id" : "1fO0DHOhFIvuPtObA3LtHR",
+        "name" : "Christian Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 219985,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACS1623148"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0VpgezfwfKz7sTaa9RSJ2b"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0VpgezfwfKz7sTaa9RSJ2b",
+      "id" : "0VpgezfwfKz7sTaa9RSJ2b",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There (Instrumental Version)",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6998a0b42f2c511e07d9ac2cdbe5e22860f44670?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0VpgezfwfKz7sTaa9RSJ2b"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2Qtvrlcjx83rryARiEIPeI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2Qtvrlcjx83rryARiEIPeI",
+          "id" : "2Qtvrlcjx83rryARiEIPeI",
+          "name" : "The Vigil Project",
+          "type" : "artist",
+          "uri" : "spotify:artist:2Qtvrlcjx83rryARiEIPeI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1Bn4BYmtY5X7r094Bk2dBn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1Bn4BYmtY5X7r094Bk2dBn",
+        "id" : "1Bn4BYmtY5X7r094Bk2dBn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730ed04a96d90dbddd1410a524",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020ed04a96d90dbddd1410a524",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510ed04a96d90dbddd1410a524",
+          "width" : 64
+        } ],
+        "name" : "Vigil (Series #1)",
+        "release_date" : "2017-12-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:1Bn4BYmtY5X7r094Bk2dBn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Qtvrlcjx83rryARiEIPeI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Qtvrlcjx83rryARiEIPeI",
+        "id" : "2Qtvrlcjx83rryARiEIPeI",
+        "name" : "The Vigil Project",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Qtvrlcjx83rryARiEIPeI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5iwn6MUdevcMCJ96CYVJZn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5iwn6MUdevcMCJ96CYVJZn",
+        "id" : "5iwn6MUdevcMCJ96CYVJZn",
+        "name" : "Andrea Thomas",
+        "type" : "artist",
+        "uri" : "spotify:artist:5iwn6MUdevcMCJ96CYVJZn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 339242,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZAPG1714735"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4GOiwnqtw0qeZvoqI4VxCQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4GOiwnqtw0qeZvoqI4VxCQ",
+      "id" : "4GOiwnqtw0qeZvoqI4VxCQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/73ab7d40ba84b8ee031021c745b3b47f5599ce00?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:4GOiwnqtw0qeZvoqI4VxCQ"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5mwGRy9hSuSnXwuZOpeQOe"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5mwGRy9hSuSnXwuZOpeQOe",
+          "id" : "5mwGRy9hSuSnXwuZOpeQOe",
+          "name" : "Jaden Street",
+          "type" : "artist",
+          "uri" : "spotify:artist:5mwGRy9hSuSnXwuZOpeQOe"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2JGadz0HoPF9Je2W0KIlUa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2JGadz0HoPF9Je2W0KIlUa",
+        "id" : "2JGadz0HoPF9Je2W0KIlUa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273070433239947e977f9013eda",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02070433239947e977f9013eda",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851070433239947e977f9013eda",
+          "width" : 64
+        } ],
+        "name" : "Were You There",
+        "release_date" : "2017-12-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:2JGadz0HoPF9Je2W0KIlUa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5mwGRy9hSuSnXwuZOpeQOe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5mwGRy9hSuSnXwuZOpeQOe",
+        "id" : "5mwGRy9hSuSnXwuZOpeQOe",
+        "name" : "Jaden Street",
+        "type" : "artist",
+        "uri" : "spotify:artist:5mwGRy9hSuSnXwuZOpeQOe"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5QwNF1rNmksCvKUDA9FOfQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5QwNF1rNmksCvKUDA9FOfQ",
+        "id" : "5QwNF1rNmksCvKUDA9FOfQ",
+        "name" : "Emma Hill",
+        "type" : "artist",
+        "uri" : "spotify:artist:5QwNF1rNmksCvKUDA9FOfQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0mSkvIFmJp0JwhNE8q9TFz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0mSkvIFmJp0JwhNE8q9TFz",
+        "id" : "0mSkvIFmJp0JwhNE8q9TFz",
+        "name" : "Audrey Graham",
+        "type" : "artist",
+        "uri" : "spotify:artist:0mSkvIFmJp0JwhNE8q9TFz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 221589,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZAPG1708181"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1kVWxkW0gRfT2xnZG031PY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1kVWxkW0gRfT2xnZG031PY",
+      "id" : "1kVWxkW0gRfT2xnZG031PY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e6e5c90f43e1b87cb2c01fb11bbf564c0919d923?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1kVWxkW0gRfT2xnZG031PY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/44nxpJ4QALHoSoUFpWiIQc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/44nxpJ4QALHoSoUFpWiIQc",
+          "id" : "44nxpJ4QALHoSoUFpWiIQc",
+          "name" : "David Andrew",
+          "type" : "artist",
+          "uri" : "spotify:artist:44nxpJ4QALHoSoUFpWiIQc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7h6OVZnXZ0yVJLf2Ou96lK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7h6OVZnXZ0yVJLf2Ou96lK",
+        "id" : "7h6OVZnXZ0yVJLf2Ou96lK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27308c8470894966ce4724c041f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0208c8470894966ce4724c041f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485108c8470894966ce4724c041f",
+          "width" : 64
+        } ],
+        "name" : "Hymns",
+        "release_date" : "2020-03-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:7h6OVZnXZ0yVJLf2Ou96lK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44nxpJ4QALHoSoUFpWiIQc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44nxpJ4QALHoSoUFpWiIQc",
+        "id" : "44nxpJ4QALHoSoUFpWiIQc",
+        "name" : "David Andrew",
+        "type" : "artist",
+        "uri" : "spotify:artist:44nxpJ4QALHoSoUFpWiIQc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 282000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZDA42028029"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3huKAsOMqq5QHjMESk2kUP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3huKAsOMqq5QHjMESk2kUP",
+      "id" : "3huKAsOMqq5QHjMESk2kUP",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f2a39e9daadf42ac66a814c0ae94f62181cc4c53?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:3huKAsOMqq5QHjMESk2kUP"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5TB43hYVZMxI193JCzyQJb",
+          "id" : "5TB43hYVZMxI193JCzyQJb",
+          "name" : "Page CXVI",
+          "type" : "artist",
+          "uri" : "spotify:artist:5TB43hYVZMxI193JCzyQJb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2NYpgPQoDpF1UdPsaM1zU2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2NYpgPQoDpF1UdPsaM1zU2",
+        "id" : "2NYpgPQoDpF1UdPsaM1zU2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273579fe2cd98c4119f5481404e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02579fe2cd98c4119f5481404e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851579fe2cd98c4119f5481404e",
+          "width" : 64
+        } ],
+        "name" : "Lent to Maundy Thursday (Remastered)",
+        "release_date" : "2014-03-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:2NYpgPQoDpF1UdPsaM1zU2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TB43hYVZMxI193JCzyQJb",
+        "id" : "5TB43hYVZMxI193JCzyQJb",
+        "name" : "Page CXVI",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TB43hYVZMxI193JCzyQJb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 250559,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US9YS1400003"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5c2aBRe3xttvHYDPt6GSUW"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5c2aBRe3xttvHYDPt6GSUW",
+      "id" : "5c2aBRe3xttvHYDPt6GSUW",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There?",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/646d791e037e980cbf1612b4ff42884c029b1748?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:5c2aBRe3xttvHYDPt6GSUW"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Were+You+There%3F&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Were+You+There%3F&type=track&market=US&offset=0&limit=10",
+    "total" : 3141
+  }
+}

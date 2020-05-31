@@ -1,0 +1,699 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Deeper+Yet&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3vwn7RBZEpkEAPzY1dM35V"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3vwn7RBZEpkEAPzY1dM35V",
+          "id" : "3vwn7RBZEpkEAPzY1dM35V",
+          "name" : "Ds'Air",
+          "type" : "artist",
+          "uri" : "spotify:artist:3vwn7RBZEpkEAPzY1dM35V"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/63dF79hpiM7p94WWZYp6EO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/63dF79hpiM7p94WWZYp6EO",
+        "id" : "63dF79hpiM7p94WWZYp6EO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e4b025b3938a1074c953a982",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e4b025b3938a1074c953a982",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e4b025b3938a1074c953a982",
+          "width" : 64
+        } ],
+        "name" : "Explorer's Tales",
+        "release_date" : "2010",
+        "release_date_precision" : "year",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:63dF79hpiM7p94WWZYp6EO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3vwn7RBZEpkEAPzY1dM35V"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3vwn7RBZEpkEAPzY1dM35V",
+        "id" : "3vwn7RBZEpkEAPzY1dM35V",
+        "name" : "Ds'Air",
+        "type" : "artist",
+        "uri" : "spotify:artist:3vwn7RBZEpkEAPzY1dM35V"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 736000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "BGA471516591"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/67e6Z6STap1tfStDWbgA8t"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/67e6Z6STap1tfStDWbgA8t",
+      "id" : "67e6Z6STap1tfStDWbgA8t",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Yet Deeper Into Trance",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a75e44941097ad40c76d528e8e67666bef95eb80?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:67e6Z6STap1tfStDWbgA8t"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+          "id" : "5Aff45j7vloRz1c04dWbQy",
+          "name" : "Soundfactory",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2M2pV5OJ790b7i2pNozI87"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2M2pV5OJ790b7i2pNozI87",
+        "id" : "2M2pV5OJ790b7i2pNozI87",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e7588ca000a3f11f763a5f59",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e7588ca000a3f11f763a5f59",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e7588ca000a3f11f763a5f59",
+          "width" : 64
+        } ],
+        "name" : "Deeper Yet",
+        "release_date" : "2018-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:2M2pV5OJ790b7i2pNozI87"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+        "id" : "5Aff45j7vloRz1c04dWbQy",
+        "name" : "Soundfactory",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 358224,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UST8K1807237"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0zKuLkDKoRhpsYFhURhids"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0zKuLkDKoRhpsYFhURhids",
+      "id" : "0zKuLkDKoRhpsYFhURhids",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Deeper Yet - Dub Mix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b49f19984e1a2ea0b93f831cdb713e10430ee126?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0zKuLkDKoRhpsYFhURhids"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+          "id" : "5Aff45j7vloRz1c04dWbQy",
+          "name" : "Soundfactory",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2M2pV5OJ790b7i2pNozI87"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2M2pV5OJ790b7i2pNozI87",
+        "id" : "2M2pV5OJ790b7i2pNozI87",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e7588ca000a3f11f763a5f59",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e7588ca000a3f11f763a5f59",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e7588ca000a3f11f763a5f59",
+          "width" : 64
+        } ],
+        "name" : "Deeper Yet",
+        "release_date" : "2018-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:2M2pV5OJ790b7i2pNozI87"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+        "id" : "5Aff45j7vloRz1c04dWbQy",
+        "name" : "Soundfactory",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 326065,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UST8K1807236"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2wMWZJcjAn3RCRMzUcttke"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2wMWZJcjAn3RCRMzUcttke",
+      "id" : "2wMWZJcjAn3RCRMzUcttke",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Deeper Yet - Club Mix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b35c4caea4fa552682758f94ac1e0fb621fc13d4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:2wMWZJcjAn3RCRMzUcttke"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+          "id" : "5Aff45j7vloRz1c04dWbQy",
+          "name" : "Soundfactory",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2M2pV5OJ790b7i2pNozI87"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2M2pV5OJ790b7i2pNozI87",
+        "id" : "2M2pV5OJ790b7i2pNozI87",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e7588ca000a3f11f763a5f59",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e7588ca000a3f11f763a5f59",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e7588ca000a3f11f763a5f59",
+          "width" : 64
+        } ],
+        "name" : "Deeper Yet",
+        "release_date" : "2018-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:2M2pV5OJ790b7i2pNozI87"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+        "id" : "5Aff45j7vloRz1c04dWbQy",
+        "name" : "Soundfactory",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 317743,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UST8K1807239"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1pMpcx3lleTgE7RDbsCc5l"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1pMpcx3lleTgE7RDbsCc5l",
+      "id" : "1pMpcx3lleTgE7RDbsCc5l",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Deeper Yet - Instrumental Mix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/50ca8315e25390fc8fd1d1f6004e80dc1d64e45c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:1pMpcx3lleTgE7RDbsCc5l"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6IFIzhES4mODhd3mH9bX19"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6IFIzhES4mODhd3mH9bX19",
+          "id" : "6IFIzhES4mODhd3mH9bX19",
+          "name" : "Mother Willie Mae Rivers",
+          "type" : "artist",
+          "uri" : "spotify:artist:6IFIzhES4mODhd3mH9bX19"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/21xVkbt5UOyEwdNtaPXCrc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/21xVkbt5UOyEwdNtaPXCrc",
+        "id" : "21xVkbt5UOyEwdNtaPXCrc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a98557524992342f0f3baeae",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a98557524992342f0f3baeae",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a98557524992342f0f3baeae",
+          "width" : 64
+        } ],
+        "name" : "Business for the King",
+        "release_date" : "2003-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:21xVkbt5UOyEwdNtaPXCrc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7zpbY8aXXzyoeSDFJ0mB0C"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7zpbY8aXXzyoeSDFJ0mB0C",
+        "id" : "7zpbY8aXXzyoeSDFJ0mB0C",
+        "name" : "Robi Rivers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7zpbY8aXXzyoeSDFJ0mB0C"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 288893,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90564388"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/226giAFwCBGpsoR1epCXj1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/226giAFwCBGpsoR1epCXj1",
+      "id" : "226giAFwCBGpsoR1epCXj1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Deeper Yet I Pray",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2945ae0963c435ba484fe1a63fd6b4be51d7789f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:226giAFwCBGpsoR1epCXj1"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+          "id" : "5Aff45j7vloRz1c04dWbQy",
+          "name" : "Soundfactory",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2M2pV5OJ790b7i2pNozI87"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2M2pV5OJ790b7i2pNozI87",
+        "id" : "2M2pV5OJ790b7i2pNozI87",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e7588ca000a3f11f763a5f59",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e7588ca000a3f11f763a5f59",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e7588ca000a3f11f763a5f59",
+          "width" : 64
+        } ],
+        "name" : "Deeper Yet",
+        "release_date" : "2018-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:2M2pV5OJ790b7i2pNozI87"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+        "id" : "5Aff45j7vloRz1c04dWbQy",
+        "name" : "Soundfactory",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 183811,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UST8K1807235"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4lH4qspguMtNkRm6cUNtEZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4lH4qspguMtNkRm6cUNtEZ",
+      "id" : "4lH4qspguMtNkRm6cUNtEZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Deeper Yet - Radio Edit",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a514461a4f5f52596a90867078332bb9a9209753?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4lH4qspguMtNkRm6cUNtEZ"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+          "id" : "5Aff45j7vloRz1c04dWbQy",
+          "name" : "Soundfactory",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2M2pV5OJ790b7i2pNozI87"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2M2pV5OJ790b7i2pNozI87",
+        "id" : "2M2pV5OJ790b7i2pNozI87",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e7588ca000a3f11f763a5f59",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e7588ca000a3f11f763a5f59",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e7588ca000a3f11f763a5f59",
+          "width" : 64
+        } ],
+        "name" : "Deeper Yet",
+        "release_date" : "2018-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:2M2pV5OJ790b7i2pNozI87"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+        "id" : "5Aff45j7vloRz1c04dWbQy",
+        "name" : "Soundfactory",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/750iJuhXAi1vgGWPFZ3O0x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/750iJuhXAi1vgGWPFZ3O0x",
+        "id" : "750iJuhXAi1vgGWPFZ3O0x",
+        "name" : "Jay",
+        "type" : "artist",
+        "uri" : "spotify:artist:750iJuhXAi1vgGWPFZ3O0x"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 500520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UST8K1807238"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/56llx8xsJvAnhw8z0zgbJ2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/56llx8xsJvAnhw8z0zgbJ2",
+      "id" : "56llx8xsJvAnhw8z0zgbJ2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Deeper Yet - Jay Remix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9153f652753c73cc8f912838e493c4bb65a58fd9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:56llx8xsJvAnhw8z0zgbJ2"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+          "id" : "5Aff45j7vloRz1c04dWbQy",
+          "name" : "Soundfactory",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4jdXlObnURt7KRIgYp2yK0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4jdXlObnURt7KRIgYp2yK0",
+        "id" : "4jdXlObnURt7KRIgYp2yK0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736e5aeccb8f7c27efc9f4b813",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026e5aeccb8f7c27efc9f4b813",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516e5aeccb8f7c27efc9f4b813",
+          "width" : 64
+        } ],
+        "name" : "Deeper Yet (The Remixes, Vol. 1)",
+        "release_date" : "2018-10-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:4jdXlObnURt7KRIgYp2yK0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+        "id" : "5Aff45j7vloRz1c04dWbQy",
+        "name" : "Soundfactory",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 468661,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM2PV1890880"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/27IVIOkt3U5Q7EODsikJpR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/27IVIOkt3U5Q7EODsikJpR",
+      "id" : "27IVIOkt3U5Q7EODsikJpR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Deeper Yet - StoneBridge Club Mix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/510dd624d42a3804a91be9cbc721a28eda6de01f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:27IVIOkt3U5Q7EODsikJpR"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+          "id" : "5Aff45j7vloRz1c04dWbQy",
+          "name" : "Soundfactory",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4jdXlObnURt7KRIgYp2yK0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4jdXlObnURt7KRIgYp2yK0",
+        "id" : "4jdXlObnURt7KRIgYp2yK0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736e5aeccb8f7c27efc9f4b813",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026e5aeccb8f7c27efc9f4b813",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516e5aeccb8f7c27efc9f4b813",
+          "width" : 64
+        } ],
+        "name" : "Deeper Yet (The Remixes, Vol. 1)",
+        "release_date" : "2018-10-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:4jdXlObnURt7KRIgYp2yK0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+        "id" : "5Aff45j7vloRz1c04dWbQy",
+        "name" : "Soundfactory",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 194285,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM2PV1890881"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Sllm6hrDnur3A9DXeLee6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Sllm6hrDnur3A9DXeLee6",
+      "id" : "3Sllm6hrDnur3A9DXeLee6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Deeper Yet - Twin Radio Mix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e0a23e975fd5c21326263d89f836087f757d575a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3Sllm6hrDnur3A9DXeLee6"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+          "id" : "5Aff45j7vloRz1c04dWbQy",
+          "name" : "Soundfactory",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0JOUi3P1rvDS46tV76HLJR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0JOUi3P1rvDS46tV76HLJR",
+        "id" : "0JOUi3P1rvDS46tV76HLJR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c5d208531d7d9a9f3b597367",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c5d208531d7d9a9f3b597367",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c5d208531d7d9a9f3b597367",
+          "width" : 64
+        } ],
+        "name" : "Deeper Yet (The Remixes, Vol. 2)",
+        "release_date" : "2018-10-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:0JOUi3P1rvDS46tV76HLJR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aff45j7vloRz1c04dWbQy",
+        "id" : "5Aff45j7vloRz1c04dWbQy",
+        "name" : "Soundfactory",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aff45j7vloRz1c04dWbQy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5t0a0G7mTrJxW2kpEQCX63"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5t0a0G7mTrJxW2kpEQCX63",
+        "id" : "5t0a0G7mTrJxW2kpEQCX63",
+        "name" : "FrontSide",
+        "type" : "artist",
+        "uri" : "spotify:artist:5t0a0G7mTrJxW2kpEQCX63"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 226703,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UST8K1807242"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4wO9WhcRuaM5Wqat1LotKG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4wO9WhcRuaM5Wqat1LotKG",
+      "id" : "4wO9WhcRuaM5Wqat1LotKG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Deeper Yet - Frontside Radio Mix",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3e299d9c7e8ef696ef8871c33542f1f8a9820225?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4wO9WhcRuaM5Wqat1LotKG"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Deeper+Yet&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Deeper+Yet&type=track&market=US&offset=0&limit=10",
+    "total" : 33
+  }
+}

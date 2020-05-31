@@ -1,0 +1,726 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=He+Hideth+My+Soul&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3QS4jBiwzSedwwYpJIrzSJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3QS4jBiwzSedwwYpJIrzSJ",
+          "id" : "3QS4jBiwzSedwwYpJIrzSJ",
+          "name" : "Terry MacAlmon",
+          "type" : "artist",
+          "uri" : "spotify:artist:3QS4jBiwzSedwwYpJIrzSJ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7onQjfwxk8ih2VpsZHKoFy"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7onQjfwxk8ih2VpsZHKoFy",
+        "id" : "7onQjfwxk8ih2VpsZHKoFy",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731140ea8eb5ea09fad054bb3d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021140ea8eb5ea09fad054bb3d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511140ea8eb5ea09fad054bb3d",
+          "width" : 64
+        } ],
+        "name" : "The Refreshing, Vol. 1",
+        "release_date" : "2015-10-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:7onQjfwxk8ih2VpsZHKoFy"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3QS4jBiwzSedwwYpJIrzSJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3QS4jBiwzSedwwYpJIrzSJ",
+        "id" : "3QS4jBiwzSedwwYpJIrzSJ",
+        "name" : "Terry MacAlmon",
+        "type" : "artist",
+        "uri" : "spotify:artist:3QS4jBiwzSedwwYpJIrzSJ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 401893,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM2EY1500008"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2vZr0udQiIAdbBUG2X8w8T"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2vZr0udQiIAdbBUG2X8w8T",
+      "id" : "2vZr0udQiIAdbBUG2X8w8T",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "He Hideth My Soul",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c6b53bc6fa22a6910819f331d907a5f43fad7088?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:2vZr0udQiIAdbBUG2X8w8T"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2JGLjTHV2t8u8wxmLaiFfe",
+          "id" : "2JGLjTHV2t8u8wxmLaiFfe",
+          "name" : "Don Moen",
+          "type" : "artist",
+          "uri" : "spotify:artist:2JGLjTHV2t8u8wxmLaiFfe"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6kdLHl9dVDcqzMF5Z5SIVK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6kdLHl9dVDcqzMF5Z5SIVK",
+        "id" : "6kdLHl9dVDcqzMF5Z5SIVK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734b1cb5b6fdb7362a13c61820",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024b1cb5b6fdb7362a13c61820",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514b1cb5b6fdb7362a13c61820",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Hope",
+        "release_date" : "2014-05-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6kdLHl9dVDcqzMF5Z5SIVK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2JGLjTHV2t8u8wxmLaiFfe",
+        "id" : "2JGLjTHV2t8u8wxmLaiFfe",
+        "name" : "Don Moen",
+        "type" : "artist",
+        "uri" : "spotify:artist:2JGLjTHV2t8u8wxmLaiFfe"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 272986,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMU9S1300010"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6wyxwRLRNeTHbr8L93G3CG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6wyxwRLRNeTHbr8L93G3CG",
+      "id" : "6wyxwRLRNeTHbr8L93G3CG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "He Hideth My Soul",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8a152c0521afdfe140dc271a43a2745490342038?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:6wyxwRLRNeTHbr8L93G3CG"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3Be0FxZRoCJ8UPrkwe6Xuw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3Be0FxZRoCJ8UPrkwe6Xuw",
+          "id" : "3Be0FxZRoCJ8UPrkwe6Xuw",
+          "name" : "Stan Whitmire",
+          "type" : "artist",
+          "uri" : "spotify:artist:3Be0FxZRoCJ8UPrkwe6Xuw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/708WHnGeVcYKaHN2AV4HxX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/708WHnGeVcYKaHN2AV4HxX",
+        "id" : "708WHnGeVcYKaHN2AV4HxX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737ff7f0149a3d83cd68b91a98",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027ff7f0149a3d83cd68b91a98",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517ff7f0149a3d83cd68b91a98",
+          "width" : 64
+        } ],
+        "name" : "Piano Hymns",
+        "release_date" : "1995-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:708WHnGeVcYKaHN2AV4HxX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Be0FxZRoCJ8UPrkwe6Xuw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Be0FxZRoCJ8UPrkwe6Xuw",
+        "id" : "3Be0FxZRoCJ8UPrkwe6Xuw",
+        "name" : "Stan Whitmire",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Be0FxZRoCJ8UPrkwe6Xuw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 258866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USB4U0800087"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3uQVQLT1FanqPpFHXl14sQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3uQVQLT1FanqPpFHXl14sQ",
+      "id" : "3uQVQLT1FanqPpFHXl14sQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Leads Us Along/He Hideth My Soul",
+      "popularity" : 28,
+      "preview_url" : null,
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:3uQVQLT1FanqPpFHXl14sQ"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1PCJfBD2SVVE8cGqpg1pC9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1PCJfBD2SVVE8cGqpg1pC9",
+          "id" : "1PCJfBD2SVVE8cGqpg1pC9",
+          "name" : "Hal Wright",
+          "type" : "artist",
+          "uri" : "spotify:artist:1PCJfBD2SVVE8cGqpg1pC9"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/56dWHx0V7Dq1JoMVaizLyv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/56dWHx0V7Dq1JoMVaizLyv",
+        "id" : "56dWHx0V7Dq1JoMVaizLyv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733096bb2f31858e62799a9e48",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023096bb2f31858e62799a9e48",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513096bb2f31858e62799a9e48",
+          "width" : 64
+        } ],
+        "name" : "Instrumental Hymns 2",
+        "release_date" : "2020-05-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 26,
+        "type" : "album",
+        "uri" : "spotify:album:56dWHx0V7Dq1JoMVaizLyv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PCJfBD2SVVE8cGqpg1pC9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PCJfBD2SVVE8cGqpg1pC9",
+        "id" : "1PCJfBD2SVVE8cGqpg1pC9",
+        "name" : "Hal Wright",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PCJfBD2SVVE8cGqpg1pC9"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aerx1PdoW4F5Yvrus4bDE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aerx1PdoW4F5Yvrus4bDE",
+        "id" : "5Aerx1PdoW4F5Yvrus4bDE",
+        "name" : "Twin Sisters",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aerx1PdoW4F5Yvrus4bDE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 173613,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US6PD1903984"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5ZIWg6DfWeJcMhgGjp8ccY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5ZIWg6DfWeJcMhgGjp8ccY",
+      "id" : "5ZIWg6DfWeJcMhgGjp8ccY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "He Hideth My Soul",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2737afb64ee45d8fa3e5a56086d4f42bbf24ad3a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 23,
+      "type" : "track",
+      "uri" : "spotify:track:5ZIWg6DfWeJcMhgGjp8ccY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6oLzN8cU382zotCKpCNcbT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6oLzN8cU382zotCKpCNcbT",
+          "id" : "6oLzN8cU382zotCKpCNcbT",
+          "name" : "Dino",
+          "type" : "artist",
+          "uri" : "spotify:artist:6oLzN8cU382zotCKpCNcbT"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1alc2fvBia4EabeIWqaNYL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1alc2fvBia4EabeIWqaNYL",
+        "id" : "1alc2fvBia4EabeIWqaNYL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fe61c720b3d609e10c352133",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fe61c720b3d609e10c352133",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fe61c720b3d609e10c352133",
+          "width" : 64
+        } ],
+        "name" : "Dino",
+        "release_date" : "2008",
+        "release_date_precision" : "year",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1alc2fvBia4EabeIWqaNYL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6oLzN8cU382zotCKpCNcbT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6oLzN8cU382zotCKpCNcbT",
+        "id" : "6oLzN8cU382zotCKpCNcbT",
+        "name" : "Dino",
+        "type" : "artist",
+        "uri" : "spotify:artist:6oLzN8cU382zotCKpCNcbT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 294312,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4R31016577"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1LtIUcV139WEDSChn6KO7s"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1LtIUcV139WEDSChn6KO7s",
+      "id" : "1LtIUcV139WEDSChn6KO7s",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "He Hideth My Soul in the Shadow of the Almighty",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5ff4ea718984ab4ff794ea43ef1ab3746163ec19?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1LtIUcV139WEDSChn6KO7s"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6CkyBXEUTNVKtjuvpm4FrY",
+          "id" : "6CkyBXEUTNVKtjuvpm4FrY",
+          "name" : "Gold City",
+          "type" : "artist",
+          "uri" : "spotify:artist:6CkyBXEUTNVKtjuvpm4FrY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6yPU8bhLOs98RHVmTrE9fg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6yPU8bhLOs98RHVmTrE9fg",
+        "id" : "6yPU8bhLOs98RHVmTrE9fg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730494dec639c83e6fe56d0a4b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020494dec639c83e6fe56d0a4b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510494dec639c83e6fe56d0a4b",
+          "width" : 64
+        } ],
+        "name" : "Hymn Revival",
+        "release_date" : "2014-08-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6yPU8bhLOs98RHVmTrE9fg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CkyBXEUTNVKtjuvpm4FrY",
+        "id" : "6CkyBXEUTNVKtjuvpm4FrY",
+        "name" : "Gold City",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CkyBXEUTNVKtjuvpm4FrY"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 295693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US6R21452470"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0eX0F4D01fIRIUJkbUWOah"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0eX0F4D01fIRIUJkbUWOah",
+      "id" : "0eX0F4D01fIRIUJkbUWOah",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "He Hideth My Soul",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1cc8dd4fe80a82f21dc5abe771003e57984db196?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0eX0F4D01fIRIUJkbUWOah"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/66wd2UXU9qFFSsXdS8smyY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/66wd2UXU9qFFSsXdS8smyY",
+          "id" : "66wd2UXU9qFFSsXdS8smyY",
+          "name" : "Wintley Phipps",
+          "type" : "artist",
+          "uri" : "spotify:artist:66wd2UXU9qFFSsXdS8smyY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1qsd597sIBRru5zJJ8ffKc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1qsd597sIBRru5zJJ8ffKc",
+        "id" : "1qsd597sIBRru5zJJ8ffKc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731b024c2239219e85c28bb612",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021b024c2239219e85c28bb612",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511b024c2239219e85c28bb612",
+          "width" : 64
+        } ],
+        "name" : "Near the Cross",
+        "release_date" : "2013-08-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1qsd597sIBRru5zJJ8ffKc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/66wd2UXU9qFFSsXdS8smyY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/66wd2UXU9qFFSsXdS8smyY",
+        "id" : "66wd2UXU9qFFSsXdS8smyY",
+        "name" : "Wintley Phipps",
+        "type" : "artist",
+        "uri" : "spotify:artist:66wd2UXU9qFFSsXdS8smyY"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 337213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USLF50801666"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7bwbzk5Wkirk5TsuhtIEBW"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7bwbzk5Wkirk5TsuhtIEBW",
+      "id" : "7bwbzk5Wkirk5TsuhtIEBW",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "He Hideth My Soul",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dff33b79e1637ac2a87ab100d744799e8cb8fcd8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:7bwbzk5Wkirk5TsuhtIEBW"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2x0QHABqKaBBvAOzvoevXJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2x0QHABqKaBBvAOzvoevXJ",
+          "id" : "2x0QHABqKaBBvAOzvoevXJ",
+          "name" : "The Scottish Festival Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:2x0QHABqKaBBvAOzvoevXJ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/07SgkmUPKoVW09iWtduVfp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/07SgkmUPKoVW09iWtduVfp",
+        "id" : "07SgkmUPKoVW09iWtduVfp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cc6d2a767a1f5839848a8ed8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cc6d2a767a1f5839848a8ed8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cc6d2a767a1f5839848a8ed8",
+          "width" : 64
+        } ],
+        "name" : "The Hymn Writers: Fanny Crosby",
+        "release_date" : "2012-10-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:07SgkmUPKoVW09iWtduVfp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2x0QHABqKaBBvAOzvoevXJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2x0QHABqKaBBvAOzvoevXJ",
+        "id" : "2x0QHABqKaBBvAOzvoevXJ",
+        "name" : "The Scottish Festival Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2x0QHABqKaBBvAOzvoevXJ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 253653,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBME51201105"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7eHbMHK0Q0lvFKodNybYbZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7eHbMHK0Q0lvFKodNybYbZ",
+      "id" : "7eHbMHK0Q0lvFKodNybYbZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "A Wonderful Saviour Is Jesus My Lord (He Hideth My Soul)",
+      "popularity" : 14,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5416310a75d17d091e3638eefc915fac724be1c4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:7eHbMHK0Q0lvFKodNybYbZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0XOGhQGVg5HkdudMPgyqYj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0XOGhQGVg5HkdudMPgyqYj",
+          "id" : "0XOGhQGVg5HkdudMPgyqYj",
+          "name" : "George Beverly Shea",
+          "type" : "artist",
+          "uri" : "spotify:artist:0XOGhQGVg5HkdudMPgyqYj"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7sp5Q6cyAf2EF8ElfN4K7W"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7sp5Q6cyAf2EF8ElfN4K7W",
+        "id" : "7sp5Q6cyAf2EF8ElfN4K7W",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27363394cdcb0026e294c019612",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0263394cdcb0026e294c019612",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485163394cdcb0026e294c019612",
+          "width" : 64
+        } ],
+        "name" : "Best of the Best",
+        "release_date" : "2018-03-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:7sp5Q6cyAf2EF8ElfN4K7W"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XOGhQGVg5HkdudMPgyqYj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XOGhQGVg5HkdudMPgyqYj",
+        "id" : "0XOGhQGVg5HkdudMPgyqYj",
+        "name" : "George Beverly Shea",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XOGhQGVg5HkdudMPgyqYj"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 212280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMDA71870807"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0TMIW7LEW8ZtkZ7efINDXS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0TMIW7LEW8ZtkZ7efINDXS",
+      "id" : "0TMIW7LEW8ZtkZ7efINDXS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "He Hideth My Soul",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a922c0d69c0c07393d608d593006ef1dfbb1e031?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0TMIW7LEW8ZtkZ7efINDXS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+          "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+          "name" : "Instrumental Christian Songs, Christian Piano Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0rdBlsgJwmtrfJEjOo4fdQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0rdBlsgJwmtrfJEjOo4fdQ",
+          "id" : "0rdBlsgJwmtrfJEjOo4fdQ",
+          "name" : "Simply Instrumental Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:0rdBlsgJwmtrfJEjOo4fdQ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6Mpnuw1zAeDxd9Y7clGNrX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6Mpnuw1zAeDxd9Y7clGNrX",
+          "id" : "6Mpnuw1zAeDxd9Y7clGNrX",
+          "name" : "Christian Hymns Players",
+          "type" : "artist",
+          "uri" : "spotify:artist:6Mpnuw1zAeDxd9Y7clGNrX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3X31buBw7kBuikjSPEo8Rw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3X31buBw7kBuikjSPEo8Rw",
+        "id" : "3X31buBw7kBuikjSPEo8Rw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b3d32a49d40b560c164fdaf7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b3d32a49d40b560c164fdaf7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b3d32a49d40b560c164fdaf7",
+          "width" : 64
+        } ],
+        "name" : "Piano Hymns for Prayer & Reflection",
+        "release_date" : "2016-09-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:3X31buBw7kBuikjSPEo8Rw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+        "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+        "name" : "Instrumental Christian Songs, Christian Piano Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0rdBlsgJwmtrfJEjOo4fdQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0rdBlsgJwmtrfJEjOo4fdQ",
+        "id" : "0rdBlsgJwmtrfJEjOo4fdQ",
+        "name" : "Simply Instrumental Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:0rdBlsgJwmtrfJEjOo4fdQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Mpnuw1zAeDxd9Y7clGNrX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Mpnuw1zAeDxd9Y7clGNrX",
+        "id" : "6Mpnuw1zAeDxd9Y7clGNrX",
+        "name" : "Christian Hymns Players",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Mpnuw1zAeDxd9Y7clGNrX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203494,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACS1610719"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1TxoIwBXmvEWDLgECOuYKg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1TxoIwBXmvEWDLgECOuYKg",
+      "id" : "1TxoIwBXmvEWDLgECOuYKg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "He Hideth My Soul (Instrumental Version)",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a0f9f26ce4b9766958ebcd6715da8bdd52f0381d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:1TxoIwBXmvEWDLgECOuYKg"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=He+Hideth+My+Soul&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=He+Hideth+My+Soul&type=track&market=US&offset=0&limit=10",
+    "total" : 234
+  }
+}

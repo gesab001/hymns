@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=This+Little+Light+of+Mine&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6hnWRPzGGKiapVX1UCdEAC",
+          "id" : "6hnWRPzGGKiapVX1UCdEAC",
+          "name" : "Sam Cooke",
+          "type" : "artist",
+          "uri" : "spotify:artist:6hnWRPzGGKiapVX1UCdEAC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4IzTGWm7hiv0BpQAG7vWhI",
+        "id" : "4IzTGWm7hiv0BpQAG7vWhI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27383cdb73c8a7b65ac87053394",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0283cdb73c8a7b65ac87053394",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485183cdb73c8a7b65ac87053394",
+          "width" : 64
+        } ],
+        "name" : "A Change Is Gonna Come",
+        "release_date" : "1964-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:4IzTGWm7hiv0BpQAG7vWhI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6hnWRPzGGKiapVX1UCdEAC",
+        "id" : "6hnWRPzGGKiapVX1UCdEAC",
+        "name" : "Sam Cooke",
+        "type" : "artist",
+        "uri" : "spotify:artist:6hnWRPzGGKiapVX1UCdEAC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 217426,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA170840290"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6nvHPswHIHEAAsKCbxW2mV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6nvHPswHIHEAAsKCbxW2mV",
+      "id" : "6nvHPswHIHEAAsKCbxW2mV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light Of Mine",
+      "popularity" : 43,
+      "preview_url" : null,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6nvHPswHIHEAAsKCbxW2mV"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dq8KEwf0kQXJhM79iwcPh",
+          "id" : "7dq8KEwf0kQXJhM79iwcPh",
+          "name" : "JJ Heller",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dq8KEwf0kQXJhM79iwcPh"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0la2IhT0KI8Ww9VEJJ1zLi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0la2IhT0KI8Ww9VEJJ1zLi",
+        "id" : "0la2IhT0KI8Ww9VEJJ1zLi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b0b32cbcf71de60290734b24",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b0b32cbcf71de60290734b24",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b0b32cbcf71de60290734b24",
+          "width" : 64
+        } ],
+        "name" : "This Little Light of Mine",
+        "release_date" : "2017-04-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:0la2IhT0KI8Ww9VEJJ1zLi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dq8KEwf0kQXJhM79iwcPh",
+        "id" : "7dq8KEwf0kQXJhM79iwcPh",
+        "name" : "JJ Heller",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dq8KEwf0kQXJhM79iwcPh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 159820,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADA1773389"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4ujYTGqbiV5xl97Pqoctq2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4ujYTGqbiV5xl97Pqoctq2",
+      "id" : "4ujYTGqbiV5xl97Pqoctq2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light of Mine",
+      "popularity" : 39,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7aafad74719da4223dfdedd81bcf80450adda8cf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4ujYTGqbiV5xl97Pqoctq2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6h76MLMaPUoWVPC7VnEw86",
+          "id" : "6h76MLMaPUoWVPC7VnEw86",
+          "name" : "Mother Goose Club",
+          "type" : "artist",
+          "uri" : "spotify:artist:6h76MLMaPUoWVPC7VnEw86"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1j268hisybBFDdSwuYbD30"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1j268hisybBFDdSwuYbD30",
+        "id" : "1j268hisybBFDdSwuYbD30",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f73e9ac8e2bfcd29de478a5b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f73e9ac8e2bfcd29de478a5b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f73e9ac8e2bfcd29de478a5b",
+          "width" : 64
+        } ],
+        "name" : "Mother Goose Club Sings Nursery Rhymes Vol. 4: Row, Row, Row Your Rhyme",
+        "release_date" : "2013-05-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:1j268hisybBFDdSwuYbD30"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6h76MLMaPUoWVPC7VnEw86",
+        "id" : "6h76MLMaPUoWVPC7VnEw86",
+        "name" : "Mother Goose Club",
+        "type" : "artist",
+        "uri" : "spotify:artist:6h76MLMaPUoWVPC7VnEw86"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 142365,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMXDV1300079"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6xxTQAUaagsauU8cCshtyY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6xxTQAUaagsauU8cCshtyY",
+      "id" : "6xxTQAUaagsauU8cCshtyY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light of Mine",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bbf35e981c8bab16730cb16c981cb40fc4a96ed5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6xxTQAUaagsauU8cCshtyY"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6UcChJFHqKzPPnNxAY5D0s"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6UcChJFHqKzPPnNxAY5D0s",
+          "id" : "6UcChJFHqKzPPnNxAY5D0s",
+          "name" : "Listener Kids",
+          "type" : "artist",
+          "uri" : "spotify:artist:6UcChJFHqKzPPnNxAY5D0s"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0gxTk6Qjz99QalCfOt93RB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0gxTk6Qjz99QalCfOt93RB",
+        "id" : "0gxTk6Qjz99QalCfOt93RB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27340ad2b5b6a1efc23130a10f8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0240ad2b5b6a1efc23130a10f8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485140ad2b5b6a1efc23130a10f8",
+          "width" : 64
+        } ],
+        "name" : "Let It Shine",
+        "release_date" : "2016-11-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:0gxTk6Qjz99QalCfOt93RB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6UcChJFHqKzPPnNxAY5D0s"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6UcChJFHqKzPPnNxAY5D0s",
+        "id" : "6UcChJFHqKzPPnNxAY5D0s",
+        "name" : "Listener Kids",
+        "type" : "artist",
+        "uri" : "spotify:artist:6UcChJFHqKzPPnNxAY5D0s"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7C7Di5WXLjMSxm0mFCbYxT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7C7Di5WXLjMSxm0mFCbYxT",
+        "id" : "7C7Di5WXLjMSxm0mFCbYxT",
+        "name" : "Harvest",
+        "type" : "artist",
+        "uri" : "spotify:artist:7C7Di5WXLjMSxm0mFCbYxT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 204520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACR1661204"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3BEiMgAu4we1APkIHv8euA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3BEiMgAu4we1APkIHv8euA",
+      "id" : "3BEiMgAu4we1APkIHv8euA",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light of Mine (feat. Harvest)",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/27dfe9da29b055d764cef17941a230cc08ac5f94?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3BEiMgAu4we1APkIHv8euA"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/11Y54BxlxC3UIAUkU2eadQ",
+          "id" : "11Y54BxlxC3UIAUkU2eadQ",
+          "name" : "Rend Collective",
+          "type" : "artist",
+          "uri" : "spotify:artist:11Y54BxlxC3UIAUkU2eadQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M534LEjzYqHmV0afXaHZm",
+        "id" : "6M534LEjzYqHmV0afXaHZm",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739caab285de62dafdf80e7970",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029caab285de62dafdf80e7970",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519caab285de62dafdf80e7970",
+          "width" : 64
+        } ],
+        "name" : "Campfire II: Simplicity",
+        "release_date" : "2016-10-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6M534LEjzYqHmV0afXaHZm"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/11Y54BxlxC3UIAUkU2eadQ",
+        "id" : "11Y54BxlxC3UIAUkU2eadQ",
+        "name" : "Rend Collective",
+        "type" : "artist",
+        "uri" : "spotify:artist:11Y54BxlxC3UIAUkU2eadQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 40813,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71607480"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/54lG7yxrHhQfFSphwoXgUb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/54lG7yxrHhQfFSphwoXgUb",
+      "id" : "54lG7yxrHhQfFSphwoXgUb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light Of Mine",
+      "popularity" : 37,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:54lG7yxrHhQfFSphwoXgUb"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7oWSqrgMuIEyH9qp5nu2e5",
+          "id" : "7oWSqrgMuIEyH9qp5nu2e5",
+          "name" : "Raffi",
+          "type" : "artist",
+          "uri" : "spotify:artist:7oWSqrgMuIEyH9qp5nu2e5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/42xceqLtghqbHcStOOeKep"
+        },
+        "href" : "https://api.spotify.com/v1/albums/42xceqLtghqbHcStOOeKep",
+        "id" : "42xceqLtghqbHcStOOeKep",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27332351dbb591547b22380ce1d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0232351dbb591547b22380ce1d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485132351dbb591547b22380ce1d",
+          "width" : 64
+        } ],
+        "name" : "Rise and Shine",
+        "release_date" : "1982",
+        "release_date_precision" : "year",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:42xceqLtghqbHcStOOeKep"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7oWSqrgMuIEyH9qp5nu2e5",
+        "id" : "7oWSqrgMuIEyH9qp5nu2e5",
+        "name" : "Raffi",
+        "type" : "artist",
+        "uri" : "spotify:artist:7oWSqrgMuIEyH9qp5nu2e5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 123040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRO29605517"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3BPFhsI1f4gFM3TaAaW7Dk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3BPFhsI1f4gFM3TaAaW7Dk",
+      "id" : "3BPFhsI1f4gFM3TaAaW7Dk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light of Mine",
+      "popularity" : 30,
+      "preview_url" : null,
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:3BPFhsI1f4gFM3TaAaW7Dk"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Xjo0MmVXZVCNpUSLPCogR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Xjo0MmVXZVCNpUSLPCogR",
+          "id" : "1Xjo0MmVXZVCNpUSLPCogR",
+          "name" : "Addison Road",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Xjo0MmVXZVCNpUSLPCogR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/076jmFTZTSt5jGMImO5ge0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/076jmFTZTSt5jGMImO5ge0",
+        "id" : "076jmFTZTSt5jGMImO5ge0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27376f3cda454d4a4fc4a435723",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0276f3cda454d4a4fc4a435723",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485176f3cda454d4a4fc4a435723",
+          "width" : 64
+        } ],
+        "name" : "Stories",
+        "release_date" : "2010-06-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:076jmFTZTSt5jGMImO5ge0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Xjo0MmVXZVCNpUSLPCogR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Xjo0MmVXZVCNpUSLPCogR",
+        "id" : "1Xjo0MmVXZVCNpUSLPCogR",
+        "name" : "Addison Road",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Xjo0MmVXZVCNpUSLPCogR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 228906,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USM2C1000503"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2RUViuZ4ypMvHUydXBrhzZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2RUViuZ4ypMvHUydXBrhzZ",
+      "id" : "2RUViuZ4ypMvHUydXBrhzZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light Of Mine",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7fef781d6d64695a4212363e7339033e2ea5898d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2RUViuZ4ypMvHUydXBrhzZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4d8pFJwCoD1mX4wAn7Ax2h"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4d8pFJwCoD1mX4wAn7Ax2h",
+          "id" : "4d8pFJwCoD1mX4wAn7Ax2h",
+          "name" : "Clovercroft Kids",
+          "type" : "artist",
+          "uri" : "spotify:artist:4d8pFJwCoD1mX4wAn7Ax2h"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/60MGuUUUYi3QPiVqMTZMmU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/60MGuUUUYi3QPiVqMTZMmU",
+        "id" : "60MGuUUUYi3QPiVqMTZMmU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bcbfde824e4529307b8208f5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bcbfde824e4529307b8208f5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bcbfde824e4529307b8208f5",
+          "width" : 64
+        } ],
+        "name" : "This Little Light of Mine",
+        "release_date" : "2014-08-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:60MGuUUUYi3QPiVqMTZMmU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4d8pFJwCoD1mX4wAn7Ax2h"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4d8pFJwCoD1mX4wAn7Ax2h",
+        "id" : "4d8pFJwCoD1mX4wAn7Ax2h",
+        "name" : "Clovercroft Kids",
+        "type" : "artist",
+        "uri" : "spotify:artist:4d8pFJwCoD1mX4wAn7Ax2h"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 94440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USACX1401046"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6qp34dbkt6ysJ5jnTfUEQF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6qp34dbkt6ysJ5jnTfUEQF",
+      "id" : "6qp34dbkt6ysJ5jnTfUEQF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light of Mine",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2ad44e1e7e5fff5db71b65d567137a5413024e95?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:6qp34dbkt6ysJ5jnTfUEQF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3gBQ1U5dXpRXS6tlbyNTDM",
+          "id" : "3gBQ1U5dXpRXS6tlbyNTDM",
+          "name" : "Elizabeth Mitchell",
+          "type" : "artist",
+          "uri" : "spotify:artist:3gBQ1U5dXpRXS6tlbyNTDM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/73UdZAjg3scbVKIO4r15PG"
+        },
+        "href" : "https://api.spotify.com/v1/albums/73UdZAjg3scbVKIO4r15PG",
+        "id" : "73UdZAjg3scbVKIO4r15PG",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730439f89e271eb22a2258d6da",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020439f89e271eb22a2258d6da",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510439f89e271eb22a2258d6da",
+          "width" : 64
+        } ],
+        "name" : "You Are My Flower",
+        "release_date" : "1999-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:73UdZAjg3scbVKIO4r15PG"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gBQ1U5dXpRXS6tlbyNTDM",
+        "id" : "3gBQ1U5dXpRXS6tlbyNTDM",
+        "name" : "Elizabeth Mitchell",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gBQ1U5dXpRXS6tlbyNTDM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 127306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USGVV0600001"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3P0PaLpxegC4geMuMrTyST"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3P0PaLpxegC4geMuMrTyST",
+      "id" : "3P0PaLpxegC4geMuMrTyST",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light Of Mine",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5a6eccd357ea334ff16d4217525f7112c099f321?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3P0PaLpxegC4geMuMrTyST"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0MCU2OpgnSB7rm5UPUMHgt",
+          "id" : "0MCU2OpgnSB7rm5UPUMHgt",
+          "name" : "Cedarmont Kids",
+          "type" : "artist",
+          "uri" : "spotify:artist:0MCU2OpgnSB7rm5UPUMHgt"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6Xg4hDKUL9qvivx83Fhgsv",
+        "id" : "6Xg4hDKUL9qvivx83Fhgsv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273518a3e7a425739be58f4d16f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02518a3e7a425739be58f4d16f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851518a3e7a425739be58f4d16f",
+          "width" : 64
+        } ],
+        "name" : "Action Bible Songs",
+        "release_date" : "1995",
+        "release_date_precision" : "year",
+        "total_tracks" : 34,
+        "type" : "album",
+        "uri" : "spotify:album:6Xg4hDKUL9qvivx83Fhgsv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0MCU2OpgnSB7rm5UPUMHgt",
+        "id" : "0MCU2OpgnSB7rm5UPUMHgt",
+        "name" : "Cedarmont Kids",
+        "type" : "artist",
+        "uri" : "spotify:artist:0MCU2OpgnSB7rm5UPUMHgt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 83733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA5W0400300"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2uDjYgJ6xW0yhDDsyPAzz0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2uDjYgJ6xW0yhDDsyPAzz0",
+      "id" : "2uDjYgJ6xW0yhDDsyPAzz0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This Little Light Of Mine",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9b8730a69e3dab4d6b7702ba33e664963569dc8c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:2uDjYgJ6xW0yhDDsyPAzz0"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=This+Little+Light+of+Mine&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=This+Little+Light+of+Mine&type=track&market=US&offset=0&limit=10",
+    "total" : 1780
+  }
+}

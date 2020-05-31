@@ -1,0 +1,78 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+Am+Coming+to+the+Cross&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+          "id" : "0kXPoMYYhhXMT1Acf6d1At",
+          "name" : "Johan Muren",
+          "type" : "artist",
+          "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1XuGI57dDgMTq0a6AJw8kI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1XuGI57dDgMTq0a6AJw8kI",
+        "id" : "1XuGI57dDgMTq0a6AJw8kI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738679fff646bb5edb338fcd32",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028679fff646bb5edb338fcd32",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518679fff646bb5edb338fcd32",
+          "width" : 64
+        } ],
+        "name" : "American Sda Hymnal Sing Along Vol.21",
+        "release_date" : "2020-04-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:1XuGI57dDgMTq0a6AJw8kI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+        "id" : "0kXPoMYYhhXMT1Acf6d1At",
+        "name" : "Johan Muren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 148333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM6MZ2038944"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0W0y2BvEN4h4KFTcPl5g8S"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0W0y2BvEN4h4KFTcPl5g8S",
+      "id" : "0W0y2BvEN4h4KFTcPl5g8S",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Am Coming to the Cross",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/baaa95083bc262bba2e93605efa3cb20ad2f0fd0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:0W0y2BvEN4h4KFTcPl5g8S"
+    } ],
+    "limit" : 10,
+    "next" : null,
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=I+Am+Coming+to+the+Cross&type=track&market=US&offset=0&limit=10",
+    "total" : 6
+  }
+}

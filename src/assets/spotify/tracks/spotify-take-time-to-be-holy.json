@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Take+Time+to+Be+Holy&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6nezkdChBrDq5RSdO3ZdfZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6nezkdChBrDq5RSdO3ZdfZ",
+          "id" : "6nezkdChBrDq5RSdO3ZdfZ",
+          "name" : "Lyle Hadlock",
+          "type" : "artist",
+          "uri" : "spotify:artist:6nezkdChBrDq5RSdO3ZdfZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7aFRjE35lIorTJ7Ac0DfHi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7aFRjE35lIorTJ7Ac0DfHi",
+        "id" : "7aFRjE35lIorTJ7Ac0DfHi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a0072b5e76bb45efcd7a5bce",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a0072b5e76bb45efcd7a5bce",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a0072b5e76bb45efcd7a5bce",
+          "width" : 64
+        } ],
+        "name" : "Take Time to Be Holy",
+        "release_date" : "2009-11-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:7aFRjE35lIorTJ7Ac0DfHi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nezkdChBrDq5RSdO3ZdfZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nezkdChBrDq5RSdO3ZdfZ",
+        "id" : "6nezkdChBrDq5RSdO3ZdfZ",
+        "name" : "Lyle Hadlock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nezkdChBrDq5RSdO3ZdfZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 154400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USTCB0953606"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6SndtjLWsnfFLqdFdSy37Z"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6SndtjLWsnfFLqdFdSy37Z",
+      "id" : "6SndtjLWsnfFLqdFdSy37Z",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is Sunshine in My Soul Today",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2d6814c35c8719ff31ad1a2a3e01133bc0c4d260?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:6SndtjLWsnfFLqdFdSy37Z"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4B43yyRlfQgDEhDPq35wUc",
+          "id" : "4B43yyRlfQgDEhDPq35wUc",
+          "name" : "The Collingsworth Family",
+          "type" : "artist",
+          "uri" : "spotify:artist:4B43yyRlfQgDEhDPq35wUc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4ukMv3zJ8tWmwuttaeOk4f"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4ukMv3zJ8tWmwuttaeOk4f",
+        "id" : "4ukMv3zJ8tWmwuttaeOk4f",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27370892f665c0955870ad99cae",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0270892f665c0955870ad99cae",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485170892f665c0955870ad99cae",
+          "width" : 64
+        } ],
+        "name" : "Hymns From Home",
+        "release_date" : "2013-09-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:4ukMv3zJ8tWmwuttaeOk4f"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4B43yyRlfQgDEhDPq35wUc",
+        "id" : "4B43yyRlfQgDEhDPq35wUc",
+        "name" : "The Collingsworth Family",
+        "type" : "artist",
+        "uri" : "spotify:artist:4B43yyRlfQgDEhDPq35wUc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 216480,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USC5G1300223"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6hqPV9rru1nxKiUAwqpyv9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6hqPV9rru1nxKiUAwqpyv9",
+      "id" : "6hqPV9rru1nxKiUAwqpyv9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take Time to Be Holy",
+      "popularity" : 15,
+      "preview_url" : "https://p.scdn.co/mp3-preview/25c93a3e006882fd9f2b6d789489dcffc0bf48c2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6hqPV9rru1nxKiUAwqpyv9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+          "id" : "1E5fXe9FugDtjPJXLjc3be",
+          "name" : "Joseph Habedank",
+          "type" : "artist",
+          "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6nwMiVP999CXk67gpn8JTh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6nwMiVP999CXk67gpn8JTh",
+        "id" : "6nwMiVP999CXk67gpn8JTh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273512df4bd8f26f1277b3abeec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02512df4bd8f26f1277b3abeec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851512df4bd8f26f1277b3abeec",
+          "width" : 64
+        } ],
+        "name" : "Take Time to Be Holy",
+        "release_date" : "2015-03-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6nwMiVP999CXk67gpn8JTh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+        "id" : "1E5fXe9FugDtjPJXLjc3be",
+        "name" : "Joseph Habedank",
+        "type" : "artist",
+        "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 218866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3U81500033"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0APnpAzL87hnsuMH464xo4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0APnpAzL87hnsuMH464xo4",
+      "id" : "0APnpAzL87hnsuMH464xo4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take Time to Be Holy",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a2119c00ec5e4a213a6c3073759287ee21e88e0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:0APnpAzL87hnsuMH464xo4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6nezkdChBrDq5RSdO3ZdfZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6nezkdChBrDq5RSdO3ZdfZ",
+          "id" : "6nezkdChBrDq5RSdO3ZdfZ",
+          "name" : "Lyle Hadlock",
+          "type" : "artist",
+          "uri" : "spotify:artist:6nezkdChBrDq5RSdO3ZdfZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7aFRjE35lIorTJ7Ac0DfHi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7aFRjE35lIorTJ7Ac0DfHi",
+        "id" : "7aFRjE35lIorTJ7Ac0DfHi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a0072b5e76bb45efcd7a5bce",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a0072b5e76bb45efcd7a5bce",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a0072b5e76bb45efcd7a5bce",
+          "width" : 64
+        } ],
+        "name" : "Take Time to Be Holy",
+        "release_date" : "2009-11-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:7aFRjE35lIorTJ7Ac0DfHi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nezkdChBrDq5RSdO3ZdfZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nezkdChBrDq5RSdO3ZdfZ",
+        "id" : "6nezkdChBrDq5RSdO3ZdfZ",
+        "name" : "Lyle Hadlock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nezkdChBrDq5RSdO3ZdfZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 268360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USTCB0953602"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/746jXojSoLidxG59Nrlxwr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/746jXojSoLidxG59Nrlxwr",
+      "id" : "746jXojSoLidxG59Nrlxwr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Have I Done Any Good in the World Today?",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1cdcb7d06dbf1cf51053d0b119e2074284af5a50?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:746jXojSoLidxG59Nrlxwr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+          "id" : "1E5fXe9FugDtjPJXLjc3be",
+          "name" : "Joseph Habedank",
+          "type" : "artist",
+          "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6nwMiVP999CXk67gpn8JTh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6nwMiVP999CXk67gpn8JTh",
+        "id" : "6nwMiVP999CXk67gpn8JTh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273512df4bd8f26f1277b3abeec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02512df4bd8f26f1277b3abeec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851512df4bd8f26f1277b3abeec",
+          "width" : 64
+        } ],
+        "name" : "Take Time to Be Holy",
+        "release_date" : "2015-03-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6nwMiVP999CXk67gpn8JTh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+        "id" : "1E5fXe9FugDtjPJXLjc3be",
+        "name" : "Joseph Habedank",
+        "type" : "artist",
+        "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 222733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3U81500029"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4MXm4ARDKZUw4a4xMeFWDt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4MXm4ARDKZUw4a4xMeFWDt",
+      "id" : "4MXm4ARDKZUw4a4xMeFWDt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Be Thou My Vision",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ca62e18d1df879a9a44a7eb9d736bf37fb26fafe?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:4MXm4ARDKZUw4a4xMeFWDt"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7gU0P9itaDZysz7DMkuL3l"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7gU0P9itaDZysz7DMkuL3l",
+          "id" : "7gU0P9itaDZysz7DMkuL3l",
+          "name" : "Rasmussen Family",
+          "type" : "artist",
+          "uri" : "spotify:artist:7gU0P9itaDZysz7DMkuL3l"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2YcSUI07DFpFPSMgPLc2Hz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2YcSUI07DFpFPSMgPLc2Hz",
+        "id" : "2YcSUI07DFpFPSMgPLc2Hz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736246f10a703036c3cecaff73",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026246f10a703036c3cecaff73",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516246f10a703036c3cecaff73",
+          "width" : 64
+        } ],
+        "name" : "My Soul Restored",
+        "release_date" : "2017-04-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:2YcSUI07DFpFPSMgPLc2Hz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gU0P9itaDZysz7DMkuL3l"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gU0P9itaDZysz7DMkuL3l",
+        "id" : "7gU0P9itaDZysz7DMkuL3l",
+        "name" : "Rasmussen Family",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gU0P9itaDZysz7DMkuL3l"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 278267,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1771432"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2dp2w4gamQ9woRh4LDxPOY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2dp2w4gamQ9woRh4LDxPOY",
+      "id" : "2dp2w4gamQ9woRh4LDxPOY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take Time to Be Holy",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/444025a441408c3c922f54e9e7ed928b4e0e1737?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:2dp2w4gamQ9woRh4LDxPOY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+          "id" : "1E5fXe9FugDtjPJXLjc3be",
+          "name" : "Joseph Habedank",
+          "type" : "artist",
+          "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6nwMiVP999CXk67gpn8JTh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6nwMiVP999CXk67gpn8JTh",
+        "id" : "6nwMiVP999CXk67gpn8JTh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273512df4bd8f26f1277b3abeec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02512df4bd8f26f1277b3abeec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851512df4bd8f26f1277b3abeec",
+          "width" : 64
+        } ],
+        "name" : "Take Time to Be Holy",
+        "release_date" : "2015-03-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6nwMiVP999CXk67gpn8JTh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+        "id" : "1E5fXe9FugDtjPJXLjc3be",
+        "name" : "Joseph Habedank",
+        "type" : "artist",
+        "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 199013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3U81500024"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2qnuG1NPuwD4JgCvVWIXvM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2qnuG1NPuwD4JgCvVWIXvM",
+      "id" : "2qnuG1NPuwD4JgCvVWIXvM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "A Mighty Fortress Is Our God",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f3c8a8981b95e656f9decc37003382083a8336ba?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2qnuG1NPuwD4JgCvVWIXvM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+          "id" : "1E5fXe9FugDtjPJXLjc3be",
+          "name" : "Joseph Habedank",
+          "type" : "artist",
+          "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6nwMiVP999CXk67gpn8JTh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6nwMiVP999CXk67gpn8JTh",
+        "id" : "6nwMiVP999CXk67gpn8JTh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273512df4bd8f26f1277b3abeec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02512df4bd8f26f1277b3abeec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851512df4bd8f26f1277b3abeec",
+          "width" : 64
+        } ],
+        "name" : "Take Time to Be Holy",
+        "release_date" : "2015-03-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6nwMiVP999CXk67gpn8JTh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+        "id" : "1E5fXe9FugDtjPJXLjc3be",
+        "name" : "Joseph Habedank",
+        "type" : "artist",
+        "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 177186,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3U81500032"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3nhpGwOfria0tJCPJOb4Bz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3nhpGwOfria0tJCPJOb4Bz",
+      "id" : "3nhpGwOfria0tJCPJOb4Bz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, Thou Fount",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f8ccd7081f2826434546be7b8f592acf575d5ac8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:3nhpGwOfria0tJCPJOb4Bz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6nezkdChBrDq5RSdO3ZdfZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6nezkdChBrDq5RSdO3ZdfZ",
+          "id" : "6nezkdChBrDq5RSdO3ZdfZ",
+          "name" : "Lyle Hadlock",
+          "type" : "artist",
+          "uri" : "spotify:artist:6nezkdChBrDq5RSdO3ZdfZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7aFRjE35lIorTJ7Ac0DfHi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7aFRjE35lIorTJ7Ac0DfHi",
+        "id" : "7aFRjE35lIorTJ7Ac0DfHi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a0072b5e76bb45efcd7a5bce",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a0072b5e76bb45efcd7a5bce",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a0072b5e76bb45efcd7a5bce",
+          "width" : 64
+        } ],
+        "name" : "Take Time to Be Holy",
+        "release_date" : "2009-11-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:7aFRjE35lIorTJ7Ac0DfHi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nezkdChBrDq5RSdO3ZdfZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nezkdChBrDq5RSdO3ZdfZ",
+        "id" : "6nezkdChBrDq5RSdO3ZdfZ",
+        "name" : "Lyle Hadlock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nezkdChBrDq5RSdO3ZdfZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 391080,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USTCB0953613"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6UjJPNQEQ78YDfsJXY2Hwb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6UjJPNQEQ78YDfsJXY2Hwb",
+      "id" : "6UjJPNQEQ78YDfsJXY2Hwb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "O God, the Eternal Father / Handel's Season Music (Spring)",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3014e2e15090b6fcd308232625f7109977e11603?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:6UjJPNQEQ78YDfsJXY2Hwb"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+          "id" : "1E5fXe9FugDtjPJXLjc3be",
+          "name" : "Joseph Habedank",
+          "type" : "artist",
+          "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6nwMiVP999CXk67gpn8JTh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6nwMiVP999CXk67gpn8JTh",
+        "id" : "6nwMiVP999CXk67gpn8JTh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273512df4bd8f26f1277b3abeec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02512df4bd8f26f1277b3abeec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851512df4bd8f26f1277b3abeec",
+          "width" : 64
+        } ],
+        "name" : "Take Time to Be Holy",
+        "release_date" : "2015-03-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6nwMiVP999CXk67gpn8JTh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1E5fXe9FugDtjPJXLjc3be",
+        "id" : "1E5fXe9FugDtjPJXLjc3be",
+        "name" : "Joseph Habedank",
+        "type" : "artist",
+        "uri" : "spotify:artist:1E5fXe9FugDtjPJXLjc3be"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 245973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3U81500025"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0484dOwanAq4EjNzqOtDxp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0484dOwanAq4EjNzqOtDxp",
+      "id" : "0484dOwanAq4EjNzqOtDxp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "It Is Well",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ef857fe4987ca582b741d557483c138986124e5a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0484dOwanAq4EjNzqOtDxp"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Take+Time+to+Be+Holy&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Take+Time+to+Be+Holy&type=track&market=US&offset=0&limit=10",
+    "total" : 159
+  }
+}

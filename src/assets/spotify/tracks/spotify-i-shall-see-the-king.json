@@ -1,0 +1,413 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+Shall+See+the+King&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3G5wgSAeFzEa6Jv5UNDs4N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3G5wgSAeFzEa6Jv5UNDs4N",
+          "id" : "3G5wgSAeFzEa6Jv5UNDs4N",
+          "name" : "Glenn Kaiser",
+          "type" : "artist",
+          "uri" : "spotify:artist:3G5wgSAeFzEa6Jv5UNDs4N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5FlKiTP5UgBYiUNCuvUZWn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5FlKiTP5UgBYiUNCuvUZWn",
+        "id" : "5FlKiTP5UgBYiUNCuvUZWn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730d2016955556ee071c7dbf85",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020d2016955556ee071c7dbf85",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510d2016955556ee071c7dbf85",
+          "width" : 64
+        } ],
+        "name" : "Blues Heaven II",
+        "release_date" : "2006-01-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:5FlKiTP5UgBYiUNCuvUZWn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3G5wgSAeFzEa6Jv5UNDs4N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3G5wgSAeFzEa6Jv5UNDs4N",
+        "id" : "3G5wgSAeFzEa6Jv5UNDs4N",
+        "name" : "Glenn Kaiser",
+        "type" : "artist",
+        "uri" : "spotify:artist:3G5wgSAeFzEa6Jv5UNDs4N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 236600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USACX0902905"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5ex0zzIdXOuFgkuzuREKBG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5ex0zzIdXOuFgkuzuREKBG",
+      "id" : "5ex0zzIdXOuFgkuzuREKBG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Shall See The King",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f4194bcb8e09ed8d92cce9d9678a453f5b3a3cb2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:5ex0zzIdXOuFgkuzuREKBG"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5KjQsBmx3ihjOSPEdcw39B"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5KjQsBmx3ihjOSPEdcw39B",
+          "id" : "5KjQsBmx3ihjOSPEdcw39B",
+          "name" : "Riftronik",
+          "type" : "artist",
+          "uri" : "spotify:artist:5KjQsBmx3ihjOSPEdcw39B"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3ovjmfKrfQWgSw5mwgfFl8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3ovjmfKrfQWgSw5mwgfFl8",
+        "id" : "3ovjmfKrfQWgSw5mwgfFl8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733b106d510b9cc63aef2c5790",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023b106d510b9cc63aef2c5790",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513b106d510b9cc63aef2c5790",
+          "width" : 64
+        } ],
+        "name" : "Storm Is Coming",
+        "release_date" : "2011-05-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:3ovjmfKrfQWgSw5mwgfFl8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5KjQsBmx3ihjOSPEdcw39B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5KjQsBmx3ihjOSPEdcw39B",
+        "id" : "5KjQsBmx3ihjOSPEdcw39B",
+        "name" : "Riftronik",
+        "type" : "artist",
+        "uri" : "spotify:artist:5KjQsBmx3ihjOSPEdcw39B"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 234786,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1172044"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3ptMVT5R9gpQuOXbl4zV3j"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3ptMVT5R9gpQuOXbl4zV3j",
+      "id" : "3ptMVT5R9gpQuOXbl4zV3j",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Shall See the King",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cc977bcda889127229cf4582201f7dfd922c65ef?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:3ptMVT5R9gpQuOXbl4zV3j"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7wOaNcaBawCVInPfD9t4YS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7wOaNcaBawCVInPfD9t4YS",
+          "id" : "7wOaNcaBawCVInPfD9t4YS",
+          "name" : "Gil Anderson",
+          "type" : "artist",
+          "uri" : "spotify:artist:7wOaNcaBawCVInPfD9t4YS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Ih3wzNQRm9XbdQfaOPB95"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Ih3wzNQRm9XbdQfaOPB95",
+        "id" : "3Ih3wzNQRm9XbdQfaOPB95",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735bd39558c49b43479a3aea66",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025bd39558c49b43479a3aea66",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515bd39558c49b43479a3aea66",
+          "width" : 64
+        } ],
+        "name" : "The Great Consummation",
+        "release_date" : "2007-09-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:3Ih3wzNQRm9XbdQfaOPB95"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7wOaNcaBawCVInPfD9t4YS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7wOaNcaBawCVInPfD9t4YS",
+        "id" : "7wOaNcaBawCVInPfD9t4YS",
+        "name" : "Gil Anderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:7wOaNcaBawCVInPfD9t4YS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 361480,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p0750031"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4tn4eJkRSUYmIytC7nVdMy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4tn4eJkRSUYmIytC7nVdMy",
+      "id" : "4tn4eJkRSUYmIytC7nVdMy",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Shall See The King Medley",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8dd0cc32e2dde167f4bc01c329cdd10e90843cf0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:4tn4eJkRSUYmIytC7nVdMy"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/33G5SWAw1T2KVdLA7h2WgT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/33G5SWAw1T2KVdLA7h2WgT",
+          "id" : "33G5SWAw1T2KVdLA7h2WgT",
+          "name" : "In Battle",
+          "type" : "artist",
+          "uri" : "spotify:artist:33G5SWAw1T2KVdLA7h2WgT"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4k9Iw3O94TKukt0OqPA3Bv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4k9Iw3O94TKukt0OqPA3Bv",
+        "id" : "4k9Iw3O94TKukt0OqPA3Bv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cf739628c5201d142625bf69",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cf739628c5201d142625bf69",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cf739628c5201d142625bf69",
+          "width" : 64
+        } ],
+        "name" : "Kingdom Of Fear",
+        "release_date" : "2008-09-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4k9Iw3O94TKukt0OqPA3Bv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33G5SWAw1T2KVdLA7h2WgT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33G5SWAw1T2KVdLA7h2WgT",
+        "id" : "33G5SWAw1T2KVdLA7h2WgT",
+        "name" : "In Battle",
+        "type" : "artist",
+        "uri" : "spotify:artist:33G5SWAw1T2KVdLA7h2WgT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 261480,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBADD0615306"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/41Ci02AdyuGGHfaMaTCw45"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/41Ci02AdyuGGHfaMaTCw45",
+      "id" : "41Ci02AdyuGGHfaMaTCw45",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Dead Shall See",
+      "popularity" : 0,
+      "preview_url" : null,
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:41Ci02AdyuGGHfaMaTCw45"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0AGZjQrlNP71htY9pWEcFR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0AGZjQrlNP71htY9pWEcFR",
+          "id" : "0AGZjQrlNP71htY9pWEcFR",
+          "name" : "Platinum Plus",
+          "type" : "artist",
+          "uri" : "spotify:artist:0AGZjQrlNP71htY9pWEcFR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3AWBuPpS6uYrMIakvenYPX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3AWBuPpS6uYrMIakvenYPX",
+        "id" : "3AWBuPpS6uYrMIakvenYPX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cce5f4554fccbb21e7645e9b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cce5f4554fccbb21e7645e9b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cce5f4554fccbb21e7645e9b",
+          "width" : 64
+        } ],
+        "name" : "Ultimate Gospel Hits, Vol. II",
+        "release_date" : "2009-11-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:3AWBuPpS6uYrMIakvenYPX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0AGZjQrlNP71htY9pWEcFR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0AGZjQrlNP71htY9pWEcFR",
+        "id" : "0AGZjQrlNP71htY9pWEcFR",
+        "name" : "Platinum Plus",
+        "type" : "artist",
+        "uri" : "spotify:artist:0AGZjQrlNP71htY9pWEcFR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 140213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21001501"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0yen1iXOX0wJw9Tf09wuM9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0yen1iXOX0wJw9Tf09wuM9",
+      "id" : "0yen1iXOX0wJw9Tf09wuM9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Shall See The King When He Comes",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5ecbf8db1c80b02cbaaeace51cad6f9fd9cb35cc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 21,
+      "type" : "track",
+      "uri" : "spotify:track:0yen1iXOX0wJw9Tf09wuM9"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5GAbofxtXIc8z5aJKR0j1Z"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5GAbofxtXIc8z5aJKR0j1Z",
+        "id" : "5GAbofxtXIc8z5aJKR0j1Z",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732bc894241824acca703b5141",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022bc894241824acca703b5141",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512bc894241824acca703b5141",
+          "width" : 64
+        } ],
+        "name" : "A Festival of Lessons and Carols directed by Boris Ord (The ‘original' 1954 recording)",
+        "release_date" : "2015-11-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:5GAbofxtXIc8z5aJKR0j1Z"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0f3PsS9IQ6whvNMFFKnpjl",
+        "id" : "0f3PsS9IQ6whvNMFFKnpjl",
+        "name" : "Choir of King's College, Cambridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:0f3PsS9IQ6whvNMFFKnpjl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 109680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBH5G1500705"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4pO6KTy3sM44k6YtSmY9Yb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4pO6KTy3sM44k6YtSmY9Yb",
+      "id" : "4pO6KTy3sM44k6YtSmY9Yb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "First Lesson: God announceth in the Garden of Eden that the seed of woman shall bruise the serpent's head",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/402489ae86292f60a0f1fc1c9f4067b3486097d8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:4pO6KTy3sM44k6YtSmY9Yb"
+    } ],
+    "limit" : 10,
+    "next" : null,
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=I+Shall+See+the+King&type=track&market=US&offset=0&limit=10",
+    "total" : 11
+  }
+}

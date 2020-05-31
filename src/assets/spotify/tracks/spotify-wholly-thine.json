@@ -1,0 +1,413 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Wholly+Thine&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32syib0fznXgPAqgpqkuLv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32syib0fznXgPAqgpqkuLv",
+          "id" : "32syib0fznXgPAqgpqkuLv",
+          "name" : "Leighton Kennedy",
+          "type" : "artist",
+          "uri" : "spotify:artist:32syib0fznXgPAqgpqkuLv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/35fBmKpP9y8lWiYNO01zGa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/35fBmKpP9y8lWiYNO01zGa",
+        "id" : "35fBmKpP9y8lWiYNO01zGa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d9ba438a7a99b77d6d57a3d4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d9ba438a7a99b77d6d57a3d4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d9ba438a7a99b77d6d57a3d4",
+          "width" : 64
+        } ],
+        "name" : "My Heart",
+        "release_date" : "2012-10-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:35fBmKpP9y8lWiYNO01zGa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32syib0fznXgPAqgpqkuLv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32syib0fznXgPAqgpqkuLv",
+        "id" : "32syib0fznXgPAqgpqkuLv",
+        "name" : "Leighton Kennedy",
+        "type" : "artist",
+        "uri" : "spotify:artist:32syib0fznXgPAqgpqkuLv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 292440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMWU61100007"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4j5f6LeDNDAJJUfqrp8Baa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4j5f6LeDNDAJJUfqrp8Baa",
+      "id" : "4j5f6LeDNDAJJUfqrp8Baa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wholly Thine",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ebbb3c1a47dfdb0f7b71a2ca7e67e94f845c219e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4j5f6LeDNDAJJUfqrp8Baa"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1rDubzNLMqHECwVjdyFTYq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1rDubzNLMqHECwVjdyFTYq",
+          "id" : "1rDubzNLMqHECwVjdyFTYq",
+          "name" : "Dan Oliver",
+          "type" : "artist",
+          "uri" : "spotify:artist:1rDubzNLMqHECwVjdyFTYq"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/72KxjNUSeKvRqFprOAtsXO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/72KxjNUSeKvRqFprOAtsXO",
+        "id" : "72KxjNUSeKvRqFprOAtsXO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273578a48ce60bc2187b8550d02",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02578a48ce60bc2187b8550d02",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851578a48ce60bc2187b8550d02",
+          "width" : 64
+        } ],
+        "name" : "Desert of Exile",
+        "release_date" : "2003-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:72KxjNUSeKvRqFprOAtsXO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1rDubzNLMqHECwVjdyFTYq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1rDubzNLMqHECwVjdyFTYq",
+        "id" : "1rDubzNLMqHECwVjdyFTYq",
+        "name" : "Dan Oliver",
+        "type" : "artist",
+        "uri" : "spotify:artist:1rDubzNLMqHECwVjdyFTYq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 233826,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1027963"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5MljkQ8nRFmY9lcJ1BuZX8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5MljkQ8nRFmY9lcJ1BuZX8",
+      "id" : "5MljkQ8nRFmY9lcJ1BuZX8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wholly Thine",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c4b6b09cc7ce6176f946d27a8791be8bd1e19bbd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5MljkQ8nRFmY9lcJ1BuZX8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/44amwi4J1qJjT4zRgAWfKh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/44amwi4J1qJjT4zRgAWfKh",
+          "id" : "44amwi4J1qJjT4zRgAWfKh",
+          "name" : "The Beverly Glenn Concert Chorale",
+          "type" : "artist",
+          "uri" : "spotify:artist:44amwi4J1qJjT4zRgAWfKh"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5Q34BIXcIxgjlaWvSboPv0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5Q34BIXcIxgjlaWvSboPv0",
+        "id" : "5Q34BIXcIxgjlaWvSboPv0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fa7295ab270c9ac08df12ca0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fa7295ab270c9ac08df12ca0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fa7295ab270c9ac08df12ca0",
+          "width" : 64
+        } ],
+        "name" : "Just Believe",
+        "release_date" : "1972-07-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5Q34BIXcIxgjlaWvSboPv0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44amwi4J1qJjT4zRgAWfKh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44amwi4J1qJjT4zRgAWfKh",
+        "id" : "44amwi4J1qJjT4zRgAWfKh",
+        "name" : "The Beverly Glenn Concert Chorale",
+        "type" : "artist",
+        "uri" : "spotify:artist:44amwi4J1qJjT4zRgAWfKh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 201333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US1SR2019493"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0QH8AeRVzwYKRBI6ToBush"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0QH8AeRVzwYKRBI6ToBush",
+      "id" : "0QH8AeRVzwYKRBI6ToBush",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wholly Thine",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b084f7d589bc7d188f04b43d5ca3dcd395849744?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:0QH8AeRVzwYKRBI6ToBush"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7FQqS8nQL4lpPKnwmKCqlY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7FQqS8nQL4lpPKnwmKCqlY",
+          "id" : "7FQqS8nQL4lpPKnwmKCqlY",
+          "name" : "Marcia Love",
+          "type" : "artist",
+          "uri" : "spotify:artist:7FQqS8nQL4lpPKnwmKCqlY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1dFJRILsWDorjjZoE49BQo"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1dFJRILsWDorjjZoE49BQo",
+        "id" : "1dFJRILsWDorjjZoE49BQo",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27370aa1cd453581da86f271744",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0270aa1cd453581da86f271744",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485170aa1cd453581da86f271744",
+          "width" : 64
+        } ],
+        "name" : "Counting My Blessings",
+        "release_date" : "2014-05-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1dFJRILsWDorjjZoE49BQo"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7FQqS8nQL4lpPKnwmKCqlY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7FQqS8nQL4lpPKnwmKCqlY",
+        "id" : "7FQqS8nQL4lpPKnwmKCqlY",
+        "name" : "Marcia Love",
+        "type" : "artist",
+        "uri" : "spotify:artist:7FQqS8nQL4lpPKnwmKCqlY"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 425506,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "qmm331300012"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6qJXlnpKDz0ion5TdR2LAx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6qJXlnpKDz0ion5TdR2LAx",
+      "id" : "6qJXlnpKDz0ion5TdR2LAx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wholly Thine",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/43e434b03fc36ec9665251e70deacaf8f366208b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:6qJXlnpKDz0ion5TdR2LAx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zkmOYaXiNHBKxKnnd1rvl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zkmOYaXiNHBKxKnnd1rvl",
+          "id" : "5zkmOYaXiNHBKxKnnd1rvl",
+          "name" : "John Keys",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zkmOYaXiNHBKxKnnd1rvl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0Ebae5GkqNhzVwUJqLv4Yn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0Ebae5GkqNhzVwUJqLv4Yn",
+        "id" : "0Ebae5GkqNhzVwUJqLv4Yn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27305b54c465a6f532353aea8bc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0205b54c465a6f532353aea8bc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485105b54c465a6f532353aea8bc",
+          "width" : 64
+        } ],
+        "name" : "Seventh Day Adventist Hymns, Vol. 1 (Organ Accompaniments)",
+        "release_date" : "2008-09-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:0Ebae5GkqNhzVwUJqLv4Yn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zkmOYaXiNHBKxKnnd1rvl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zkmOYaXiNHBKxKnnd1rvl",
+        "id" : "5zkmOYaXiNHBKxKnnd1rvl",
+        "name" : "John Keys",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zkmOYaXiNHBKxKnnd1rvl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 138991,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBKPL1262548"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/03DmxcDczkBptqKw5nkUw3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/03DmxcDczkBptqKw5nkUw3",
+      "id" : "03DmxcDczkBptqKw5nkUw3",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Would Be Dear Saviour (Wholly Thine) [Instrumental Version]",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/65d89ab4ecec37cc7057a699b95471d734d3f5da?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:03DmxcDczkBptqKw5nkUw3"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+          "id" : "0kXPoMYYhhXMT1Acf6d1At",
+          "name" : "Johan Muren",
+          "type" : "artist",
+          "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1XuGI57dDgMTq0a6AJw8kI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1XuGI57dDgMTq0a6AJw8kI",
+        "id" : "1XuGI57dDgMTq0a6AJw8kI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738679fff646bb5edb338fcd32",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028679fff646bb5edb338fcd32",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518679fff646bb5edb338fcd32",
+          "width" : 64
+        } ],
+        "name" : "American Sda Hymnal Sing Along Vol.21",
+        "release_date" : "2020-04-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:1XuGI57dDgMTq0a6AJw8kI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+        "id" : "0kXPoMYYhhXMT1Acf6d1At",
+        "name" : "Johan Muren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 144173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM6MZ2038945"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7vLSm8ODa6WmvPtzkfcqA1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7vLSm8ODa6WmvPtzkfcqA1",
+      "id" : "7vLSm8ODa6WmvPtzkfcqA1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wholly Thine",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a98de404ae57fee4f2ec27ef2543f7e901d19c17?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:7vLSm8ODa6WmvPtzkfcqA1"
+    } ],
+    "limit" : 10,
+    "next" : null,
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Wholly+Thine&type=track&market=US&offset=0&limit=10",
+    "total" : 11
+  }
+}

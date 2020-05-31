@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Work%2C+for+the+Night+Is+Coming&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+          "id" : "0kXPoMYYhhXMT1Acf6d1At",
+          "name" : "Johan Muren",
+          "type" : "artist",
+          "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7sP1AaIUI4ea4xEqNsHakw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7sP1AaIUI4ea4xEqNsHakw",
+        "id" : "7sP1AaIUI4ea4xEqNsHakw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27304c7740f39dcf53923d5799f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0204c7740f39dcf53923d5799f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485104c7740f39dcf53923d5799f",
+          "width" : 64
+        } ],
+        "name" : "Songs to Sing Vol. 4",
+        "release_date" : "2018-07-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:7sP1AaIUI4ea4xEqNsHakw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+        "id" : "0kXPoMYYhhXMT1Acf6d1At",
+        "name" : "Johan Muren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 144320,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NOH4J1866040"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0vCYBnYL8SWFTCqzUurfLF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0vCYBnYL8SWFTCqzUurfLF",
+      "id" : "0vCYBnYL8SWFTCqzUurfLF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work, For the Night Is Coming",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/579018fece7d3c20e63db47f69ad794bcaa5a9af?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:0vCYBnYL8SWFTCqzUurfLF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/33OmSxFFBOPQL3AcoAFAmA",
+          "id" : "33OmSxFFBOPQL3AcoAFAmA",
+          "name" : "Billy Grammer",
+          "type" : "artist",
+          "uri" : "spotify:artist:33OmSxFFBOPQL3AcoAFAmA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5Wrv8Gc1W7zmXxrqG8RFdv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5Wrv8Gc1W7zmXxrqG8RFdv",
+        "id" : "5Wrv8Gc1W7zmXxrqG8RFdv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27323f5423d50ef6890c46d597b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0223f5423d50ef6890c46d597b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485123f5423d50ef6890c46d597b",
+          "width" : 64
+        } ],
+        "name" : "Sunday Guitar",
+        "release_date" : "1967-01-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5Wrv8Gc1W7zmXxrqG8RFdv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33OmSxFFBOPQL3AcoAFAmA",
+        "id" : "33OmSxFFBOPQL3AcoAFAmA",
+        "name" : "Billy Grammer",
+        "type" : "artist",
+        "uri" : "spotify:artist:33OmSxFFBOPQL3AcoAFAmA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 131146,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM11707674"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1rvVxv3Berd131pKGWumcS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1rvVxv3Berd131pKGWumcS",
+      "id" : "1rvVxv3Berd131pKGWumcS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work for the Night Is Coming",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/63702e8997d985066eea079f58ebb9e9bf997e8b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:1rvVxv3Berd131pKGWumcS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/27HpKO5tx7PUZdRRhfBAD7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/27HpKO5tx7PUZdRRhfBAD7",
+          "id" : "27HpKO5tx7PUZdRRhfBAD7",
+          "name" : "Lullaby & Prenatal Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:27HpKO5tx7PUZdRRhfBAD7"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5zV9TC1PGpLMvNhmOJU9gr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5zV9TC1PGpLMvNhmOJU9gr",
+        "id" : "5zV9TC1PGpLMvNhmOJU9gr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273966974fdec75218302b7e91c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02966974fdec75218302b7e91c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851966974fdec75218302b7e91c",
+          "width" : 64
+        } ],
+        "name" : "Lullaby Hymn for My Baby Orgel and Rain Sound, Vol. 2",
+        "release_date" : "2017-09-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:5zV9TC1PGpLMvNhmOJU9gr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/27HpKO5tx7PUZdRRhfBAD7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/27HpKO5tx7PUZdRRhfBAD7",
+        "id" : "27HpKO5tx7PUZdRRhfBAD7",
+        "name" : "Lullaby & Prenatal Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:27HpKO5tx7PUZdRRhfBAD7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 150203,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRB921703586"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6pzaJfb9gBFFTmzNWJC3az"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6pzaJfb9gBFFTmzNWJC3az",
+      "id" : "6pzaJfb9gBFFTmzNWJC3az",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work, for the Night is Coming",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6698017a6ebb9c04c6030b45263c9ac2a75700fe?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:6pzaJfb9gBFFTmzNWJC3az"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/01Er12nK5rrnHx8usFPJAs",
+          "id" : "01Er12nK5rrnHx8usFPJAs",
+          "name" : "Derek Fiechter",
+          "type" : "artist",
+          "uri" : "spotify:artist:01Er12nK5rrnHx8usFPJAs"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2XDOBQOobSTxtmFhWKdm6x",
+          "id" : "2XDOBQOobSTxtmFhWKdm6x",
+          "name" : "Brandon Fiechter",
+          "type" : "artist",
+          "uri" : "spotify:artist:2XDOBQOobSTxtmFhWKdm6x"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1vrVyVQaXCxwwM9jaNvZ9X"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1vrVyVQaXCxwwM9jaNvZ9X",
+        "id" : "1vrVyVQaXCxwwM9jaNvZ9X",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737872a81cc27fd3e9ff8c4f40",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027872a81cc27fd3e9ff8c4f40",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517872a81cc27fd3e9ff8c4f40",
+          "width" : 64
+        } ],
+        "name" : "Country Hymns",
+        "release_date" : "2019-05-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:1vrVyVQaXCxwwM9jaNvZ9X"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/01Er12nK5rrnHx8usFPJAs",
+        "id" : "01Er12nK5rrnHx8usFPJAs",
+        "name" : "Derek Fiechter",
+        "type" : "artist",
+        "uri" : "spotify:artist:01Er12nK5rrnHx8usFPJAs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XDOBQOobSTxtmFhWKdm6x",
+        "id" : "2XDOBQOobSTxtmFhWKdm6x",
+        "name" : "Brandon Fiechter",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XDOBQOobSTxtmFhWKdm6x"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 180000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usdy41974736"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6qyqGxeh85YK9FGXLg4RhM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6qyqGxeh85YK9FGXLg4RhM",
+      "id" : "6qyqGxeh85YK9FGXLg4RhM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work, For the Night Is Coming",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/55a2e212d2312e5065baf4c468f5effc5aaaef13?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:6qyqGxeh85YK9FGXLg4RhM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2gx1sGFBMQON50FVS0IvyS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2gx1sGFBMQON50FVS0IvyS",
+          "id" : "2gx1sGFBMQON50FVS0IvyS",
+          "name" : "Jonathan Wells",
+          "type" : "artist",
+          "uri" : "spotify:artist:2gx1sGFBMQON50FVS0IvyS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3gtqKVlOAsgDn7julNDmmN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3gtqKVlOAsgDn7julNDmmN",
+        "id" : "3gtqKVlOAsgDn7julNDmmN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c709a2038402ec6893b7c2e6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c709a2038402ec6893b7c2e6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c709a2038402ec6893b7c2e6",
+          "width" : 64
+        } ],
+        "name" : "Piano Duets",
+        "release_date" : "2008-03-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:3gtqKVlOAsgDn7julNDmmN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gx1sGFBMQON50FVS0IvyS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gx1sGFBMQON50FVS0IvyS",
+        "id" : "2gx1sGFBMQON50FVS0IvyS",
+        "name" : "Jonathan Wells",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gx1sGFBMQON50FVS0IvyS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 94160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usy280748586"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/55XCXUyuIcgpLxrQfEW6wu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/55XCXUyuIcgpLxrQfEW6wu",
+      "id" : "55XCXUyuIcgpLxrQfEW6wu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work For The Night Is Coming",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/23268b5f636232a0d8c86d16dffc5d9f967ed678?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:55XCXUyuIcgpLxrQfEW6wu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0SMQbY8l9Mph9d8NLv92oh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0SMQbY8l9Mph9d8NLv92oh",
+          "id" : "0SMQbY8l9Mph9d8NLv92oh",
+          "name" : "RiNG-O choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:0SMQbY8l9Mph9d8NLv92oh"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5xacHXWZVNAvXFMGTIwuEz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5xacHXWZVNAvXFMGTIwuEz",
+        "id" : "5xacHXWZVNAvXFMGTIwuEz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f5b2bbfc472f7d0c8dc44495",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f5b2bbfc472f7d0c8dc44495",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f5b2bbfc472f7d0c8dc44495",
+          "width" : 64
+        } ],
+        "name" : "Beautiful Hymn Melodies vol.20",
+        "release_date" : "2016-03-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5xacHXWZVNAvXFMGTIwuEz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0SMQbY8l9Mph9d8NLv92oh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0SMQbY8l9Mph9d8NLv92oh",
+        "id" : "0SMQbY8l9Mph9d8NLv92oh",
+        "name" : "RiNG-O choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:0SMQbY8l9Mph9d8NLv92oh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 48007,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCJPE1644427"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/35zfDUN8IfttyGxI9MkaZ9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/35zfDUN8IfttyGxI9MkaZ9",
+      "id" : "35zfDUN8IfttyGxI9MkaZ9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work, for the Night Is Coming",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3c65cdd1804a0e5a0c6c028384e2f3b48f5080d2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:35zfDUN8IfttyGxI9MkaZ9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6B6q4k5KJyCcEFvgy7Lngb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6B6q4k5KJyCcEFvgy7Lngb",
+          "id" : "6B6q4k5KJyCcEFvgy7Lngb",
+          "name" : "Ramona Lombard",
+          "type" : "artist",
+          "uri" : "spotify:artist:6B6q4k5KJyCcEFvgy7Lngb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/19fehsSNs6ayEdQvbujEHV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/19fehsSNs6ayEdQvbujEHV",
+        "id" : "19fehsSNs6ayEdQvbujEHV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f8f4eedc86b429ae975340cb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f8f4eedc86b429ae975340cb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f8f4eedc86b429ae975340cb",
+          "width" : 64
+        } ],
+        "name" : "Musical Memories: Spring, Summer & Fall",
+        "release_date" : "2009-11-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 26,
+        "type" : "album",
+        "uri" : "spotify:album:19fehsSNs6ayEdQvbujEHV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6B6q4k5KJyCcEFvgy7Lngb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6B6q4k5KJyCcEFvgy7Lngb",
+        "id" : "6B6q4k5KJyCcEFvgy7Lngb",
+        "name" : "Ramona Lombard",
+        "type" : "artist",
+        "uri" : "spotify:artist:6B6q4k5KJyCcEFvgy7Lngb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 106920,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm81514174"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/56T1CfL3zK14yQoSQwsByh"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/56T1CfL3zK14yQoSQwsByh",
+      "id" : "56T1CfL3zK14yQoSQwsByh",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work for the Night Is Coming",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/41b6c938d6ad85c4b3f00221547af462e2040f87?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:56T1CfL3zK14yQoSQwsByh"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/27HpKO5tx7PUZdRRhfBAD7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/27HpKO5tx7PUZdRRhfBAD7",
+          "id" : "27HpKO5tx7PUZdRRhfBAD7",
+          "name" : "Lullaby & Prenatal Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:27HpKO5tx7PUZdRRhfBAD7"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0mkzB8AZVvAyKHBS46tiVs"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0mkzB8AZVvAyKHBS46tiVs",
+        "id" : "0mkzB8AZVvAyKHBS46tiVs",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b6fb37a2ac604ec147a5adb4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b6fb37a2ac604ec147a5adb4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b6fb37a2ac604ec147a5adb4",
+          "width" : 64
+        } ],
+        "name" : "Lullaby Hymn for My Baby Orgel and Rain Sound, Collection (Relaxing Music,Classical Lullaby,Prenatal Care,Prenatal Music,Pregnant Woman,Baby Sleep Music,Pregnancy Music)",
+        "release_date" : "2017-09-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 28,
+        "type" : "album",
+        "uri" : "spotify:album:0mkzB8AZVvAyKHBS46tiVs"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/27HpKO5tx7PUZdRRhfBAD7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/27HpKO5tx7PUZdRRhfBAD7",
+        "id" : "27HpKO5tx7PUZdRRhfBAD7",
+        "name" : "Lullaby & Prenatal Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:27HpKO5tx7PUZdRRhfBAD7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 150203,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRB921703660"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4ajYm4BmRzjt6tWZYLkXtb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4ajYm4BmRzjt6tWZYLkXtb",
+      "id" : "4ajYm4BmRzjt6tWZYLkXtb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work, for the Night is Coming",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6698017a6ebb9c04c6030b45263c9ac2a75700fe?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:4ajYm4BmRzjt6tWZYLkXtb"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/01Er12nK5rrnHx8usFPJAs",
+          "id" : "01Er12nK5rrnHx8usFPJAs",
+          "name" : "Derek Fiechter",
+          "type" : "artist",
+          "uri" : "spotify:artist:01Er12nK5rrnHx8usFPJAs"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2XDOBQOobSTxtmFhWKdm6x",
+          "id" : "2XDOBQOobSTxtmFhWKdm6x",
+          "name" : "Brandon Fiechter",
+          "type" : "artist",
+          "uri" : "spotify:artist:2XDOBQOobSTxtmFhWKdm6x"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3YW3tJryVFwtBh0jfZcw4S"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3YW3tJryVFwtBh0jfZcw4S",
+        "id" : "3YW3tJryVFwtBh0jfZcw4S",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f6fb20bb28a769acbc3c80a5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f6fb20bb28a769acbc3c80a5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f6fb20bb28a769acbc3c80a5",
+          "width" : 64
+        } ],
+        "name" : "Celtic Hymn Collection IV",
+        "release_date" : "2017-03-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:3YW3tJryVFwtBh0jfZcw4S"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/01Er12nK5rrnHx8usFPJAs",
+        "id" : "01Er12nK5rrnHx8usFPJAs",
+        "name" : "Derek Fiechter",
+        "type" : "artist",
+        "uri" : "spotify:artist:01Er12nK5rrnHx8usFPJAs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 186382,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1741893"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5cIKwIaMM4SpbUQH7NzCOk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5cIKwIaMM4SpbUQH7NzCOk",
+      "id" : "5cIKwIaMM4SpbUQH7NzCOk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work, For the Night Is Coming",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0cb2a4583c099fb426fc51e86ece7a670bf7a42f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5cIKwIaMM4SpbUQH7NzCOk"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2gx1sGFBMQON50FVS0IvyS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2gx1sGFBMQON50FVS0IvyS",
+          "id" : "2gx1sGFBMQON50FVS0IvyS",
+          "name" : "Jonathan Wells",
+          "type" : "artist",
+          "uri" : "spotify:artist:2gx1sGFBMQON50FVS0IvyS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0PLcQEBGdWSu4TPJg2Mh8N"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0PLcQEBGdWSu4TPJg2Mh8N",
+        "id" : "0PLcQEBGdWSu4TPJg2Mh8N",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273717fb926db57044fcdcb4dab",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02717fb926db57044fcdcb4dab",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851717fb926db57044fcdcb4dab",
+          "width" : 64
+        } ],
+        "name" : "It Is Well",
+        "release_date" : "2003-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:0PLcQEBGdWSu4TPJg2Mh8N"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gx1sGFBMQON50FVS0IvyS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gx1sGFBMQON50FVS0IvyS",
+        "id" : "2gx1sGFBMQON50FVS0IvyS",
+        "name" : "Jonathan Wells",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gx1sGFBMQON50FVS0IvyS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 76520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usy280792683"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1YIk3j7YAwiQw8G0EjyMkj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1YIk3j7YAwiQw8G0EjyMkj",
+      "id" : "1YIk3j7YAwiQw8G0EjyMkj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Work For The Night Is Coming",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/347b1ebd81b352a129c725408959550d2dcb465e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1YIk3j7YAwiQw8G0EjyMkj"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Work%2C+for+the+Night+Is+Coming&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Work%2C+for+the+Night+Is+Coming&type=track&market=US&offset=0&limit=10",
+    "total" : 33
+  }
+}

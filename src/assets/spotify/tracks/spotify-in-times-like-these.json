@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=In+Times+Like+These&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0cA5Tg15TwARIRZeiNT1RO",
+          "id" : "0cA5Tg15TwARIRZeiNT1RO",
+          "name" : "Dan Fogelberg",
+          "type" : "artist",
+          "uri" : "spotify:artist:0cA5Tg15TwARIRZeiNT1RO"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1cidJkUwzlnQQZTlK6H6Hf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1cidJkUwzlnQQZTlK6H6Hf",
+        "id" : "1cidJkUwzlnQQZTlK6H6Hf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c7284f43f8b7cec4c9db80b5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c7284f43f8b7cec4c9db80b5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c7284f43f8b7cec4c9db80b5",
+          "width" : 64
+        } ],
+        "name" : "The Innocent Age",
+        "release_date" : "1981",
+        "release_date_precision" : "year",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:1cidJkUwzlnQQZTlK6H6Hf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0cA5Tg15TwARIRZeiNT1RO",
+        "id" : "0cA5Tg15TwARIRZeiNT1RO",
+        "name" : "Dan Fogelberg",
+        "type" : "artist",
+        "uri" : "spotify:artist:0cA5Tg15TwARIRZeiNT1RO"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 184400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM19923685"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6QcvhBkYymjfKWD2K0BDSU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6QcvhBkYymjfKWD2K0BDSU",
+      "id" : "6QcvhBkYymjfKWD2K0BDSU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Times Like These",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5518d6060c7b315a4e673e9854cc0c97193240a4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6QcvhBkYymjfKWD2K0BDSU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/70BYFdaZbEKbeauJ670ysI",
+          "id" : "70BYFdaZbEKbeauJ670ysI",
+          "name" : "Shinedown",
+          "type" : "artist",
+          "uri" : "spotify:artist:70BYFdaZbEKbeauJ670ysI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/511AeIx5SwqUp6stQyxm47"
+        },
+        "href" : "https://api.spotify.com/v1/albums/511AeIx5SwqUp6stQyxm47",
+        "id" : "511AeIx5SwqUp6stQyxm47",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27352224e758d5aebeb86fd39bd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0252224e758d5aebeb86fd39bd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485152224e758d5aebeb86fd39bd",
+          "width" : 64
+        } ],
+        "name" : "Somewhere in the Stratosphere",
+        "release_date" : "2011-04-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 33,
+        "type" : "album",
+        "uri" : "spotify:album:511AeIx5SwqUp6stQyxm47"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/70BYFdaZbEKbeauJ670ysI",
+        "id" : "70BYFdaZbEKbeauJ670ysI",
+        "name" : "Shinedown",
+        "type" : "artist",
+        "uri" : "spotify:artist:70BYFdaZbEKbeauJ670ysI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 247453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAT21100572"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2g0taXP1F2vHHTPgKu9AGV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2g0taXP1F2vHHTPgKu9AGV",
+      "id" : "2g0taXP1F2vHHTPgKu9AGV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Times Like These - Acoustic; Live from Kansas City",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b7d0decb0ee59391e1360ecb65094dbfcdba3a90?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:2g0taXP1F2vHHTPgKu9AGV"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6WHqxXEnmPNyk4nHtqVwDa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6WHqxXEnmPNyk4nHtqVwDa",
+        "id" : "6WHqxXEnmPNyk4nHtqVwDa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273912aca3546a4e7270354a7d7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02912aca3546a4e7270354a7d7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851912aca3546a4e7270354a7d7",
+          "width" : 64
+        } ],
+        "name" : "In My Room",
+        "release_date" : "2011-01-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6WHqxXEnmPNyk4nHtqVwDa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32pLQYA3M7WNKIoER8ToGE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32pLQYA3M7WNKIoER8ToGE",
+        "id" : "32pLQYA3M7WNKIoER8ToGE",
+        "name" : "Na Mele O Keaka",
+        "type" : "artist",
+        "uri" : "spotify:artist:32pLQYA3M7WNKIoER8ToGE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 172693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USEWC0780021"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2CpM7V5loAACKTrsmILiWO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2CpM7V5loAACKTrsmILiWO",
+      "id" : "2CpM7V5loAACKTrsmILiWO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Times Like These",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2d3e81346ffccef5a3b920b9d52e1af35af9d2d8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2CpM7V5loAACKTrsmILiWO"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/67BqBdApdbZ0onglFqRoTg",
+          "id" : "67BqBdApdbZ0onglFqRoTg",
+          "name" : "Barbara Mandrell",
+          "type" : "artist",
+          "uri" : "spotify:artist:67BqBdApdbZ0onglFqRoTg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/42G4gGwqZzt4t9dlJTzDcX",
+        "id" : "42G4gGwqZzt4t9dlJTzDcX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273921f9b643b4944c1b5670b0b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02921f9b643b4944c1b5670b0b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851921f9b643b4944c1b5670b0b",
+          "width" : 64
+        } ],
+        "name" : "Ultimate Collection: Barbara Mandrell",
+        "release_date" : "2001-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:42G4gGwqZzt4t9dlJTzDcX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67BqBdApdbZ0onglFqRoTg",
+        "id" : "67BqBdApdbZ0onglFqRoTg",
+        "name" : "Barbara Mandrell",
+        "type" : "artist",
+        "uri" : "spotify:artist:67BqBdApdbZ0onglFqRoTg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 175493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMC18314015"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3RYACw5Z7mL3A7EJZPZQjO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3RYACw5Z7mL3A7EJZPZQjO",
+      "id" : "3RYACw5Z7mL3A7EJZPZQjO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Times Like These",
+      "popularity" : 12,
+      "preview_url" : null,
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:3RYACw5Z7mL3A7EJZPZQjO"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0B6QEFtRnneEzb4iqjI0Nw",
+          "id" : "0B6QEFtRnneEzb4iqjI0Nw",
+          "name" : "Arlo Guthrie",
+          "type" : "artist",
+          "uri" : "spotify:artist:0B6QEFtRnneEzb4iqjI0Nw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0H8rIIArMKVHlJ0iuWzrG3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0H8rIIArMKVHlJ0iuWzrG3",
+        "id" : "0H8rIIArMKVHlJ0iuWzrG3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735dc5cdfb3cf5b83a2850ee12",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025dc5cdfb3cf5b83a2850ee12",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515dc5cdfb3cf5b83a2850ee12",
+          "width" : 64
+        } ],
+        "name" : "In Times Like These",
+        "release_date" : "2007-07-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0H8rIIArMKVHlJ0iuWzrG3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0B6QEFtRnneEzb4iqjI0Nw",
+        "id" : "0B6QEFtRnneEzb4iqjI0Nw",
+        "name" : "Arlo Guthrie",
+        "type" : "artist",
+        "uri" : "spotify:artist:0B6QEFtRnneEzb4iqjI0Nw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YKJKG2KL2XidGCavG5wIN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YKJKG2KL2XidGCavG5wIN",
+        "id" : "4YKJKG2KL2XidGCavG5wIN",
+        "name" : "University of Kentucky Symphony Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YKJKG2KL2XidGCavG5wIN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 223413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US34Z0712612"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/35oYbalVniuDfjdayRcZ92"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/35oYbalVniuDfjdayRcZ92",
+      "id" : "35oYbalVniuDfjdayRcZ92",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can't Help Falling in Love",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/27860402293ec63b4235f6fd8fa815034ad584db?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:35oYbalVniuDfjdayRcZ92"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1eClJfHLoDI4rZe5HxzBFv",
+          "id" : "1eClJfHLoDI4rZe5HxzBFv",
+          "name" : "INXS",
+          "type" : "artist",
+          "uri" : "spotify:artist:1eClJfHLoDI4rZe5HxzBFv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2o603XvuHN6fsNBT6YFUMA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2o603XvuHN6fsNBT6YFUMA",
+        "id" : "2o603XvuHN6fsNBT6YFUMA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730c1f9ec89084ea1773c318b1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020c1f9ec89084ea1773c318b1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510c1f9ec89084ea1773c318b1",
+          "width" : 64
+        } ],
+        "name" : "Shine Like It Does: The Anthology (1979-1997)",
+        "release_date" : "2001",
+        "release_date_precision" : "year",
+        "total_tracks" : 35,
+        "type" : "album",
+        "uri" : "spotify:album:2o603XvuHN6fsNBT6YFUMA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1eClJfHLoDI4rZe5HxzBFv",
+        "id" : "1eClJfHLoDI4rZe5HxzBFv",
+        "name" : "INXS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1eClJfHLoDI4rZe5HxzBFv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 235466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAT29901638"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2HVpeamnrC30iPeQXw3fJB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2HVpeamnrC30iPeQXw3fJB",
+      "id" : "2HVpeamnrC30iPeQXw3fJB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Strangest Party (These Are the Times)",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7c352258e113f8b88551a4f05cc028bc77190939?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 35,
+      "type" : "track",
+      "uri" : "spotify:track:2HVpeamnrC30iPeQXw3fJB"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/16RFWCYLet7qXmRfmGdzkB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/16RFWCYLet7qXmRfmGdzkB",
+          "id" : "16RFWCYLet7qXmRfmGdzkB",
+          "name" : "The Craguns",
+          "type" : "artist",
+          "uri" : "spotify:artist:16RFWCYLet7qXmRfmGdzkB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7MjJIxQj5dyuoG1X7ZSNlx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7MjJIxQj5dyuoG1X7ZSNlx",
+        "id" : "7MjJIxQj5dyuoG1X7ZSNlx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736b8a2467c5258faf8b9db065",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026b8a2467c5258faf8b9db065",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516b8a2467c5258faf8b9db065",
+          "width" : 64
+        } ],
+        "name" : "Hymns: In Times Like These",
+        "release_date" : "2017-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:7MjJIxQj5dyuoG1X7ZSNlx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16RFWCYLet7qXmRfmGdzkB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16RFWCYLet7qXmRfmGdzkB",
+        "id" : "16RFWCYLet7qXmRfmGdzkB",
+        "name" : "The Craguns",
+        "type" : "artist",
+        "uri" : "spotify:artist:16RFWCYLet7qXmRfmGdzkB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 371995,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91661513"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2mfY5KcAqApSwzs9rEZQlg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2mfY5KcAqApSwzs9rEZQlg",
+      "id" : "2mfY5KcAqApSwzs9rEZQlg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Times Like These",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/58ef5867f16d86fb62f54488c9444e5f25313ad2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:2mfY5KcAqApSwzs9rEZQlg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2k7eX9JBghoFsvRljRzi01",
+          "id" : "2k7eX9JBghoFsvRljRzi01",
+          "name" : "Daryl Coley",
+          "type" : "artist",
+          "uri" : "spotify:artist:2k7eX9JBghoFsvRljRzi01"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5EXmnESegPhactTtjsF8md"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5EXmnESegPhactTtjsF8md",
+        "id" : "5EXmnESegPhactTtjsF8md",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735ce97c9d93b94b22325f1e0d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025ce97c9d93b94b22325f1e0d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515ce97c9d93b94b22325f1e0d",
+          "width" : 64
+        } ],
+        "name" : "Compositions: A Decade Of Song",
+        "release_date" : "2000-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:5EXmnESegPhactTtjsF8md"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2k7eX9JBghoFsvRljRzi01",
+        "id" : "2k7eX9JBghoFsvRljRzi01",
+        "name" : "Daryl Coley",
+        "type" : "artist",
+        "uri" : "spotify:artist:2k7eX9JBghoFsvRljRzi01"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 359240,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP39213259"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/29XwXbWqOfyKnRE4gOHIjK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/29XwXbWqOfyKnRE4gOHIjK",
+      "id" : "29XwXbWqOfyKnRE4gOHIjK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Times Like These (He's The One) - When The Music Stops Album Version",
+      "popularity" : 9,
+      "preview_url" : null,
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:29XwXbWqOfyKnRE4gOHIjK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5uy4hiL2mjhj8D8QjpyPIQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5uy4hiL2mjhj8D8QjpyPIQ",
+          "id" : "5uy4hiL2mjhj8D8QjpyPIQ",
+          "name" : "Luther Barnes & The Red Budd Gospel Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:5uy4hiL2mjhj8D8QjpyPIQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/326ziYoiIcakk9xd9oLTvk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/326ziYoiIcakk9xd9oLTvk",
+        "id" : "326ziYoiIcakk9xd9oLTvk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273186b673d00ac932c4cc4e24e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02186b673d00ac932c4cc4e24e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851186b673d00ac932c4cc4e24e",
+          "width" : 64
+        } ],
+        "name" : "Nothing Can Be Better",
+        "release_date" : "1993-10-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:326ziYoiIcakk9xd9oLTvk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5uy4hiL2mjhj8D8QjpyPIQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5uy4hiL2mjhj8D8QjpyPIQ",
+        "id" : "5uy4hiL2mjhj8D8QjpyPIQ",
+        "name" : "Luther Barnes & The Red Budd Gospel Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:5uy4hiL2mjhj8D8QjpyPIQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 292200,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAL10900580"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2CGaNdFJ6spmBVjm1Jc7uw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2CGaNdFJ6spmBVjm1Jc7uw",
+      "id" : "2CGaNdFJ6spmBVjm1Jc7uw",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In Times Like These",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/71bcc9df90c637d8f1a00a0bbb9e5705f8e71089?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:2CGaNdFJ6spmBVjm1Jc7uw"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3zQMCx3JC0djoRaAd27dI2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3zQMCx3JC0djoRaAd27dI2",
+          "id" : "3zQMCx3JC0djoRaAd27dI2",
+          "name" : "Michael Grimm",
+          "type" : "artist",
+          "uri" : "spotify:artist:3zQMCx3JC0djoRaAd27dI2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7qQJ6G13CA4JP985XFbJrn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7qQJ6G13CA4JP985XFbJrn",
+        "id" : "7qQJ6G13CA4JP985XFbJrn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f161094225bcdf28671bd09e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f161094225bcdf28671bd09e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f161094225bcdf28671bd09e",
+          "width" : 64
+        } ],
+        "name" : "Moment in Time",
+        "release_date" : "2012-09-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:7qQJ6G13CA4JP985XFbJrn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zQMCx3JC0djoRaAd27dI2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zQMCx3JC0djoRaAd27dI2",
+        "id" : "3zQMCx3JC0djoRaAd27dI2",
+        "name" : "Michael Grimm",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zQMCx3JC0djoRaAd27dI2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 252500,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US37M1100078"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3a1sc8PF2qsn8fIEADyCgb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3a1sc8PF2qsn8fIEADyCgb",
+      "id" : "3a1sc8PF2qsn8fIEADyCgb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Times Like These",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/73d531be6d74d039ec1d04ab874e4b4ff427b0b9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:3a1sc8PF2qsn8fIEADyCgb"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=In+Times+Like+These&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=In+Times+Like+These&type=track&market=US&offset=0&limit=10",
+    "total" : 515
+  }
+}

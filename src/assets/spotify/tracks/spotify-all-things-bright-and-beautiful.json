@@ -1,0 +1,744 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=All+Things+Bright+and+Beautiful&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0ZREAfzu5USvZD9dn52j5F"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0ZREAfzu5USvZD9dn52j5F",
+          "id" : "0ZREAfzu5USvZD9dn52j5F",
+          "name" : "Hymns of the People",
+          "type" : "artist",
+          "uri" : "spotify:artist:0ZREAfzu5USvZD9dn52j5F"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/07ylTx2YLZ5WffOPy4bEGu"
+        },
+        "href" : "https://api.spotify.com/v1/albums/07ylTx2YLZ5WffOPy4bEGu",
+        "id" : "07ylTx2YLZ5WffOPy4bEGu",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273010cc5109aaa899aa2a29e7a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02010cc5109aaa899aa2a29e7a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851010cc5109aaa899aa2a29e7a",
+          "width" : 64
+        } ],
+        "name" : "Phase One and Phase Two",
+        "release_date" : "2013-01-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:07ylTx2YLZ5WffOPy4bEGu"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ZREAfzu5USvZD9dn52j5F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ZREAfzu5USvZD9dn52j5F",
+        "id" : "0ZREAfzu5USvZD9dn52j5F",
+        "name" : "Hymns of the People",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ZREAfzu5USvZD9dn52j5F"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 240706,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCABL1209969"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7ss0zvxEbSCI3AHRxdB94M"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7ss0zvxEbSCI3AHRxdB94M",
+      "id" : "7ss0zvxEbSCI3AHRxdB94M",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All Things Bright and Beautiful",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0f084ed244765c83f015d76db86076f95d293254?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:7ss0zvxEbSCI3AHRxdB94M"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/23R5SS5O6nz9F2ea4BaVOb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/23R5SS5O6nz9F2ea4BaVOb",
+          "id" : "23R5SS5O6nz9F2ea4BaVOb",
+          "name" : "Paul Croft",
+          "type" : "artist",
+          "uri" : "spotify:artist:23R5SS5O6nz9F2ea4BaVOb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/60pAoFAdRE2AjAMuigF8kQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/60pAoFAdRE2AjAMuigF8kQ",
+        "id" : "60pAoFAdRE2AjAMuigF8kQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cf6b2ce337f7eddc2e39aac8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cf6b2ce337f7eddc2e39aac8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cf6b2ce337f7eddc2e39aac8",
+          "width" : 64
+        } ],
+        "name" : "Relaxing Hymns on Piano, Vol. 1",
+        "release_date" : "2015-09-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 36,
+        "type" : "album",
+        "uri" : "spotify:album:60pAoFAdRE2AjAMuigF8kQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/23R5SS5O6nz9F2ea4BaVOb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/23R5SS5O6nz9F2ea4BaVOb",
+        "id" : "23R5SS5O6nz9F2ea4BaVOb",
+        "name" : "Paul Croft",
+        "type" : "artist",
+        "uri" : "spotify:artist:23R5SS5O6nz9F2ea4BaVOb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 98000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM2PV1508017"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6xYQSR49jIYMH1eLosIqRC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6xYQSR49jIYMH1eLosIqRC",
+      "id" : "6xYQSR49jIYMH1eLosIqRC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All Things Bright and Beautiful",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f17b17c5dab9a62da4cea31eedca3bf1a1b3ff0e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 25,
+      "type" : "track",
+      "uri" : "spotify:track:6xYQSR49jIYMH1eLosIqRC"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+          "id" : "1fO0DHOhFIvuPtObA3LtHR",
+          "name" : "Christian Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7e0OJETOGUBfcjKWR6sZrV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7e0OJETOGUBfcjKWR6sZrV",
+        "id" : "7e0OJETOGUBfcjKWR6sZrV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273eaf4566ca7e7215b219ae383",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02eaf4566ca7e7215b219ae383",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851eaf4566ca7e7215b219ae383",
+          "width" : 64
+        } ],
+        "name" : "Christian Hymns",
+        "release_date" : "2011-03-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:7e0OJETOGUBfcjKWR6sZrV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+        "id" : "1fO0DHOhFIvuPtObA3LtHR",
+        "name" : "Christian Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 82093,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAAW1164616"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/13RzczprJov0IBFe9CJu6j"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/13RzczprJov0IBFe9CJu6j",
+      "id" : "13RzczprJov0IBFe9CJu6j",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All Things Bright and Beautiful",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4fbe1f226ac550b38eaa927d6b02c875c69e92a4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:13RzczprJov0IBFe9CJu6j"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3HGpQkENCx0Yl4vFTPde3t",
+          "id" : "3HGpQkENCx0Yl4vFTPde3t",
+          "name" : "Robbins Island Music Group",
+          "type" : "artist",
+          "uri" : "spotify:artist:3HGpQkENCx0Yl4vFTPde3t"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3bcEhKhpzRr4Fr0jpf6IG2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3bcEhKhpzRr4Fr0jpf6IG2",
+        "id" : "3bcEhKhpzRr4Fr0jpf6IG2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273134c76c05748535a87ce37d2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02134c76c05748535a87ce37d2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851134c76c05748535a87ce37d2",
+          "width" : 64
+        } ],
+        "name" : "Baby's First Hymns With Sounds of Nature: Soothing Christian Lullabies for Babies With Organic Nature Sounds",
+        "release_date" : "2014-09-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:3bcEhKhpzRr4Fr0jpf6IG2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3HGpQkENCx0Yl4vFTPde3t",
+        "id" : "3HGpQkENCx0Yl4vFTPde3t",
+        "name" : "Robbins Island Music Group",
+        "type" : "artist",
+        "uri" : "spotify:artist:3HGpQkENCx0Yl4vFTPde3t"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 152000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91414992"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/78A9PvgGNpC1bXxqc1sidg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/78A9PvgGNpC1bXxqc1sidg",
+      "id" : "78A9PvgGNpC1bXxqc1sidg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All Things Bright and Beautiful (With Morning Songbirds)",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/70de455f8aead7a115373a4e3e39795e1a2712c0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:78A9PvgGNpC1bXxqc1sidg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0qlhpgr87PEG89Jd5iRpxe",
+          "id" : "0qlhpgr87PEG89Jd5iRpxe",
+          "name" : "John Rutter",
+          "type" : "artist",
+          "uri" : "spotify:artist:0qlhpgr87PEG89Jd5iRpxe"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0daVGEYMVnQZ3NZIpIuFWn",
+          "id" : "0daVGEYMVnQZ3NZIpIuFWn",
+          "name" : "The Cambridge Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:0daVGEYMVnQZ3NZIpIuFWn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/58PUxSRXfiXalkXDlEGOS8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/58PUxSRXfiXalkXDlEGOS8",
+        "id" : "58PUxSRXfiXalkXDlEGOS8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b92c8a87e52d2ddc4f3f4b6d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b92c8a87e52d2ddc4f3f4b6d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b92c8a87e52d2ddc4f3f4b6d",
+          "width" : 64
+        } ],
+        "name" : "Be Thou My Vision - Sacred Music by John Rutter",
+        "release_date" : "2004-10-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:58PUxSRXfiXalkXDlEGOS8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0qlhpgr87PEG89Jd5iRpxe",
+        "id" : "0qlhpgr87PEG89Jd5iRpxe",
+        "name" : "John Rutter",
+        "type" : "artist",
+        "uri" : "spotify:artist:0qlhpgr87PEG89Jd5iRpxe"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0daVGEYMVnQZ3NZIpIuFWn",
+        "id" : "0daVGEYMVnQZ3NZIpIuFWn",
+        "name" : "The Cambridge Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:0daVGEYMVnQZ3NZIpIuFWn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4JKHXlntTvmZnLxjbeRcPL",
+        "id" : "4JKHXlntTvmZnLxjbeRcPL",
+        "name" : "City of London Sinfonia",
+        "type" : "artist",
+        "uri" : "spotify:artist:4JKHXlntTvmZnLxjbeRcPL"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 168040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAKR8410005"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2sP4S6ftQqXg6wRp9K3GPw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2sP4S6ftQqXg6wRp9K3GPw",
+      "id" : "2sP4S6ftQqXg6wRp9K3GPw",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All things bright and beautiful",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7bf376fc055ea8631365d7ec1b8e765fc27575c2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:2sP4S6ftQqXg6wRp9K3GPw"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6dkXCmyrSrQteo0gwOGzFl",
+          "id" : "6dkXCmyrSrQteo0gwOGzFl",
+          "name" : "Katherine Jenkins",
+          "type" : "artist",
+          "uri" : "spotify:artist:6dkXCmyrSrQteo0gwOGzFl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4QM1WyfO4knV9BnikhMMxe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4QM1WyfO4knV9BnikhMMxe",
+        "id" : "4QM1WyfO4knV9BnikhMMxe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e39645d9b1f6a251770eb361",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e39645d9b1f6a251770eb361",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e39645d9b1f6a251770eb361",
+          "width" : 64
+        } ],
+        "name" : "Celebration",
+        "release_date" : "2016-04-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:4QM1WyfO4knV9BnikhMMxe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6dkXCmyrSrQteo0gwOGzFl",
+        "id" : "6dkXCmyrSrQteo0gwOGzFl",
+        "name" : "Katherine Jenkins",
+        "type" : "artist",
+        "uri" : "spotify:artist:6dkXCmyrSrQteo0gwOGzFl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0u6OmOuCyp2ukudvje75zc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0u6OmOuCyp2ukudvje75zc",
+        "id" : "0u6OmOuCyp2ukudvje75zc",
+        "name" : "The Prague Symphonia",
+        "type" : "artist",
+        "uri" : "spotify:artist:0u6OmOuCyp2ukudvje75zc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Iu3xY8vokuW31hHWxfgkL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Iu3xY8vokuW31hHWxfgkL",
+        "id" : "2Iu3xY8vokuW31hHWxfgkL",
+        "name" : "Anthony Ingliss",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Iu3xY8vokuW31hHWxfgkL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FtUxoDA9FHcpssu5gt7pm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FtUxoDA9FHcpssu5gt7pm",
+        "id" : "5FtUxoDA9FHcpssu5gt7pm",
+        "name" : "Rudolfus Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FtUxoDA9FHcpssu5gt7pm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 185573,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBEKZ0500090"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0M9lRVT2KjrgKAN5Gdwu0R"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0M9lRVT2KjrgKAN5Gdwu0R",
+      "id" : "0M9lRVT2KjrgKAN5Gdwu0R",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All Things Bright And Beautiful",
+      "popularity" : 23,
+      "preview_url" : null,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:0M9lRVT2KjrgKAN5Gdwu0R"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1qKLikeNYpQFSsDAjg7HpI",
+          "id" : "1qKLikeNYpQFSsDAjg7HpI",
+          "name" : "The Kiboomers",
+          "type" : "artist",
+          "uri" : "spotify:artist:1qKLikeNYpQFSsDAjg7HpI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5XRkVJk8hKHp98qutTSQ4U"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5XRkVJk8hKHp98qutTSQ4U",
+        "id" : "5XRkVJk8hKHp98qutTSQ4U",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d9ba4fff175e44b06c87e508",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d9ba4fff175e44b06c87e508",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d9ba4fff175e44b06c87e508",
+          "width" : 64
+        } ],
+        "name" : "Baby Christian Songs of Praise - Relaxing Music Lullabies",
+        "release_date" : "2017-07-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:5XRkVJk8hKHp98qutTSQ4U"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1qKLikeNYpQFSsDAjg7HpI",
+        "id" : "1qKLikeNYpQFSsDAjg7HpI",
+        "name" : "The Kiboomers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1qKLikeNYpQFSsDAjg7HpI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 94124,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM6N21716035"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/50D5hAokeZeucOtAcExXZv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/50D5hAokeZeucOtAcExXZv",
+      "id" : "50D5hAokeZeucOtAcExXZv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All Things Bright and Beautiful",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/896e4ea0367e995eb9446302f920e54b8745f45d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:50D5hAokeZeucOtAcExXZv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7D7aYHkgYaOWXS8GPy20pz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7D7aYHkgYaOWXS8GPy20pz",
+          "id" : "7D7aYHkgYaOWXS8GPy20pz",
+          "name" : "Sound of Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:7D7aYHkgYaOWXS8GPy20pz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/67LT9wWUW42t6VjpWNVrht"
+        },
+        "href" : "https://api.spotify.com/v1/albums/67LT9wWUW42t6VjpWNVrht",
+        "id" : "67LT9wWUW42t6VjpWNVrht",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fdca35ced983ea4c1ac578ff",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fdca35ced983ea4c1ac578ff",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fdca35ced983ea4c1ac578ff",
+          "width" : 64
+        } ],
+        "name" : "The Greatest Ever Hymns, Vol. 1",
+        "release_date" : "2014-03-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:67LT9wWUW42t6VjpWNVrht"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7D7aYHkgYaOWXS8GPy20pz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7D7aYHkgYaOWXS8GPy20pz",
+        "id" : "7D7aYHkgYaOWXS8GPy20pz",
+        "name" : "Sound of Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:7D7aYHkgYaOWXS8GPy20pz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 218343,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UK5JC1400179"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5XzeHMVg6mXg6Q7jljCsuQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5XzeHMVg6mXg6Q7jljCsuQ",
+      "id" : "5XzeHMVg6mXg6Q7jljCsuQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All Things Bright and Beautiful",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2989f86c63807dedd6b6a38bb0b3cbce313be908?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5XzeHMVg6mXg6Q7jljCsuQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1ZoSXXLPsWBwK2VmIvny8A"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1ZoSXXLPsWBwK2VmIvny8A",
+          "id" : "1ZoSXXLPsWBwK2VmIvny8A",
+          "name" : "Ken Elkinson",
+          "type" : "artist",
+          "uri" : "spotify:artist:1ZoSXXLPsWBwK2VmIvny8A"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/75iccPz617x3hOX8Cin5c2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/75iccPz617x3hOX8Cin5c2",
+        "id" : "75iccPz617x3hOX8Cin5c2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b87fa15b49de0b081f852c92",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b87fa15b49de0b081f852c92",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b87fa15b49de0b081f852c92",
+          "width" : 64
+        } ],
+        "name" : "Music for Funerals, Vol. 1",
+        "release_date" : "2020-05-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:75iccPz617x3hOX8Cin5c2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZoSXXLPsWBwK2VmIvny8A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZoSXXLPsWBwK2VmIvny8A",
+        "id" : "1ZoSXXLPsWBwK2VmIvny8A",
+        "name" : "Ken Elkinson",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZoSXXLPsWBwK2VmIvny8A"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USNEJ2000036"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7ITtGPTad9xQbYudwFVIFe"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7ITtGPTad9xQbYudwFVIFe",
+      "id" : "7ITtGPTad9xQbYudwFVIFe",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All Things Bright and Beautiful",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/079b3192bca88ba9fdada8ffe6dae0471afa8613?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:7ITtGPTad9xQbYudwFVIFe"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+          "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+          "name" : "Owl City",
+          "type" : "artist",
+          "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4DiBfnAx5c8fkACkmlqiIB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4DiBfnAx5c8fkACkmlqiIB",
+        "id" : "4DiBfnAx5c8fkACkmlqiIB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730841bde9d96dd49688b0ba87",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020841bde9d96dd49688b0ba87",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510841bde9d96dd49688b0ba87",
+          "width" : 64
+        } ],
+        "name" : "All Things Bright And Beautiful",
+        "release_date" : "2011-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:4DiBfnAx5c8fkACkmlqiIB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+        "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+        "name" : "Owl City",
+        "type" : "artist",
+        "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2RIAZJVGT3qjZ5BNw0yVxH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2RIAZJVGT3qjZ5BNw0yVxH",
+        "id" : "2RIAZJVGT3qjZ5BNw0yVxH",
+        "name" : "Shawn Chrystopher",
+        "type" : "artist",
+        "uri" : "spotify:artist:2RIAZJVGT3qjZ5BNw0yVxH"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 185306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71104097"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4c3mIWKKMbGJlZukdMTBvB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4c3mIWKKMbGJlZukdMTBvB",
+      "id" : "4c3mIWKKMbGJlZukdMTBvB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Alligator Sky",
+      "popularity" : 43,
+      "preview_url" : null,
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4c3mIWKKMbGJlZukdMTBvB"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=All+Things+Bright+and+Beautiful&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=All+Things+Bright+and+Beautiful&type=track&market=US&offset=0&limit=10",
+    "total" : 751
+  }
+}

@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Tread+Softly&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3GrqVz7V3Hd8gvfvUcR9wk",
+          "id" : "3GrqVz7V3Hd8gvfvUcR9wk",
+          "name" : "Jeremy Spencer",
+          "type" : "artist",
+          "uri" : "spotify:artist:3GrqVz7V3Hd8gvfvUcR9wk"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/42v9P1ymnaQHnjqbSiaByT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/42v9P1ymnaQHnjqbSiaByT",
+        "id" : "42v9P1ymnaQHnjqbSiaByT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b463dfc632bf9dd8897e5974",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b463dfc632bf9dd8897e5974",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b463dfc632bf9dd8897e5974",
+          "width" : 64
+        } ],
+        "name" : "Treading Softly",
+        "release_date" : "2018-04-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:42v9P1ymnaQHnjqbSiaByT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GrqVz7V3Hd8gvfvUcR9wk",
+        "id" : "3GrqVz7V3Hd8gvfvUcR9wk",
+        "name" : "Jeremy Spencer",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GrqVz7V3Hd8gvfvUcR9wk"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 197741,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UKD9X1800017"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4MZuZV3MeWhvkoQCvQ6bVj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4MZuZV3MeWhvkoQCvQ6bVj",
+      "id" : "4MZuZV3MeWhvkoQCvQ6bVj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Shy Love",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2169ce772fccccbb675e7d749073f214002d7fb4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4MZuZV3MeWhvkoQCvQ6bVj"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+          "id" : "21npm6c3eABuNEa0hrrH58",
+          "name" : "Sarah Hoffman",
+          "type" : "artist",
+          "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3IpbroYsrKnk1K2BjBDiRW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3IpbroYsrKnk1K2BjBDiRW",
+        "id" : "3IpbroYsrKnk1K2BjBDiRW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27351111aaf72c13cdd6199db5f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0251111aaf72c13cdd6199db5f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485151111aaf72c13cdd6199db5f",
+          "width" : 64
+        } ],
+        "name" : "Treading Softly",
+        "release_date" : "2020-01-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:3IpbroYsrKnk1K2BjBDiRW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+        "id" : "21npm6c3eABuNEa0hrrH58",
+        "name" : "Sarah Hoffman",
+        "type" : "artist",
+        "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 101920,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE2006520"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/01vaVnnpDk7hKqrmFMg20Q"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/01vaVnnpDk7hKqrmFMg20Q",
+      "id" : "01vaVnnpDk7hKqrmFMg20Q",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Treading Softly",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c4dfde7cef11b111f50479f71d0151b7c9e91d06?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 27,
+      "type" : "track",
+      "uri" : "spotify:track:01vaVnnpDk7hKqrmFMg20Q"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6mctsJBrfcWvWH7S8h716D",
+          "id" : "6mctsJBrfcWvWH7S8h716D",
+          "name" : "Moelogo",
+          "type" : "artist",
+          "uri" : "spotify:artist:6mctsJBrfcWvWH7S8h716D"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2ufTHfrtbzGXkMUO4i6QYn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2ufTHfrtbzGXkMUO4i6QYn",
+        "id" : "2ufTHfrtbzGXkMUO4i6QYn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a6750b9e1b95f0936f739801",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a6750b9e1b95f0936f739801",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a6750b9e1b95f0936f739801",
+          "width" : 64
+        } ],
+        "name" : "Rora Se (Tread Softly)",
+        "release_date" : "2016-10-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:2ufTHfrtbzGXkMUO4i6QYn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6mctsJBrfcWvWH7S8h716D",
+        "id" : "6mctsJBrfcWvWH7S8h716D",
+        "name" : "Moelogo",
+        "type" : "artist",
+        "uri" : "spotify:artist:6mctsJBrfcWvWH7S8h716D"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IK173RXLiCSQ8fhDlAb3s",
+        "id" : "2IK173RXLiCSQ8fhDlAb3s",
+        "name" : "Adekunle Gold",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IK173RXLiCSQ8fhDlAb3s"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 193469,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4TW1636999"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1mcw0NRTKD0OgJobOtsHql"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1mcw0NRTKD0OgJobOtsHql",
+      "id" : "1mcw0NRTKD0OgJobOtsHql",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rora Se (Tread Softly)",
+      "popularity" : 14,
+      "preview_url" : "https://p.scdn.co/mp3-preview/94f6e3855cce24b8bd7ad827e818081b64bd63b3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1mcw0NRTKD0OgJobOtsHql"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6bXiKVyQ4pTjhzw3nMDbWK"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6bXiKVyQ4pTjhzw3nMDbWK",
+          "id" : "6bXiKVyQ4pTjhzw3nMDbWK",
+          "name" : "Czar",
+          "type" : "artist",
+          "uri" : "spotify:artist:6bXiKVyQ4pTjhzw3nMDbWK"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1guedLw59JazdM4Dzqoa1V"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1guedLw59JazdM4Dzqoa1V",
+        "id" : "1guedLw59JazdM4Dzqoa1V",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fdb37b01b39f0d8cbb68e4b0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fdb37b01b39f0d8cbb68e4b0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fdb37b01b39f0d8cbb68e4b0",
+          "width" : 64
+        } ],
+        "name" : "Czar",
+        "release_date" : "2007",
+        "release_date_precision" : "year",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:1guedLw59JazdM4Dzqoa1V"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6bXiKVyQ4pTjhzw3nMDbWK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6bXiKVyQ4pTjhzw3nMDbWK",
+        "id" : "6bXiKVyQ4pTjhzw3nMDbWK",
+        "name" : "Czar",
+        "type" : "artist",
+        "uri" : "spotify:artist:6bXiKVyQ4pTjhzw3nMDbWK"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 404880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CYRLD1400215"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/73mFcgpc6Hp1eztjBKl82S"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/73mFcgpc6Hp1eztjBKl82S",
+      "id" : "73mFcgpc6Hp1eztjBKl82S",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Tread Softly On My Dreams",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9a057955c3236525aef894df03247a05c7ed4cc6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:73mFcgpc6Hp1eztjBKl82S"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+          "id" : "21npm6c3eABuNEa0hrrH58",
+          "name" : "Sarah Hoffman",
+          "type" : "artist",
+          "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3IpbroYsrKnk1K2BjBDiRW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3IpbroYsrKnk1K2BjBDiRW",
+        "id" : "3IpbroYsrKnk1K2BjBDiRW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27351111aaf72c13cdd6199db5f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0251111aaf72c13cdd6199db5f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485151111aaf72c13cdd6199db5f",
+          "width" : 64
+        } ],
+        "name" : "Treading Softly",
+        "release_date" : "2020-01-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:3IpbroYsrKnk1K2BjBDiRW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+        "id" : "21npm6c3eABuNEa0hrrH58",
+        "name" : "Sarah Hoffman",
+        "type" : "artist",
+        "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 86000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE2006507"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/165sBOZvIRTcLcNx1MuiRq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/165sBOZvIRTcLcNx1MuiRq",
+      "id" : "165sBOZvIRTcLcNx1MuiRq",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Finally Happening",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0117d9a9ac8af9f940542e2db487dca490fba756?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:165sBOZvIRTcLcNx1MuiRq"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+          "id" : "21npm6c3eABuNEa0hrrH58",
+          "name" : "Sarah Hoffman",
+          "type" : "artist",
+          "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3IpbroYsrKnk1K2BjBDiRW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3IpbroYsrKnk1K2BjBDiRW",
+        "id" : "3IpbroYsrKnk1K2BjBDiRW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27351111aaf72c13cdd6199db5f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0251111aaf72c13cdd6199db5f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485151111aaf72c13cdd6199db5f",
+          "width" : 64
+        } ],
+        "name" : "Treading Softly",
+        "release_date" : "2020-01-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:3IpbroYsrKnk1K2BjBDiRW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+        "id" : "21npm6c3eABuNEa0hrrH58",
+        "name" : "Sarah Hoffman",
+        "type" : "artist",
+        "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 146000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE2006496"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1et6nQ3PfYZ0vr2n2A0unH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1et6nQ3PfYZ0vr2n2A0unH",
+      "id" : "1et6nQ3PfYZ0vr2n2A0unH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Joy In You",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9923388ad8e7ccd57bf591aabaa72b7c64ef846c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1et6nQ3PfYZ0vr2n2A0unH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+          "id" : "21npm6c3eABuNEa0hrrH58",
+          "name" : "Sarah Hoffman",
+          "type" : "artist",
+          "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3IpbroYsrKnk1K2BjBDiRW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3IpbroYsrKnk1K2BjBDiRW",
+        "id" : "3IpbroYsrKnk1K2BjBDiRW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27351111aaf72c13cdd6199db5f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0251111aaf72c13cdd6199db5f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485151111aaf72c13cdd6199db5f",
+          "width" : 64
+        } ],
+        "name" : "Treading Softly",
+        "release_date" : "2020-01-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:3IpbroYsrKnk1K2BjBDiRW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+        "id" : "21npm6c3eABuNEa0hrrH58",
+        "name" : "Sarah Hoffman",
+        "type" : "artist",
+        "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 98000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE2006495"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1nHBwirUYNYxzAtMZl8CG5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1nHBwirUYNYxzAtMZl8CG5",
+      "id" : "1nHBwirUYNYxzAtMZl8CG5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Standing Together",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7706d49cdf5fc13a2dd2c4cc920d3784e9550012?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1nHBwirUYNYxzAtMZl8CG5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+          "id" : "21npm6c3eABuNEa0hrrH58",
+          "name" : "Sarah Hoffman",
+          "type" : "artist",
+          "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3IpbroYsrKnk1K2BjBDiRW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3IpbroYsrKnk1K2BjBDiRW",
+        "id" : "3IpbroYsrKnk1K2BjBDiRW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27351111aaf72c13cdd6199db5f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0251111aaf72c13cdd6199db5f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485151111aaf72c13cdd6199db5f",
+          "width" : 64
+        } ],
+        "name" : "Treading Softly",
+        "release_date" : "2020-01-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:3IpbroYsrKnk1K2BjBDiRW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+        "id" : "21npm6c3eABuNEa0hrrH58",
+        "name" : "Sarah Hoffman",
+        "type" : "artist",
+        "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 194000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE2006483"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6WBPZVRjBaN7n4L9wkhz6a"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6WBPZVRjBaN7n4L9wkhz6a",
+      "id" : "6WBPZVRjBaN7n4L9wkhz6a",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "After You",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e0e7ed686a12762315dfe3caf3054305b15bd4d0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6WBPZVRjBaN7n4L9wkhz6a"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+          "id" : "21npm6c3eABuNEa0hrrH58",
+          "name" : "Sarah Hoffman",
+          "type" : "artist",
+          "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3IpbroYsrKnk1K2BjBDiRW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3IpbroYsrKnk1K2BjBDiRW",
+        "id" : "3IpbroYsrKnk1K2BjBDiRW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27351111aaf72c13cdd6199db5f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0251111aaf72c13cdd6199db5f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485151111aaf72c13cdd6199db5f",
+          "width" : 64
+        } ],
+        "name" : "Treading Softly",
+        "release_date" : "2020-01-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:3IpbroYsrKnk1K2BjBDiRW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+        "id" : "21npm6c3eABuNEa0hrrH58",
+        "name" : "Sarah Hoffman",
+        "type" : "artist",
+        "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 153600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE2006516"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1yhp2pvIdu0vd1gqs2hpBF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1yhp2pvIdu0vd1gqs2hpBF",
+      "id" : "1yhp2pvIdu0vd1gqs2hpBF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Starting Over",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fd26842f553e519c96eeb292de3bf7c8a56d471b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 24,
+      "type" : "track",
+      "uri" : "spotify:track:1yhp2pvIdu0vd1gqs2hpBF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+          "id" : "21npm6c3eABuNEa0hrrH58",
+          "name" : "Sarah Hoffman",
+          "type" : "artist",
+          "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3IpbroYsrKnk1K2BjBDiRW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3IpbroYsrKnk1K2BjBDiRW",
+        "id" : "3IpbroYsrKnk1K2BjBDiRW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27351111aaf72c13cdd6199db5f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0251111aaf72c13cdd6199db5f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485151111aaf72c13cdd6199db5f",
+          "width" : 64
+        } ],
+        "name" : "Treading Softly",
+        "release_date" : "2020-01-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:3IpbroYsrKnk1K2BjBDiRW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21npm6c3eABuNEa0hrrH58"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21npm6c3eABuNEa0hrrH58",
+        "id" : "21npm6c3eABuNEa0hrrH58",
+        "name" : "Sarah Hoffman",
+        "type" : "artist",
+        "uri" : "spotify:artist:21npm6c3eABuNEa0hrrH58"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 127400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE2006521"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3xOpmMNxfYA5HL0YRpJgFT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3xOpmMNxfYA5HL0YRpJgFT",
+      "id" : "3xOpmMNxfYA5HL0YRpJgFT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Can See",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/265cfea69edcafc7a942ec1498852e2108188f17?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 28,
+      "type" : "track",
+      "uri" : "spotify:track:3xOpmMNxfYA5HL0YRpJgFT"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Tread+Softly&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Tread+Softly&type=track&market=US&offset=0&limit=10",
+    "total" : 184
+  }
+}

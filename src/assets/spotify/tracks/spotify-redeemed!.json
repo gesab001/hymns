@@ -1,0 +1,717 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Redeemed%21&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/26VDCJKEAu2TnHcxGHQZkX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/26VDCJKEAu2TnHcxGHQZkX",
+          "id" : "26VDCJKEAu2TnHcxGHQZkX",
+          "name" : "M. Anthony",
+          "type" : "artist",
+          "uri" : "spotify:artist:26VDCJKEAu2TnHcxGHQZkX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/72MAIzkEovWleGcK7RI9qc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/72MAIzkEovWleGcK7RI9qc",
+        "id" : "72MAIzkEovWleGcK7RI9qc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734465d656bf295b61a869b9c3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024465d656bf295b61a869b9c3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514465d656bf295b61a869b9c3",
+          "width" : 64
+        } ],
+        "name" : "To the Nations",
+        "release_date" : "2019-11-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:72MAIzkEovWleGcK7RI9qc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/26VDCJKEAu2TnHcxGHQZkX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/26VDCJKEAu2TnHcxGHQZkX",
+        "id" : "26VDCJKEAu2TnHcxGHQZkX",
+        "name" : "M. Anthony",
+        "type" : "artist",
+        "uri" : "spotify:artist:26VDCJKEAu2TnHcxGHQZkX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 246013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZJJF1901010"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5DhQWdLK80CjfJKsh70kgM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5DhQWdLK80CjfJKsh70kgM",
+      "id" : "5DhQWdLK80CjfJKsh70kgM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Redeemed",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e0484d85533475e3447fa4b0aa805579b4a6ce3f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:5DhQWdLK80CjfJKsh70kgM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2",
+          "id" : "00tVTdpEhQQw1bqdu8RCx2",
+          "name" : "Blue Öyster Cult",
+          "type" : "artist",
+          "uri" : "spotify:artist:00tVTdpEhQQw1bqdu8RCx2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6xxUsZyckaV0shjOJ0cVpf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6xxUsZyckaV0shjOJ0cVpf",
+        "id" : "6xxUsZyckaV0shjOJ0cVpf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a63fc9073db1233ea6c7ae74",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a63fc9073db1233ea6c7ae74",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a63fc9073db1233ea6c7ae74",
+          "width" : 64
+        } ],
+        "name" : "Blue Oyster Cult",
+        "release_date" : "1972",
+        "release_date_precision" : "year",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6xxUsZyckaV0shjOJ0cVpf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2",
+        "id" : "00tVTdpEhQQw1bqdu8RCx2",
+        "name" : "Blue Öyster Cult",
+        "type" : "artist",
+        "uri" : "spotify:artist:00tVTdpEhQQw1bqdu8RCx2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM19917736"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1P37l3UBUo49cqATq6Qccz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1P37l3UBUo49cqATq6Qccz",
+      "id" : "1P37l3UBUo49cqATq6Qccz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Redeemed",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d5e18a307b3caff9f4b7bf8f1155302c8da14f55?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1P37l3UBUo49cqATq6Qccz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4SsMf4SjhOlSqEitcprgBt",
+          "id" : "4SsMf4SjhOlSqEitcprgBt",
+          "name" : "Big Daddy Weave",
+          "type" : "artist",
+          "uri" : "spotify:artist:4SsMf4SjhOlSqEitcprgBt"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5P2EQTgQ6BpQOjyoBxm15i",
+        "id" : "5P2EQTgQ6BpQOjyoBxm15i",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736254ce599b07d5ec84226925",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026254ce599b07d5ec84226925",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516254ce599b07d5ec84226925",
+          "width" : 64
+        } ],
+        "name" : "Love Come To Life: The Redeemed Edition",
+        "release_date" : "2014-03-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:5P2EQTgQ6BpQOjyoBxm15i"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4SsMf4SjhOlSqEitcprgBt",
+        "id" : "4SsMf4SjhOlSqEitcprgBt",
+        "name" : "Big Daddy Weave",
+        "type" : "artist",
+        "uri" : "spotify:artist:4SsMf4SjhOlSqEitcprgBt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 305493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR61400049"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6Xd6xtdhMEvm5KrkUhlRG9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6Xd6xtdhMEvm5KrkUhlRG9",
+      "id" : "6Xd6xtdhMEvm5KrkUhlRG9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Redeemed - Live",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d26272c4e9fc2fff4034427783d1b5ae7fe56a41?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:6Xd6xtdhMEvm5KrkUhlRG9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0DLoqaxhfWU5litFyzLqn8",
+          "id" : "0DLoqaxhfWU5litFyzLqn8",
+          "name" : "People & Songs",
+          "type" : "artist",
+          "uri" : "spotify:artist:0DLoqaxhfWU5litFyzLqn8"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0FUrYuqIlDAEoFKWu5lOTS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0FUrYuqIlDAEoFKWu5lOTS",
+        "id" : "0FUrYuqIlDAEoFKWu5lOTS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27381f93506f90a841008c3c502",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0281f93506f90a841008c3c502",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485181f93506f90a841008c3c502",
+          "width" : 64
+        } ],
+        "name" : "The Emerging Sound, Vol. 5",
+        "release_date" : "2019-07-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:0FUrYuqIlDAEoFKWu5lOTS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0DLoqaxhfWU5litFyzLqn8",
+        "id" : "0DLoqaxhfWU5litFyzLqn8",
+        "name" : "People & Songs",
+        "type" : "artist",
+        "uri" : "spotify:artist:0DLoqaxhfWU5litFyzLqn8"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gOLzSNVeUVAJyAL2YOLk5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gOLzSNVeUVAJyAL2YOLk5",
+        "id" : "2gOLzSNVeUVAJyAL2YOLk5",
+        "name" : "Sean Carter",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gOLzSNVeUVAJyAL2YOLk5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zbE9ivLXcuYIPT2mk0qv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zbE9ivLXcuYIPT2mk0qv5",
+        "id" : "3zbE9ivLXcuYIPT2mk0qv5",
+        "name" : "Melanie Tierce",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zbE9ivLXcuYIPT2mk0qv5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2x1p62ukiideF1cSuXlGvG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2x1p62ukiideF1cSuXlGvG",
+        "id" : "2x1p62ukiideF1cSuXlGvG",
+        "name" : "David Gentiles",
+        "type" : "artist",
+        "uri" : "spotify:artist:2x1p62ukiideF1cSuXlGvG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Wqzf3BtJDytLIoFeUzMjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Wqzf3BtJDytLIoFeUzMjD",
+        "id" : "6Wqzf3BtJDytLIoFeUzMjD",
+        "name" : "The Emerging Sound",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Wqzf3BtJDytLIoFeUzMjD"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 289400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEI1909129"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1sKNuS0c15pyNtAz0mYmFg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1sKNuS0c15pyNtAz0mYmFg",
+      "id" : "1sKNuS0c15pyNtAz0mYmFg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Redeemed by the Blood of the Lamb",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1ad6389b54bb9ef0311733646f1d26b2e1c7d129?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:1sKNuS0c15pyNtAz0mYmFg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7G8JMIDeCsBVTfsK7qbslF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7G8JMIDeCsBVTfsK7qbslF",
+          "id" : "7G8JMIDeCsBVTfsK7qbslF",
+          "name" : "Turnip Blood",
+          "type" : "artist",
+          "uri" : "spotify:artist:7G8JMIDeCsBVTfsK7qbslF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2mPr6Pnhx7vjDbtdD5R9FJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2mPr6Pnhx7vjDbtdD5R9FJ",
+        "id" : "2mPr6Pnhx7vjDbtdD5R9FJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273130f0cf523a83d771fb25cd7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02130f0cf523a83d771fb25cd7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851130f0cf523a83d771fb25cd7",
+          "width" : 64
+        } ],
+        "name" : "Sanitary Lunch / Different by Defect (Complete Collection)",
+        "release_date" : "1995-05-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:2mPr6Pnhx7vjDbtdD5R9FJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7G8JMIDeCsBVTfsK7qbslF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7G8JMIDeCsBVTfsK7qbslF",
+        "id" : "7G8JMIDeCsBVTfsK7qbslF",
+        "name" : "Turnip Blood",
+        "type" : "artist",
+        "uri" : "spotify:artist:7G8JMIDeCsBVTfsK7qbslF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 193202,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91857828"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0KTaVnxzXTUa669q8WUEaF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0KTaVnxzXTUa669q8WUEaF",
+      "id" : "0KTaVnxzXTUa669q8WUEaF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Redeemed",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/109a8e96403d72cef6821aa5bcde46df0e718ad6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0KTaVnxzXTUa669q8WUEaF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5L0eKYl8JfgYBNnz8wBr7i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5L0eKYl8JfgYBNnz8wBr7i",
+          "id" : "5L0eKYl8JfgYBNnz8wBr7i",
+          "name" : "Kimberly and Alberto Rivera",
+          "type" : "artist",
+          "uri" : "spotify:artist:5L0eKYl8JfgYBNnz8wBr7i"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2dGreSNlIuQwtp3l5MStZk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2dGreSNlIuQwtp3l5MStZk",
+        "id" : "2dGreSNlIuQwtp3l5MStZk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e948fefb94734d573f46c636",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e948fefb94734d573f46c636",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e948fefb94734d573f46c636",
+          "width" : 64
+        } ],
+        "name" : "Serenity",
+        "release_date" : "2015-06-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2dGreSNlIuQwtp3l5MStZk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5L0eKYl8JfgYBNnz8wBr7i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5L0eKYl8JfgYBNnz8wBr7i",
+        "id" : "5L0eKYl8JfgYBNnz8wBr7i",
+        "name" : "Kimberly and Alberto Rivera",
+        "type" : "artist",
+        "uri" : "spotify:artist:5L0eKYl8JfgYBNnz8wBr7i"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 454213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USK461500030"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/01XGBKfmA5NAT1sFxW4niQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/01XGBKfmA5NAT1sFxW4niQ",
+      "id" : "01XGBKfmA5NAT1sFxW4niQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Redeemed",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/42f253faf5b3daf8b97e86c550ac73e84bc64b72?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:01XGBKfmA5NAT1sFxW4niQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4oI0W9neUi7nvxcQKDY5Xa",
+          "id" : "4oI0W9neUi7nvxcQKDY5Xa",
+          "name" : "Jonathan Nelson",
+          "type" : "artist",
+          "uri" : "spotify:artist:4oI0W9neUi7nvxcQKDY5Xa"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/09wHdrvpQ7dZmSQOVaaPHT",
+        "id" : "09wHdrvpQ7dZmSQOVaaPHT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ba0dbc32446f61530d2cce2b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ba0dbc32446f61530d2cce2b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ba0dbc32446f61530d2cce2b",
+          "width" : 64
+        } ],
+        "name" : "Declarations",
+        "release_date" : "2018-09-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:09wHdrvpQ7dZmSQOVaaPHT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4oI0W9neUi7nvxcQKDY5Xa",
+        "id" : "4oI0W9neUi7nvxcQKDY5Xa",
+        "name" : "Jonathan Nelson",
+        "type" : "artist",
+        "uri" : "spotify:artist:4oI0W9neUi7nvxcQKDY5Xa"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 458266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USKO11880865"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0YlGhyhldtrZOjnRjT94Ld"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0YlGhyhldtrZOjnRjT94Ld",
+      "id" : "0YlGhyhldtrZOjnRjT94Ld",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Redeemed",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7c77bd7650d8e18b9e1acc9224f89e34e4befef8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0YlGhyhldtrZOjnRjT94Ld"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6CkyBXEUTNVKtjuvpm4FrY",
+          "id" : "6CkyBXEUTNVKtjuvpm4FrY",
+          "name" : "Gold City",
+          "type" : "artist",
+          "uri" : "spotify:artist:6CkyBXEUTNVKtjuvpm4FrY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6yPU8bhLOs98RHVmTrE9fg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6yPU8bhLOs98RHVmTrE9fg",
+        "id" : "6yPU8bhLOs98RHVmTrE9fg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730494dec639c83e6fe56d0a4b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020494dec639c83e6fe56d0a4b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510494dec639c83e6fe56d0a4b",
+          "width" : 64
+        } ],
+        "name" : "Hymn Revival",
+        "release_date" : "2014-08-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6yPU8bhLOs98RHVmTrE9fg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CkyBXEUTNVKtjuvpm4FrY",
+        "id" : "6CkyBXEUTNVKtjuvpm4FrY",
+        "name" : "Gold City",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CkyBXEUTNVKtjuvpm4FrY"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 148240,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US6R21452469"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1IytrLAWzBfgisQjkqFUMq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1IytrLAWzBfgisQjkqFUMq",
+      "id" : "1IytrLAWzBfgisQjkqFUMq",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Redeemed",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6f00f73ae5176b845b4c3cd541682b2987681931?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:1IytrLAWzBfgisQjkqFUMq"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7cNNNhdJDrt3vgQjwSavNf",
+          "id" : "7cNNNhdJDrt3vgQjwSavNf",
+          "name" : "Memphis May Fire",
+          "type" : "artist",
+          "uri" : "spotify:artist:7cNNNhdJDrt3vgQjwSavNf"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/59fpw1PC2LgFYS0Hmn4zm3",
+        "id" : "59fpw1PC2LgFYS0Hmn4zm3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a4caebb1cc2f97773fc17e6f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a4caebb1cc2f97773fc17e6f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a4caebb1cc2f97773fc17e6f",
+          "width" : 64
+        } ],
+        "name" : "The Hollow",
+        "release_date" : "2011-04-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:59fpw1PC2LgFYS0Hmn4zm3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7cNNNhdJDrt3vgQjwSavNf",
+        "id" : "7cNNNhdJDrt3vgQjwSavNf",
+        "name" : "Memphis May Fire",
+        "type" : "artist",
+        "uri" : "spotify:artist:7cNNNhdJDrt3vgQjwSavNf"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 391560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USEK71113010"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2thJdQe9i3oXnipuE8PXn7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2thJdQe9i3oXnipuE8PXn7",
+      "id" : "2thJdQe9i3oXnipuE8PXn7",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Redeemed",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a6482868fa6a8926984e5fe1f0c6b0e9426b6ee7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:2thJdQe9i3oXnipuE8PXn7"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4SsMf4SjhOlSqEitcprgBt",
+          "id" : "4SsMf4SjhOlSqEitcprgBt",
+          "name" : "Big Daddy Weave",
+          "type" : "artist",
+          "uri" : "spotify:artist:4SsMf4SjhOlSqEitcprgBt"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5P2EQTgQ6BpQOjyoBxm15i",
+        "id" : "5P2EQTgQ6BpQOjyoBxm15i",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736254ce599b07d5ec84226925",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026254ce599b07d5ec84226925",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516254ce599b07d5ec84226925",
+          "width" : 64
+        } ],
+        "name" : "Love Come To Life: The Redeemed Edition",
+        "release_date" : "2014-03-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:5P2EQTgQ6BpQOjyoBxm15i"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4SsMf4SjhOlSqEitcprgBt",
+        "id" : "4SsMf4SjhOlSqEitcprgBt",
+        "name" : "Big Daddy Weave",
+        "type" : "artist",
+        "uri" : "spotify:artist:4SsMf4SjhOlSqEitcprgBt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 276573,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR61400047"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/31xnoGt2A4nPZjz58TKhcy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/31xnoGt2A4nPZjz58TKhcy",
+      "id" : "31xnoGt2A4nPZjz58TKhcy",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Redeemed - Acoustic Edition",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4fa6b9b629ff0b14ba3d6fa245e0874029f0258b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:31xnoGt2A4nPZjz58TKhcy"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Redeemed%21&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Redeemed%21&type=track&market=US&offset=0&limit=10",
+    "total" : 3164
+  }
+}

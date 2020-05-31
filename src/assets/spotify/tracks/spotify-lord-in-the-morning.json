@@ -1,0 +1,762 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Lord+In+the+Morning&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5XKuliaOmskgaVt1VQ6ljF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5XKuliaOmskgaVt1VQ6ljF",
+          "id" : "5XKuliaOmskgaVt1VQ6ljF",
+          "name" : "The McKameys",
+          "type" : "artist",
+          "uri" : "spotify:artist:5XKuliaOmskgaVt1VQ6ljF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4p3BjOtJoBVVy0SzAhx6po"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4p3BjOtJoBVVy0SzAhx6po",
+        "id" : "4p3BjOtJoBVVy0SzAhx6po",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739032ad7a58263978a87e1735",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029032ad7a58263978a87e1735",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519032ad7a58263978a87e1735",
+          "width" : 64
+        } ],
+        "name" : "Joy In The Morning",
+        "release_date" : "2011-03-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4p3BjOtJoBVVy0SzAhx6po"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5XKuliaOmskgaVt1VQ6ljF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5XKuliaOmskgaVt1VQ6ljF",
+        "id" : "5XKuliaOmskgaVt1VQ6ljF",
+        "name" : "The McKameys",
+        "type" : "artist",
+        "uri" : "spotify:artist:5XKuliaOmskgaVt1VQ6ljF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 164640,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USETB1001567"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Tfb8wAU73lm3xGAhiqlFF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Tfb8wAU73lm3xGAhiqlFF",
+      "id" : "3Tfb8wAU73lm3xGAhiqlFF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Glorify The Lord In The Fire",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fa5f3466fed844a073b16051bdabb8e323582f3c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3Tfb8wAU73lm3xGAhiqlFF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7D7aYHkgYaOWXS8GPy20pz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7D7aYHkgYaOWXS8GPy20pz",
+          "id" : "7D7aYHkgYaOWXS8GPy20pz",
+          "name" : "Sound of Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:7D7aYHkgYaOWXS8GPy20pz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/67LT9wWUW42t6VjpWNVrht"
+        },
+        "href" : "https://api.spotify.com/v1/albums/67LT9wWUW42t6VjpWNVrht",
+        "id" : "67LT9wWUW42t6VjpWNVrht",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fdca35ced983ea4c1ac578ff",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fdca35ced983ea4c1ac578ff",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fdca35ced983ea4c1ac578ff",
+          "width" : 64
+        } ],
+        "name" : "The Greatest Ever Hymns, Vol. 1",
+        "release_date" : "2014-03-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:67LT9wWUW42t6VjpWNVrht"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7D7aYHkgYaOWXS8GPy20pz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7D7aYHkgYaOWXS8GPy20pz",
+        "id" : "7D7aYHkgYaOWXS8GPy20pz",
+        "name" : "Sound of Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:7D7aYHkgYaOWXS8GPy20pz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 204935,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UK5JC1400183"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Zpp1D6pRfbrOc7IkdVoTS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Zpp1D6pRfbrOc7IkdVoTS",
+      "id" : "1Zpp1D6pRfbrOc7IkdVoTS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Danced in the Morning (Lord of the Dance)",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/112b2bca4dbe479e1fadf558a57fc529ab1eeb27?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1Zpp1D6pRfbrOc7IkdVoTS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+          },
+          "href" : "https://api.spotify.com/v1/artists/67OFzndMlzj7cDF2BqnwYe",
+          "id" : "67OFzndMlzj7cDF2BqnwYe",
+          "name" : "Maranatha! Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:67OFzndMlzj7cDF2BqnwYe"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5ZPKxsx3Gal71C4OZ6A9Ce"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5ZPKxsx3Gal71C4OZ6A9Ce",
+        "id" : "5ZPKxsx3Gal71C4OZ6A9Ce",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a81ebc66840f4e47b6033e34",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a81ebc66840f4e47b6033e34",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a81ebc66840f4e47b6033e34",
+          "width" : 64
+        } ],
+        "name" : "Praise 10 - O Lord, My Lord",
+        "release_date" : "1999-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:5ZPKxsx3Gal71C4OZ6A9Ce"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67OFzndMlzj7cDF2BqnwYe",
+        "id" : "67OFzndMlzj7cDF2BqnwYe",
+        "name" : "Maranatha! Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:67OFzndMlzj7cDF2BqnwYe"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 386973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMN20601156"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3jOOnWuzcN6FIY3uNjuTUS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3jOOnWuzcN6FIY3uNjuTUS",
+      "id" : "3jOOnWuzcN6FIY3uNjuTUS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In The Quiet Of The Morning Medley",
+      "popularity" : 15,
+      "preview_url" : null,
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:3jOOnWuzcN6FIY3uNjuTUS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0XOGhQGVg5HkdudMPgyqYj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0XOGhQGVg5HkdudMPgyqYj",
+          "id" : "0XOGhQGVg5HkdudMPgyqYj",
+          "name" : "George Beverly Shea",
+          "type" : "artist",
+          "uri" : "spotify:artist:0XOGhQGVg5HkdudMPgyqYj"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2rH7U7ncDf5EUmDdPlq7P3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2rH7U7ncDf5EUmDdPlq7P3",
+        "id" : "2rH7U7ncDf5EUmDdPlq7P3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730dbfda3c2bbf90374abd71e0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020dbfda3c2bbf90374abd71e0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510dbfda3c2bbf90374abd71e0",
+          "width" : 64
+        } ],
+        "name" : "Sings Hymns of Sunrise and Sunset",
+        "release_date" : "1964",
+        "release_date_precision" : "year",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2rH7U7ncDf5EUmDdPlq7P3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XOGhQGVg5HkdudMPgyqYj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XOGhQGVg5HkdudMPgyqYj",
+        "id" : "0XOGhQGVg5HkdudMPgyqYj",
+        "name" : "George Beverly Shea",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XOGhQGVg5HkdudMPgyqYj"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 97640,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRC11402934"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4uRSpNcJL5MJyVHPsS2QVC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4uRSpNcJL5MJyVHPsS2QVC",
+      "id" : "4uRSpNcJL5MJyVHPsS2QVC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lord, in the Morning",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d3677bb4d18a2018c6c0dc86e07573120ffc32ea?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4uRSpNcJL5MJyVHPsS2QVC"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1QLFmLSBnepekUnqmF8r4E"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1QLFmLSBnepekUnqmF8r4E",
+          "id" : "1QLFmLSBnepekUnqmF8r4E",
+          "name" : "Appalachian Express",
+          "type" : "artist",
+          "uri" : "spotify:artist:1QLFmLSBnepekUnqmF8r4E"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4lV4ZE5sCmZbSAsatp60oR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4lV4ZE5sCmZbSAsatp60oR",
+        "id" : "4lV4ZE5sCmZbSAsatp60oR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a2d09f2424833379e8b31470",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a2d09f2424833379e8b31470",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a2d09f2424833379e8b31470",
+          "width" : 64
+        } ],
+        "name" : "I'll Meet You In The Morning",
+        "release_date" : "2011-10-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4lV4ZE5sCmZbSAsatp60oR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1QLFmLSBnepekUnqmF8r4E"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1QLFmLSBnepekUnqmF8r4E",
+        "id" : "1QLFmLSBnepekUnqmF8r4E",
+        "name" : "Appalachian Express",
+        "type" : "artist",
+        "uri" : "spotify:artist:1QLFmLSBnepekUnqmF8r4E"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 146133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US37G0566403"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0AmKnm4t296GPIG9fH06Q9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0AmKnm4t296GPIG9fH06Q9",
+      "id" : "0AmKnm4t296GPIG9fH06Q9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lord Lead Me On",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a5e8c3e2666f99134d0febccd603f146dea9174a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0AmKnm4t296GPIG9fH06Q9"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0le2KikipMVZ3clwSMkz42"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0le2KikipMVZ3clwSMkz42",
+          "id" : "0le2KikipMVZ3clwSMkz42",
+          "name" : "The Lords Of Easton",
+          "type" : "artist",
+          "uri" : "spotify:artist:0le2KikipMVZ3clwSMkz42"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3wM8FDSMcU1VI8I2G7jxJ0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3wM8FDSMcU1VI8I2G7jxJ0",
+          "id" : "3wM8FDSMcU1VI8I2G7jxJ0",
+          "name" : "Stan Medley",
+          "type" : "artist",
+          "uri" : "spotify:artist:3wM8FDSMcU1VI8I2G7jxJ0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/71fFyKQCgBtRUg8EfHcOH4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/71fFyKQCgBtRUg8EfHcOH4",
+        "id" : "71fFyKQCgBtRUg8EfHcOH4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27305114de17532332b39d6b683",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0205114de17532332b39d6b683",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485105114de17532332b39d6b683",
+          "width" : 64
+        } ],
+        "name" : "Love",
+        "release_date" : "2018-02-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 2,
+        "type" : "album",
+        "uri" : "spotify:album:71fFyKQCgBtRUg8EfHcOH4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0le2KikipMVZ3clwSMkz42"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0le2KikipMVZ3clwSMkz42",
+        "id" : "0le2KikipMVZ3clwSMkz42",
+        "name" : "The Lords Of Easton",
+        "type" : "artist",
+        "uri" : "spotify:artist:0le2KikipMVZ3clwSMkz42"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3wM8FDSMcU1VI8I2G7jxJ0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3wM8FDSMcU1VI8I2G7jxJ0",
+        "id" : "3wM8FDSMcU1VI8I2G7jxJ0",
+        "name" : "Stan Medley",
+        "type" : "artist",
+        "uri" : "spotify:artist:3wM8FDSMcU1VI8I2G7jxJ0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 206500,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACU1605041"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5NwXohQ8TOtzHkw7Zh7srJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5NwXohQ8TOtzHkw7Zh7srJ",
+      "id" : "5NwXohQ8TOtzHkw7Zh7srJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Wedding Song Duet (In the Morning Light)",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3a6314188f136a921c05cb9a4f9badeb8e0b191f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5NwXohQ8TOtzHkw7Zh7srJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1whO7vrkDnrEtF86wcXA89"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1whO7vrkDnrEtF86wcXA89",
+          "id" : "1whO7vrkDnrEtF86wcXA89",
+          "name" : "The Benedictine Monks of Worth Abbey",
+          "type" : "artist",
+          "uri" : "spotify:artist:1whO7vrkDnrEtF86wcXA89"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6w4jGBfwKrMyBau5wvhygj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6w4jGBfwKrMyBau5wvhygj",
+          "id" : "6w4jGBfwKrMyBau5wvhygj",
+          "name" : "Dom Philip Gaisford",
+          "type" : "artist",
+          "uri" : "spotify:artist:6w4jGBfwKrMyBau5wvhygj"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3iEno9rmxdWmMCAwMrmpqa"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3iEno9rmxdWmMCAwMrmpqa",
+          "id" : "3iEno9rmxdWmMCAwMrmpqa",
+          "name" : "Alistair Warwick",
+          "type" : "artist",
+          "uri" : "spotify:artist:3iEno9rmxdWmMCAwMrmpqa"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4yeyrya3IBzm6yzM7dItzY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4yeyrya3IBzm6yzM7dItzY",
+        "id" : "4yeyrya3IBzm6yzM7dItzY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a1ac7458d77c210d946c2274",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a1ac7458d77c210d946c2274",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a1ac7458d77c210d946c2274",
+          "width" : 64
+        } ],
+        "name" : "Chants for St. Benedict: Sung in English by the Benedictine Monks of Worth Abbey, Sussex",
+        "release_date" : "1995-04-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 40,
+        "type" : "album",
+        "uri" : "spotify:album:4yeyrya3IBzm6yzM7dItzY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1whO7vrkDnrEtF86wcXA89"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1whO7vrkDnrEtF86wcXA89",
+        "id" : "1whO7vrkDnrEtF86wcXA89",
+        "name" : "The Benedictine Monks of Worth Abbey",
+        "type" : "artist",
+        "uri" : "spotify:artist:1whO7vrkDnrEtF86wcXA89"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3iEno9rmxdWmMCAwMrmpqa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3iEno9rmxdWmMCAwMrmpqa",
+        "id" : "3iEno9rmxdWmMCAwMrmpqa",
+        "name" : "Alistair Warwick",
+        "type" : "artist",
+        "uri" : "spotify:artist:3iEno9rmxdWmMCAwMrmpqa"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBYCG9517216"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0yYIBjvonG2NcbD9C9TmDq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0yYIBjvonG2NcbD9C9TmDq",
+      "id" : "0yYIBjvonG2NcbD9C9TmDq",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Morning Prayer: VII. Intercessions and the Lords Prayer",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f9036c735036a91f9175ba350f23496b862a53a2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:0yYIBjvonG2NcbD9C9TmDq"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/17miutE3LMgwHppEEKwsGx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/17miutE3LMgwHppEEKwsGx",
+          "id" : "17miutE3LMgwHppEEKwsGx",
+          "name" : "Maddy Prior",
+          "type" : "artist",
+          "uri" : "spotify:artist:17miutE3LMgwHppEEKwsGx"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3LR4qEzWwzaqqcve4mU8s0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3LR4qEzWwzaqqcve4mU8s0",
+          "id" : "3LR4qEzWwzaqqcve4mU8s0",
+          "name" : "The Carnival Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:3LR4qEzWwzaqqcve4mU8s0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5lpUyqIqeHG5rCvddJZXW1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5lpUyqIqeHG5rCvddJZXW1",
+        "id" : "5lpUyqIqeHG5rCvddJZXW1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d3123cfa4804120481fa8f54",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d3123cfa4804120481fa8f54",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d3123cfa4804120481fa8f54",
+          "width" : 64
+        } ],
+        "name" : "Sing Lustily & With Good Courage",
+        "release_date" : "1990",
+        "release_date_precision" : "year",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:5lpUyqIqeHG5rCvddJZXW1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/17miutE3LMgwHppEEKwsGx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/17miutE3LMgwHppEEKwsGx",
+        "id" : "17miutE3LMgwHppEEKwsGx",
+        "name" : "Maddy Prior",
+        "type" : "artist",
+        "uri" : "spotify:artist:17miutE3LMgwHppEEKwsGx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3LR4qEzWwzaqqcve4mU8s0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3LR4qEzWwzaqqcve4mU8s0",
+        "id" : "3LR4qEzWwzaqqcve4mU8s0",
+        "name" : "The Carnival Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:3LR4qEzWwzaqqcve4mU8s0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 165866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAJX9038312"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4sMD5UeolEtFjpY1iZLQXo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4sMD5UeolEtFjpY1iZLQXo",
+      "id" : "4sMD5UeolEtFjpY1iZLQXo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lord, In the Morning (Isaac Watts)",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/62518f98325def046c14e0f3aa183e78f10dad7a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:4sMD5UeolEtFjpY1iZLQXo"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zHbSdNHOQ4L3oLOEe3OTN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zHbSdNHOQ4L3oLOEe3OTN",
+          "id" : "5zHbSdNHOQ4L3oLOEe3OTN",
+          "name" : "Christian Instrumental Guitar Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zHbSdNHOQ4L3oLOEe3OTN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1ijkmaiCzEh3mRG0GMTGXj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1ijkmaiCzEh3mRG0GMTGXj",
+        "id" : "1ijkmaiCzEh3mRG0GMTGXj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736a9ca780931a6d0416adeba0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026a9ca780931a6d0416adeba0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516a9ca780931a6d0416adeba0",
+          "width" : 64
+        } ],
+        "name" : "Amen (Christian Instrumentals - The Lord's Music on Guitar, Peaceful Background Religious Songs, Smooth Jazz Hymns)",
+        "release_date" : "2018-12-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:1ijkmaiCzEh3mRG0GMTGXj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zHbSdNHOQ4L3oLOEe3OTN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zHbSdNHOQ4L3oLOEe3OTN",
+        "id" : "5zHbSdNHOQ4L3oLOEe3OTN",
+        "name" : "Christian Instrumental Guitar Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zHbSdNHOQ4L3oLOEe3OTN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 205306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ22B1623332"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7idbEcp81Gw3F5jyeSMp8u"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7idbEcp81Gw3F5jyeSMp8u",
+      "id" : "7idbEcp81Gw3F5jyeSMp8u",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Morning Vesper",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8278a327aec98bdc9672d7fb38c7526082b2e669?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:7idbEcp81Gw3F5jyeSMp8u"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/26UFu3K2GktxUiTqTwZJx5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/26UFu3K2GktxUiTqTwZJx5",
+          "id" : "26UFu3K2GktxUiTqTwZJx5",
+          "name" : "Derric Johnson's Vocal Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:26UFu3K2GktxUiTqTwZJx5"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2GGO6UMflNI6x17stz6A24"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2GGO6UMflNI6x17stz6A24",
+          "id" : "2GGO6UMflNI6x17stz6A24",
+          "name" : "The Liberty Voices",
+          "type" : "artist",
+          "uri" : "spotify:artist:2GGO6UMflNI6x17stz6A24"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1g3w3FdvtYZVwuFSiweIHv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1g3w3FdvtYZVwuFSiweIHv",
+        "id" : "1g3w3FdvtYZVwuFSiweIHv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27305e191cfc5213cef2a74b99c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0205e191cfc5213cef2a74b99c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485105e191cfc5213cef2a74b99c",
+          "width" : 64
+        } ],
+        "name" : "A Cappella Americana",
+        "release_date" : "2018",
+        "release_date_precision" : "year",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:1g3w3FdvtYZVwuFSiweIHv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/26UFu3K2GktxUiTqTwZJx5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/26UFu3K2GktxUiTqTwZJx5",
+        "id" : "26UFu3K2GktxUiTqTwZJx5",
+        "name" : "Derric Johnson's Vocal Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:26UFu3K2GktxUiTqTwZJx5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2GGO6UMflNI6x17stz6A24"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2GGO6UMflNI6x17stz6A24",
+        "id" : "2GGO6UMflNI6x17stz6A24",
+        "name" : "The Liberty Voices",
+        "type" : "artist",
+        "uri" : "spotify:artist:2GGO6UMflNI6x17stz6A24"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 327133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCEU1897105"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5ly3A0FaTOVD5m96jVSoaz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5ly3A0FaTOVD5m96jVSoaz",
+      "id" : "5ly3A0FaTOVD5m96jVSoaz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Songs of the South: In That Great Getting up Morning / Motherless Child / Soon Ah Will Be Done / All My Trials Lord / Nobody Knows De Trouble I've Seen / Deep River / Ride the Chariot",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/92c3a015e86b4ae455f65508af85b33744c6d714?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:5ly3A0FaTOVD5m96jVSoaz"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Lord+In+the+Morning&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Lord+In+the+Morning&type=track&market=US&offset=0&limit=10",
+    "total" : 234
+  }
+}

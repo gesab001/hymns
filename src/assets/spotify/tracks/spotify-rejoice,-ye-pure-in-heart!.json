@@ -1,0 +1,753 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Rejoice%2C+Ye+Pure+in+Heart%21&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/388PL1NRNOBkw0DcuuKpDf"
+          },
+          "href" : "https://api.spotify.com/v1/artists/388PL1NRNOBkw0DcuuKpDf",
+          "id" : "388PL1NRNOBkw0DcuuKpDf",
+          "name" : "Haven",
+          "type" : "artist",
+          "uri" : "spotify:artist:388PL1NRNOBkw0DcuuKpDf"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4xbpnAnHNGUsYFNWmsOCDk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4xbpnAnHNGUsYFNWmsOCDk",
+        "id" : "4xbpnAnHNGUsYFNWmsOCDk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b4bb6c3b8eff456117a60542",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b4bb6c3b8eff456117a60542",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b4bb6c3b8eff456117a60542",
+          "width" : 64
+        } ],
+        "name" : "A Cappella",
+        "release_date" : "2004-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:4xbpnAnHNGUsYFNWmsOCDk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/388PL1NRNOBkw0DcuuKpDf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/388PL1NRNOBkw0DcuuKpDf",
+        "id" : "388PL1NRNOBkw0DcuuKpDf",
+        "name" : "Haven",
+        "type" : "artist",
+        "uri" : "spotify:artist:388PL1NRNOBkw0DcuuKpDf"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 100266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh0946691"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1G9e7yjou1C6jaUxyCg0EY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1G9e7yjou1C6jaUxyCg0EY",
+      "id" : "1G9e7yjou1C6jaUxyCg0EY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice Ye Pure in Heart",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/406cc6432702d2495715073392105dbfcd6c52c1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:1G9e7yjou1C6jaUxyCg0EY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7bOkvwxa2SjdbvMvNawSMZ",
+          "id" : "7bOkvwxa2SjdbvMvNawSMZ",
+          "name" : "Westminster Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:7bOkvwxa2SjdbvMvNawSMZ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/78gx7Zd63vPFpidsfVDBRO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/78gx7Zd63vPFpidsfVDBRO",
+          "id" : "78gx7Zd63vPFpidsfVDBRO",
+          "name" : "Joan Lippincott",
+          "type" : "artist",
+          "uri" : "spotify:artist:78gx7Zd63vPFpidsfVDBRO"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3Lr9r8AbDMTJ7aZRBYJPYy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3Lr9r8AbDMTJ7aZRBYJPYy",
+          "id" : "3Lr9r8AbDMTJ7aZRBYJPYy",
+          "name" : "Ronald Arnatt",
+          "type" : "artist",
+          "uri" : "spotify:artist:3Lr9r8AbDMTJ7aZRBYJPYy"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ZpmI3HbJwJV06Ql5g9B5z"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ZpmI3HbJwJV06Ql5g9B5z",
+          "id" : "5ZpmI3HbJwJV06Ql5g9B5z",
+          "name" : "Joseph Flummerfelt",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ZpmI3HbJwJV06Ql5g9B5z"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4B6TFDMn1dihSt6pJ3cugW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4B6TFDMn1dihSt6pJ3cugW",
+        "id" : "4B6TFDMn1dihSt6pJ3cugW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738a69591826adb5733dd78f9c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028a69591826adb5733dd78f9c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518a69591826adb5733dd78f9c",
+          "width" : 64
+        } ],
+        "name" : "Westminster Choir: Favorite Hymns and Anthems",
+        "release_date" : "2013-09-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:4B6TFDMn1dihSt6pJ3cugW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1U5zgr455OGyIkLNXvDdrf",
+        "id" : "1U5zgr455OGyIkLNXvDdrf",
+        "name" : "Traditional",
+        "type" : "artist",
+        "uri" : "spotify:artist:1U5zgr455OGyIkLNXvDdrf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7bOkvwxa2SjdbvMvNawSMZ",
+        "id" : "7bOkvwxa2SjdbvMvNawSMZ",
+        "name" : "Westminster Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:7bOkvwxa2SjdbvMvNawSMZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78gx7Zd63vPFpidsfVDBRO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78gx7Zd63vPFpidsfVDBRO",
+        "id" : "78gx7Zd63vPFpidsfVDBRO",
+        "name" : "Joan Lippincott",
+        "type" : "artist",
+        "uri" : "spotify:artist:78gx7Zd63vPFpidsfVDBRO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Lr9r8AbDMTJ7aZRBYJPYy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Lr9r8AbDMTJ7aZRBYJPYy",
+        "id" : "3Lr9r8AbDMTJ7aZRBYJPYy",
+        "name" : "Ronald Arnatt",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Lr9r8AbDMTJ7aZRBYJPYy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ZpmI3HbJwJV06Ql5g9B5z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ZpmI3HbJwJV06Ql5g9B5z",
+        "id" : "5ZpmI3HbJwJV06Ql5g9B5z",
+        "name" : "Joseph Flummerfelt",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ZpmI3HbJwJV06Ql5g9B5z"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 153733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USB8U1064379"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6mm2jlZ61Dn6uwFSTRSeRK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6mm2jlZ61Dn6uwFSTRSeRK",
+      "id" : "6mm2jlZ61Dn6uwFSTRSeRK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice, Ye Pure in Heart",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f7faed0e5e734bfceca38680bcfa05b7eda05fec?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:6mm2jlZ61Dn6uwFSTRSeRK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3HJKdfCMxTrirNbb7cykOm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3HJKdfCMxTrirNbb7cykOm",
+          "id" : "3HJKdfCMxTrirNbb7cykOm",
+          "name" : "The Festival Choir and Hosanna Chorus",
+          "type" : "artist",
+          "uri" : "spotify:artist:3HJKdfCMxTrirNbb7cykOm"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5aHE1EAT1F5E1kdvWCqObF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5aHE1EAT1F5E1kdvWCqObF",
+          "id" : "5aHE1EAT1F5E1kdvWCqObF",
+          "name" : "Steven Anderson",
+          "type" : "artist",
+          "uri" : "spotify:artist:5aHE1EAT1F5E1kdvWCqObF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1XtPIbVasyvkls70aJEIq9"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1XtPIbVasyvkls70aJEIq9",
+        "id" : "1XtPIbVasyvkls70aJEIq9",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27377e2fcd33bc04314282b0a0e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0277e2fcd33bc04314282b0a0e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485177e2fcd33bc04314282b0a0e",
+          "width" : 64
+        } ],
+        "name" : "Thomas Kinkade: Sunday Worship",
+        "release_date" : "2005-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 100,
+        "type" : "album",
+        "uri" : "spotify:album:1XtPIbVasyvkls70aJEIq9"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3HJKdfCMxTrirNbb7cykOm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3HJKdfCMxTrirNbb7cykOm",
+        "id" : "3HJKdfCMxTrirNbb7cykOm",
+        "name" : "The Festival Choir and Hosanna Chorus",
+        "type" : "artist",
+        "uri" : "spotify:artist:3HJKdfCMxTrirNbb7cykOm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 73386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAM460700986"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1ERJIFArr5nPK0NmPLw83i"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1ERJIFArr5nPK0NmPLw83i",
+      "id" : "1ERJIFArr5nPK0NmPLw83i",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice Ye Pure in Heart",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/83acb96fc93123393174ebe9be1652dd9a9b11c6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 96,
+      "type" : "track",
+      "uri" : "spotify:track:1ERJIFArr5nPK0NmPLw83i"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7sM3Vaa1bJOb9PEmhfWIHx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7sM3Vaa1bJOb9PEmhfWIHx",
+          "id" : "7sM3Vaa1bJOb9PEmhfWIHx",
+          "name" : "Jackson A Taylor",
+          "type" : "artist",
+          "uri" : "spotify:artist:7sM3Vaa1bJOb9PEmhfWIHx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2svvajMvze7AlTrxmQqSJ6"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2svvajMvze7AlTrxmQqSJ6",
+        "id" : "2svvajMvze7AlTrxmQqSJ6",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273400f9436def4abde26489e1e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02400f9436def4abde26489e1e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851400f9436def4abde26489e1e",
+          "width" : 64
+        } ],
+        "name" : "Rejoice, Ye Pure In Heart",
+        "release_date" : "2011-09-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:2svvajMvze7AlTrxmQqSJ6"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7sM3Vaa1bJOb9PEmhfWIHx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7sM3Vaa1bJOb9PEmhfWIHx",
+        "id" : "7sM3Vaa1bJOb9PEmhfWIHx",
+        "name" : "Jackson A Taylor",
+        "type" : "artist",
+        "uri" : "spotify:artist:7sM3Vaa1bJOb9PEmhfWIHx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 86177,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USJ3V1130098"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1qKl6xA6kObdiP83ZGAIZt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1qKl6xA6kObdiP83ZGAIZt",
+      "id" : "1qKl6xA6kObdiP83ZGAIZt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice, Ye Pure In Heart",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f04eaa16db97d07d2e6c0980ba7f016949a4772f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1qKl6xA6kObdiP83ZGAIZt"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3jiQ4t07tyKTNkbp25Znjn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3jiQ4t07tyKTNkbp25Znjn",
+          "id" : "3jiQ4t07tyKTNkbp25Znjn",
+          "name" : "The Joslin Grove Choral Society",
+          "type" : "artist",
+          "uri" : "spotify:artist:3jiQ4t07tyKTNkbp25Znjn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7toqxzCZtUwCDohqVRrIHl"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7toqxzCZtUwCDohqVRrIHl",
+        "id" : "7toqxzCZtUwCDohqVRrIHl",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273eaeded5cc0caab0566df9917",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02eaeded5cc0caab0566df9917",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851eaeded5cc0caab0566df9917",
+          "width" : 64
+        } ],
+        "name" : "50 Hymns and Praise Favorites",
+        "release_date" : "2004-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 50,
+        "type" : "album",
+        "uri" : "spotify:album:7toqxzCZtUwCDohqVRrIHl"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jiQ4t07tyKTNkbp25Znjn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jiQ4t07tyKTNkbp25Znjn",
+        "id" : "3jiQ4t07tyKTNkbp25Znjn",
+        "name" : "The Joslin Grove Choral Society",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jiQ4t07tyKTNkbp25Znjn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 104693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAM460601679"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4XKvLKwbZss5qiC7qtYd1o"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4XKvLKwbZss5qiC7qtYd1o",
+      "id" : "4XKvLKwbZss5qiC7qtYd1o",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice Ye Pure in Heart",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8cea88cfcc0c6a5ce3662c2c565530a4222e843b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:4XKvLKwbZss5qiC7qtYd1o"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3jiQ4t07tyKTNkbp25Znjn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3jiQ4t07tyKTNkbp25Znjn",
+          "id" : "3jiQ4t07tyKTNkbp25Znjn",
+          "name" : "The Joslin Grove Choral Society",
+          "type" : "artist",
+          "uri" : "spotify:artist:3jiQ4t07tyKTNkbp25Znjn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3FGCzFqBvqkDejNkKmGjK2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3FGCzFqBvqkDejNkKmGjK2",
+        "id" : "3FGCzFqBvqkDejNkKmGjK2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737f43a126ab36d80c3e018c64",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027f43a126ab36d80c3e018c64",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517f43a126ab36d80c3e018c64",
+          "width" : 64
+        } ],
+        "name" : "Inspirational Thanksgiving Dinner Music",
+        "release_date" : "2013-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 38,
+        "type" : "album",
+        "uri" : "spotify:album:3FGCzFqBvqkDejNkKmGjK2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jiQ4t07tyKTNkbp25Znjn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jiQ4t07tyKTNkbp25Znjn",
+        "id" : "3jiQ4t07tyKTNkbp25Znjn",
+        "name" : "The Joslin Grove Choral Society",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jiQ4t07tyKTNkbp25Znjn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 104693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAM460601679"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4fxsSw4H5h3I9PEySzs5SV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4fxsSw4H5h3I9PEySzs5SV",
+      "id" : "4fxsSw4H5h3I9PEySzs5SV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice Ye Pure in Heart",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8cea88cfcc0c6a5ce3662c2c565530a4222e843b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 34,
+      "type" : "track",
+      "uri" : "spotify:track:4fxsSw4H5h3I9PEySzs5SV"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3jiQ4t07tyKTNkbp25Znjn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3jiQ4t07tyKTNkbp25Znjn",
+          "id" : "3jiQ4t07tyKTNkbp25Znjn",
+          "name" : "The Joslin Grove Choral Society",
+          "type" : "artist",
+          "uri" : "spotify:artist:3jiQ4t07tyKTNkbp25Znjn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6DGVjZOHH6JQTJlzyikPys"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6DGVjZOHH6JQTJlzyikPys",
+        "id" : "6DGVjZOHH6JQTJlzyikPys",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736e0e4a406589009bd7cc2ae5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026e0e4a406589009bd7cc2ae5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516e0e4a406589009bd7cc2ae5",
+          "width" : 64
+        } ],
+        "name" : "100 Hymnen und Loblieder",
+        "release_date" : "2003-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 100,
+        "type" : "album",
+        "uri" : "spotify:album:6DGVjZOHH6JQTJlzyikPys"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jiQ4t07tyKTNkbp25Znjn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jiQ4t07tyKTNkbp25Znjn",
+        "id" : "3jiQ4t07tyKTNkbp25Znjn",
+        "name" : "The Joslin Grove Choral Society",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jiQ4t07tyKTNkbp25Znjn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 104693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAM460601679"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6cGRNJv7Ya8DcNBiMK0OY6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6cGRNJv7Ya8DcNBiMK0OY6",
+      "id" : "6cGRNJv7Ya8DcNBiMK0OY6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice Ye Pure in Heart",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8cea88cfcc0c6a5ce3662c2c565530a4222e843b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:6cGRNJv7Ya8DcNBiMK0OY6"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/02P1DMfeONaY7APNLccb5u"
+          },
+          "href" : "https://api.spotify.com/v1/artists/02P1DMfeONaY7APNLccb5u",
+          "id" : "02P1DMfeONaY7APNLccb5u",
+          "name" : "Cantorei",
+          "type" : "artist",
+          "uri" : "spotify:artist:02P1DMfeONaY7APNLccb5u"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1ePMLqri2BBt52WTEDwEUk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1ePMLqri2BBt52WTEDwEUk",
+        "id" : "1ePMLqri2BBt52WTEDwEUk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a7e390be7452893004049e30",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a7e390be7452893004049e30",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a7e390be7452893004049e30",
+          "width" : 64
+        } ],
+        "name" : "Songs of Grateful Praise",
+        "release_date" : "2010-07-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:1ePMLqri2BBt52WTEDwEUk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02P1DMfeONaY7APNLccb5u"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02P1DMfeONaY7APNLccb5u",
+        "id" : "02P1DMfeONaY7APNLccb5u",
+        "name" : "Cantorei",
+        "type" : "artist",
+        "uri" : "spotify:artist:02P1DMfeONaY7APNLccb5u"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 216466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21099853"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1HCHwDWnGbaSgjy6Q8kXsK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1HCHwDWnGbaSgjy6Q8kXsK",
+      "id" : "1HCHwDWnGbaSgjy6Q8kXsK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice, Ye Pure In Heart",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2e2fe529ac8de3bfd757c0d798d69febf87e6a72?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:1HCHwDWnGbaSgjy6Q8kXsK"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4l8uVWMVAnVKtOwgIS3rBL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4l8uVWMVAnVKtOwgIS3rBL",
+        "id" : "4l8uVWMVAnVKtOwgIS3rBL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27316011a20e47126eacbc46149",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0216011a20e47126eacbc46149",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485116011a20e47126eacbc46149",
+          "width" : 64
+        } ],
+        "name" : "100 Best Loved Hymns, Vol. 2",
+        "release_date" : "2010-03-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:4l8uVWMVAnVKtOwgIS3rBL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VP3HYWDx6M9nLZKBloebs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VP3HYWDx6M9nLZKBloebs",
+        "id" : "4VP3HYWDx6M9nLZKBloebs",
+        "name" : "Countdown Orchestra and Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VP3HYWDx6M9nLZKBloebs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 106160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAM460601679"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Ni77F0rxBa9PpbapoyKKq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Ni77F0rxBa9PpbapoyKKq",
+      "id" : "2Ni77F0rxBa9PpbapoyKKq",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice Ye Pure In Heart",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/beb5da58f867b4fce5f7f89469d6e1fc6b209452?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:2Ni77F0rxBa9PpbapoyKKq"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1PCJfBD2SVVE8cGqpg1pC9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1PCJfBD2SVVE8cGqpg1pC9",
+          "id" : "1PCJfBD2SVVE8cGqpg1pC9",
+          "name" : "Hal Wright",
+          "type" : "artist",
+          "uri" : "spotify:artist:1PCJfBD2SVVE8cGqpg1pC9"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2B7jO10c6i3JTyTrY0euLa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2B7jO10c6i3JTyTrY0euLa",
+        "id" : "2B7jO10c6i3JTyTrY0euLa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fe70bf1e60e63bcf49278b24",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fe70bf1e60e63bcf49278b24",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fe70bf1e60e63bcf49278b24",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Faith",
+        "release_date" : "2020-04-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:2B7jO10c6i3JTyTrY0euLa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PCJfBD2SVVE8cGqpg1pC9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PCJfBD2SVVE8cGqpg1pC9",
+        "id" : "1PCJfBD2SVVE8cGqpg1pC9",
+        "name" : "Hal Wright",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PCJfBD2SVVE8cGqpg1pC9"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 94440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US6PD1903573"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/42ztrPJyEdFfVawZbAKeF3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/42ztrPJyEdFfVawZbAKeF3",
+      "id" : "42ztrPJyEdFfVawZbAKeF3",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rejoice, Ye Pure In Heart",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/37c74a9af1571f9eb926898ed688a9a7405a785e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:42ztrPJyEdFfVawZbAKeF3"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Rejoice%2C+Ye+Pure+in+Heart%21&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Rejoice%2C+Ye+Pure+in+Heart%21&type=track&market=US&offset=0&limit=10",
+    "total" : 52
+  }
+}

@@ -1,0 +1,834 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Come+Thou+Almighty+King&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1U5zgr455OGyIkLNXvDdrf",
+          "id" : "1U5zgr455OGyIkLNXvDdrf",
+          "name" : "Traditional",
+          "type" : "artist",
+          "uri" : "spotify:artist:1U5zgr455OGyIkLNXvDdrf"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2igGYNAMmRUQ4nUfy0NGtN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2igGYNAMmRUQ4nUfy0NGtN",
+          "id" : "2igGYNAMmRUQ4nUfy0NGtN",
+          "name" : "London Philharmonic Concert Society",
+          "type" : "artist",
+          "uri" : "spotify:artist:2igGYNAMmRUQ4nUfy0NGtN"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0WIY8dfLqdsgKUKngzcjCm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0WIY8dfLqdsgKUKngzcjCm",
+          "id" : "0WIY8dfLqdsgKUKngzcjCm",
+          "name" : "John Alldis",
+          "type" : "artist",
+          "uri" : "spotify:artist:0WIY8dfLqdsgKUKngzcjCm"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3PfJE6ebCbCHeuqO4BfNeA",
+          "id" : "3PfJE6ebCbCHeuqO4BfNeA",
+          "name" : "London Philharmonic Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:3PfJE6ebCbCHeuqO4BfNeA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7vJBLM3TaskMnpCV49NLpO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7vJBLM3TaskMnpCV49NLpO",
+        "id" : "7vJBLM3TaskMnpCV49NLpO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732aa9eea501b86f2d5f8b0b45",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022aa9eea501b86f2d5f8b0b45",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512aa9eea501b86f2d5f8b0b45",
+          "width" : 64
+        } ],
+        "name" : "Hymns Triumphant",
+        "release_date" : "1988-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 39,
+        "type" : "album",
+        "uri" : "spotify:album:7vJBLM3TaskMnpCV49NLpO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5fYFaGbNGtEW9Ip1oCMHyH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5fYFaGbNGtEW9Ip1oCMHyH",
+        "id" : "5fYFaGbNGtEW9Ip1oCMHyH",
+        "name" : "Lee Holdridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:5fYFaGbNGtEW9Ip1oCMHyH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1U5zgr455OGyIkLNXvDdrf",
+        "id" : "1U5zgr455OGyIkLNXvDdrf",
+        "name" : "Traditional",
+        "type" : "artist",
+        "uri" : "spotify:artist:1U5zgr455OGyIkLNXvDdrf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GUhTBqD7CAbbIjjBd0SdN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GUhTBqD7CAbbIjjBd0SdN",
+        "id" : "7GUhTBqD7CAbbIjjBd0SdN",
+        "name" : "London Philharmonic Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GUhTBqD7CAbbIjjBd0SdN"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WIY8dfLqdsgKUKngzcjCm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WIY8dfLqdsgKUKngzcjCm",
+        "id" : "0WIY8dfLqdsgKUKngzcjCm",
+        "name" : "John Alldis",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WIY8dfLqdsgKUKngzcjCm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Ek1WGW7WeyDoxsZiu0AAd",
+        "id" : "2Ek1WGW7WeyDoxsZiu0AAd",
+        "name" : "National Philharmonic Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Ek1WGW7WeyDoxsZiu0AAd"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 42533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP38847099"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2NR7XbjH0I0N5dt1g8wCn1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2NR7XbjH0I0N5dt1g8wCn1",
+      "id" : "2NR7XbjH0I0N5dt1g8wCn1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come Thou Almighty King",
+      "popularity" : 13,
+      "preview_url" : null,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:2NR7XbjH0I0N5dt1g8wCn1"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2DTvpTHC0r3HvD6GW4BjSp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2DTvpTHC0r3HvD6GW4BjSp",
+          "id" : "2DTvpTHC0r3HvD6GW4BjSp",
+          "name" : "Advent Birmingham",
+          "type" : "artist",
+          "uri" : "spotify:artist:2DTvpTHC0r3HvD6GW4BjSp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0qHno9rzk7aLAE4KOR57Ah"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0qHno9rzk7aLAE4KOR57Ah",
+        "id" : "0qHno9rzk7aLAE4KOR57Ah",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733b59af411b75fc2aae3451c4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023b59af411b75fc2aae3451c4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513b59af411b75fc2aae3451c4",
+          "width" : 64
+        } ],
+        "name" : "Our Strivings Cease",
+        "release_date" : "2018-11-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:0qHno9rzk7aLAE4KOR57Ah"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2DTvpTHC0r3HvD6GW4BjSp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2DTvpTHC0r3HvD6GW4BjSp",
+        "id" : "2DTvpTHC0r3HvD6GW4BjSp",
+        "name" : "Advent Birmingham",
+        "type" : "artist",
+        "uri" : "spotify:artist:2DTvpTHC0r3HvD6GW4BjSp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Xyw4UTQP5aG5HPmxCwW3v"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Xyw4UTQP5aG5HPmxCwW3v",
+        "id" : "6Xyw4UTQP5aG5HPmxCwW3v",
+        "name" : "Sarah Hydinger",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Xyw4UTQP5aG5HPmxCwW3v"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 259417,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADY1808354"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/06oGsFgmCoiVf88Yg8kjX5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/06oGsFgmCoiVf88Yg8kjX5",
+      "id" : "06oGsFgmCoiVf88Yg8kjX5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come Thou Almighty King",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3eba5be084ac8c5b194e4b8724af8aa0c6b08ec1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:06oGsFgmCoiVf88Yg8kjX5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5R76YG5aRtZcXohk9NUju2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5R76YG5aRtZcXohk9NUju2",
+          "id" : "5R76YG5aRtZcXohk9NUju2",
+          "name" : "Rev. Timothy Wright",
+          "type" : "artist",
+          "uri" : "spotify:artist:5R76YG5aRtZcXohk9NUju2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6RPRUv1LlUzQgrhTC05X6x"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6RPRUv1LlUzQgrhTC05X6x",
+        "id" : "6RPRUv1LlUzQgrhTC05X6x",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730e6bf5dec3f6fdff4dc7c3d5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020e6bf5dec3f6fdff4dc7c3d5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510e6bf5dec3f6fdff4dc7c3d5",
+          "width" : 64
+        } ],
+        "name" : "The Godfather of Gospel",
+        "release_date" : "2009-05-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:6RPRUv1LlUzQgrhTC05X6x"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R76YG5aRtZcXohk9NUju2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R76YG5aRtZcXohk9NUju2",
+        "id" : "5R76YG5aRtZcXohk9NUju2",
+        "name" : "Rev. Timothy Wright",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R76YG5aRtZcXohk9NUju2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 422013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US1SR0914126"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5oXlU3gXVu99ZsQnI44Zfp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5oXlU3gXVu99ZsQnI44Zfp",
+      "id" : "5oXlU3gXVu99ZsQnI44Zfp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come Thou Almighty King",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/19c99e7efe39911913c1980168bc6f1dc86eb3ef?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:5oXlU3gXVu99ZsQnI44Zfp"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ZKBQyNLXQd1VfNf2oH5yF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ZKBQyNLXQd1VfNf2oH5yF",
+          "id" : "5ZKBQyNLXQd1VfNf2oH5yF",
+          "name" : "Phillip Keveren",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ZKBQyNLXQd1VfNf2oH5yF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5FUJ54n4YqA1lla9o4MfP0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5FUJ54n4YqA1lla9o4MfP0",
+        "id" : "5FUJ54n4YqA1lla9o4MfP0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737a19f4545e3e4c4d42e4b80e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027a19f4545e3e4c4d42e4b80e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517a19f4545e3e4c4d42e4b80e",
+          "width" : 64
+        } ],
+        "name" : "Reflections",
+        "release_date" : "2003",
+        "release_date_precision" : "year",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:5FUJ54n4YqA1lla9o4MfP0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ZKBQyNLXQd1VfNf2oH5yF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ZKBQyNLXQd1VfNf2oH5yF",
+        "id" : "5ZKBQyNLXQd1VfNf2oH5yF",
+        "name" : "Phillip Keveren",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ZKBQyNLXQd1VfNf2oH5yF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 120706,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm80610134"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0Zva3okE78IV6k4le4k0FF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0Zva3okE78IV6k4le4k0FF",
+      "id" : "0Zva3okE78IV6k4le4k0FF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, Thou Almighty King",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b279b30b06641a483bef93b9d0a759ed0d28c49a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:0Zva3okE78IV6k4le4k0FF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0cylxW7HGdK9xMdubw2oYW",
+          "id" : "0cylxW7HGdK9xMdubw2oYW",
+          "name" : "The O'Neill Brothers Group",
+          "type" : "artist",
+          "uri" : "spotify:artist:0cylxW7HGdK9xMdubw2oYW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6F2lx3KKy8csysgH60eFvN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6F2lx3KKy8csysgH60eFvN",
+        "id" : "6F2lx3KKy8csysgH60eFvN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735ce7e0982f3b64b563980c27",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025ce7e0982f3b64b563980c27",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515ce7e0982f3b64b563980c27",
+          "width" : 64
+        } ],
+        "name" : "Baptist Hymns on Instrumental Piano",
+        "release_date" : "2014-04-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:6F2lx3KKy8csysgH60eFvN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0cylxW7HGdK9xMdubw2oYW",
+        "id" : "0cylxW7HGdK9xMdubw2oYW",
+        "name" : "The O'Neill Brothers Group",
+        "type" : "artist",
+        "uri" : "spotify:artist:0cylxW7HGdK9xMdubw2oYW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 165733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA371237661"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1386vZDG3ViDYmhiwPDdHg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1386vZDG3ViDYmhiwPDdHg",
+      "id" : "1386vZDG3ViDYmhiwPDdHg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, Thou Almighty King",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f30f0ff6ab59eaed40b07fe7e6da262cf1b90e56?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1386vZDG3ViDYmhiwPDdHg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/50G16M6G1sxv0n6I9FEI7k"
+          },
+          "href" : "https://api.spotify.com/v1/artists/50G16M6G1sxv0n6I9FEI7k",
+          "id" : "50G16M6G1sxv0n6I9FEI7k",
+          "name" : "Pastor David Wright",
+          "type" : "artist",
+          "uri" : "spotify:artist:50G16M6G1sxv0n6I9FEI7k"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7Ezj7NWGHtHTXHYSUxxl5U"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7Ezj7NWGHtHTXHYSUxxl5U",
+          "id" : "7Ezj7NWGHtHTXHYSUxxl5U",
+          "name" : "The N.Y. Fellowship Mass Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:7Ezj7NWGHtHTXHYSUxxl5U"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4cHVtQToAFZyxnY8niViwH"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4cHVtQToAFZyxnY8niViwH",
+        "id" : "4cHVtQToAFZyxnY8niViwH",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273823e0678f62d0cd64aef25c0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02823e0678f62d0cd64aef25c0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851823e0678f62d0cd64aef25c0",
+          "width" : 64
+        } ],
+        "name" : "Next Generation",
+        "release_date" : "2014-01-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:4cHVtQToAFZyxnY8niViwH"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50G16M6G1sxv0n6I9FEI7k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50G16M6G1sxv0n6I9FEI7k",
+        "id" : "50G16M6G1sxv0n6I9FEI7k",
+        "name" : "Pastor David Wright",
+        "type" : "artist",
+        "uri" : "spotify:artist:50G16M6G1sxv0n6I9FEI7k"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Ezj7NWGHtHTXHYSUxxl5U"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Ezj7NWGHtHTXHYSUxxl5U",
+        "id" : "7Ezj7NWGHtHTXHYSUxxl5U",
+        "name" : "The N.Y. Fellowship Mass Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Ezj7NWGHtHTXHYSUxxl5U"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 162826,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1438911"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1zxJ2P6F2vf0sMP44b89xp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1zxJ2P6F2vf0sMP44b89xp",
+      "id" : "1zxJ2P6F2vf0sMP44b89xp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come Thou Almighty King",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/36bd84622d811da45ed3bd56d6ba69a6a354194d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:1zxJ2P6F2vf0sMP44b89xp"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3hESNatyKCX3fD1s9dVKiv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3hESNatyKCX3fD1s9dVKiv",
+          "id" : "3hESNatyKCX3fD1s9dVKiv",
+          "name" : "Canadian Brass and the Iseler Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:3hESNatyKCX3fD1s9dVKiv"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/51LdwFHCk1yoK1jELZ4VOu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/51LdwFHCk1yoK1jELZ4VOu",
+          "id" : "51LdwFHCk1yoK1jELZ4VOu",
+          "name" : "Canadian Brass",
+          "type" : "artist",
+          "uri" : "spotify:artist:51LdwFHCk1yoK1jELZ4VOu"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5YBAQI0PaOvrM8Aizs8780"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5YBAQI0PaOvrM8Aizs8780",
+          "id" : "5YBAQI0PaOvrM8Aizs8780",
+          "name" : "The Iseler Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:5YBAQI0PaOvrM8Aizs8780"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6NzSy4aNkT18I2HKJ5spCc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6NzSy4aNkT18I2HKJ5spCc",
+        "id" : "6NzSy4aNkT18I2HKJ5spCc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ec811ed83f16c82f910f1913",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ec811ed83f16c82f910f1913",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ec811ed83f16c82f910f1913",
+          "width" : 64
+        } ],
+        "name" : "People of Faith",
+        "release_date" : "2006-03-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6NzSy4aNkT18I2HKJ5spCc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3hESNatyKCX3fD1s9dVKiv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3hESNatyKCX3fD1s9dVKiv",
+        "id" : "3hESNatyKCX3fD1s9dVKiv",
+        "name" : "Canadian Brass and the Iseler Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:3hESNatyKCX3fD1s9dVKiv"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/62MFyiS2Ht54lLado1FM4f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/62MFyiS2Ht54lLado1FM4f",
+        "id" : "62MFyiS2Ht54lLado1FM4f",
+        "name" : "Charles Daellenbach",
+        "type" : "artist",
+        "uri" : "spotify:artist:62MFyiS2Ht54lLado1FM4f"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0S6LzuYBybdVzxatJJmAy3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0S6LzuYBybdVzxatJJmAy3",
+        "id" : "0S6LzuYBybdVzxatJJmAy3",
+        "name" : "Eugene Watts",
+        "type" : "artist",
+        "uri" : "spotify:artist:0S6LzuYBybdVzxatJJmAy3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/00d3q3W4tyFQMZRYqiyiot"
+        },
+        "href" : "https://api.spotify.com/v1/artists/00d3q3W4tyFQMZRYqiyiot",
+        "id" : "00d3q3W4tyFQMZRYqiyiot",
+        "name" : "Charles Lazarus",
+        "type" : "artist",
+        "uri" : "spotify:artist:00d3q3W4tyFQMZRYqiyiot"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FXVnRGvo2NGeRxoTt1lVI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FXVnRGvo2NGeRxoTt1lVI",
+        "id" : "2FXVnRGvo2NGeRxoTt1lVI",
+        "name" : "Stuart Laughton",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FXVnRGvo2NGeRxoTt1lVI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ryLWDfJzGGxhDtuP7qLXu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ryLWDfJzGGxhDtuP7qLXu",
+        "id" : "3ryLWDfJzGGxhDtuP7qLXu",
+        "name" : "Bernhard Scully",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ryLWDfJzGGxhDtuP7qLXu"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 186520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAO440533701"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3UOhfvxw6UhNS8Lel9moIs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3UOhfvxw6UhNS8Lel9moIs",
+      "id" : "3UOhfvxw6UhNS8Lel9moIs",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, Thou Almighty King",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/83d30c4d6aa76a5c21a24e9c797b0f67467f8305?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3UOhfvxw6UhNS8Lel9moIs"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5z4TE1dEL68B6GMLqklXuB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5z4TE1dEL68B6GMLqklXuB",
+          "id" : "5z4TE1dEL68B6GMLqklXuB",
+          "name" : "Mark Miller",
+          "type" : "artist",
+          "uri" : "spotify:artist:5z4TE1dEL68B6GMLqklXuB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5M4ujM9P1GF3nyyJiacB8v"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5M4ujM9P1GF3nyyJiacB8v",
+        "id" : "5M4ujM9P1GF3nyyJiacB8v",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27308f8f5325617de690fee4895",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0208f8f5325617de690fee4895",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485108f8f5325617de690fee4895",
+          "width" : 64
+        } ],
+        "name" : "All For Love's Sake",
+        "release_date" : "2006-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5M4ujM9P1GF3nyyJiacB8v"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5z4TE1dEL68B6GMLqklXuB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5z4TE1dEL68B6GMLqklXuB",
+        "id" : "5z4TE1dEL68B6GMLqklXuB",
+        "name" : "Mark Miller",
+        "type" : "artist",
+        "uri" : "spotify:artist:5z4TE1dEL68B6GMLqklXuB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 224600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm20778625"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0teqPRxZbdhiRPbsYffYGc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0teqPRxZbdhiRPbsYffYGc",
+      "id" : "0teqPRxZbdhiRPbsYffYGc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, Thou Almighty King",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c7a45799482ca74246b4c50f26fad82e218b2341?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0teqPRxZbdhiRPbsYffYGc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2eHl5z1I0fPtpBGH66qa0i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2eHl5z1I0fPtpBGH66qa0i",
+          "id" : "2eHl5z1I0fPtpBGH66qa0i",
+          "name" : "Mark Magnuson",
+          "type" : "artist",
+          "uri" : "spotify:artist:2eHl5z1I0fPtpBGH66qa0i"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5tEcaRqgds2JTi1ocIMOZ2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5tEcaRqgds2JTi1ocIMOZ2",
+        "id" : "5tEcaRqgds2JTi1ocIMOZ2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27322b679ff434fda3374f7ae8e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0222b679ff434fda3374f7ae8e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485122b679ff434fda3374f7ae8e",
+          "width" : 64
+        } ],
+        "name" : "Acoustic Hymns",
+        "release_date" : "2004-12-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:5tEcaRqgds2JTi1ocIMOZ2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2eHl5z1I0fPtpBGH66qa0i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2eHl5z1I0fPtpBGH66qa0i",
+        "id" : "2eHl5z1I0fPtpBGH66qa0i",
+        "name" : "Mark Magnuson",
+        "type" : "artist",
+        "uri" : "spotify:artist:2eHl5z1I0fPtpBGH66qa0i"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 94013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm20522311"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0wqIx4bcJ982fUlXUtKY0w"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0wqIx4bcJ982fUlXUtKY0w",
+      "id" : "0wqIx4bcJ982fUlXUtKY0w",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, Thou Almighty King",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8432d8b66e2fefec4e742072279e1fcc0b57b5dd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:0wqIx4bcJ982fUlXUtKY0w"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6yHjh2kS1GE4StjNCe5vm0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6yHjh2kS1GE4StjNCe5vm0",
+          "id" : "6yHjh2kS1GE4StjNCe5vm0",
+          "name" : "Mark Baldwin",
+          "type" : "artist",
+          "uri" : "spotify:artist:6yHjh2kS1GE4StjNCe5vm0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Ke2f10vls7327OQ3B7yqt"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Ke2f10vls7327OQ3B7yqt",
+        "id" : "3Ke2f10vls7327OQ3B7yqt",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27394a76b58b61468576479353c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0294a76b58b61468576479353c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485194a76b58b61468576479353c",
+          "width" : 64
+        } ],
+        "name" : "Hymns for Morning and Evening",
+        "release_date" : "2016-11-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3Ke2f10vls7327OQ3B7yqt"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yHjh2kS1GE4StjNCe5vm0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yHjh2kS1GE4StjNCe5vm0",
+        "id" : "6yHjh2kS1GE4StjNCe5vm0",
+        "name" : "Mark Baldwin",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yHjh2kS1GE4StjNCe5vm0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 199590,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USLF51602069"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/409t5c77dtgA0ME5gY8iUt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/409t5c77dtgA0ME5gY8iUt",
+      "id" : "409t5c77dtgA0ME5gY8iUt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, Thou Almighty King / Praise to the Lord, the Almighty",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a9e8789e19dbffa5f563b2716847c5ee11f7c612?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:409t5c77dtgA0ME5gY8iUt"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Come+Thou+Almighty+King&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Come+Thou+Almighty+King&type=track&market=US&offset=0&limit=10",
+    "total" : 260
+  }
+}

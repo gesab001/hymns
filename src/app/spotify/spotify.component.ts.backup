@@ -1,0 +1,32 @@
+import { Component,  Input, OnChanges, SimpleChanges } from '@angular/core';
+import { Spotify } from './spotify';
+import { SpotifyService } from './spotify.service';
+import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
+
+@Component({
+  selector: 'app-spotify',
+  templateUrl: './spotify.component.html',
+  providers: [SpotifyService],
+  styleUrls: ['./spotify.component.css']
+})
+export class SpotifyComponent implements OnChanges {
+ spotifymessage = 'spotify';
+ @Input() message: string;
+  safeSrc: SafeResourceUrl;
+  spotify: Spotify[];
+  constructor(private spotifyService: SpotifyService, private                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   sanitizer: DomSanitizer) { 
+}
+   ngOnChanges(changes: SimpleChanges) {
+  this.searchSpotify(changes.message.curren                                                                                                                                                                                                             tValue);
+}
+
+
+
+  searchSpotify(term: string): void {
+    this.spotifyService.getSpotify(term)
+      .subscribe(spotify => (this.spotify = spotify));
+    this.spotifymessage = term;
+    this.safeSrc =  this.sanitizer.bypassSecurityTrustResourceUrl("https://www.youtube.com/embed/c9F5kMUfFKk");
+  }
+
+}

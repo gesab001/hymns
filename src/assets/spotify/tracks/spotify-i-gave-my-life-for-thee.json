@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+Gave+My+Life+for+Thee&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ZwubZbVtEr49EpmJeUMVn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ZwubZbVtEr49EpmJeUMVn",
+          "id" : "5ZwubZbVtEr49EpmJeUMVn",
+          "name" : "Littlepiano",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ZwubZbVtEr49EpmJeUMVn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5QKt5zXKYHchC2gnFRGkmJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5QKt5zXKYHchC2gnFRGkmJ",
+        "id" : "5QKt5zXKYHchC2gnFRGkmJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27391170ccfd6770f992e33ab44",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0291170ccfd6770f992e33ab44",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485191170ccfd6770f992e33ab44",
+          "width" : 64
+        } ],
+        "name" : "My Little Piano Hymn 1 (Hymns for babies) (내 작은 피아노 찬송가 1 (아기에게 들려주고픈 찬송가))",
+        "release_date" : "2014-07-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5QKt5zXKYHchC2gnFRGkmJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ZwubZbVtEr49EpmJeUMVn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ZwubZbVtEr49EpmJeUMVn",
+        "id" : "5ZwubZbVtEr49EpmJeUMVn",
+        "name" : "Littlepiano",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ZwubZbVtEr49EpmJeUMVn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 196000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRB361434449"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0QX2IMqzXvSGs2vE4HCK04"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0QX2IMqzXvSGs2vE4HCK04",
+      "id" : "0QX2IMqzXvSGs2vE4HCK04",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Gave My Life For Thee (내 너를 위하여)",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bd746b3b2612272aa73e5bb0bf2255773b52f6bb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:0QX2IMqzXvSGs2vE4HCK04"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/41hCpLaR1bEW5ETK3aPvDB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/41hCpLaR1bEW5ETK3aPvDB",
+          "id" : "41hCpLaR1bEW5ETK3aPvDB",
+          "name" : "The Eden Symphony Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:41hCpLaR1bEW5ETK3aPvDB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3d6sS20mp7O4BS0qSk3A0E"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3d6sS20mp7O4BS0qSk3A0E",
+        "id" : "3d6sS20mp7O4BS0qSk3A0E",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c5174f78187af5d3457b2397",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c5174f78187af5d3457b2397",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c5174f78187af5d3457b2397",
+          "width" : 64
+        } ],
+        "name" : "Philharmonic Hymns - Orchestral Hymns Vol. 6",
+        "release_date" : "2006-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:3d6sS20mp7O4BS0qSk3A0E"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/41hCpLaR1bEW5ETK3aPvDB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/41hCpLaR1bEW5ETK3aPvDB",
+        "id" : "41hCpLaR1bEW5ETK3aPvDB",
+        "name" : "The Eden Symphony Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:41hCpLaR1bEW5ETK3aPvDB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 220333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCEU0677903"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4oOQrwjXKcP6XLQq5eGgmT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4oOQrwjXKcP6XLQq5eGgmT",
+      "id" : "4oOQrwjXKcP6XLQq5eGgmT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Gave My Life for Thee",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2707139ed759984c23f7dcb0ef28916ab731d9c1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:4oOQrwjXKcP6XLQq5eGgmT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4MSEJAKZo4mkG4H6ORgllP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4MSEJAKZo4mkG4H6ORgllP",
+          "id" : "4MSEJAKZo4mkG4H6ORgllP",
+          "name" : "Jonathan Reed",
+          "type" : "artist",
+          "uri" : "spotify:artist:4MSEJAKZo4mkG4H6ORgllP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1PJZXqWlKRhIm5ImHLfIuN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1PJZXqWlKRhIm5ImHLfIuN",
+        "id" : "1PJZXqWlKRhIm5ImHLfIuN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737816bd2074912ccb3a7a4fe9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027816bd2074912ccb3a7a4fe9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517816bd2074912ccb3a7a4fe9",
+          "width" : 64
+        } ],
+        "name" : "All Hail the Power",
+        "release_date" : "2005-06-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 52,
+        "type" : "album",
+        "uri" : "spotify:album:1PJZXqWlKRhIm5ImHLfIuN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4MSEJAKZo4mkG4H6ORgllP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4MSEJAKZo4mkG4H6ORgllP",
+        "id" : "4MSEJAKZo4mkG4H6ORgllP",
+        "name" : "Jonathan Reed",
+        "type" : "artist",
+        "uri" : "spotify:artist:4MSEJAKZo4mkG4H6ORgllP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 102000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm81491369"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4mN4yORnzi7L5wdkkD56fC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4mN4yORnzi7L5wdkkD56fC",
+      "id" : "4mN4yORnzi7L5wdkkD56fC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Gave My Life for Thee",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6911013aff65930ffde5ab1b76bdc71b3ae57f45?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:4mN4yORnzi7L5wdkkD56fC"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zCKr405jB5b6QI1IfFnf2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zCKr405jB5b6QI1IfFnf2",
+          "id" : "6zCKr405jB5b6QI1IfFnf2",
+          "name" : "Dallas Christian Adult Concert Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zCKr405jB5b6QI1IfFnf2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/36YcI3PIcjXrNpXQZ5miiB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/36YcI3PIcjXrNpXQZ5miiB",
+        "id" : "36YcI3PIcjXrNpXQZ5miiB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734c83d6e0268a41ceec1cfb4b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024c83d6e0268a41ceec1cfb4b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514c83d6e0268a41ceec1cfb4b",
+          "width" : 64
+        } ],
+        "name" : "He Lifted Me",
+        "release_date" : "2008-03-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:36YcI3PIcjXrNpXQZ5miiB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zCKr405jB5b6QI1IfFnf2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zCKr405jB5b6QI1IfFnf2",
+        "id" : "6zCKr405jB5b6QI1IfFnf2",
+        "name" : "Dallas Christian Adult Concert Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zCKr405jB5b6QI1IfFnf2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMZA0810548"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6o5By8lVodsAMPaqq7Yx1t"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6o5By8lVodsAMPaqq7Yx1t",
+      "id" : "6o5By8lVodsAMPaqq7Yx1t",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Gave My Life For Thee - Congregational",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/44ecbb5bf49199274848aba7eaaed8305a8aa74d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6o5By8lVodsAMPaqq7Yx1t"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6p21nVelZcO7t75I4LSaTe"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6p21nVelZcO7t75I4LSaTe",
+          "id" : "6p21nVelZcO7t75I4LSaTe",
+          "name" : "Andy Joshua",
+          "type" : "artist",
+          "uri" : "spotify:artist:6p21nVelZcO7t75I4LSaTe"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5pENpO5ZslRUrs4jcjH4Hg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5pENpO5ZslRUrs4jcjH4Hg",
+        "id" : "5pENpO5ZslRUrs4jcjH4Hg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273add929f4a6dc79336102fb8a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02add929f4a6dc79336102fb8a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851add929f4a6dc79336102fb8a",
+          "width" : 64
+        } ],
+        "name" : "재즈 찬송가 Jazz Hymns Best",
+        "release_date" : "2016-11-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5pENpO5ZslRUrs4jcjH4Hg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6p21nVelZcO7t75I4LSaTe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6p21nVelZcO7t75I4LSaTe",
+        "id" : "6p21nVelZcO7t75I4LSaTe",
+        "name" : "Andy Joshua",
+        "type" : "artist",
+        "uri" : "spotify:artist:6p21nVelZcO7t75I4LSaTe"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 253492,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRA351600468"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/31ySnOTmweDrw6hYKHbWjA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/31ySnOTmweDrw6hYKHbWjA",
+      "id" : "31ySnOTmweDrw6hYKHbWjA",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "내 너를 위하여 I Gave My Life for Thee",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2355153c45abab80ca8be6ccdb5580d5e370ab22?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:31ySnOTmweDrw6hYKHbWjA"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0dkxLbCmdF2qH1QWrsciD8"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0dkxLbCmdF2qH1QWrsciD8",
+          "id" : "0dkxLbCmdF2qH1QWrsciD8",
+          "name" : "Junhee Kim",
+          "type" : "artist",
+          "uri" : "spotify:artist:0dkxLbCmdF2qH1QWrsciD8"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6Jk3NJVeV0DnmGimlkQMaF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6Jk3NJVeV0DnmGimlkQMaF",
+        "id" : "6Jk3NJVeV0DnmGimlkQMaF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27396c9d8f680848ea30c9abb59",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0296c9d8f680848ea30c9abb59",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485196c9d8f680848ea30c9abb59",
+          "width" : 64
+        } ],
+        "name" : "Piano Prayer Vol.5",
+        "release_date" : "2020-04-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:6Jk3NJVeV0DnmGimlkQMaF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dkxLbCmdF2qH1QWrsciD8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dkxLbCmdF2qH1QWrsciD8",
+        "id" : "0dkxLbCmdF2qH1QWrsciD8",
+        "name" : "Junhee Kim",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dkxLbCmdF2qH1QWrsciD8"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 152678,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRF632001091"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/46xxv0m5rJI8GPJIeq1ESR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/46xxv0m5rJI8GPJIeq1ESR",
+      "id" : "46xxv0m5rJI8GPJIeq1ESR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Gave My Life for Thee",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e3c42e30230810b88d1d2a502ccb2fde15cf831f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:46xxv0m5rJI8GPJIeq1ESR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2jyhbgqOoND2bYsblVHmYq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2jyhbgqOoND2bYsblVHmYq",
+          "id" : "2jyhbgqOoND2bYsblVHmYq",
+          "name" : "Dawn Foss",
+          "type" : "artist",
+          "uri" : "spotify:artist:2jyhbgqOoND2bYsblVHmYq"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1aQIcGlvT1IO9rwNVSVjx8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1aQIcGlvT1IO9rwNVSVjx8",
+        "id" : "1aQIcGlvT1IO9rwNVSVjx8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736419cc97c118f03b0bccabab",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026419cc97c118f03b0bccabab",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516419cc97c118f03b0bccabab",
+          "width" : 64
+        } ],
+        "name" : "Simply Hymns: Reflections",
+        "release_date" : "2017-10-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 26,
+        "type" : "album",
+        "uri" : "spotify:album:1aQIcGlvT1IO9rwNVSVjx8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2jyhbgqOoND2bYsblVHmYq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2jyhbgqOoND2bYsblVHmYq",
+        "id" : "2jyhbgqOoND2bYsblVHmYq",
+        "name" : "Dawn Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:2jyhbgqOoND2bYsblVHmYq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 252396,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91752437"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4K10QN24Xyy1u97qhHD4Fx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4K10QN24Xyy1u97qhHD4Fx",
+      "id" : "4K10QN24Xyy1u97qhHD4Fx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Gave My Life for Thee",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bca9c3f8f59a1d2e81690902561544dcd6b0ac37?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:4K10QN24Xyy1u97qhHD4Fx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/49UYnaGAIyv4eqt8hhMAfi"
+          },
+          "href" : "https://api.spotify.com/v1/artists/49UYnaGAIyv4eqt8hhMAfi",
+          "id" : "49UYnaGAIyv4eqt8hhMAfi",
+          "name" : "Teresa Tedder",
+          "type" : "artist",
+          "uri" : "spotify:artist:49UYnaGAIyv4eqt8hhMAfi"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0eYoBsL2pLOqBouMH2xqa9"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0eYoBsL2pLOqBouMH2xqa9",
+        "id" : "0eYoBsL2pLOqBouMH2xqa9",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a8a82ddeed26b4bf99c2e492",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a8a82ddeed26b4bf99c2e492",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a8a82ddeed26b4bf99c2e492",
+          "width" : 64
+        } ],
+        "name" : "Precious Memories",
+        "release_date" : "2004-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0eYoBsL2pLOqBouMH2xqa9"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49UYnaGAIyv4eqt8hhMAfi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49UYnaGAIyv4eqt8hhMAfi",
+        "id" : "49UYnaGAIyv4eqt8hhMAfi",
+        "name" : "Teresa Tedder",
+        "type" : "artist",
+        "uri" : "spotify:artist:49UYnaGAIyv4eqt8hhMAfi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 189133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p0763587"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5F5JWqjmQRKdqcF0f5BZCn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5F5JWqjmQRKdqcF0f5BZCn",
+      "id" : "5F5JWqjmQRKdqcF0f5BZCn",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Gave My Life for Thee",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/09d78c4823817dcbc41ad1b5135f62ea115f831b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:5F5JWqjmQRKdqcF0f5BZCn"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2hARegcJRxTFol7qaZEDBK"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2hARegcJRxTFol7qaZEDBK",
+          "id" : "2hARegcJRxTFol7qaZEDBK",
+          "name" : "Christchurch Festival Male Voice Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:2hARegcJRxTFol7qaZEDBK"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0L5gyAyxk815MgGmYiV50S"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0L5gyAyxk815MgGmYiV50S",
+        "id" : "0L5gyAyxk815MgGmYiV50S",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273007ba34e8cf2c89163a823f8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02007ba34e8cf2c89163a823f8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851007ba34e8cf2c89163a823f8",
+          "width" : 64
+        } ],
+        "name" : "Christchurch Festival Male Voice Choir (Vol. 1)",
+        "release_date" : "1960-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0L5gyAyxk815MgGmYiV50S"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2hARegcJRxTFol7qaZEDBK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2hARegcJRxTFol7qaZEDBK",
+        "id" : "2hARegcJRxTFol7qaZEDBK",
+        "name" : "Christchurch Festival Male Voice Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:2hARegcJRxTFol7qaZEDBK"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 134200,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NZUM71800077"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3ux954ZfFyIffgsraAK3sX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3ux954ZfFyIffgsraAK3sX",
+      "id" : "3ux954ZfFyIffgsraAK3sX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Gave My Life For Thee",
+      "popularity" : 0,
+      "preview_url" : null,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3ux954ZfFyIffgsraAK3sX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6chIT9NYdZw7XOXoVIqE3V"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6chIT9NYdZw7XOXoVIqE3V",
+          "id" : "6chIT9NYdZw7XOXoVIqE3V",
+          "name" : "Peggy Brown, Sylvia Brown-Roberts, and Raymond Brown",
+          "type" : "artist",
+          "uri" : "spotify:artist:6chIT9NYdZw7XOXoVIqE3V"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1Xjfc7PMByG9HowIiqTxBb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1Xjfc7PMByG9HowIiqTxBb",
+        "id" : "1Xjfc7PMByG9HowIiqTxBb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730aef2189abbb9c306ae74b2a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020aef2189abbb9c306ae74b2a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510aef2189abbb9c306ae74b2a",
+          "width" : 64
+        } ],
+        "name" : "Good News",
+        "release_date" : "2005-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1Xjfc7PMByG9HowIiqTxBb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6chIT9NYdZw7XOXoVIqE3V"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6chIT9NYdZw7XOXoVIqE3V",
+        "id" : "6chIT9NYdZw7XOXoVIqE3V",
+        "name" : "Peggy Brown, Sylvia Brown-Roberts, and Raymond Brown",
+        "type" : "artist",
+        "uri" : "spotify:artist:6chIT9NYdZw7XOXoVIqE3V"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 118146,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90514493"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6hUFtrXkMOyqZMMI1vchoa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6hUFtrXkMOyqZMMI1vchoa",
+      "id" : "6hUFtrXkMOyqZMMI1vchoa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I gave my life for thee",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/037f43f07a8fac2b75afc2a0057d334503637b98?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:6hUFtrXkMOyqZMMI1vchoa"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=I+Gave+My+Life+for+Thee&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=I+Gave+My+Life+for+Thee&type=track&market=US&offset=0&limit=10",
+    "total" : 39
+  }
+}

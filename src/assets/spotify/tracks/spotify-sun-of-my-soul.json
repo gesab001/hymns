@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Sun+of+My+Soul&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4iVhFmG8YCCEHANGeUUS9q",
+          "id" : "4iVhFmG8YCCEHANGeUUS9q",
+          "name" : "Pretty Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:4iVhFmG8YCCEHANGeUUS9q"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0pbCJhGv304qQ16xWvqyBH"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0pbCJhGv304qQ16xWvqyBH",
+        "id" : "0pbCJhGv304qQ16xWvqyBH",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27325a3c060f6f40c66ca383379",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0225a3c060f6f40c66ca383379",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485125a3c060f6f40c66ca383379",
+          "width" : 64
+        } ],
+        "name" : "A Color Map of the Sun (Remixes)",
+        "release_date" : "2013-12-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:0pbCJhGv304qQ16xWvqyBH"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4iVhFmG8YCCEHANGeUUS9q",
+        "id" : "4iVhFmG8YCCEHANGeUUS9q",
+        "name" : "Pretty Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:4iVhFmG8YCCEHANGeUUS9q"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 250105,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA2P1389560"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/599pxoiIFfuSPElH3Ke0CS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/599pxoiIFfuSPElH3Ke0CS",
+      "id" : "599pxoiIFfuSPElH3Ke0CS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Color of My Soul (Paul Basic Remix)",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/135725b434cd2c46ca2721f4559e89ef9b32741c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:599pxoiIFfuSPElH3Ke0CS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4gyzQpfG5YQZJt2jj0IkEl",
+          "id" : "4gyzQpfG5YQZJt2jj0IkEl",
+          "name" : "Life Of Agony",
+          "type" : "artist",
+          "uri" : "spotify:artist:4gyzQpfG5YQZJt2jj0IkEl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4u2irPTUD3csaHkmOdkyUa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4u2irPTUD3csaHkmOdkyUa",
+        "id" : "4u2irPTUD3csaHkmOdkyUa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27393652743745a8a727fae480c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0293652743745a8a727fae480c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485193652743745a8a727fae480c",
+          "width" : 64
+        } ],
+        "name" : "Soul Searching Sun (Digital)",
+        "release_date" : "1997",
+        "release_date_precision" : "year",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:4u2irPTUD3csaHkmOdkyUa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4gyzQpfG5YQZJt2jj0IkEl",
+        "id" : "4gyzQpfG5YQZJt2jj0IkEl",
+        "name" : "Life Of Agony",
+        "type" : "artist",
+        "uri" : "spotify:artist:4gyzQpfG5YQZJt2jj0IkEl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 245026,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLA329780295"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5tKOZQhp2gfVFIKPXwCLlQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5tKOZQhp2gfVFIKPXwCLlQ",
+      "id" : "5tKOZQhp2gfVFIKPXwCLlQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Mind Is Dangerous",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b41b088e49c82bf1c171926a3821db9522d05e06?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:5tKOZQhp2gfVFIKPXwCLlQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4W4gYpQ2AQq7US2HZS13Qw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4W4gYpQ2AQq7US2HZS13Qw",
+          "id" : "4W4gYpQ2AQq7US2HZS13Qw",
+          "name" : "Blessid Union Of Souls",
+          "type" : "artist",
+          "uri" : "spotify:artist:4W4gYpQ2AQq7US2HZS13Qw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3zbdPEqtgSEkNN7g1Np666"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3zbdPEqtgSEkNN7g1Np666",
+        "id" : "3zbdPEqtgSEkNN7g1Np666",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739d6c8931b9913b1f9636a999",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029d6c8931b9913b1f9636a999",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519d6c8931b9913b1f9636a999",
+          "width" : 64
+        } ],
+        "name" : "Live at Never on Sunday",
+        "release_date" : "2015-06-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:3zbdPEqtgSEkNN7g1Np666"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4W4gYpQ2AQq7US2HZS13Qw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4W4gYpQ2AQq7US2HZS13Qw",
+        "id" : "4W4gYpQ2AQq7US2HZS13Qw",
+        "name" : "Blessid Union Of Souls",
+        "type" : "artist",
+        "uri" : "spotify:artist:4W4gYpQ2AQq7US2HZS13Qw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 292924,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM6XS1474521"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0E7498hqkpr7DvazxbTg9T"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0E7498hqkpr7DvazxbTg9T",
+      "id" : "0E7498hqkpr7DvazxbTg9T",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Brother My Brother - Live",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/55999d2242844854bdba14b4816962f0c40a2eee?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0E7498hqkpr7DvazxbTg9T"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2N2UDNT8TpxvSVEuLVJP1o"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2N2UDNT8TpxvSVEuLVJP1o",
+          "id" : "2N2UDNT8TpxvSVEuLVJP1o",
+          "name" : "Renç Berker",
+          "type" : "artist",
+          "uri" : "spotify:artist:2N2UDNT8TpxvSVEuLVJP1o"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4JbvQ1mcnzinet1hStzPSb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4JbvQ1mcnzinet1hStzPSb",
+        "id" : "4JbvQ1mcnzinet1hStzPSb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730decaa342eb08850c87abd3f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020decaa342eb08850c87abd3f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510decaa342eb08850c87abd3f",
+          "width" : 64
+        } ],
+        "name" : "Snowy Sun September",
+        "release_date" : "2020-05-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 4,
+        "type" : "album",
+        "uri" : "spotify:album:4JbvQ1mcnzinet1hStzPSb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2N2UDNT8TpxvSVEuLVJP1o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2N2UDNT8TpxvSVEuLVJP1o",
+        "id" : "2N2UDNT8TpxvSVEuLVJP1o",
+        "name" : "Renç Berker",
+        "type" : "artist",
+        "uri" : "spotify:artist:2N2UDNT8TpxvSVEuLVJP1o"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 206027,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZES72036006"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2nzA8yNUGW9vRZaEKz0WbS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2nzA8yNUGW9vRZaEKz0WbS",
+      "id" : "2nzA8yNUGW9vRZaEKz0WbS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Forest of My Wild Soul",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ccf3a0d9ac37098e6db2e42f52236844c2ecc368?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2nzA8yNUGW9vRZaEKz0WbS"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5vFaT7ClmXgUJTOVC1S4u3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5vFaT7ClmXgUJTOVC1S4u3",
+        "id" : "5vFaT7ClmXgUJTOVC1S4u3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735057e0bd807c5a704139950b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025057e0bd807c5a704139950b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515057e0bd807c5a704139950b",
+          "width" : 64
+        } ],
+        "name" : "50 Classic Hymns",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 50,
+        "type" : "album",
+        "uri" : "spotify:album:5vFaT7ClmXgUJTOVC1S4u3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lEOnmLXDtwwrygQBUaPuM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lEOnmLXDtwwrygQBUaPuM",
+        "id" : "7lEOnmLXDtwwrygQBUaPuM",
+        "name" : "50 Classic Hymns Performers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lEOnmLXDtwwrygQBUaPuM"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 270680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP38448596"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2VkptKsHrpkNmv4udabBKG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2VkptKsHrpkNmv4udabBKG",
+      "id" : "2VkptKsHrpkNmv4udabBKG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Morning Has Broken/Sun Of My Soul/All Hail The Power Of Jesus' Name",
+      "popularity" : 16,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2VkptKsHrpkNmv4udabBKG"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/05sGBQhc6wrRAOZYo3gWqP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/05sGBQhc6wrRAOZYo3gWqP",
+          "id" : "05sGBQhc6wrRAOZYo3gWqP",
+          "name" : "Worship Music Project",
+          "type" : "artist",
+          "uri" : "spotify:artist:05sGBQhc6wrRAOZYo3gWqP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4mBhNBvwqEmU0XgIY5lChz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4mBhNBvwqEmU0XgIY5lChz",
+        "id" : "4mBhNBvwqEmU0XgIY5lChz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27372033c8a8b9a883275b1e6e0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0272033c8a8b9a883275b1e6e0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485172033c8a8b9a883275b1e6e0",
+          "width" : 64
+        } ],
+        "name" : "Endless Hymns For Opening Prayers 11 (기도를 여는 끊이지 않는 찬송가 11)",
+        "release_date" : "2014-07-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:4mBhNBvwqEmU0XgIY5lChz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05sGBQhc6wrRAOZYo3gWqP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05sGBQhc6wrRAOZYo3gWqP",
+        "id" : "05sGBQhc6wrRAOZYo3gWqP",
+        "name" : "Worship Music Project",
+        "type" : "artist",
+        "uri" : "spotify:artist:05sGBQhc6wrRAOZYo3gWqP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 126000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRB361433482"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/55QPeUA7S875VCejkRGmuk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/55QPeUA7S875VCejkRGmuk",
+      "id" : "55QPeUA7S875VCejkRGmuk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sun of My Soul, Thou Savior Dear (영혼의 햇빛 예수님)",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e51a4b7677a85a4129b0f8366014db4f8c48f083?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:55QPeUA7S875VCejkRGmuk"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7nwUJBm0HE4ZxD3f5cy5ok",
+          "id" : "7nwUJBm0HE4ZxD3f5cy5ok",
+          "name" : "Aretha Franklin",
+          "type" : "artist",
+          "uri" : "spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/27psmgscZCLbePqHMFgm62"
+        },
+        "href" : "https://api.spotify.com/v1/albums/27psmgscZCLbePqHMFgm62",
+        "id" : "27psmgscZCLbePqHMFgm62",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f07513352f8ef8acd136f1e3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f07513352f8ef8acd136f1e3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f07513352f8ef8acd136f1e3",
+          "width" : 64
+        } ],
+        "name" : "The Queen Of Soul",
+        "release_date" : "2014-02-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 87,
+        "type" : "album",
+        "uri" : "spotify:album:27psmgscZCLbePqHMFgm62"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7nwUJBm0HE4ZxD3f5cy5ok",
+        "id" : "7nwUJBm0HE4ZxD3f5cy5ok",
+        "name" : "Aretha Franklin",
+        "type" : "artist",
+        "uri" : "spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 262960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAT20102230"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7y0USIxaQEDWpc4yaYuVy6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7y0USIxaQEDWpc4yaYuVy6",
+      "id" : "7y0USIxaQEDWpc4yaYuVy6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You Are My Sunshine",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f722764c07490faccb2f282e8e8ce171898e5492?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:7y0USIxaQEDWpc4yaYuVy6"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0fUOFQsJuTmWyLIdrFCOqk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0fUOFQsJuTmWyLIdrFCOqk",
+        "id" : "0fUOFQsJuTmWyLIdrFCOqk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ee7e7c388747bbaac51464c4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ee7e7c388747bbaac51464c4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ee7e7c388747bbaac51464c4",
+          "width" : 64
+        } ],
+        "name" : "Hymns: The Ultimate Collection",
+        "release_date" : "2006-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 38,
+        "type" : "album",
+        "uri" : "spotify:album:0fUOFQsJuTmWyLIdrFCOqk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lEOnmLXDtwwrygQBUaPuM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lEOnmLXDtwwrygQBUaPuM",
+        "id" : "7lEOnmLXDtwwrygQBUaPuM",
+        "name" : "50 Classic Hymns Performers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lEOnmLXDtwwrygQBUaPuM"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 270680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP38448596"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3mCpkIM47eh6N0pOWO66kb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3mCpkIM47eh6N0pOWO66kb",
+      "id" : "3mCpkIM47eh6N0pOWO66kb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Morning Has Broken / Sun Of My Soul / All Hail The Power Of Jesus' Name",
+      "popularity" : 13,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3mCpkIM47eh6N0pOWO66kb"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3hHwKq9rkvc42Bp4CtAkkv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3hHwKq9rkvc42Bp4CtAkkv",
+          "id" : "3hHwKq9rkvc42Bp4CtAkkv",
+          "name" : "Laestadian Lutheran Church",
+          "type" : "artist",
+          "uri" : "spotify:artist:3hHwKq9rkvc42Bp4CtAkkv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xCYgeuvDS8mr8uQG96Y5N"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xCYgeuvDS8mr8uQG96Y5N",
+        "id" : "1xCYgeuvDS8mr8uQG96Y5N",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27311cb99595e5eb18cc85248fd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0211cb99595e5eb18cc85248fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485111cb99595e5eb18cc85248fd",
+          "width" : 64
+        } ],
+        "name" : "Praise Him!",
+        "release_date" : "2019-10-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:1xCYgeuvDS8mr8uQG96Y5N"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3hHwKq9rkvc42Bp4CtAkkv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3hHwKq9rkvc42Bp4CtAkkv",
+        "id" : "3hHwKq9rkvc42Bp4CtAkkv",
+        "name" : "Laestadian Lutheran Church",
+        "type" : "artist",
+        "uri" : "spotify:artist:3hHwKq9rkvc42Bp4CtAkkv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 178880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM1919114"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5RHTgleZ4UyWyusm5WstOl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5RHTgleZ4UyWyusm5WstOl",
+      "id" : "5RHTgleZ4UyWyusm5WstOl",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sun of My Soul SHZ 503",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/02b13b88cb5052173e8d311e2793dce0515133f1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:5RHTgleZ4UyWyusm5WstOl"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4CeW2xghttvllIwy4AqNSg",
+          "id" : "4CeW2xghttvllIwy4AqNSg",
+          "name" : "Aaradhna",
+          "type" : "artist",
+          "uri" : "spotify:artist:4CeW2xghttvllIwy4AqNSg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5XzNmR3c2WBLZNTuxzpAfA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5XzNmR3c2WBLZNTuxzpAfA",
+        "id" : "5XzNmR3c2WBLZNTuxzpAfA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273466d2c05c6b51511816b91e8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02466d2c05c6b51511816b91e8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851466d2c05c6b51511816b91e8",
+          "width" : 64
+        } ],
+        "name" : "Sweet Soul Music",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:5XzNmR3c2WBLZNTuxzpAfA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4CeW2xghttvllIwy4AqNSg",
+        "id" : "4CeW2xghttvllIwy4AqNSg",
+        "name" : "Aaradhna",
+        "type" : "artist",
+        "uri" : "spotify:artist:4CeW2xghttvllIwy4AqNSg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NZDR00700096"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5joXlh0P6DxmRyiGm7ndeu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5joXlh0P6DxmRyiGm7ndeu",
+      "id" : "5joXlh0P6DxmRyiGm7ndeu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You Are the Sunshine of My Life",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/75c5a8b36af23cc96bb848fad6e38f30dd4ccc94?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5joXlh0P6DxmRyiGm7ndeu"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Sun+of+My+Soul&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Sun+of+My+Soul&type=track&market=US&offset=0&limit=10",
+    "total" : 445
+  }
+}

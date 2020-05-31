@@ -1,0 +1,771 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Until+Then&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5goKVjLW9wcaX9hLn6P0pS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5goKVjLW9wcaX9hLn6P0pS",
+          "id" : "5goKVjLW9wcaX9hLn6P0pS",
+          "name" : "Study Music Library",
+          "type" : "artist",
+          "uri" : "spotify:artist:5goKVjLW9wcaX9hLn6P0pS"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/45eALtDbmGR824btHqpouF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/45eALtDbmGR824btHqpouF",
+          "id" : "45eALtDbmGR824btHqpouF",
+          "name" : "Spa Music Relaxation",
+          "type" : "artist",
+          "uri" : "spotify:artist:45eALtDbmGR824btHqpouF"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LUYOHM73gVlfY5TzRbIgX",
+          "id" : "4LUYOHM73gVlfY5TzRbIgX",
+          "name" : "Spa",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LUYOHM73gVlfY5TzRbIgX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1Lbe7zS2veSI5QwKM7s16I"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1Lbe7zS2veSI5QwKM7s16I",
+        "id" : "1Lbe7zS2veSI5QwKM7s16I",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27320536584636a1d2419956ca0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0220536584636a1d2419956ca0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485120536584636a1d2419956ca0",
+          "width" : 64
+        } ],
+        "name" : "Feet Up and Chill / Relaxing Ambience",
+        "release_date" : "2020-05-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 37,
+        "type" : "album",
+        "uri" : "spotify:album:1Lbe7zS2veSI5QwKM7s16I"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5goKVjLW9wcaX9hLn6P0pS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5goKVjLW9wcaX9hLn6P0pS",
+        "id" : "5goKVjLW9wcaX9hLn6P0pS",
+        "name" : "Study Music Library",
+        "type" : "artist",
+        "uri" : "spotify:artist:5goKVjLW9wcaX9hLn6P0pS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LUYOHM73gVlfY5TzRbIgX",
+        "id" : "4LUYOHM73gVlfY5TzRbIgX",
+        "name" : "Spa",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LUYOHM73gVlfY5TzRbIgX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eALtDbmGR824btHqpouF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eALtDbmGR824btHqpouF",
+        "id" : "45eALtDbmGR824btHqpouF",
+        "name" : "Spa Music Relaxation",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eALtDbmGR824btHqpouF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 183097,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UK6821741079"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/243K9CD0tgJt8yqEgrO4Bo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/243K9CD0tgJt8yqEgrO4Bo",
+      "id" : "243K9CD0tgJt8yqEgrO4Bo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1818b8af00998046715131838f52eeb4f0147f8f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 28,
+      "type" : "track",
+      "uri" : "spotify:track:243K9CD0tgJt8yqEgrO4Bo"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3kf0gOpxWtkyeMNJVDQPtd",
+          "id" : "3kf0gOpxWtkyeMNJVDQPtd",
+          "name" : "Smoke Dza",
+          "type" : "artist",
+          "uri" : "spotify:artist:3kf0gOpxWtkyeMNJVDQPtd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id" : "3BeQqzKdlARoOd6y30kCO2",
+          "name" : "Pete Rock",
+          "type" : "artist",
+          "uri" : "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1Qx1NL1y0L3dKAtR3JbPiO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1Qx1NL1y0L3dKAtR3JbPiO",
+        "id" : "1Qx1NL1y0L3dKAtR3JbPiO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273379708f157bcc5a793d705ed",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02379708f157bcc5a793d705ed",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851379708f157bcc5a793d705ed",
+          "width" : 64
+        } ],
+        "name" : "Don't Smoke Rock",
+        "release_date" : "2016-12-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:1Qx1NL1y0L3dKAtR3JbPiO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3kf0gOpxWtkyeMNJVDQPtd",
+        "id" : "3kf0gOpxWtkyeMNJVDQPtd",
+        "name" : "Smoke Dza",
+        "type" : "artist",
+        "uri" : "spotify:artist:3kf0gOpxWtkyeMNJVDQPtd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+        "id" : "3BeQqzKdlARoOd6y30kCO2",
+        "name" : "Pete Rock",
+        "type" : "artist",
+        "uri" : "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+        "id" : "4LLpKhyESsyAXpc4laK94U",
+        "name" : "Mac Miller",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 329108,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QM4TW1678903"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7gcYtIYqNSgmeu8NpCRyh6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7gcYtIYqNSgmeu8NpCRyh6",
+      "id" : "7gcYtIYqNSgmeu8NpCRyh6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ccc2124a246390bff3441caed955720d21133bcb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:7gcYtIYqNSgmeu8NpCRyh6"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6AVLthptCPhfrxlHadOBJD",
+          "id" : "6AVLthptCPhfrxlHadOBJD",
+          "name" : "Jill Scott",
+          "type" : "artist",
+          "uri" : "spotify:artist:6AVLthptCPhfrxlHadOBJD"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/52UuhKOKOB1PWL1DVAC3os"
+        },
+        "href" : "https://api.spotify.com/v1/albums/52UuhKOKOB1PWL1DVAC3os",
+        "id" : "52UuhKOKOB1PWL1DVAC3os",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731855dee5aa92bbb3bdb14724",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021855dee5aa92bbb3bdb14724",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511855dee5aa92bbb3bdb14724",
+          "width" : 64
+        } ],
+        "name" : "The Light of the Sun",
+        "release_date" : "2011-06-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:52UuhKOKOB1PWL1DVAC3os"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6AVLthptCPhfrxlHadOBJD",
+        "id" : "6AVLthptCPhfrxlHadOBJD",
+        "name" : "Jill Scott",
+        "type" : "artist",
+        "uri" : "spotify:artist:6AVLthptCPhfrxlHadOBJD"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 221880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWB11100990"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5FNo0DuC0PaFcLCWJLeRv0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5FNo0DuC0PaFcLCWJLeRv0",
+      "id" : "5FNo0DuC0PaFcLCWJLeRv0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then [I Imagine]",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5045c516b4ba908e1e2a54f1a4a39048cdeab02f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5FNo0DuC0PaFcLCWJLeRv0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0WtTGUjbur1R1cNzBvbsMU",
+          "id" : "0WtTGUjbur1R1cNzBvbsMU",
+          "name" : "Broadcast",
+          "type" : "artist",
+          "uri" : "spotify:artist:0WtTGUjbur1R1cNzBvbsMU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4vm6U9WwZvHUKaCNYRj9Bv",
+        "id" : "4vm6U9WwZvHUKaCNYRj9Bv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bf553ed27db40d056eb217f7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bf553ed27db40d056eb217f7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bf553ed27db40d056eb217f7",
+          "width" : 64
+        } ],
+        "name" : "The Noise Made By People",
+        "release_date" : "2000-03-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4vm6U9WwZvHUKaCNYRj9Bv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WtTGUjbur1R1cNzBvbsMU",
+        "id" : "0WtTGUjbur1R1cNzBvbsMU",
+        "name" : "Broadcast",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WtTGUjbur1R1cNzBvbsMU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231800,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBBPW9900181"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2u0YkYdMURMEhQ6qo3pYEI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2u0YkYdMURMEhQ6qo3pYEI",
+      "id" : "2u0YkYdMURMEhQ6qo3pYEI",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/96035610d448a5cf480197a8a2a74dff5580d211?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:2u0YkYdMURMEhQ6qo3pYEI"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1R486Y8DuEKEH01hypvW1B"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1R486Y8DuEKEH01hypvW1B",
+          "id" : "1R486Y8DuEKEH01hypvW1B",
+          "name" : "David Phelps",
+          "type" : "artist",
+          "uri" : "spotify:artist:1R486Y8DuEKEH01hypvW1B"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2oY4zzT9MroS8U2keJhfzF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2oY4zzT9MroS8U2keJhfzF",
+        "id" : "2oY4zzT9MroS8U2keJhfzF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ff2d4c00f12207a0d239e511",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ff2d4c00f12207a0d239e511",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ff2d4c00f12207a0d239e511",
+          "width" : 64
+        } ],
+        "name" : "Hymnal",
+        "release_date" : "2017-03-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:2oY4zzT9MroS8U2keJhfzF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1R486Y8DuEKEH01hypvW1B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1R486Y8DuEKEH01hypvW1B",
+        "id" : "1R486Y8DuEKEH01hypvW1B",
+        "name" : "David Phelps",
+        "type" : "artist",
+        "uri" : "spotify:artist:1R486Y8DuEKEH01hypvW1B"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 265093,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3271700161"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0mOun4MuTgKUPaUceBaENc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0mOun4MuTgKUPaUceBaENc",
+      "id" : "0mOun4MuTgKUPaUceBaENc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then",
+      "popularity" : 25,
+      "preview_url" : null,
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:0mOun4MuTgKUPaUceBaENc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5cG4XZT46kWrZhKVsYWlZJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5cG4XZT46kWrZhKVsYWlZJ",
+          "id" : "5cG4XZT46kWrZhKVsYWlZJ",
+          "name" : "Narrow Way",
+          "type" : "artist",
+          "uri" : "spotify:artist:5cG4XZT46kWrZhKVsYWlZJ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5gLG9VJOn64GSFYNTJxd54"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5gLG9VJOn64GSFYNTJxd54",
+        "id" : "5gLG9VJOn64GSFYNTJxd54",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739f92a33153f3adc4d0ed2e4e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029f92a33153f3adc4d0ed2e4e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519f92a33153f3adc4d0ed2e4e",
+          "width" : 64
+        } ],
+        "name" : "Shelter Me",
+        "release_date" : "2015-01-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:5gLG9VJOn64GSFYNTJxd54"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cG4XZT46kWrZhKVsYWlZJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cG4XZT46kWrZhKVsYWlZJ",
+        "id" : "5cG4XZT46kWrZhKVsYWlZJ",
+        "name" : "Narrow Way",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cG4XZT46kWrZhKVsYWlZJ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 159786,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMAAK1505478"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6Wu7gWQB86x4lmKAEmU5iI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6Wu7gWQB86x4lmKAEmU5iI",
+      "id" : "6Wu7gWQB86x4lmKAEmU5iI",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/20de9c99a3e31a379427f6f4bc8ab38e808b7f07?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:6Wu7gWQB86x4lmKAEmU5iI"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3LvX4UVIfEjsQVqrbBToQ3",
+          "id" : "3LvX4UVIfEjsQVqrbBToQ3",
+          "name" : "Kenny Barron",
+          "type" : "artist",
+          "uri" : "spotify:artist:3LvX4UVIfEjsQVqrbBToQ3"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7fFLGyDMrSHUmuY6wdAcXe"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7fFLGyDMrSHUmuY6wdAcXe",
+          "id" : "7fFLGyDMrSHUmuY6wdAcXe",
+          "name" : "Dave Holland Trio",
+          "type" : "artist",
+          "uri" : "spotify:artist:7fFLGyDMrSHUmuY6wdAcXe"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/04Kasnk9qEvvXbMepyFlVc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/04Kasnk9qEvvXbMepyFlVc",
+        "id" : "04Kasnk9qEvvXbMepyFlVc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d95209a503e082fd5906cf41",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d95209a503e082fd5906cf41",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d95209a503e082fd5906cf41",
+          "width" : 64
+        } ],
+        "name" : "Without Deception",
+        "release_date" : "2020-03-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:04Kasnk9qEvvXbMepyFlVc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3LvX4UVIfEjsQVqrbBToQ3",
+        "id" : "3LvX4UVIfEjsQVqrbBToQ3",
+        "name" : "Kenny Barron",
+        "type" : "artist",
+        "uri" : "spotify:artist:3LvX4UVIfEjsQVqrbBToQ3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7fFLGyDMrSHUmuY6wdAcXe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7fFLGyDMrSHUmuY6wdAcXe",
+        "id" : "7fFLGyDMrSHUmuY6wdAcXe",
+        "name" : "Dave Holland Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:7fFLGyDMrSHUmuY6wdAcXe"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FzOdzC3xUlGuFNNOQ4Xms",
+        "id" : "5FzOdzC3xUlGuFNNOQ4Xms",
+        "name" : "Johnathan Blake",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FzOdzC3xUlGuFNNOQ4Xms"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 410213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US5821900004"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6Ya5yjPXZJ1r4xVoPEVVGI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6Ya5yjPXZJ1r4xVoPEVVGI",
+      "id" : "6Ya5yjPXZJ1r4xVoPEVVGI",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/885f4e85583475c2bb8d64f841350efb775e804a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6Ya5yjPXZJ1r4xVoPEVVGI"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2wQyX5625x6IGls8zLLHMB",
+          "id" : "2wQyX5625x6IGls8zLLHMB",
+          "name" : "Barbara Lynn",
+          "type" : "artist",
+          "uri" : "spotify:artist:2wQyX5625x6IGls8zLLHMB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7MdI5l8hR9smQpP6meG21Q"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7MdI5l8hR9smQpP6meG21Q",
+        "id" : "7MdI5l8hR9smQpP6meG21Q",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273935bcd729924e80ce1a2008b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02935bcd729924e80ce1a2008b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851935bcd729924e80ce1a2008b",
+          "width" : 64
+        } ],
+        "name" : "You'll Lose a Good Thing",
+        "release_date" : "2006",
+        "release_date_precision" : "year",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:7MdI5l8hR9smQpP6meG21Q"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wQyX5625x6IGls8zLLHMB",
+        "id" : "2wQyX5625x6IGls8zLLHMB",
+        "name" : "Barbara Lynn",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wQyX5625x6IGls8zLLHMB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 199426,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDNB0650409"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5QCFUx4N0KpKRtsCvSUqlT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5QCFUx4N0KpKRtsCvSUqlT",
+      "id" : "5QCFUx4N0KpKRtsCvSUqlT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then I'll Suffer",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9f1eb5744f97a2b86ba830bab2c792e04f9a49f7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:5QCFUx4N0KpKRtsCvSUqlT"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6VSZeMeJlVPGoR2nfB6UxD",
+          "id" : "6VSZeMeJlVPGoR2nfB6UxD",
+          "name" : "Douwe Bob",
+          "type" : "artist",
+          "uri" : "spotify:artist:6VSZeMeJlVPGoR2nfB6UxD"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2zGTnFr94cqtD803qVXGb5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2zGTnFr94cqtD803qVXGb5",
+        "id" : "2zGTnFr94cqtD803qVXGb5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e2e30cf864a730fa01bffea2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e2e30cf864a730fa01bffea2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e2e30cf864a730fa01bffea2",
+          "width" : 64
+        } ],
+        "name" : "Until Then",
+        "release_date" : "2020-03-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:2zGTnFr94cqtD803qVXGb5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6VSZeMeJlVPGoR2nfB6UxD",
+        "id" : "6VSZeMeJlVPGoR2nfB6UxD",
+        "name" : "Douwe Bob",
+        "type" : "artist",
+        "uri" : "spotify:artist:6VSZeMeJlVPGoR2nfB6UxD"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 166071,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLUM72000269"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0i689zmjEikMnjs6OILtoc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0i689zmjEikMnjs6OILtoc",
+      "id" : "0i689zmjEikMnjs6OILtoc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then",
+      "popularity" : 53,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0i689zmjEikMnjs6OILtoc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2O7oRN5HAWrg21HegiHMXK"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2O7oRN5HAWrg21HegiHMXK",
+          "id" : "2O7oRN5HAWrg21HegiHMXK",
+          "name" : "Atu",
+          "type" : "artist",
+          "uri" : "spotify:artist:2O7oRN5HAWrg21HegiHMXK"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5xoemifeumQNKvtNuo3sJf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5xoemifeumQNKvtNuo3sJf",
+        "id" : "5xoemifeumQNKvtNuo3sJf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273befdeeca24f9efe8ee540fb2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02befdeeca24f9efe8ee540fb2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851befdeeca24f9efe8ee540fb2",
+          "width" : 64
+        } ],
+        "name" : "Pictures on Silence",
+        "release_date" : "2013-03-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:5xoemifeumQNKvtNuo3sJf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2O7oRN5HAWrg21HegiHMXK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2O7oRN5HAWrg21HegiHMXK",
+        "id" : "2O7oRN5HAWrg21HegiHMXK",
+        "name" : "Atu",
+        "type" : "artist",
+        "uri" : "spotify:artist:2O7oRN5HAWrg21HegiHMXK"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 160677,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM24S1700013"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7yBiVB23TTFVzGc3jzVTds"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7yBiVB23TTFVzGc3jzVTds",
+      "id" : "7yBiVB23TTFVzGc3jzVTds",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Until Then",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4c3fce73b926f1520623bb925cf9b1519c99b400?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:7yBiVB23TTFVzGc3jzVTds"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Until+Then&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Until+Then&type=track&market=US&offset=0&limit=10",
+    "total" : 3614
+  }
+}

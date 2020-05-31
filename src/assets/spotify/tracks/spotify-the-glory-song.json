@@ -1,0 +1,699 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=The+Glory+Song&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3e7awlrlDSwF3iM0WBjGMp",
+          "id" : "3e7awlrlDSwF3iM0WBjGMp",
+          "name" : "Little Mix",
+          "type" : "artist",
+          "uri" : "spotify:artist:3e7awlrlDSwF3iM0WBjGMp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5DL2Z5x7UJsWH1HhE9j8nd"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5DL2Z5x7UJsWH1HhE9j8nd",
+        "id" : "5DL2Z5x7UJsWH1HhE9j8nd",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c11062d14bee6968fa86008c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c11062d14bee6968fa86008c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c11062d14bee6968fa86008c",
+          "width" : 64
+        } ],
+        "name" : "Glory Days: The Platinum Edition",
+        "release_date" : "2017-11-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:5DL2Z5x7UJsWH1HhE9j8nd"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3e7awlrlDSwF3iM0WBjGMp",
+        "id" : "3e7awlrlDSwF3iM0WBjGMp",
+        "name" : "Little Mix",
+        "type" : "artist",
+        "uri" : "spotify:artist:3e7awlrlDSwF3iM0WBjGMp"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 192620,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBHMU1700011"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6tKHXycLswQ0467UP4LAUw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6tKHXycLswQ0467UP4LAUw",
+      "id" : "6tKHXycLswQ0467UP4LAUw",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "No More Sad Songs - Acoustic Version",
+      "popularity" : 46,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dfc6ed5a92cefa38db290325efaddca7ee67db54?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 25,
+      "type" : "track",
+      "uri" : "spotify:track:6tKHXycLswQ0467UP4LAUw"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0qdblxxVBeNzq1LFwzjN9g",
+          "id" : "0qdblxxVBeNzq1LFwzjN9g",
+          "name" : "Ramshackle Glory",
+          "type" : "artist",
+          "uri" : "spotify:artist:0qdblxxVBeNzq1LFwzjN9g"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/217MWnvPkioCSCh1LO8YBr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/217MWnvPkioCSCh1LO8YBr",
+        "id" : "217MWnvPkioCSCh1LO8YBr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c8fee8b836a2cad100d5fbc9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c8fee8b836a2cad100d5fbc9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c8fee8b836a2cad100d5fbc9",
+          "width" : 64
+        } ],
+        "name" : "Live the Dream",
+        "release_date" : "2011-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:217MWnvPkioCSCh1LO8YBr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0qdblxxVBeNzq1LFwzjN9g",
+        "id" : "0qdblxxVBeNzq1LFwzjN9g",
+        "name" : "Ramshackle Glory",
+        "type" : "artist",
+        "uri" : "spotify:artist:0qdblxxVBeNzq1LFwzjN9g"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 147720,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZFZ42022530"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7KLb4KkE1mrRgi3BvaW12O"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7KLb4KkE1mrRgi3BvaW12O",
+      "id" : "7KLb4KkE1mrRgi3BvaW12O",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "First Song - Live",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/19bed823cab4dc2019ef1d4dfe88a19a2b4b1711?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7KLb4KkE1mrRgi3BvaW12O"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0qdblxxVBeNzq1LFwzjN9g",
+          "id" : "0qdblxxVBeNzq1LFwzjN9g",
+          "name" : "Ramshackle Glory",
+          "type" : "artist",
+          "uri" : "spotify:artist:0qdblxxVBeNzq1LFwzjN9g"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/217MWnvPkioCSCh1LO8YBr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/217MWnvPkioCSCh1LO8YBr",
+        "id" : "217MWnvPkioCSCh1LO8YBr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c8fee8b836a2cad100d5fbc9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c8fee8b836a2cad100d5fbc9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c8fee8b836a2cad100d5fbc9",
+          "width" : 64
+        } ],
+        "name" : "Live the Dream",
+        "release_date" : "2011-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:217MWnvPkioCSCh1LO8YBr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0qdblxxVBeNzq1LFwzjN9g",
+        "id" : "0qdblxxVBeNzq1LFwzjN9g",
+        "name" : "Ramshackle Glory",
+        "type" : "artist",
+        "uri" : "spotify:artist:0qdblxxVBeNzq1LFwzjN9g"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 243973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZFZ42022534"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6V0B53f1wWhtKLix1tMSSL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6V0B53f1wWhtKLix1tMSSL",
+      "id" : "6V0B53f1wWhtKLix1tMSSL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Never Coming Home (Song for the Guilty) - Live",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0074ebe34c94f1f685836bce1afedea12d7c674e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6V0B53f1wWhtKLix1tMSSL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0qdblxxVBeNzq1LFwzjN9g",
+          "id" : "0qdblxxVBeNzq1LFwzjN9g",
+          "name" : "Ramshackle Glory",
+          "type" : "artist",
+          "uri" : "spotify:artist:0qdblxxVBeNzq1LFwzjN9g"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/217MWnvPkioCSCh1LO8YBr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/217MWnvPkioCSCh1LO8YBr",
+        "id" : "217MWnvPkioCSCh1LO8YBr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c8fee8b836a2cad100d5fbc9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c8fee8b836a2cad100d5fbc9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c8fee8b836a2cad100d5fbc9",
+          "width" : 64
+        } ],
+        "name" : "Live the Dream",
+        "release_date" : "2011-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:217MWnvPkioCSCh1LO8YBr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0qdblxxVBeNzq1LFwzjN9g",
+        "id" : "0qdblxxVBeNzq1LFwzjN9g",
+        "name" : "Ramshackle Glory",
+        "type" : "artist",
+        "uri" : "spotify:artist:0qdblxxVBeNzq1LFwzjN9g"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 170280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZFZ42022535"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1s9qbMuPFgwHUClP5cnbS8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1s9qbMuPFgwHUClP5cnbS8",
+      "id" : "1s9qbMuPFgwHUClP5cnbS8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Vampires Are Poseurs (Song for the Living) - Live",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b73aa01ece44afed68e78f59a94f78c8cb120a17?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:1s9qbMuPFgwHUClP5cnbS8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6MYKRhEIKscR8qdGlvpk9y",
+          "id" : "6MYKRhEIKscR8qdGlvpk9y",
+          "name" : "Sovereign Grace Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:6MYKRhEIKscR8qdGlvpk9y"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6GmqHkUvT9NWRxD17vBFJm",
+        "id" : "6GmqHkUvT9NWRxD17vBFJm",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738ed4e3f90f0467c10d27f96e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028ed4e3f90f0467c10d27f96e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518ed4e3f90f0467c10d27f96e",
+          "width" : 64
+        } ],
+        "name" : "30: Three Decades of Songs for the Church",
+        "release_date" : "2014-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:6GmqHkUvT9NWRxD17vBFJm"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6MYKRhEIKscR8qdGlvpk9y",
+        "id" : "6MYKRhEIKscR8qdGlvpk9y",
+        "name" : "Sovereign Grace Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:6MYKRhEIKscR8qdGlvpk9y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5B0gcQCmHJR2VznrIGKh4x",
+        "id" : "5B0gcQCmHJR2VznrIGKh4x",
+        "name" : "Austin Stone Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:5B0gcQCmHJR2VznrIGKh4x"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 244800,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM1490010"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4mElL5LYwdwXpPGlrPJAoo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4mElL5LYwdwXpPGlrPJAoo",
+      "id" : "4mElL5LYwdwXpPGlrPJAoo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Glory in My Redeemer",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ddb25f7f94312536b0bffb6a3f8bca6aadca06c2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4mElL5LYwdwXpPGlrPJAoo"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1pTuR132U5b4Rizal2Pr7m",
+          "id" : "1pTuR132U5b4Rizal2Pr7m",
+          "name" : "Randy Travis",
+          "type" : "artist",
+          "uri" : "spotify:artist:1pTuR132U5b4Rizal2Pr7m"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2sv1EnULtnBsN1oIX0kx3G"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2sv1EnULtnBsN1oIX0kx3G",
+        "id" : "2sv1EnULtnBsN1oIX0kx3G",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732306c927ae7b515b909aaee9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022306c927ae7b515b909aaee9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512306c927ae7b515b909aaee9",
+          "width" : 64
+        } ],
+        "name" : "Glory Train, Songs of Faith, Worship & Praise",
+        "release_date" : "2005-10-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:2sv1EnULtnBsN1oIX0kx3G"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1pTuR132U5b4Rizal2Pr7m",
+        "id" : "1pTuR132U5b4Rizal2Pr7m",
+        "name" : "Randy Travis",
+        "type" : "artist",
+        "uri" : "spotify:artist:1pTuR132U5b4Rizal2Pr7m"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 232840,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR60500482"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1AMYR7ysYxfunEOqxYduaJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1AMYR7ysYxfunEOqxYduaJ",
+      "id" : "1AMYR7ysYxfunEOqxYduaJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Were You There?",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/85bdd6418b2ccdcf1caa6fac045b981ebe164a62?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1AMYR7ysYxfunEOqxYduaJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0qdblxxVBeNzq1LFwzjN9g",
+          "id" : "0qdblxxVBeNzq1LFwzjN9g",
+          "name" : "Ramshackle Glory",
+          "type" : "artist",
+          "uri" : "spotify:artist:0qdblxxVBeNzq1LFwzjN9g"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/217MWnvPkioCSCh1LO8YBr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/217MWnvPkioCSCh1LO8YBr",
+        "id" : "217MWnvPkioCSCh1LO8YBr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c8fee8b836a2cad100d5fbc9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c8fee8b836a2cad100d5fbc9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c8fee8b836a2cad100d5fbc9",
+          "width" : 64
+        } ],
+        "name" : "Live the Dream",
+        "release_date" : "2011-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:217MWnvPkioCSCh1LO8YBr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0qdblxxVBeNzq1LFwzjN9g",
+        "id" : "0qdblxxVBeNzq1LFwzjN9g",
+        "name" : "Ramshackle Glory",
+        "type" : "artist",
+        "uri" : "spotify:artist:0qdblxxVBeNzq1LFwzjN9g"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 200293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZFZ42022539"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1n08ip2o8CBzAF4GS7Ye4A"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1n08ip2o8CBzAF4GS7Ye4A",
+      "id" : "1n08ip2o8CBzAF4GS7Ye4A",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "First Song, Pt. 2 - Live",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ea7d247c83333bbc0207faadc430c4bf3fa9fd6d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1n08ip2o8CBzAF4GS7Ye4A"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3lFjLxwdFzhGr9fhWzE0SW",
+          "id" : "3lFjLxwdFzhGr9fhWzE0SW",
+          "name" : "The Porter's Gate",
+          "type" : "artist",
+          "uri" : "spotify:artist:3lFjLxwdFzhGr9fhWzE0SW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0fGjqZbsoSCGJEfjdaCyCI",
+        "id" : "0fGjqZbsoSCGJEfjdaCyCI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a5b10d516c3c53ff75997acc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a5b10d516c3c53ff75997acc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a5b10d516c3c53ff75997acc",
+          "width" : 64
+        } ],
+        "name" : "Work Songs: The Porter's Gate Worship Project Vol 1",
+        "release_date" : "2017-10-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0fGjqZbsoSCGJEfjdaCyCI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3lFjLxwdFzhGr9fhWzE0SW",
+        "id" : "3lFjLxwdFzhGr9fhWzE0SW",
+        "name" : "The Porter's Gate",
+        "type" : "artist",
+        "uri" : "spotify:artist:3lFjLxwdFzhGr9fhWzE0SW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5KYcfVCcUgV4d1KP3Wozyx",
+        "id" : "5KYcfVCcUgV4d1KP3Wozyx",
+        "name" : "Liz Vice",
+        "type" : "artist",
+        "uri" : "spotify:artist:5KYcfVCcUgV4d1KP3Wozyx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 201557,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMAAK1773720"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1d97hiEf82hyQ3E1S3lLPV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1d97hiEf82hyQ3E1S3lLPV",
+      "id" : "1d97hiEf82hyQ3E1S3lLPV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Labor Unto Glory (Live) [feat. Liz Vice]",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d34e26d614773ce2af1fe2a08ad888024632c333?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1d97hiEf82hyQ3E1S3lLPV"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6mGZXaZ4SWNh6IsJ57thCp",
+          "id" : "6mGZXaZ4SWNh6IsJ57thCp",
+          "name" : "Fernando Ortega",
+          "type" : "artist",
+          "uri" : "spotify:artist:6mGZXaZ4SWNh6IsJ57thCp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4f8QsRCDU92p3aZGQxlWLB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4f8QsRCDU92p3aZGQxlWLB",
+        "id" : "4f8QsRCDU92p3aZGQxlWLB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ef6a7fff8318b536f804dfa3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ef6a7fff8318b536f804dfa3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ef6a7fff8318b536f804dfa3",
+          "width" : 64
+        } ],
+        "name" : "Give Me Jesus: The Biggest Hits Of Fernando Ortega",
+        "release_date" : "2017-10-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4f8QsRCDU92p3aZGQxlWLB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6mGZXaZ4SWNh6IsJ57thCp",
+        "id" : "6mGZXaZ4SWNh6IsJ57thCp",
+        "name" : "Fernando Ortega",
+        "type" : "artist",
+        "uri" : "spotify:artist:6mGZXaZ4SWNh6IsJ57thCp"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 247546,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR60251090"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7mXdm15ebwCB4AVbWCbsOx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7mXdm15ebwCB4AVbWCbsOx",
+      "id" : "7mXdm15ebwCB4AVbWCbsOx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Creation Song (Glory to the Lamb)",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/df5619db0b51f4f59a4efed087186b49957c11b6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:7mXdm15ebwCB4AVbWCbsOx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/68h2f0WXn4zEctSgNYozXx",
+          "id" : "68h2f0WXn4zEctSgNYozXx",
+          "name" : "Aaron Tveit",
+          "type" : "artist",
+          "uri" : "spotify:artist:68h2f0WXn4zEctSgNYozXx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1ZNm0MMX46rrEz4tNNg8mO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1ZNm0MMX46rrEz4tNNg8mO",
+        "id" : "1ZNm0MMX46rrEz4tNNg8mO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27356896680295a2000b46609f4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0256896680295a2000b46609f4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485156896680295a2000b46609f4",
+          "width" : 64
+        } ],
+        "name" : "The Radio in My Head: Live at 54 Below",
+        "release_date" : "2013-09-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:1ZNm0MMX46rrEz4tNNg8mO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68h2f0WXn4zEctSgNYozXx",
+        "id" : "68h2f0WXn4zEctSgNYozXx",
+        "name" : "Aaron Tveit",
+        "type" : "artist",
+        "uri" : "spotify:artist:68h2f0WXn4zEctSgNYozXx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 184160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMQYB1301510"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/36hmKdA633WRtb8NeioA0w"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/36hmKdA633WRtb8NeioA0w",
+      "id" : "36hmKdA633WRtb8NeioA0w",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "One Song Glory (Live)",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ed5900b846b3fd80aa234a1eb773725de135e1a8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:36hmKdA633WRtb8NeioA0w"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=The+Glory+Song&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=The+Glory+Song&type=track&market=US&offset=0&limit=10",
+    "total" : 1852
+  }
+}
