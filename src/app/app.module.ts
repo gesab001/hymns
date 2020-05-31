@@ -14,6 +14,7 @@ import {MatListModule} from '@angular/material/list';
 import {MatCardModule} from '@angular/material/card';
 import {MatBadgeModule} from '@angular/material/badge';
 import { HttpClientModule } from '@angular/common/http';
+import { LayoutModule } from '@angular/cdk/layout';
 
 
 import { SlideshowComponent } from './slideshow/slideshow.component';
@@ -50,6 +51,7 @@ import { ItunesComponent } from './itunes/itunes.component';
     MatCardModule,
     MatBadgeModule,
     HttpClientModule,
+    LayoutModule
     
   ],
   providers: [HttpErrorHandler, MessageService],

@@ -6,7 +6,7 @@ import {ThemePalette} from '@angular/material/core';
 // @ts-ignore
 import hymnsData from '../assets/hymns-spotify.json';
 import {MatSliderChange} from '@angular/material/slider';
-
+import { BreakpointObserver, Breakpoints, BreakpointState } from '@angular/cdk/layout';
 // import {HttpClient, HttpClientModule, HttpParams} from '@angular/common/http';
 // import {NgxSpinnerService} from 'ngx-spinner';
 // import {YoutubeService} from './youtube.service';
@@ -26,7 +26,28 @@ import { Subject } from 'rxjs';
 })
 
 export class AppComponent implements OnInit {
+  isMobile = false;
+ constructor(breakpointObserver: BreakpointObserver) {
+    breakpointObserver.observe([
+      Breakpoints.HandsetLandscape,
+      Breakpoints.HandsetPortrait
+    ]).subscribe(result => {
+      if (result.matches) {
+        this.activateHandsetLayout();
+      }
+      else {
+        this.activateWebLayout();
+      }
+    });
+  }
 
+  activateWebLayout(){
+     this.isMobile = false;
+  };
+
+  activateHandsetLayout(){
+     this.isMobile = true;
+  };
   panelOpenState = false;
   @ViewChild('slider')slider;
   @ViewChild('drawer')drawer;
@@ -73,7 +94,6 @@ export class AppComponent implements OnInit {
     this.verseTitle = 'R';
     this.max = 3;
     this.slider.focus();
-    // this.searchVideos();
   }
 
   // searchVideos(): void {

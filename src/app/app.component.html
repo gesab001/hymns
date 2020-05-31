@@ -31,6 +31,9 @@
                             (swiperight)="onSwipeRight($event)"
                            >
         <mat-drawer #drawer class="example-sidenav" mode="side">
+   <button type="button" mat-button (click)="drawer.toggle()">
+            <span class="material-icons">close</span>
+          </button>
           <form class="example-form">
             <mat-form-field class="example-full-width">
               <input type = "text" #inputElement
@@ -151,7 +154,7 @@
           <button type="button" mat-button (click)="drawer.toggle()">
             <span class="material-icons">menu</span>
           </button>
-          <span>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</span>
+          <span class='mat-subheading-2'>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</span>
 
 
 
@@ -170,7 +173,7 @@
                       [max]="max">
 
           </mat-slider>
-          <h1 class='mat-display-1' *ngFor="let line of hymnsJson[currentHymn]['verses'][slideNumber]['lines']">
+          <h1 [ngClass]="{'mat-body-1': isMobile, 'mat-display-1': !isMobile}" *ngFor="let line of hymnsJson[currentHymn]['verses'][slideNumber]['lines']">
             {{line}}
           </h1>
         </div>

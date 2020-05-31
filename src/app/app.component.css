@@ -19,18 +19,14 @@
 
 
 .mat-drawer {
-  width: 30%;
+  width: 100%;
 }
 
-.mat-display-1{
+.mat-display-1, .mat-body-1, .mat-subheading-2 {
   /*font-family: outline;*/
   color: white;
   text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
   font-weight: bolder;
-  font-size: 3vw;
-
-
-
 }
 
 .mat-display-2{
@@ -38,7 +34,6 @@
   color: red;
   text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
   font-weight: bolder;
-  font-size: 3vw;
 
 
 }
