@@ -11,13 +11,14 @@ import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 })
 export class SpotifyComponent implements OnChanges {
  spotifymessage = 'spotify';
- @Input() message: string;
+
+ @Input() message: any;
   safeSrc: SafeResourceUrl;
   stringurl: string;
   spotify: Spotify[];
   constructor(private spotifyService: SpotifyService, private sanitizer: DomSanitizer) { }
    ngOnChanges(changes: SimpleChanges) {
-    this.searchSpotify(changes.message.currentValue);
+    this.searchSpotify(changes.message.currentValue.filename);
    }
 
 

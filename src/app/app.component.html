@@ -135,7 +135,35 @@
                 <!--                  Currently I am {{panelOpenState ? 'open' : 'closed'}}-->
                 <!--                </mat-panel-description>-->
               </mat-expansion-panel-header>
-             <app-spotify [message]="hymnsJson[currentHymn]['spotify']"></app-spotify>
+
+			<mat-tab-group>
+			  <mat-tab>
+			    <ng-template mat-tab-label>
+                <mat-icon svgIcon="spotify" aria-hidden="false" aria-label="spotify icon"></mat-icon>
+			      Spotify
+			    </ng-template>
+			  <app-spotify [message]="{filename: hymnsJson[currentHymn]['spotify']}"></app-spotify>
+			  </mat-tab>
+
+			  <mat-tab>
+			    <ng-template mat-tab-label>
+                <mat-icon svgIcon="itunes" aria-hidden="false" aria-label="itunes icon"></mat-icon>
+			      Itunes
+			    </ng-template>
+			    Content 2
+			  </mat-tab>
+
+			  <mat-tab>
+			    <ng-template mat-tab-label>
+			      <mat-icon class="example-tab-icon">thumb_up</mat-icon>
+			      Local
+			    </ng-template>
+
+			    Content 3
+			  </mat-tab>
+			</mat-tab-group>
+
+            
           
               <!--              <p>I'm visible because I am open</p>-->
             </mat-expansion-panel>

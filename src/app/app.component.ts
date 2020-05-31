@@ -7,6 +7,8 @@ import {ThemePalette} from '@angular/material/core';
 import hymnsData from '../assets/hymns-spotify.json';
 import {MatSliderChange} from '@angular/material/slider';
 import { BreakpointObserver, Breakpoints, BreakpointState } from '@angular/cdk/layout';
+import {DomSanitizer} from '@angular/platform-browser';
+import {MatIconRegistry} from '@angular/material/icon';
 // import {HttpClient, HttpClientModule, HttpParams} from '@angular/common/http';
 // import {NgxSpinnerService} from 'ngx-spinner';
 // import {YoutubeService} from './youtube.service';
@@ -27,7 +29,7 @@ import { Subject } from 'rxjs';
 
 export class AppComponent implements OnInit {
   isMobile = false;
- constructor(breakpointObserver: BreakpointObserver) {
+ constructor(breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
     breakpointObserver.observe([
       Breakpoints.HandsetLandscape,
       Breakpoints.HandsetPortrait
@@ -39,6 +41,12 @@ export class AppComponent implements OnInit {
         this.activateWebLayout();
       }
     });
+    iconRegistry.addSvgIcon(
+        'spotify',
+        sanitizer.bypassSecurityTrustResourceUrl('assets/images/examples/spotify.svg'));
+    iconRegistry.addSvgIcon(
+        'itunes',
+        sanitizer.bypassSecurityTrustResourceUrl('assets/images/examples/itunes.svg'));
   }
 
   activateWebLayout(){

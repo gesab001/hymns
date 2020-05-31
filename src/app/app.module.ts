@@ -15,7 +15,8 @@ import {MatCardModule} from '@angular/material/card';
 import {MatBadgeModule} from '@angular/material/badge';
 import { HttpClientModule } from '@angular/common/http';
 import { LayoutModule } from '@angular/cdk/layout';
-
+import {MatTabsModule} from '@angular/material/tabs'; 
+import {MatIconModule} from '@angular/material/icon'; 
 
 import { SlideshowComponent } from './slideshow/slideshow.component';
 import { HymnInfoComponent } from './hymn-info/hymn-info.component';
@@ -25,6 +26,9 @@ import { HttpErrorHandler }     from './http-error-handler.service';
 import { MessageService }       from './message.service';
 import { SpotifyComponent } from './spotify/spotify.component';
 import { ItunesComponent } from './itunes/itunes.component';
+
+
+
 
 @NgModule({
   declarations: [
@@ -51,7 +55,9 @@ import { ItunesComponent } from './itunes/itunes.component';
     MatCardModule,
     MatBadgeModule,
     HttpClientModule,
-    LayoutModule
+    LayoutModule,
+    MatTabsModule,
+    MatIconModule
     
   ],
   providers: [HttpErrorHandler, MessageService],
