@@ -6,5 +6,9 @@ export interface Itunes{
   trackViewUrl: string;
   previewUrl: string;
   artworkUrl30: string;
+  artworkUrl100: string;
   releaseDate: string;
+  collectionViewUrl: string;
+  
+
 }

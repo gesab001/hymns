@@ -4,25 +4,25 @@
   <!-- Position Column -->
   <ng-container matColumnDef="title">
     <mat-header-cell *matHeaderCellDef> Title </mat-header-cell>
-    <mat-cell *matCellDef="let element"> {{element.trackName}} </mat-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.trackViewUrl)">{{element.trackName}}</a> </mat-cell>
   </ng-container>
 
   <!-- Name Column -->
   <ng-container matColumnDef="artist">
     <mat-header-cell *matHeaderCellDef> Artist </mat-header-cell>
-    <mat-cell *matCellDef="let element"> {{element.artistName}} </mat-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.artistViewUrl)">{{element.artistName}}</a> </mat-cell>
   </ng-container>
 
   <!-- Weight Column -->
   <ng-container matColumnDef="album">
     <mat-header-cell *matHeaderCellDef> Album </mat-header-cell>
-    <mat-cell *matCellDef="let element"> {{element.collectionName}} </mat-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.collectionName)">{{element.collectionName}}</a>  </mat-cell>
   </ng-container>
 
   <!-- Symbol Column -->
   <ng-container matColumnDef="cover">
     <mat-header-cell *matHeaderCellDef> Cover </mat-header-cell>
-    <mat-cell *matCellDef="let element"> <img [src]="getSafeSrc(element.artworkUrl30)"/> </mat-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.artworkUrl100)"><img [src]="getSafeSrc(element.artworkUrl30)"/></a> </mat-cell>
   </ng-container>
 
   <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
