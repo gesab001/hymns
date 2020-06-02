@@ -1,1 +1,33 @@
-<p>itunes works!</p>
+
+<div  >
+<mat-table [dataSource]="itunes" class="mat-elevation-z8">
+  <!-- Position Column -->
+  <ng-container matColumnDef="title">
+    <mat-header-cell *matHeaderCellDef> Title </mat-header-cell>
+    <mat-cell *matCellDef="let element"> {{element.trackName}} </mat-cell>
+  </ng-container>
+
+  <!-- Name Column -->
+  <ng-container matColumnDef="artist">
+    <mat-header-cell *matHeaderCellDef> Artist </mat-header-cell>
+    <mat-cell *matCellDef="let element"> {{element.artistName}} </mat-cell>
+  </ng-container>
+
+  <!-- Weight Column -->
+  <ng-container matColumnDef="album">
+    <mat-header-cell *matHeaderCellDef> Album </mat-header-cell>
+    <mat-cell *matCellDef="let element"> {{element.collectionName}} </mat-cell>
+  </ng-container>
+
+  <!-- Symbol Column -->
+  <ng-container matColumnDef="cover">
+    <mat-header-cell *matHeaderCellDef> Cover </mat-header-cell>
+    <mat-cell *matCellDef="let element"> <img [src]="getSafeSrc(element.artworkUrl30)"/> </mat-cell>
+  </ng-container>
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>
+</div>
+
+

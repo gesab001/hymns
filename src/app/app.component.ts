@@ -4,30 +4,22 @@ import {Observable} from 'rxjs';
 import {map, startWith, takeUntil} from 'rxjs/operators';
 import {ThemePalette} from '@angular/material/core';
 // @ts-ignore
-import hymnsData from '../assets/hymns-spotify.json';
+import hymnsData from '../assets/hymns-itunes.json';
 import {MatSliderChange} from '@angular/material/slider';
 import { BreakpointObserver, Breakpoints, BreakpointState } from '@angular/cdk/layout';
 import {DomSanitizer} from '@angular/platform-browser';
 import {MatIconRegistry} from '@angular/material/icon';
-// import {HttpClient, HttpClientModule, HttpParams} from '@angular/common/http';
-// import {NgxSpinnerService} from 'ngx-spinner';
-// import {YoutubeService} from './youtube.service';
-import { Subject } from 'rxjs';
-// export interface ChipColor {
-//   name: string;
-//   color: ThemePalette;
-// }
-// import { Video } from './videos';
 
+import { Subject } from 'rxjs';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  // providers: [YoutubeService],
   styleUrls: ['./app.component.css']
 })
 
 export class AppComponent implements OnInit {
+  value = '';
   isMobile = false;
  constructor(breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
     breakpointObserver.observe([
@@ -104,20 +96,15 @@ export class AppComponent implements OnInit {
     this.slider.focus();
   }
 
-  // searchVideos(): void {
-  //   this.youtubeService.searchVideos('praise to the lord')
-  //     .subscribe(videos => (this.videos = videos));
-  // }
+
   itemSelected(evt: string) {
     this.currentHymn = evt;
     this.max = this.hymnsJson[this.currentHymn].verses.length - 1;
     this.slideNumber = 0;
     this.slider.value = 0;
-    this.drawer.close();
+    //this.drawer.close();
     this.slider.focus();
 
-
-    // this.totalVerses = this.hymnsJson[this.currentHymn].verses.length;
   }
 
   onInputChange(event: MatSliderChange) {
@@ -143,23 +130,17 @@ export class AppComponent implements OnInit {
     }
   }
   onTap(evt){
-    this.slider.focus();
-    this.drawer.close();
+    //this.slider.focus();
+    //this.drawer.close();
+    if (this.slideNumber < (this.hymnsJson[this.currentHymn].verses.length) - 1) {
+      this.slideNumber = this.slideNumber + 1;
+      this.slider.value = this.slideNumber;
+      this.slider.focus();
+
+    }
 
   }
-  // toggleShow() {
-  //
-  //   this.isShown = !this.isShown;
-  // }
-  // onLangChange(e) {
-  //   console.log(e);
-  //   const languageSelected = e.source.value;
-  //   if ( this.selectedLanguage !== languageSelected){
-  //
-  //     this.selectedLanguage = (languageSelected);
-  //
-  //   }
-  // }
+
   private _filter(value: string): string[] {
     const filterValue = value.toLowerCase();
 

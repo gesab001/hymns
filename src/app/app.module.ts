@@ -17,6 +17,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { LayoutModule } from '@angular/cdk/layout';
 import {MatTabsModule} from '@angular/material/tabs'; 
 import {MatIconModule} from '@angular/material/icon'; 
+import {MatTableModule} from '@angular/material/table'; 
 
 import { SlideshowComponent } from './slideshow/slideshow.component';
 import { HymnInfoComponent } from './hymn-info/hymn-info.component';
@@ -57,7 +58,8 @@ import { ItunesComponent } from './itunes/itunes.component';
     HttpClientModule,
     LayoutModule,
     MatTabsModule,
-    MatIconModule
+    MatIconModule,
+    MatTableModule
     
   ],
   providers: [HttpErrorHandler, MessageService],
