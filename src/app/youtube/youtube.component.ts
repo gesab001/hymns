@@ -45,11 +45,22 @@ export class YoutubeComponent implements OnChanges{
   }
 
   public getSafeSrc(videoId: string): SafeResourceUrl {
-     this.stringurl = "https://www.youtube.com/embed/"+videoId;
+     this.stringurl = "https://www.youtube.com/"+videoId;
      this.safeSrc =  this.sanitizer.bypassSecurityTrustResourceUrl(this.stringurl);
      return this.safeSrc;
   }
 
+  public getSafeSrcChannel(user: string): SafeResourceUrl {
+     this.stringurl = "https://www.youtube.com/user/"+user;
+     this.safeSrc =  this.sanitizer.bypassSecurityTrustResourceUrl(this.stringurl);
+     return this.safeSrc;
+  }
+
+  public getSafeSrcMore(user: string): SafeResourceUrl {
+     this.stringurl = "https://www.youtube.com/user/"+user+"/videos";
+     this.safeSrc =  this.sanitizer.bypassSecurityTrustResourceUrl(this.stringurl);
+     return this.safeSrc;
+  }
  
 
 }

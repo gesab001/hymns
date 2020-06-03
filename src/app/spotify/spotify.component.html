@@ -1,6 +1,6 @@
-              <div *ngFor="let track of spotify['tracks']['items']; let i = index" >
+<div >
 
-                <iframe [src]="getSafeSrc(spotify['tracks']['items'][i]['id'])"  height="85" frameborder="0"></iframe>  
-              </div>
+         <iframe  *ngFor="let track of spotify; let i = index" [src]="getSafeSrc(track['id'])" height="80" frameborder="0" style="margin-right: 1em;"></iframe> 
 
+</div>
 

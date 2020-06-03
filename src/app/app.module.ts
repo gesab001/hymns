@@ -18,6 +18,7 @@ import { LayoutModule } from '@angular/cdk/layout';
 import {MatTabsModule} from '@angular/material/tabs'; 
 import {MatIconModule} from '@angular/material/icon'; 
 import {MatTableModule} from '@angular/material/table'; 
+import {MatGridListModule} from '@angular/material/grid-list'; 
 
 import { SlideshowComponent } from './slideshow/slideshow.component';
 import { HymnInfoComponent } from './hymn-info/hymn-info.component';
@@ -58,7 +59,8 @@ import { MessageService }       from './message.service';
     LayoutModule,
     MatTabsModule,
     MatIconModule,
-    MatTableModule
+    MatTableModule,
+    MatGridListModule
     
   ],
   providers: [HttpErrorHandler, MessageService],

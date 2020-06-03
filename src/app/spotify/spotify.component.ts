@@ -25,7 +25,7 @@ export class SpotifyComponent implements OnChanges {
 
   searchSpotify(term: string): void {
     this.spotifyService.getSpotify(term)
-      .subscribe(spotify => (this.spotify = spotify));
+      .subscribe(spotify => (this.spotify = spotify["tracks"]["items"]));
     this.spotifymessage = term;
   }
 

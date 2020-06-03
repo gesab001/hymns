@@ -9,7 +9,7 @@ import { HttpErrorHandler, HandleError } from '../http-error-handler.service';
 
 export class YoutubeService {
   private handleError: HandleError;
-  youtubeUrl = 'assets/youtube/tracks/';
+  youtubeUrl = 'https://www.googleapis.com/youtube/v3/search?fields=items(id(videoId),snippet(title,description,channelId,channelTitle,publishedAt,thumbnails(default(url))))&part=snippet&maxResults=25&key=AIzaSyA6xZqvU8GsCuu_qKbnUZVv2ddxLdyiLpA&q=';
   constructor(
     private http: HttpClient,
     httpErrorHandler: HttpErrorHandler) {

@@ -1,4 +1,16 @@
-<div *ngFor="let item of youtube">
-<a [href]="getSafeSrc(item.id.videoId)">{{item.id.videoId}}</a>
- 
+<div >
+<mat-card *ngFor="let item of youtube">
+ <mat-card-header>
+<mat-card-title>{{item.snippet.title}}</mat-card-title>
+<mat-card-subtitle><a [href]="getSafeSrcChannel(item.snippet.channelTitle)"> {{item.snippet.channelTitle}}</a></mat-card-subtitle>
+</mat-card-header>
+<mat-card-content>
+<p>{{item.snippet.description}}</p>
+</mat-card-content>
+<mat-card-actions>
+    <a  [href]="getSafeSrc(item.id.videoId)"><button mat-button>PLAY</button></a>
+    <a  [href]="getSafeSrcMore(item.snippet.channelTitle)"><button mat-button>MORE VIDEOS LIKE THIS</button></a>
+  </mat-card-actions>
+
+</mat-card> 
 </div>
