@@ -5,7 +5,7 @@ import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 import {MatPaginator} from '@angular/material/paginator';
 import {MatSort} from '@angular/material/sort';
 import {MatTableDataSource} from '@angular/material/table';
-
+import { DeviceDetectorService } from 'ngx-device-detector';
 
 @Component({
   selector: 'app-youtube',
@@ -15,7 +15,7 @@ import {MatTableDataSource} from '@angular/material/table';
 })
 export class YoutubeComponent implements OnChanges{
   displayedColumns: string[] = ['preview', 'title', 'artist', 'album', 'cover'];
-
+    deviceInfo = null;
  
 
   @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;
@@ -27,9 +27,8 @@ export class YoutubeComponent implements OnChanges{
   stringurl: string;
   youtube: Youtube[];
 
-  constructor(private youtubeService: YoutubeService, private sanitizer: DomSanitizer) { 
-
-   }
+  constructor(private youtubeService: YoutubeService, private sanitizer: DomSanitizer, private deviceService: DeviceDetectorService) 
+       { this.epicFunction();}
    ngOnChanges(changes: SimpleChanges) {
     this.searchYoutube(changes.message.currentValue.filename);
 
@@ -45,22 +44,33 @@ export class YoutubeComponent implements OnChanges{
   }
 
   public getSafeSrc(videoId: string): SafeResourceUrl {
-     this.stringurl = "https://www.youtube.com/"+videoId;
+     this.stringurl = "https://www.youtube.com/embed/"+videoId;
      this.safeSrc =  this.sanitizer.bypassSecurityTrustResourceUrl(this.stringurl);
      return this.safeSrc;
   }
 
-  public getSafeSrcChannel(user: string): SafeResourceUrl {
-     this.stringurl = "https://www.youtube.com/user/"+user;
+  public getSafeSrcChannel(channelId: string): SafeResourceUrl {
+     const isMobile = this.epicFunction();
+     this.stringurl = "https://www.youtube.com/channel/"+channelId;
+     if (isMobile){
+         this.stringurl = "https://m.youtube.com/channel/"+channelId;
+     }
      this.safeSrc =  this.sanitizer.bypassSecurityTrustResourceUrl(this.stringurl);
      return this.safeSrc;
   }
 
-  public getSafeSrcMore(user: string): SafeResourceUrl {
-     this.stringurl = "https://www.youtube.com/user/"+user+"/videos";
-     this.safeSrc =  this.sanitizer.bypassSecurityTrustResourceUrl(this.stringurl);
-     return this.safeSrc;
-  }
+  public epicFunction(): boolean {
+      console.log('hello `Home` component');
+      this.deviceInfo = this.deviceService.getDeviceInfo();
+      const isMobile = this.deviceService.isMobile();
+      const isTablet = this.deviceService.isTablet();
+      const isDesktopDevice = this.deviceService.isDesktop();
+      console.log(this.deviceInfo);
+      return isMobile;
+    }
  
+  public goToLink(url: string){
+    window.open(url, "_blank");
+  }
 
 }

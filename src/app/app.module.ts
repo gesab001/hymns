@@ -19,6 +19,7 @@ import {MatTabsModule} from '@angular/material/tabs';
 import {MatIconModule} from '@angular/material/icon'; 
 import {MatTableModule} from '@angular/material/table'; 
 import {MatGridListModule} from '@angular/material/grid-list'; 
+import { DeviceDetectorModule } from 'ngx-device-detector';
 
 import { SlideshowComponent } from './slideshow/slideshow.component';
 import { HymnInfoComponent } from './hymn-info/hymn-info.component';
@@ -60,7 +61,8 @@ import { MessageService }       from './message.service';
     MatTabsModule,
     MatIconModule,
     MatTableModule,
-    MatGridListModule
+    MatGridListModule,
+    DeviceDetectorModule.forRoot()
     
   ],
   providers: [HttpErrorHandler, MessageService],
