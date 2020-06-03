@@ -21,13 +21,12 @@ import {MatTableModule} from '@angular/material/table';
 
 import { SlideshowComponent } from './slideshow/slideshow.component';
 import { HymnInfoComponent } from './hymn-info/hymn-info.component';
-import { VideosComponent } from './videos/videos.component';
-
-import { HttpErrorHandler }     from './http-error-handler.service';
-import { MessageService }       from './message.service';
+import { YoutubeComponent } from './youtube/youtube.component';
 import { SpotifyComponent } from './spotify/spotify.component';
 import { ItunesComponent } from './itunes/itunes.component';
 
+import { HttpErrorHandler }     from './http-error-handler.service';
+import { MessageService }       from './message.service';
 
 
 
@@ -36,7 +35,7 @@ import { ItunesComponent } from './itunes/itunes.component';
     AppComponent,
     SlideshowComponent,
     HymnInfoComponent,
-    VideosComponent,
+    YoutubeComponent,
     SpotifyComponent,
     ItunesComponent
   ],

@@ -85,13 +85,13 @@
                                  (closed)="panelOpenState = false">
               <mat-expansion-panel-header>
                 <mat-panel-title>
-                  Videos
+                  Watch
                 </mat-panel-title>
 <!--                <mat-panel-description>-->
 <!--                  Currently I am {{panelOpenState ? 'open' : 'closed'}}-->
 <!--                </mat-panel-description>-->
               </mat-expansion-panel-header>
-
+                 <app-youtube [message]="{filename: hymnsJson[currentHymn]['youtube']}"></app-youtube>
                     
 
 
@@ -102,7 +102,7 @@
                                  (closed)="panelOpenState = false">
               <mat-expansion-panel-header>
                 <mat-panel-title>
-                  MP3s
+                  Listen
                 </mat-panel-title>
 
 

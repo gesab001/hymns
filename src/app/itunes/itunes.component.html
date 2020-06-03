@@ -1,6 +1,17 @@
 
 <div  >
 <mat-table [dataSource]="itunes" class="mat-elevation-z8">
+  <!-- Position Preview -->
+  <ng-container matColumnDef="preview">
+    <mat-header-cell *matHeaderCellDef> Preview </mat-header-cell>
+    <mat-cell *matCellDef="let element">  
+        <audio controls style="width: 100%;">
+          <source [src]="getSafeSrc(element.previewUrl)" type="audio/ogg">
+          <source [src]="getSafeSrc(element.previewUrl)" type="audio/mpeg">
+                Your browser does not support the audio element.
+        </audio>  
+    </mat-cell>
+  </ng-container>
   <!-- Position Column -->
   <ng-container matColumnDef="title">
     <mat-header-cell *matHeaderCellDef> Title </mat-header-cell>

@@ -4,7 +4,7 @@ import {Observable} from 'rxjs';
 import {map, startWith, takeUntil} from 'rxjs/operators';
 import {ThemePalette} from '@angular/material/core';
 // @ts-ignore
-import hymnsData from '../assets/hymns-itunes.json';
+import hymnsData from '../assets/hymns-youtube.json';
 import {MatSliderChange} from '@angular/material/slider';
 import { BreakpointObserver, Breakpoints, BreakpointState } from '@angular/cdk/layout';
 import {DomSanitizer} from '@angular/platform-browser';

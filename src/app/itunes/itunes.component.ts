@@ -33,7 +33,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   styleUrls: ['./itunes.component.css']
 })
 export class ItunesComponent implements OnChanges{
-  displayedColumns: string[] = ['title', 'artist', 'album', 'cover'];
+  displayedColumns: string[] = ['preview', 'title', 'artist', 'album', 'cover'];
 
  
 
