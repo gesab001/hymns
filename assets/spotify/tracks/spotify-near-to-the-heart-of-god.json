@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Near+to+the+Heart+of+God&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Z7ndTqS6EPzpNn322s0Nw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Z7ndTqS6EPzpNn322s0Nw",
+          "id" : "5Z7ndTqS6EPzpNn322s0Nw",
+          "name" : "Jaime Jorge",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Z7ndTqS6EPzpNn322s0Nw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4H2NOUg8qmYjjmgNP0u4or"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4H2NOUg8qmYjjmgNP0u4or",
+        "id" : "4H2NOUg8qmYjjmgNP0u4or",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e13d4a0caafb63247563a020",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e13d4a0caafb63247563a020",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e13d4a0caafb63247563a020",
+          "width" : 64
+        } ],
+        "name" : "Softly & Tenderly",
+        "release_date" : "2003",
+        "release_date_precision" : "year",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4H2NOUg8qmYjjmgNP0u4or"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Z7ndTqS6EPzpNn322s0Nw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Z7ndTqS6EPzpNn322s0Nw",
+        "id" : "5Z7ndTqS6EPzpNn322s0Nw",
+        "name" : "Jaime Jorge",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Z7ndTqS6EPzpNn322s0Nw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 210066,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh0926339"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6DKXvOwQgPQJ0wemwVyGsM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6DKXvOwQgPQJ0wemwVyGsM",
+      "id" : "6DKXvOwQgPQJ0wemwVyGsM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near To The Heart Of God/Nearer, My God, To Thee",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3535ec42335abcd42982530248ac4ad044f8ae71?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:6DKXvOwQgPQJ0wemwVyGsM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/689yVIN1tRJfZD5zklQmrV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/689yVIN1tRJfZD5zklQmrV",
+          "id" : "689yVIN1tRJfZD5zklQmrV",
+          "name" : "Janice Faber",
+          "type" : "artist",
+          "uri" : "spotify:artist:689yVIN1tRJfZD5zklQmrV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6Zmu1wizhnyDwaIovjx1Et"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6Zmu1wizhnyDwaIovjx1Et",
+        "id" : "6Zmu1wizhnyDwaIovjx1Et",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738716a9dfd6daa4c930e43ee9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028716a9dfd6daa4c930e43ee9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518716a9dfd6daa4c930e43ee9",
+          "width" : 64
+        } ],
+        "name" : "Rest Assured - Hymns On Piano",
+        "release_date" : "2008-03-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6Zmu1wizhnyDwaIovjx1Et"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/689yVIN1tRJfZD5zklQmrV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/689yVIN1tRJfZD5zklQmrV",
+        "id" : "689yVIN1tRJfZD5zklQmrV",
+        "name" : "Janice Faber",
+        "type" : "artist",
+        "uri" : "spotify:artist:689yVIN1tRJfZD5zklQmrV"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 146133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usy280746956"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/18XDLVIDKtMZbn4TOfakxT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/18XDLVIDKtMZbn4TOfakxT",
+      "id" : "18XDLVIDKtMZbn4TOfakxT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near To The Heart Of God",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fa49d7e57a7b1b8b4774c0e43a8b5298534b9603?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:18XDLVIDKtMZbn4TOfakxT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+          "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+          "name" : "Instrumental Christian Songs, Christian Piano Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4q5m60pP9prej0x0fOwE33"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4q5m60pP9prej0x0fOwE33",
+        "id" : "4q5m60pP9prej0x0fOwE33",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273102a9b70a228ebb19ae84e14",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02102a9b70a228ebb19ae84e14",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851102a9b70a228ebb19ae84e14",
+          "width" : 64
+        } ],
+        "name" : "9 Gods Gift Of Singing",
+        "release_date" : "2020-05-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:4q5m60pP9prej0x0fOwE33"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+        "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+        "name" : "Instrumental Christian Songs, Christian Piano Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 86015,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW45221720"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6WE4CIp66GKGYG4DrvdiWj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6WE4CIp66GKGYG4DrvdiWj",
+      "id" : "6WE4CIp66GKGYG4DrvdiWj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near To The Heart Of God",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a0887fd61d8b8fc9693ecae72091b2872cdca6f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6WE4CIp66GKGYG4DrvdiWj"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+          "id" : "1fO0DHOhFIvuPtObA3LtHR",
+          "name" : "Christian Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0TdBDJcljsfTF6Rw9w5szf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0TdBDJcljsfTF6Rw9w5szf",
+        "id" : "0TdBDJcljsfTF6Rw9w5szf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273aadbc2dfe90342ba63aaa939",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02aadbc2dfe90342ba63aaa939",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851aadbc2dfe90342ba63aaa939",
+          "width" : 64
+        } ],
+        "name" : "8 The Gift Of God",
+        "release_date" : "2020-05-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:0TdBDJcljsfTF6Rw9w5szf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+        "id" : "1fO0DHOhFIvuPtObA3LtHR",
+        "name" : "Christian Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 86015,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW45221730"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6iKmDODzk0zDSXZBQfgUfB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6iKmDODzk0zDSXZBQfgUfB",
+      "id" : "6iKmDODzk0zDSXZBQfgUfB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near To The Heart Of God",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a0887fd61d8b8fc9693ecae72091b2872cdca6f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6iKmDODzk0zDSXZBQfgUfB"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+          "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+          "name" : "Praise and Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/736Nc8WH5v2KMXQ6dsdiDg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/736Nc8WH5v2KMXQ6dsdiDg",
+        "id" : "736Nc8WH5v2KMXQ6dsdiDg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27301ae168be4ee630e2bc0ab86",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0201ae168be4ee630e2bc0ab86",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485101ae168be4ee630e2bc0ab86",
+          "width" : 64
+        } ],
+        "name" : "10 The Gift Of Grace",
+        "release_date" : "2020-05-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:736Nc8WH5v2KMXQ6dsdiDg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+        "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+        "name" : "Praise and Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 86015,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW45221751"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4NYG5NaauXY3CaUDGlbjbh"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4NYG5NaauXY3CaUDGlbjbh",
+      "id" : "4NYG5NaauXY3CaUDGlbjbh",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near To The Heart Of God",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a0887fd61d8b8fc9693ecae72091b2872cdca6f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4NYG5NaauXY3CaUDGlbjbh"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/71WdmiUGtujRDl2Iiocpvy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/71WdmiUGtujRDl2Iiocpvy",
+          "id" : "71WdmiUGtujRDl2Iiocpvy",
+          "name" : "Samuel Mitchell",
+          "type" : "artist",
+          "uri" : "spotify:artist:71WdmiUGtujRDl2Iiocpvy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3mZ0NhI2uQ9Qc4pwTifsJJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3mZ0NhI2uQ9Qc4pwTifsJJ",
+        "id" : "3mZ0NhI2uQ9Qc4pwTifsJJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cbb9a49b1f308eb023d998b0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cbb9a49b1f308eb023d998b0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cbb9a49b1f308eb023d998b0",
+          "width" : 64
+        } ],
+        "name" : "Quiet Rest",
+        "release_date" : "2020-05-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:3mZ0NhI2uQ9Qc4pwTifsJJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/71WdmiUGtujRDl2Iiocpvy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/71WdmiUGtujRDl2Iiocpvy",
+        "id" : "71WdmiUGtujRDl2Iiocpvy",
+        "name" : "Samuel Mitchell",
+        "type" : "artist",
+        "uri" : "spotify:artist:71WdmiUGtujRDl2Iiocpvy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 212600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm22017914"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1aYKm3X9VYk9z9eKfP8niX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1aYKm3X9VYk9z9eKfP8niX",
+      "id" : "1aYKm3X9VYk9z9eKfP8niX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near to the Heart of God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/555b12a23bb717d6ff78c6eac4145002aa041b5f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1aYKm3X9VYk9z9eKfP8niX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1c06c3qzcRGYkXzoflUSqe"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1c06c3qzcRGYkXzoflUSqe",
+          "id" : "1c06c3qzcRGYkXzoflUSqe",
+          "name" : "Albanzas Cristianas",
+          "type" : "artist",
+          "uri" : "spotify:artist:1c06c3qzcRGYkXzoflUSqe"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/65iNWuGRdaTvYMwp8bndOF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/65iNWuGRdaTvYMwp8bndOF",
+        "id" : "65iNWuGRdaTvYMwp8bndOF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273eb1c120f9603443a436548ba",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02eb1c120f9603443a436548ba",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851eb1c120f9603443a436548ba",
+          "width" : 64
+        } ],
+        "name" : "11 Prayer Stimulation",
+        "release_date" : "2020-05-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:65iNWuGRdaTvYMwp8bndOF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1c06c3qzcRGYkXzoflUSqe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1c06c3qzcRGYkXzoflUSqe",
+        "id" : "1c06c3qzcRGYkXzoflUSqe",
+        "name" : "Albanzas Cristianas",
+        "type" : "artist",
+        "uri" : "spotify:artist:1c06c3qzcRGYkXzoflUSqe"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 86015,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW45221859"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5DIZJAaCvMJ667ljedtVtU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5DIZJAaCvMJ667ljedtVtU",
+      "id" : "5DIZJAaCvMJ667ljedtVtU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near To The Heart Of God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a0887fd61d8b8fc9693ecae72091b2872cdca6f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5DIZJAaCvMJ667ljedtVtU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0CMACjegQ8a1EZBrL7pUnX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0CMACjegQ8a1EZBrL7pUnX",
+          "id" : "0CMACjegQ8a1EZBrL7pUnX",
+          "name" : "Christian Yoga Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:0CMACjegQ8a1EZBrL7pUnX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7ewEow8ogLnZ59vU53rPD3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7ewEow8ogLnZ59vU53rPD3",
+        "id" : "7ewEow8ogLnZ59vU53rPD3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f440cb6c244ccdf9aea764e2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f440cb6c244ccdf9aea764e2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f440cb6c244ccdf9aea764e2",
+          "width" : 64
+        } ],
+        "name" : "8 Songs Of Catholicism",
+        "release_date" : "2020-05-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:7ewEow8ogLnZ59vU53rPD3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CMACjegQ8a1EZBrL7pUnX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CMACjegQ8a1EZBrL7pUnX",
+        "id" : "0CMACjegQ8a1EZBrL7pUnX",
+        "name" : "Christian Yoga Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CMACjegQ8a1EZBrL7pUnX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 86015,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBPW45221734"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/48WRHVEb8PDHf3jfkP7gcv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/48WRHVEb8PDHf3jfkP7gcv",
+      "id" : "48WRHVEb8PDHf3jfkP7gcv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near To The Heart Of God",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a0887fd61d8b8fc9693ecae72091b2872cdca6f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:48WRHVEb8PDHf3jfkP7gcv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7rEg2Ki4383GBHtTPs2dwY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7rEg2Ki4383GBHtTPs2dwY",
+          "id" : "7rEg2Ki4383GBHtTPs2dwY",
+          "name" : "Billy Ray Hearn & Tom Fettke",
+          "type" : "artist",
+          "uri" : "spotify:artist:7rEg2Ki4383GBHtTPs2dwY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7EEq2emuoh58AF6VZ9uMLt"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7EEq2emuoh58AF6VZ9uMLt",
+        "id" : "7EEq2emuoh58AF6VZ9uMLt",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c13c4bd16462ab1c590962fa",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c13c4bd16462ab1c590962fa",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c13c4bd16462ab1c590962fa",
+          "width" : 64
+        } ],
+        "name" : "The Majesty And Glory",
+        "release_date" : "1988-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:7EEq2emuoh58AF6VZ9uMLt"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49xEKLfNLxBTboO6UwuSPH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49xEKLfNLxBTboO6UwuSPH",
+        "id" : "49xEKLfNLxBTboO6UwuSPH",
+        "name" : "The Majesty And Glory Performers",
+        "type" : "artist",
+        "uri" : "spotify:artist:49xEKLfNLxBTboO6UwuSPH"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 128666,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP38859858"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/32zxZNkgnS7TLSUEAgGKSS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/32zxZNkgnS7TLSUEAgGKSS",
+      "id" : "32zxZNkgnS7TLSUEAgGKSS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near To The Heart Of God",
+      "popularity" : 15,
+      "preview_url" : null,
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:32zxZNkgnS7TLSUEAgGKSS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6oLzN8cU382zotCKpCNcbT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6oLzN8cU382zotCKpCNcbT",
+          "id" : "6oLzN8cU382zotCKpCNcbT",
+          "name" : "Dino",
+          "type" : "artist",
+          "uri" : "spotify:artist:6oLzN8cU382zotCKpCNcbT"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5MFbYPISuqiZ5BpA2eeQTV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5MFbYPISuqiZ5BpA2eeQTV",
+        "id" : "5MFbYPISuqiZ5BpA2eeQTV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736f041c55c0229e88e0a0d089",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026f041c55c0229e88e0a0d089",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516f041c55c0229e88e0a0d089",
+          "width" : 64
+        } ],
+        "name" : "Sacred Piano: Hymns Collection, Vol. 2",
+        "release_date" : "2007-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5MFbYPISuqiZ5BpA2eeQTV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6oLzN8cU382zotCKpCNcbT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6oLzN8cU382zotCKpCNcbT",
+        "id" : "6oLzN8cU382zotCKpCNcbT",
+        "name" : "Dino",
+        "type" : "artist",
+        "uri" : "spotify:artist:6oLzN8cU382zotCKpCNcbT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 202840,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USACX0800797"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4FzgcefO0QdHCShdD2Xbe2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4FzgcefO0QdHCShdD2Xbe2",
+      "id" : "4FzgcefO0QdHCShdD2Xbe2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Near to the Heart of God",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/153c4a14f43e075a721779e51484feef3e2f69bf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4FzgcefO0QdHCShdD2Xbe2"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Near+to+the+Heart+of+God&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Near+to+the+Heart+of+God&type=track&market=US&offset=0&limit=10",
+    "total" : 369
+  }
+}

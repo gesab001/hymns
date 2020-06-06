@@ -1,0 +1,744 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Lift+Him+Up&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5UzGtBBwUB77l2ZI4fbfig",
+          "id" : "5UzGtBBwUB77l2ZI4fbfig",
+          "name" : "Ron Kenoly",
+          "type" : "artist",
+          "uri" : "spotify:artist:5UzGtBBwUB77l2ZI4fbfig"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/72iDlGYfVrntfpKzmAv0Hn",
+          "id" : "72iDlGYfVrntfpKzmAv0Hn",
+          "name" : "Integrity's Hosanna! Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:72iDlGYfVrntfpKzmAv0Hn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4Yyq3MuNdP0FOMgDkc5UqO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4Yyq3MuNdP0FOMgDkc5UqO",
+        "id" : "4Yyq3MuNdP0FOMgDkc5UqO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27309ded07c830c95cae35a4ec9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0209ded07c830c95cae35a4ec9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485109ded07c830c95cae35a4ec9",
+          "width" : 64
+        } ],
+        "name" : "Lift Him Up (Live)",
+        "release_date" : "1992-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:4Yyq3MuNdP0FOMgDkc5UqO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5UzGtBBwUB77l2ZI4fbfig",
+        "id" : "5UzGtBBwUB77l2ZI4fbfig",
+        "name" : "Ron Kenoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:5UzGtBBwUB77l2ZI4fbfig"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/72iDlGYfVrntfpKzmAv0Hn",
+        "id" : "72iDlGYfVrntfpKzmAv0Hn",
+        "name" : "Integrity's Hosanna! Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:72iDlGYfVrntfpKzmAv0Hn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 260839,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM19701947"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/03AUhnxMcvvlSnclFVgIsR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/03AUhnxMcvvlSnclFVgIsR",
+      "id" : "03AUhnxMcvvlSnclFVgIsR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift Him Up - Live",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2516c77c9619320d3b4b863bb8a5174dcac7adeb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:03AUhnxMcvvlSnclFVgIsR"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7Chtf3vPBXpiL18y5MuRCi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7Chtf3vPBXpiL18y5MuRCi",
+        "id" : "7Chtf3vPBXpiL18y5MuRCi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c0273c30e40d2aa6664313b1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c0273c30e40d2aa6664313b1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c0273c30e40d2aa6664313b1",
+          "width" : 64
+        } ],
+        "name" : "Immersed",
+        "release_date" : "2007-12-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:7Chtf3vPBXpiL18y5MuRCi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gXmjQIxCO8lMnSncluZaU",
+        "id" : "2gXmjQIxCO8lMnSncluZaU",
+        "name" : "Cory Asbury",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gXmjQIxCO8lMnSncluZaU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 227133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM0800331"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/31tJfHspu7sb4kmADeVneE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/31tJfHspu7sb4kmADeVneE",
+      "id" : "31tJfHspu7sb4kmADeVneE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift Him Up",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e50c02942ee51a1bd7cc6cdbe3a573e82ef907fe?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:31tJfHspu7sb4kmADeVneE"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5UzGtBBwUB77l2ZI4fbfig",
+          "id" : "5UzGtBBwUB77l2ZI4fbfig",
+          "name" : "Ron Kenoly",
+          "type" : "artist",
+          "uri" : "spotify:artist:5UzGtBBwUB77l2ZI4fbfig"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6nw12aeXrMQWIhKxLtb8fr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6nw12aeXrMQWIhKxLtb8fr",
+        "id" : "6nw12aeXrMQWIhKxLtb8fr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27345b30ed6122ac216bff4cf1c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0245b30ed6122ac216bff4cf1c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485145b30ed6122ac216bff4cf1c",
+          "width" : 64
+        } ],
+        "name" : "The Best of Ron Kenoly : High Places",
+        "release_date" : "2010-12-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:6nw12aeXrMQWIhKxLtb8fr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5UzGtBBwUB77l2ZI4fbfig",
+        "id" : "5UzGtBBwUB77l2ZI4fbfig",
+        "name" : "Ron Kenoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:5UzGtBBwUB77l2ZI4fbfig"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 259160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US25L0600337"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2qOWIMofQADw7mamzxuQFs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2qOWIMofQADw7mamzxuQFs",
+      "id" : "2qOWIMofQADw7mamzxuQFs",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift Him Up",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e4acda5677d9293376dd1d67e2174fedf03b583f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2qOWIMofQADw7mamzxuQFs"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5j9IEu1SEY0JslCPmfVsgq",
+          "id" : "5j9IEu1SEY0JslCPmfVsgq",
+          "name" : "Willie Watson",
+          "type" : "artist",
+          "uri" : "spotify:artist:5j9IEu1SEY0JslCPmfVsgq"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2CBLeaL8ProyeOOhc1QFpb",
+        "id" : "2CBLeaL8ProyeOOhc1QFpb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27329d2cc08ca17f979bd7c33dd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0229d2cc08ca17f979bd7c33dd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485129d2cc08ca17f979bd7c33dd",
+          "width" : 64
+        } ],
+        "name" : "Folksinger Vol. 2",
+        "release_date" : "2017-09-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:2CBLeaL8ProyeOOhc1QFpb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5j9IEu1SEY0JslCPmfVsgq",
+        "id" : "5j9IEu1SEY0JslCPmfVsgq",
+        "name" : "Willie Watson",
+        "type" : "artist",
+        "uri" : "spotify:artist:5j9IEu1SEY0JslCPmfVsgq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 155586,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2AR1771408"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5uJfn0Gknq7vftrty0dICZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5uJfn0Gknq7vftrty0dICZ",
+      "id" : "5uJfn0Gknq7vftrty0dICZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Always Lift Him Up And Never Knock Him Down",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a86692c87ab1d4555e33721857f99039088683ac?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:5uJfn0Gknq7vftrty0dICZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2ndyVAdV9UqF1XjyTJt484",
+          "id" : "2ndyVAdV9UqF1XjyTJt484",
+          "name" : "Fred Hammond",
+          "type" : "artist",
+          "uri" : "spotify:artist:2ndyVAdV9UqF1XjyTJt484"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0XOJ1ca49mjMj6SLdtfihI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0XOJ1ca49mjMj6SLdtfihI",
+        "id" : "0XOJ1ca49mjMj6SLdtfihI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27316d75a8f3a65b5a188001418",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0216d75a8f3a65b5a188001418",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485116d75a8f3a65b5a188001418",
+          "width" : 64
+        } ],
+        "name" : "God, Love & Romance",
+        "release_date" : "2012-01-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 34,
+        "type" : "album",
+        "uri" : "spotify:album:0XOJ1ca49mjMj6SLdtfihI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ndyVAdV9UqF1XjyTJt484",
+        "id" : "2ndyVAdV9UqF1XjyTJt484",
+        "name" : "Fred Hammond",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ndyVAdV9UqF1XjyTJt484"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 319053,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USVE21100090"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3MBvZIPNppWoU0VQmpKzyZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3MBvZIPNppWoU0VQmpKzyZ",
+      "id" : "3MBvZIPNppWoU0VQmpKzyZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Lift Him Up",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d598e7f23d67aaef5171e3cbc5521d989df02b65?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:3MBvZIPNppWoU0VQmpKzyZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1CPwHx5lgVxv0rfcp7UXLx",
+          "id" : "1CPwHx5lgVxv0rfcp7UXLx",
+          "name" : "Ry Cooder",
+          "type" : "artist",
+          "uri" : "spotify:artist:1CPwHx5lgVxv0rfcp7UXLx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1By4AXIO9wT3wapXpRjgKG"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1By4AXIO9wT3wapXpRjgKG",
+        "id" : "1By4AXIO9wT3wapXpRjgKG",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273283c0e613feb30b2ace73942",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02283c0e613feb30b2ace73942",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851283c0e613feb30b2ace73942",
+          "width" : 64
+        } ],
+        "name" : "Chicken Skin Music",
+        "release_date" : "1976",
+        "release_date_precision" : "year",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:1By4AXIO9wT3wapXpRjgKG"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1CPwHx5lgVxv0rfcp7UXLx",
+        "id" : "1CPwHx5lgVxv0rfcp7UXLx",
+        "name" : "Ry Cooder",
+        "type" : "artist",
+        "uri" : "spotify:artist:1CPwHx5lgVxv0rfcp7UXLx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 363493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWB19903206"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Iqqhy6Jp2Rcf9VTpoqjF2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Iqqhy6Jp2Rcf9VTpoqjF2",
+      "id" : "2Iqqhy6Jp2Rcf9VTpoqjF2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Always Lift Him Up / Kanaka Wai Wai",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cc23a6250ad759a20739bbb2ff31c822a429d4c1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2Iqqhy6Jp2Rcf9VTpoqjF2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7GX5HgELrPMX53Xj0amon5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7GX5HgELrPMX53Xj0amon5",
+          "id" : "7GX5HgELrPMX53Xj0amon5",
+          "name" : "Iams6x",
+          "type" : "artist",
+          "uri" : "spotify:artist:7GX5HgELrPMX53Xj0amon5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3SJmGkFGmIPMtVrcrPn4Ns"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3SJmGkFGmIPMtVrcrPn4Ns",
+        "id" : "3SJmGkFGmIPMtVrcrPn4Ns",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d9a3ff618eb79f643920ca04",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d9a3ff618eb79f643920ca04",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d9a3ff618eb79f643920ca04",
+          "width" : 64
+        } ],
+        "name" : "The Son Returns",
+        "release_date" : "2020-05-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:3SJmGkFGmIPMtVrcrPn4Ns"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GX5HgELrPMX53Xj0amon5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GX5HgELrPMX53Xj0amon5",
+        "id" : "7GX5HgELrPMX53Xj0amon5",
+        "name" : "Iams6x",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GX5HgELrPMX53Xj0amon5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 215221,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZHN32049634"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3gS9en6DP12G0BFOAgL89x"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3gS9en6DP12G0BFOAgL89x",
+      "id" : "3gS9en6DP12G0BFOAgL89x",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Lift Him Up",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9e67346dc2ff64f23246ef8b4817e703fcf59a8f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:3gS9en6DP12G0BFOAgL89x"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5UzGtBBwUB77l2ZI4fbfig",
+          "id" : "5UzGtBBwUB77l2ZI4fbfig",
+          "name" : "Ron Kenoly",
+          "type" : "artist",
+          "uri" : "spotify:artist:5UzGtBBwUB77l2ZI4fbfig"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/72iDlGYfVrntfpKzmAv0Hn",
+          "id" : "72iDlGYfVrntfpKzmAv0Hn",
+          "name" : "Integrity's Hosanna! Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:72iDlGYfVrntfpKzmAv0Hn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4Yyq3MuNdP0FOMgDkc5UqO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4Yyq3MuNdP0FOMgDkc5UqO",
+        "id" : "4Yyq3MuNdP0FOMgDkc5UqO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27309ded07c830c95cae35a4ec9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0209ded07c830c95cae35a4ec9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485109ded07c830c95cae35a4ec9",
+          "width" : 64
+        } ],
+        "name" : "Lift Him Up (Live)",
+        "release_date" : "1992-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:4Yyq3MuNdP0FOMgDkc5UqO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5UzGtBBwUB77l2ZI4fbfig",
+        "id" : "5UzGtBBwUB77l2ZI4fbfig",
+        "name" : "Ron Kenoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:5UzGtBBwUB77l2ZI4fbfig"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/72iDlGYfVrntfpKzmAv0Hn",
+        "id" : "72iDlGYfVrntfpKzmAv0Hn",
+        "name" : "Integrity's Hosanna! Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:72iDlGYfVrntfpKzmAv0Hn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 476933,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM19701953"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6wN3ucC8m1QiFTt6DIiy3E"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6wN3ucC8m1QiFTt6DIiy3E",
+      "id" : "6wN3ucC8m1QiFTt6DIiy3E",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Ancient of Days - Live",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/82576dff52e1241ed20036a44d5f9576f14800cd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:6wN3ucC8m1QiFTt6DIiy3E"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5UzGtBBwUB77l2ZI4fbfig",
+          "id" : "5UzGtBBwUB77l2ZI4fbfig",
+          "name" : "Ron Kenoly",
+          "type" : "artist",
+          "uri" : "spotify:artist:5UzGtBBwUB77l2ZI4fbfig"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/72iDlGYfVrntfpKzmAv0Hn",
+          "id" : "72iDlGYfVrntfpKzmAv0Hn",
+          "name" : "Integrity's Hosanna! Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:72iDlGYfVrntfpKzmAv0Hn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4Yyq3MuNdP0FOMgDkc5UqO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4Yyq3MuNdP0FOMgDkc5UqO",
+        "id" : "4Yyq3MuNdP0FOMgDkc5UqO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27309ded07c830c95cae35a4ec9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0209ded07c830c95cae35a4ec9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485109ded07c830c95cae35a4ec9",
+          "width" : 64
+        } ],
+        "name" : "Lift Him Up (Live)",
+        "release_date" : "1992-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:4Yyq3MuNdP0FOMgDkc5UqO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5UzGtBBwUB77l2ZI4fbfig",
+        "id" : "5UzGtBBwUB77l2ZI4fbfig",
+        "name" : "Ron Kenoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:5UzGtBBwUB77l2ZI4fbfig"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/72iDlGYfVrntfpKzmAv0Hn",
+        "id" : "72iDlGYfVrntfpKzmAv0Hn",
+        "name" : "Integrity's Hosanna! Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:72iDlGYfVrntfpKzmAv0Hn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 175626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM19701955"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6HKqVz63NJPuCs78n80eRQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6HKqVz63NJPuCs78n80eRQ",
+      "id" : "6HKqVz63NJPuCs78n80eRQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Anointing Fall On Me - Live",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/06b42be6e22ff6c6378521912c0feef82afd14b1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:6HKqVz63NJPuCs78n80eRQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0pXt4sMs2oRnt528LTYgyd",
+          "id" : "0pXt4sMs2oRnt528LTYgyd",
+          "name" : "Hezekiah Walker",
+          "type" : "artist",
+          "uri" : "spotify:artist:0pXt4sMs2oRnt528LTYgyd"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2JiAo61bWiLtsaeQY7YPEg",
+        "id" : "2JiAo61bWiLtsaeQY7YPEg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27356152be70d0288c3b78647bb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0256152be70d0288c3b78647bb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485156152be70d0288c3b78647bb",
+          "width" : 64
+        } ],
+        "name" : "The Essential Hezekiah Walker",
+        "release_date" : "1992",
+        "release_date_precision" : "year",
+        "total_tracks" : 26,
+        "type" : "album",
+        "uri" : "spotify:album:2JiAo61bWiLtsaeQY7YPEg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0pXt4sMs2oRnt528LTYgyd",
+        "id" : "0pXt4sMs2oRnt528LTYgyd",
+        "name" : "Hezekiah Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:0pXt4sMs2oRnt528LTYgyd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6NqHWIMTL4MjurHrTRxsb6",
+        "id" : "6NqHWIMTL4MjurHrTRxsb6",
+        "name" : "Love Fellowship Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:6NqHWIMTL4MjurHrTRxsb6"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 381213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USVE20500164"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/532mFAOusdN0pd3w9jA022"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/532mFAOusdN0pd3w9jA022",
+      "id" : "532mFAOusdN0pd3w9jA022",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lift Him Up",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/578a9a1f70833a7c22e7fee2c0864469264851b1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:532mFAOusdN0pd3w9jA022"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Lift+Him+Up&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Lift+Him+Up&type=track&market=US&offset=0&limit=10",
+    "total" : 1049
+  }
+}

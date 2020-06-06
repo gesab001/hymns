@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=We+Three+Kings&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3y0d6ljlxup7X9hZKSdKbr",
+          "id" : "3y0d6ljlxup7X9hZKSdKbr",
+          "name" : "Rockabye Lullaby",
+          "type" : "artist",
+          "uri" : "spotify:artist:3y0d6ljlxup7X9hZKSdKbr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n"
+        },
+        "href" : "https://api.spotify.com/v1/albums/17kPYRSo1D9KTGZy4fKB7n",
+        "id" : "17kPYRSo1D9KTGZy4fKB7n",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b2f21b4f93cb38a98b5cdfe6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b2f21b4f93cb38a98b5cdfe6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b2f21b4f93cb38a98b5cdfe6",
+          "width" : 64
+        } ],
+        "name" : "Christmas Lullabies Vol 3",
+        "release_date" : "2012-11-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:17kPYRSo1D9KTGZy4fKB7n"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3y0d6ljlxup7X9hZKSdKbr",
+        "id" : "3y0d6ljlxup7X9hZKSdKbr",
+        "name" : "Rockabye Lullaby",
+        "type" : "artist",
+        "uri" : "spotify:artist:3y0d6ljlxup7X9hZKSdKbr"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203606,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USFV71202003"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4K9nBWXE1KaAuORjR6fafU",
+      "id" : "4K9nBWXE1KaAuORjR6fafU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings (Instrumental)",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7be84ae3b631b8bccdaac7b0a429761fe415a282?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4K9nBWXE1KaAuORjR6fafU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4PbnqEBfculpCqF2C7hLO4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4PbnqEBfculpCqF2C7hLO4",
+          "id" : "4PbnqEBfculpCqF2C7hLO4",
+          "name" : "Tom's Music Box",
+          "type" : "artist",
+          "uri" : "spotify:artist:4PbnqEBfculpCqF2C7hLO4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7uQgCKPtvaMY8MkZ7CHsJm"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7uQgCKPtvaMY8MkZ7CHsJm",
+        "id" : "7uQgCKPtvaMY8MkZ7CHsJm",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b527df2cf374408cbe558c5c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b527df2cf374408cbe558c5c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b527df2cf374408cbe558c5c",
+          "width" : 64
+        } ],
+        "name" : "Christmas Lullabies",
+        "release_date" : "2019-11-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:7uQgCKPtvaMY8MkZ7CHsJm"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4PbnqEBfculpCqF2C7hLO4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4PbnqEBfculpCqF2C7hLO4",
+        "id" : "4PbnqEBfculpCqF2C7hLO4",
+        "name" : "Tom's Music Box",
+        "type" : "artist",
+        "uri" : "spotify:artist:4PbnqEBfculpCqF2C7hLO4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 37500,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q1950183"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2eQUtnLvkTIe3gakaQUNR8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2eQUtnLvkTIe3gakaQUNR8",
+      "id" : "2eQUtnLvkTIe3gakaQUNR8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d6405c6d796c9f8b327ca9d3f8191e3b6b199bf3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:2eQUtnLvkTIe3gakaQUNR8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1yQ8S4xdGOGbUcpaPR6hCM",
+          "id" : "1yQ8S4xdGOGbUcpaPR6hCM",
+          "name" : "Straight No Chaser",
+          "type" : "artist",
+          "uri" : "spotify:artist:1yQ8S4xdGOGbUcpaPR6hCM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2M5NEqQVs7kIit8QbtXrRs",
+        "id" : "2M5NEqQVs7kIit8QbtXrRs",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028408f1cde66a884d05ef8e32",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518408f1cde66a884d05ef8e32",
+          "width" : 64
+        } ],
+        "name" : "Christmas Cheers (Deluxe)",
+        "release_date" : "2009-11-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:2M5NEqQVs7kIit8QbtXrRs"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yQ8S4xdGOGbUcpaPR6hCM",
+        "id" : "1yQ8S4xdGOGbUcpaPR6hCM",
+        "name" : "Straight No Chaser",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yQ8S4xdGOGbUcpaPR6hCM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 150960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAT20903418"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3HeCeUTfFsMg9QKfbW0772"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3HeCeUTfFsMg9QKfbW0772",
+      "id" : "3HeCeUTfFsMg9QKfbW0772",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9a1560e94589f4d36cc3144823df975db79020e6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3HeCeUTfFsMg9QKfbW0772"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6KxrjoB8dMcRC295reb2Us",
+          "id" : "6KxrjoB8dMcRC295reb2Us",
+          "name" : "The Hound + The Fox",
+          "type" : "artist",
+          "uri" : "spotify:artist:6KxrjoB8dMcRC295reb2Us"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2Egyjj2b9X2Pf55JmR5Mc3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2Egyjj2b9X2Pf55JmR5Mc3",
+        "id" : "2Egyjj2b9X2Pf55JmR5Mc3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273736a01ad26cfa8900cb89957",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02736a01ad26cfa8900cb89957",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851736a01ad26cfa8900cb89957",
+          "width" : 64
+        } ],
+        "name" : "Songs of Winter",
+        "release_date" : "2018-11-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2Egyjj2b9X2Pf55JmR5Mc3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KxrjoB8dMcRC295reb2Us",
+        "id" : "6KxrjoB8dMcRC295reb2Us",
+        "name" : "The Hound + The Fox",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KxrjoB8dMcRC295reb2Us"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2VtwFbDZzIoT9ZD0uR5HHD",
+        "id" : "2VtwFbDZzIoT9ZD0uR5HHD",
+        "name" : "Tim Foust",
+        "type" : "artist",
+        "uri" : "spotify:artist:2VtwFbDZzIoT9ZD0uR5HHD"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203826,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM56S1850116"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4FGZHnZXuen5pdUvtYeqsp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4FGZHnZXuen5pdUvtYeqsp",
+      "id" : "4FGZHnZXuen5pdUvtYeqsp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5e43102f704a517f36d58dc9c2085ca279a399b1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:4FGZHnZXuen5pdUvtYeqsp"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4d2UfcRE5XSsapO3kyzwdP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4d2UfcRE5XSsapO3kyzwdP",
+          "id" : "4d2UfcRE5XSsapO3kyzwdP",
+          "name" : "Clamavi De Profundis",
+          "type" : "artist",
+          "uri" : "spotify:artist:4d2UfcRE5XSsapO3kyzwdP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3TWNoP9MdXah1zfNxrZBeo"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3TWNoP9MdXah1zfNxrZBeo",
+        "id" : "3TWNoP9MdXah1zfNxrZBeo",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27304426f7348fbaf19415dc51f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0204426f7348fbaf19415dc51f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485104426f7348fbaf19415dc51f",
+          "width" : 64
+        } ],
+        "name" : "We Three Kings",
+        "release_date" : "2017-12-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:3TWNoP9MdXah1zfNxrZBeo"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4d2UfcRE5XSsapO3kyzwdP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4d2UfcRE5XSsapO3kyzwdP",
+        "id" : "4d2UfcRE5XSsapO3kyzwdP",
+        "name" : "Clamavi De Profundis",
+        "type" : "artist",
+        "uri" : "spotify:artist:4d2UfcRE5XSsapO3kyzwdP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 306219,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADK1763493"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4RxIn2MIheYP2jgEXAvYLc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4RxIn2MIheYP2jgEXAvYLc",
+      "id" : "4RxIn2MIheYP2jgEXAvYLc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8d94247e42edb88a769a2e1c67c2a43e56ba6e7f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4RxIn2MIheYP2jgEXAvYLc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4eLX2lDIcpLrgNzB2eHyBm",
+          "id" : "4eLX2lDIcpLrgNzB2eHyBm",
+          "name" : "Adam Zampino",
+          "type" : "artist",
+          "uri" : "spotify:artist:4eLX2lDIcpLrgNzB2eHyBm"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1bccNTWdBkSJioCH21g0xl",
+        "id" : "1bccNTWdBkSJioCH21g0xl",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fb0b9bbec55d53e82efaa691",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fb0b9bbec55d53e82efaa691",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fb0b9bbec55d53e82efaa691",
+          "width" : 64
+        } ],
+        "name" : "Christmas Piano - Solo Piano and Strings",
+        "release_date" : "2010-10-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:1bccNTWdBkSJioCH21g0xl"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4eLX2lDIcpLrgNzB2eHyBm",
+        "id" : "4eLX2lDIcpLrgNzB2eHyBm",
+        "name" : "Adam Zampino",
+        "type" : "artist",
+        "uri" : "spotify:artist:4eLX2lDIcpLrgNzB2eHyBm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 210346,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91060855"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6W2PFX6g7FlbatxRneeUCK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6W2PFX6g7FlbatxRneeUCK",
+      "id" : "6W2PFX6g7FlbatxRneeUCK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings - Piano/Strings",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/21bc23e6b8e6e8db891db493f204d9abeef3713b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:6W2PFX6g7FlbatxRneeUCK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0uIyzjmP48YI0dpgdAjdeI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0uIyzjmP48YI0dpgdAjdeI",
+          "id" : "0uIyzjmP48YI0dpgdAjdeI",
+          "name" : "The Praise Baby Collection",
+          "type" : "artist",
+          "uri" : "spotify:artist:0uIyzjmP48YI0dpgdAjdeI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0y8T0JmAljtFh2kyUES8ne"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0y8T0JmAljtFh2kyUES8ne",
+        "id" : "0y8T0JmAljtFh2kyUES8ne",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a51987b60978204a64a0cbc3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a51987b60978204a64a0cbc3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a51987b60978204a64a0cbc3",
+          "width" : 64
+        } ],
+        "name" : "Joy To The World",
+        "release_date" : "2007-10-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0y8T0JmAljtFh2kyUES8ne"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0uIyzjmP48YI0dpgdAjdeI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0uIyzjmP48YI0dpgdAjdeI",
+        "id" : "0uIyzjmP48YI0dpgdAjdeI",
+        "name" : "The Praise Baby Collection",
+        "type" : "artist",
+        "uri" : "spotify:artist:0uIyzjmP48YI0dpgdAjdeI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 262693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA5W0700250"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/71vZOFy5PDfCBwdz32RSGt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/71vZOFy5PDfCBwdz32RSGt",
+      "id" : "71vZOFy5PDfCBwdz32RSGt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings/What Child Is This",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/905498ce1dae9fc01d19b48eadaf6b16a5448f87?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:71vZOFy5PDfCBwdz32RSGt"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1JAN1gF514UneOpmcstH4t"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1JAN1gF514UneOpmcstH4t",
+        "id" : "1JAN1gF514UneOpmcstH4t",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273314b20781c2f62ee8b2f64ef",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02314b20781c2f62ee8b2f64ef",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851314b20781c2f62ee8b2f64ef",
+          "width" : 64
+        } ],
+        "name" : "Songs of the Season",
+        "release_date" : "2010-11-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:1JAN1gF514UneOpmcstH4t"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Uww2KQmTxGrJxwsKfQZKi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Uww2KQmTxGrJxwsKfQZKi",
+        "id" : "0Uww2KQmTxGrJxwsKfQZKi",
+        "name" : "Jason Myers",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Uww2KQmTxGrJxwsKfQZKi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 310986,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p1016190"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3ji0gmslzj0MIBEiZVpgul"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3ji0gmslzj0MIBEiZVpgul",
+      "id" : "3ji0gmslzj0MIBEiZVpgul",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ac97ad4cdd8b9105c43fb35e45c930d5f6e0d163?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3ji0gmslzj0MIBEiZVpgul"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/39g4JM6iDlBFrqEeBIA98g"
+          },
+          "href" : "https://api.spotify.com/v1/artists/39g4JM6iDlBFrqEeBIA98g",
+          "id" : "39g4JM6iDlBFrqEeBIA98g",
+          "name" : "Mark Galavan",
+          "type" : "artist",
+          "uri" : "spotify:artist:39g4JM6iDlBFrqEeBIA98g"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1JDCpUKlbNx6HjnYh6zYum"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1JDCpUKlbNx6HjnYh6zYum",
+        "id" : "1JDCpUKlbNx6HjnYh6zYum",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f89846d9e27a1d4cd3f26546",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f89846d9e27a1d4cd3f26546",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f89846d9e27a1d4cd3f26546",
+          "width" : 64
+        } ],
+        "name" : "Christmas Classical Guitar",
+        "release_date" : "2011-09-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:1JDCpUKlbNx6HjnYh6zYum"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39g4JM6iDlBFrqEeBIA98g"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39g4JM6iDlBFrqEeBIA98g",
+        "id" : "39g4JM6iDlBFrqEeBIA98g",
+        "name" : "Mark Galavan",
+        "type" : "artist",
+        "uri" : "spotify:artist:39g4JM6iDlBFrqEeBIA98g"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 133433,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USJ3V1130603"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0dFnlvWK8khbLO5zjsMoZ2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0dFnlvWK8khbLO5zjsMoZ2",
+      "id" : "0dFnlvWK8khbLO5zjsMoZ2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/965f8c37762e7432727613bf23245794ce341f9d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:0dFnlvWK8khbLO5zjsMoZ2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6mNAxWgMw0EjVXUNhHpRpM",
+          "id" : "6mNAxWgMw0EjVXUNhHpRpM",
+          "name" : "Joseph Sullinger",
+          "type" : "artist",
+          "uri" : "spotify:artist:6mNAxWgMw0EjVXUNhHpRpM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3lNWfVRBOWaRYvPpom7n27"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3lNWfVRBOWaRYvPpom7n27",
+        "id" : "3lNWfVRBOWaRYvPpom7n27",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dbf52511ce10f15d0bdd956b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dbf52511ce10f15d0bdd956b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dbf52511ce10f15d0bdd956b",
+          "width" : 64
+        } ],
+        "name" : "Classical Guitar Christmas Favorites",
+        "release_date" : "2010-12-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:3lNWfVRBOWaRYvPpom7n27"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6mNAxWgMw0EjVXUNhHpRpM",
+        "id" : "6mNAxWgMw0EjVXUNhHpRpM",
+        "name" : "Joseph Sullinger",
+        "type" : "artist",
+        "uri" : "spotify:artist:6mNAxWgMw0EjVXUNhHpRpM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 140946,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US8LZ1000003"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3IyBlN4L73mttzKj3DcsZ8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3IyBlN4L73mttzKj3DcsZ8",
+      "id" : "3IyBlN4L73mttzKj3DcsZ8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Three Kings of Orient Are",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/babcffba55b1013d0af694f0908c8a74d386f45d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3IyBlN4L73mttzKj3DcsZ8"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=We+Three+Kings&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=We+Three+Kings&type=track&market=US&offset=0&limit=10",
+    "total" : 7618
+  }
+}

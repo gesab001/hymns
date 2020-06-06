@@ -1,0 +1,861 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=The+King+Shall+Come&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6BBWkiAPZxjaO3JedWC6RM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6BBWkiAPZxjaO3JedWC6RM",
+          "id" : "6BBWkiAPZxjaO3JedWC6RM",
+          "name" : "Coram Deo Church",
+          "type" : "artist",
+          "uri" : "spotify:artist:6BBWkiAPZxjaO3JedWC6RM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5equQ1c5wNcvsMfqa5ph7n"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5equQ1c5wNcvsMfqa5ph7n",
+        "id" : "5equQ1c5wNcvsMfqa5ph7n",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c0739760bf5513b2742576be",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c0739760bf5513b2742576be",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c0739760bf5513b2742576be",
+          "width" : 64
+        } ],
+        "name" : "Swallowed up Death",
+        "release_date" : "2015-01-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5equQ1c5wNcvsMfqa5ph7n"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6BBWkiAPZxjaO3JedWC6RM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6BBWkiAPZxjaO3JedWC6RM",
+        "id" : "6BBWkiAPZxjaO3JedWC6RM",
+        "name" : "Coram Deo Church",
+        "type" : "artist",
+        "uri" : "spotify:artist:6BBWkiAPZxjaO3JedWC6RM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 256133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACC1405788"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4e1f2COpVQpLybxUFLwbGw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4e1f2COpVQpLybxUFLwbGw",
+      "id" : "4e1f2COpVQpLybxUFLwbGw",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The King Shall Come",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/55d4868129531b77e9e8e19a2d521fb214d7a8f7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4e1f2COpVQpLybxUFLwbGw"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6ifOPpRerMgst8krdqJaUi"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6ifOPpRerMgst8krdqJaUi",
+          "id" : "6ifOPpRerMgst8krdqJaUi",
+          "name" : "Ken Stevenson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6ifOPpRerMgst8krdqJaUi"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5DOZsHrkgtgCHQY8MDntxa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5DOZsHrkgtgCHQY8MDntxa",
+        "id" : "5DOZsHrkgtgCHQY8MDntxa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739ac27bab54a1d1930f112754",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029ac27bab54a1d1930f112754",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519ac27bab54a1d1930f112754",
+          "width" : 64
+        } ],
+        "name" : "Prophetic Worship, Vol. II: The Third Reformation",
+        "release_date" : "2018-07-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:5DOZsHrkgtgCHQY8MDntxa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ifOPpRerMgst8krdqJaUi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ifOPpRerMgst8krdqJaUi",
+        "id" : "6ifOPpRerMgst8krdqJaUi",
+        "name" : "Ken Stevenson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ifOPpRerMgst8krdqJaUi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 326573,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm81807693"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6S993FPJl0lB7oHezapld1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6S993FPJl0lB7oHezapld1",
+      "id" : "6S993FPJl0lB7oHezapld1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The King of Glory Shall Come In",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fd077335b51c4f8a6e92715a10ecf2e35de0f868?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6S993FPJl0lB7oHezapld1"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6yQTfpKGR7JfwjCyiTDpny"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6yQTfpKGR7JfwjCyiTDpny",
+          "id" : "6yQTfpKGR7JfwjCyiTDpny",
+          "name" : "Blake Gillette",
+          "type" : "artist",
+          "uri" : "spotify:artist:6yQTfpKGR7JfwjCyiTDpny"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7e8ljJ1zLRxIaOrd8nvtzi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7e8ljJ1zLRxIaOrd8nvtzi",
+        "id" : "7e8ljJ1zLRxIaOrd8nvtzi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739791915160ccd968dab98295",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029791915160ccd968dab98295",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519791915160ccd968dab98295",
+          "width" : 64
+        } ],
+        "name" : "Joy: Now Their King He Shall Be Known",
+        "release_date" : "2018-10-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:7e8ljJ1zLRxIaOrd8nvtzi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yQTfpKGR7JfwjCyiTDpny"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yQTfpKGR7JfwjCyiTDpny",
+        "id" : "6yQTfpKGR7JfwjCyiTDpny",
+        "name" : "Blake Gillette",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yQTfpKGR7JfwjCyiTDpny"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5q31VJAd22HZU1orcv3Kw9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5q31VJAd22HZU1orcv3Kw9",
+        "id" : "5q31VJAd22HZU1orcv3Kw9",
+        "name" : "Mirla Greenwood Thayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:5q31VJAd22HZU1orcv3Kw9"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 239339,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4r1916178"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0LHjoHu0EwWtvRvX01wwUj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0LHjoHu0EwWtvRvX01wwUj",
+      "id" : "0LHjoHu0EwWtvRvX01wwUj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "When He Comes Again / Joy to the World",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7ff07cfc851985e140f60d5897b9ff3c5cec7dd0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:0LHjoHu0EwWtvRvX01wwUj"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1QL7yTHrdahRMpvNtn6rI2",
+          "id" : "1QL7yTHrdahRMpvNtn6rI2",
+          "name" : "George Frideric Handel",
+          "type" : "artist",
+          "uri" : "spotify:artist:1QL7yTHrdahRMpvNtn6rI2"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0f3PsS9IQ6whvNMFFKnpjl",
+          "id" : "0f3PsS9IQ6whvNMFFKnpjl",
+          "name" : "Choir of King's College, Cambridge",
+          "type" : "artist",
+          "uri" : "spotify:artist:0f3PsS9IQ6whvNMFFKnpjl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3KS7hbtzgEaQD1scYMoxr3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3KS7hbtzgEaQD1scYMoxr3",
+        "id" : "3KS7hbtzgEaQD1scYMoxr3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735a6f69d459ed37699fae627e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025a6f69d459ed37699fae627e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515a6f69d459ed37699fae627e",
+          "width" : 64
+        } ],
+        "name" : "Handel: Messiah",
+        "release_date" : "2009-04-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 53,
+        "type" : "album",
+        "uri" : "spotify:album:3KS7hbtzgEaQD1scYMoxr3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1QL7yTHrdahRMpvNtn6rI2",
+        "id" : "1QL7yTHrdahRMpvNtn6rI2",
+        "name" : "George Frideric Handel",
+        "type" : "artist",
+        "uri" : "spotify:artist:1QL7yTHrdahRMpvNtn6rI2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0f3PsS9IQ6whvNMFFKnpjl",
+        "id" : "0f3PsS9IQ6whvNMFFKnpjl",
+        "name" : "Choir of King's College, Cambridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:0f3PsS9IQ6whvNMFFKnpjl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ugRf6ECGBFRCHlv9iG1No",
+        "id" : "0ugRf6ECGBFRCHlv9iG1No",
+        "name" : "Stephen Cleobury",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ugRf6ECGBFRCHlv9iG1No"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6lT95P6U6omdJemPv1BwLp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6lT95P6U6omdJemPv1BwLp",
+        "id" : "6lT95P6U6omdJemPv1BwLp",
+        "name" : "Alice Coote",
+        "type" : "artist",
+        "uri" : "spotify:artist:6lT95P6U6omdJemPv1BwLp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5eu6CVD2W3iRZESTd64Kb7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5eu6CVD2W3iRZESTd64Kb7",
+        "id" : "5eu6CVD2W3iRZESTd64Kb7",
+        "name" : "Ailish Tynan",
+        "type" : "artist",
+        "uri" : "spotify:artist:5eu6CVD2W3iRZESTd64Kb7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 310480,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAYC0900657"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5TFvnFSWQJnDsjr6JcaAQz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5TFvnFSWQJnDsjr6JcaAQz",
+      "id" : "5TFvnFSWQJnDsjr6JcaAQz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Messiah HWV56, PART 1: He shall feed his flock ... Come unto Him all ye that labour (soprano & alto duet: Larghetto e piano)",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7e79409231bbdbff135093ce85eb6d3d6837e35f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:5TFvnFSWQJnDsjr6JcaAQz"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4CseSwOMhEN5l1dCTXhi6i"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4CseSwOMhEN5l1dCTXhi6i",
+        "id" : "4CseSwOMhEN5l1dCTXhi6i",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730e6b84a289f1847cff096c2a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020e6b84a289f1847cff096c2a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510e6b84a289f1847cff096c2a",
+          "width" : 64
+        } ],
+        "name" : "Spirit & Song: Disc F",
+        "release_date" : "2013-11-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:4CseSwOMhEN5l1dCTXhi6i"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4EF0RAnVVvBgSA5c09MhmR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4EF0RAnVVvBgSA5c09MhmR",
+        "id" : "4EF0RAnVVvBgSA5c09MhmR",
+        "name" : "Trevor Thomson",
+        "type" : "artist",
+        "uri" : "spotify:artist:4EF0RAnVVvBgSA5c09MhmR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 184373,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA4N1303794"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0JInilcv5UOb1va6m74zOm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0JInilcv5UOb1va6m74zOm",
+      "id" : "0JInilcv5UOb1va6m74zOm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The King Shall Come",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/acef9a5cb421f012b636ddca648e15e0579912a8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:0JInilcv5UOb1va6m74zOm"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qxq1mmSPBzd8cI33cDsCP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qxq1mmSPBzd8cI33cDsCP",
+          "id" : "3qxq1mmSPBzd8cI33cDsCP",
+          "name" : "The Newman Singers & Ensemble",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qxq1mmSPBzd8cI33cDsCP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Q789oXnYGOjhsrjk0ud7o"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Q789oXnYGOjhsrjk0ud7o",
+        "id" : "3Q789oXnYGOjhsrjk0ud7o",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273abac91a544991063e3459aec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02abac91a544991063e3459aec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851abac91a544991063e3459aec",
+          "width" : 64
+        } ],
+        "name" : "Born This Night",
+        "release_date" : "2000-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:3Q789oXnYGOjhsrjk0ud7o"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qxq1mmSPBzd8cI33cDsCP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qxq1mmSPBzd8cI33cDsCP",
+        "id" : "3qxq1mmSPBzd8cI33cDsCP",
+        "name" : "The Newman Singers & Ensemble",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qxq1mmSPBzd8cI33cDsCP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 244253,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm20834201"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6Ud2Hh7XXbyNRE1tQxm0En"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6Ud2Hh7XXbyNRE1tQxm0En",
+      "id" : "6Ud2Hh7XXbyNRE1tQxm0En",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The King Shall Come",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/77be7f4a98a9d787ddcce3339c36e3fdc43751d4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6Ud2Hh7XXbyNRE1tQxm0En"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3jQrYcXP9UuZ2lcNSyHetS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3jQrYcXP9UuZ2lcNSyHetS",
+        "id" : "3jQrYcXP9UuZ2lcNSyHetS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27396553d9b8c4a83516252ecfb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0296553d9b8c4a83516252ecfb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485196553d9b8c4a83516252ecfb",
+          "width" : 64
+        } ],
+        "name" : "Journeysongs Third Edition: Volume 8",
+        "release_date" : "2012-05-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:3jQrYcXP9UuZ2lcNSyHetS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lv2GyLOrGHZLA7zaeZoZv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lv2GyLOrGHZLA7zaeZoZv",
+        "id" : "7lv2GyLOrGHZLA7zaeZoZv",
+        "name" : "Randall DeBruyn",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lv2GyLOrGHZLA7zaeZoZv"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7IK1zMcIvyQ3so4nJd9GQC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7IK1zMcIvyQ3so4nJd9GQC",
+        "id" : "7IK1zMcIvyQ3so4nJd9GQC",
+        "name" : "John Brownlie",
+        "type" : "artist",
+        "uri" : "spotify:artist:7IK1zMcIvyQ3so4nJd9GQC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 96888,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA4N1301273"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/55eVUko7w1tyJpNsxa1rP4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/55eVUko7w1tyJpNsxa1rP4",
+      "id" : "55eVUko7w1tyJpNsxa1rP4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The King Shall Come When Morning Dawns",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/19d3582ca875a9326af08c13d74ff1aae577ae3f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:55eVUko7w1tyJpNsxa1rP4"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1QL7yTHrdahRMpvNtn6rI2",
+          "id" : "1QL7yTHrdahRMpvNtn6rI2",
+          "name" : "George Frideric Handel",
+          "type" : "artist",
+          "uri" : "spotify:artist:1QL7yTHrdahRMpvNtn6rI2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4zA0L5wcSxA4hl6Sqv8ZDR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4zA0L5wcSxA4hl6Sqv8ZDR",
+        "id" : "4zA0L5wcSxA4hl6Sqv8ZDR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731ae963709cd6546ae52e658e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021ae963709cd6546ae52e658e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511ae963709cd6546ae52e658e",
+          "width" : 64
+        } ],
+        "name" : "Handel Messiah",
+        "release_date" : "1992",
+        "release_date_precision" : "year",
+        "total_tracks" : 53,
+        "type" : "album",
+        "uri" : "spotify:album:4zA0L5wcSxA4hl6Sqv8ZDR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1QL7yTHrdahRMpvNtn6rI2",
+        "id" : "1QL7yTHrdahRMpvNtn6rI2",
+        "name" : "George Frideric Handel",
+        "type" : "artist",
+        "uri" : "spotify:artist:1QL7yTHrdahRMpvNtn6rI2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4xxFcRBOp4jUE3tFHEEYeN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4xxFcRBOp4jUE3tFHEEYeN",
+        "id" : "4xxFcRBOp4jUE3tFHEEYeN",
+        "name" : "James Bowman",
+        "type" : "artist",
+        "uri" : "spotify:artist:4xxFcRBOp4jUE3tFHEEYeN"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0f3PsS9IQ6whvNMFFKnpjl",
+        "id" : "0f3PsS9IQ6whvNMFFKnpjl",
+        "name" : "Choir of King's College, Cambridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:0f3PsS9IQ6whvNMFFKnpjl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3adMGKhs0hyGuTVpe7hnqC",
+        "id" : "3adMGKhs0hyGuTVpe7hnqC",
+        "name" : "Sir David Willcocks",
+        "type" : "artist",
+        "uri" : "spotify:artist:3adMGKhs0hyGuTVpe7hnqC"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/77CaCn32H4mOMQA7UElzfF",
+        "id" : "77CaCn32H4mOMQA7UElzfF",
+        "name" : "Academy of St. Martin in the Fields",
+        "type" : "artist",
+        "uri" : "spotify:artist:77CaCn32H4mOMQA7UElzfF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 292693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAYC9202329"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3VFvF2AzU904H61P9nuhzZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3VFvF2AzU904H61P9nuhzZ",
+      "id" : "3VFvF2AzU904H61P9nuhzZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Messiah, HWV 56, Pt. 1 Scene 5: He Shall Feed His Flock ... Come Unto Him All Ye That Labour (soprano & alto duet: Larghetto e piano)",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a4e6cbbe1619b9a44f8d44b02f6f1dd56799f1c9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:3VFvF2AzU904H61P9nuhzZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1QL7yTHrdahRMpvNtn6rI2",
+          "id" : "1QL7yTHrdahRMpvNtn6rI2",
+          "name" : "George Frideric Handel",
+          "type" : "artist",
+          "uri" : "spotify:artist:1QL7yTHrdahRMpvNtn6rI2"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0f3PsS9IQ6whvNMFFKnpjl",
+          "id" : "0f3PsS9IQ6whvNMFFKnpjl",
+          "name" : "Choir of King's College, Cambridge",
+          "type" : "artist",
+          "uri" : "spotify:artist:0f3PsS9IQ6whvNMFFKnpjl"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3adMGKhs0hyGuTVpe7hnqC",
+          "id" : "3adMGKhs0hyGuTVpe7hnqC",
+          "name" : "Sir David Willcocks",
+          "type" : "artist",
+          "uri" : "spotify:artist:3adMGKhs0hyGuTVpe7hnqC"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/77CaCn32H4mOMQA7UElzfF",
+          "id" : "77CaCn32H4mOMQA7UElzfF",
+          "name" : "Academy of St. Martin in the Fields",
+          "type" : "artist",
+          "uri" : "spotify:artist:77CaCn32H4mOMQA7UElzfF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5zicCbrBH5CKwGsOtIoYXa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5zicCbrBH5CKwGsOtIoYXa",
+        "id" : "5zicCbrBH5CKwGsOtIoYXa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732839d95051ad63fd657640ea",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022839d95051ad63fd657640ea",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512839d95051ad63fd657640ea",
+          "width" : 64
+        } ],
+        "name" : "Handel - Messiah",
+        "release_date" : "1992-10-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 53,
+        "type" : "album",
+        "uri" : "spotify:album:5zicCbrBH5CKwGsOtIoYXa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1QL7yTHrdahRMpvNtn6rI2",
+        "id" : "1QL7yTHrdahRMpvNtn6rI2",
+        "name" : "George Frideric Handel",
+        "type" : "artist",
+        "uri" : "spotify:artist:1QL7yTHrdahRMpvNtn6rI2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0f3PsS9IQ6whvNMFFKnpjl",
+        "id" : "0f3PsS9IQ6whvNMFFKnpjl",
+        "name" : "Choir of King's College, Cambridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:0f3PsS9IQ6whvNMFFKnpjl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7okTl4BcabAmCXfYGZfSMF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7okTl4BcabAmCXfYGZfSMF",
+        "id" : "7okTl4BcabAmCXfYGZfSMF",
+        "name" : "Cambridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:7okTl4BcabAmCXfYGZfSMF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/77CaCn32H4mOMQA7UElzfF",
+        "id" : "77CaCn32H4mOMQA7UElzfF",
+        "name" : "Academy of St. Martin in the Fields",
+        "type" : "artist",
+        "uri" : "spotify:artist:77CaCn32H4mOMQA7UElzfF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3adMGKhs0hyGuTVpe7hnqC",
+        "id" : "3adMGKhs0hyGuTVpe7hnqC",
+        "name" : "Sir David Willcocks",
+        "type" : "artist",
+        "uri" : "spotify:artist:3adMGKhs0hyGuTVpe7hnqC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 292693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAYC9202329"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1ur1K12h5ft4DBOfhdrxBs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1ur1K12h5ft4DBOfhdrxBs",
+      "id" : "1ur1K12h5ft4DBOfhdrxBs",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Messiah, HWV 56 (1992 - Remaster), Part 1: He shall feed his flock ... Come unto Him all ye that labour (soprano & alto duet: Larghetto e piano)",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a4e6cbbe1619b9a44f8d44b02f6f1dd56799f1c9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:1ur1K12h5ft4DBOfhdrxBs"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6gR4hap4Qw6S2qfW2oBnWp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6gR4hap4Qw6S2qfW2oBnWp",
+          "id" : "6gR4hap4Qw6S2qfW2oBnWp",
+          "name" : "The Corpus Christi Male Chorale",
+          "type" : "artist",
+          "uri" : "spotify:artist:6gR4hap4Qw6S2qfW2oBnWp"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0SgJqrGdDajXs0sdLiOdZn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0SgJqrGdDajXs0sdLiOdZn",
+          "id" : "0SgJqrGdDajXs0sdLiOdZn",
+          "name" : "Mathew Peters",
+          "type" : "artist",
+          "uri" : "spotify:artist:0SgJqrGdDajXs0sdLiOdZn"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4B3Gk14Y2qj0GNFOI9ic17"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4B3Gk14Y2qj0GNFOI9ic17",
+          "id" : "4B3Gk14Y2qj0GNFOI9ic17",
+          "name" : "Xin Wang",
+          "type" : "artist",
+          "uri" : "spotify:artist:4B3Gk14Y2qj0GNFOI9ic17"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1OAc3qyEF1HBpW6r2W7rJY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1OAc3qyEF1HBpW6r2W7rJY",
+        "id" : "1OAc3qyEF1HBpW6r2W7rJY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27386b386a69afba0f1f05d6eac",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0286b386a69afba0f1f05d6eac",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485186b386a69afba0f1f05d6eac",
+          "width" : 64
+        } ],
+        "name" : "A Christmas Collection of Music & Miracles",
+        "release_date" : "2004-11-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:1OAc3qyEF1HBpW6r2W7rJY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6gR4hap4Qw6S2qfW2oBnWp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6gR4hap4Qw6S2qfW2oBnWp",
+        "id" : "6gR4hap4Qw6S2qfW2oBnWp",
+        "name" : "The Corpus Christi Male Chorale",
+        "type" : "artist",
+        "uri" : "spotify:artist:6gR4hap4Qw6S2qfW2oBnWp"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 140960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91328851"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1QBnsoZ5vTMg7pg8QTXDsB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1QBnsoZ5vTMg7pg8QTXDsB",
+      "id" : "1QBnsoZ5vTMg7pg8QTXDsB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The King Shall Come",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cb34aef39a92398021fde8ce92ee7cc64b1f7579?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:1QBnsoZ5vTMg7pg8QTXDsB"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=The+King+Shall+Come&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=The+King+Shall+Come&type=track&market=US&offset=0&limit=10",
+    "total" : 121
+  }
+}

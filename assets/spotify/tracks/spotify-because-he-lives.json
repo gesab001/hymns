@@ -1,0 +1,726 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Because+He+Lives&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3RHwCqK7oe6mucuIgz62BF",
+          "id" : "3RHwCqK7oe6mucuIgz62BF",
+          "name" : "Nicole C. Mullen",
+          "type" : "artist",
+          "uri" : "spotify:artist:3RHwCqK7oe6mucuIgz62BF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4bViWYvOnbxbQH01xhLbQu"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4bViWYvOnbxbQH01xhLbQu",
+        "id" : "4bViWYvOnbxbQH01xhLbQu",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739a120424fd199b3f4537c7ef",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029a120424fd199b3f4537c7ef",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519a120424fd199b3f4537c7ef",
+          "width" : 64
+        } ],
+        "name" : "Crown Him: Hymns Old and New",
+        "release_date" : "2013-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4bViWYvOnbxbQH01xhLbQu"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RHwCqK7oe6mucuIgz62BF",
+        "id" : "3RHwCqK7oe6mucuIgz62BF",
+        "name" : "Nicole C. Mullen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RHwCqK7oe6mucuIgz62BF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 133293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMDR1300029"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4zcr0BwDZXEcEIHjCuJWSm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4zcr0BwDZXEcEIHjCuJWSm",
+      "id" : "4zcr0BwDZXEcEIHjCuJWSm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e79f2ea0ce1cba0dcb3b0ef2f792370763fc5f72?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4zcr0BwDZXEcEIHjCuJWSm"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7l0sphz32GV0AjjEhECpVg",
+          "id" : "7l0sphz32GV0AjjEhECpVg",
+          "name" : "Caleb and Kelsey",
+          "type" : "artist",
+          "uri" : "spotify:artist:7l0sphz32GV0AjjEhECpVg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/50wrz4VkL2gHNRGlWKgHDK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/50wrz4VkL2gHNRGlWKgHDK",
+        "id" : "50wrz4VkL2gHNRGlWKgHDK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a1b277bc7b37b19a01a3a5b2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a1b277bc7b37b19a01a3a5b2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a1b277bc7b37b19a01a3a5b2",
+          "width" : 64
+        } ],
+        "name" : "Hymns",
+        "release_date" : "2019-04-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:50wrz4VkL2gHNRGlWKgHDK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7l0sphz32GV0AjjEhECpVg",
+        "id" : "7l0sphz32GV0AjjEhECpVg",
+        "name" : "Caleb and Kelsey",
+        "type" : "artist",
+        "uri" : "spotify:artist:7l0sphz32GV0AjjEhECpVg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 191750,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921950064"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5BivUPQvRptbY5QQk5zyfa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5BivUPQvRptbY5QQk5zyfa",
+      "id" : "5BivUPQvRptbY5QQk5zyfa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives",
+      "popularity" : 42,
+      "preview_url" : "https://p.scdn.co/mp3-preview/49e6140010172c61152880eaec86813c8f720de4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:5BivUPQvRptbY5QQk5zyfa"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/783YfYdhHkZ7NzyVbl6054"
+          },
+          "href" : "https://api.spotify.com/v1/artists/783YfYdhHkZ7NzyVbl6054",
+          "id" : "783YfYdhHkZ7NzyVbl6054",
+          "name" : "Zan Fiskum",
+          "type" : "artist",
+          "uri" : "spotify:artist:783YfYdhHkZ7NzyVbl6054"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2X5aL1lgvtB5W4ZQhArAh7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2X5aL1lgvtB5W4ZQhArAh7",
+        "id" : "2X5aL1lgvtB5W4ZQhArAh7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733f4b09825cc976f0ffbffded",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023f4b09825cc976f0ffbffded",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513f4b09825cc976f0ffbffded",
+          "width" : 64
+        } ],
+        "name" : "Because He Lives",
+        "release_date" : "2019-10-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:2X5aL1lgvtB5W4ZQhArAh7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/783YfYdhHkZ7NzyVbl6054"
+        },
+        "href" : "https://api.spotify.com/v1/artists/783YfYdhHkZ7NzyVbl6054",
+        "id" : "783YfYdhHkZ7NzyVbl6054",
+        "name" : "Zan Fiskum",
+        "type" : "artist",
+        "uri" : "spotify:artist:783YfYdhHkZ7NzyVbl6054"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 229773,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91935042"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7xxwy4jU93SSQRnTFS1yZa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7xxwy4jU93SSQRnTFS1yZa",
+      "id" : "7xxwy4jU93SSQRnTFS1yZa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9d199219666d75c191b9c2a8a2ad2e1e81604475?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7xxwy4jU93SSQRnTFS1yZa"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5RNRRDbnfEqxtcwYiug7cO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5RNRRDbnfEqxtcwYiug7cO",
+        "id" : "5RNRRDbnfEqxtcwYiug7cO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733e316fb04806a911584ebc7c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023e316fb04806a911584ebc7c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513e316fb04806a911584ebc7c",
+          "width" : 64
+        } ],
+        "name" : "Efy 2016 What Matters Most (Especially for Youth)",
+        "release_date" : "2016-06-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5RNRRDbnfEqxtcwYiug7cO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6tqvXRAzHU780raR5y3l2o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6tqvXRAzHU780raR5y3l2o",
+        "id" : "6tqvXRAzHU780raR5y3l2o",
+        "name" : "Nick Neel",
+        "type" : "artist",
+        "uri" : "spotify:artist:6tqvXRAzHU780raR5y3l2o"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 227933,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMC2Y1600012"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5tpTtcEwsMBYLUFq5ihLX1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5tpTtcEwsMBYLUFq5ihLX1",
+      "id" : "5tpTtcEwsMBYLUFq5ihLX1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2d0a074d2c5b81d32ea0da228e29fd1c05458b8f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:5tpTtcEwsMBYLUFq5ihLX1"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/39xmI59WrIMyyJjSDq6WCu",
+          "id" : "39xmI59WrIMyyJjSDq6WCu",
+          "name" : "Crowder",
+          "type" : "artist",
+          "uri" : "spotify:artist:39xmI59WrIMyyJjSDq6WCu"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7aK1rpGMq8cFtiQJx9BXrr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7aK1rpGMq8cFtiQJx9BXrr",
+        "id" : "7aK1rpGMq8cFtiQJx9BXrr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273998c47f29fe4f558a7a2d006",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02998c47f29fe4f558a7a2d006",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851998c47f29fe4f558a7a2d006",
+          "width" : 64
+        } ],
+        "name" : "Neon Steeple (Deluxe Edition)",
+        "release_date" : "2014-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:7aK1rpGMq8cFtiQJx9BXrr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39xmI59WrIMyyJjSDq6WCu",
+        "id" : "39xmI59WrIMyyJjSDq6WCu",
+        "name" : "Crowder",
+        "type" : "artist",
+        "uri" : "spotify:artist:39xmI59WrIMyyJjSDq6WCu"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4vZfjIUpvHeHpq47Y5NobO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4vZfjIUpvHeHpq47Y5NobO",
+        "id" : "4vZfjIUpvHeHpq47Y5NobO",
+        "name" : "Bill Gaither",
+        "type" : "artist",
+        "uri" : "spotify:artist:4vZfjIUpvHeHpq47Y5NobO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05JooZnfKRGSDQGoR7gK4R"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05JooZnfKRGSDQGoR7gK4R",
+        "id" : "05JooZnfKRGSDQGoR7gK4R",
+        "name" : "Solomon Olds",
+        "type" : "artist",
+        "uri" : "spotify:artist:05JooZnfKRGSDQGoR7gK4R"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 317640,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71404295"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2JPC9S63aHHAT9dNeuv7zR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2JPC9S63aHHAT9dNeuv7zR",
+      "id" : "2JPC9S63aHHAT9dNeuv7zR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives - Remix",
+      "popularity" : 32,
+      "preview_url" : null,
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:2JPC9S63aHHAT9dNeuv7zR"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4Wm66SItUBLYFqJq03WH6d",
+          "id" : "4Wm66SItUBLYFqJq03WH6d",
+          "name" : "John Tibbs",
+          "type" : "artist",
+          "uri" : "spotify:artist:4Wm66SItUBLYFqJq03WH6d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5t4hTfxTLo5007cQiZMAhe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5t4hTfxTLo5007cQiZMAhe",
+        "id" : "5t4hTfxTLo5007cQiZMAhe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a1ea9e683c00ffc2c8639001",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a1ea9e683c00ffc2c8639001",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a1ea9e683c00ffc2c8639001",
+          "width" : 64
+        } ],
+        "name" : "Hymns from a Room",
+        "release_date" : "2020-05-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:5t4hTfxTLo5007cQiZMAhe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Wm66SItUBLYFqJq03WH6d",
+        "id" : "4Wm66SItUBLYFqJq03WH6d",
+        "name" : "John Tibbs",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Wm66SItUBLYFqJq03WH6d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 334436,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAET2038309"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1KDguvocYaGgbMkV2MLSBC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1KDguvocYaGgbMkV2MLSBC",
+      "id" : "1KDguvocYaGgbMkV2MLSBC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d1a2acbdd2b2e2dca7403d63c0bc0771beb27242?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1KDguvocYaGgbMkV2MLSBC"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+          "id" : "11sAWrpIkFUPQlXoQqpeBV",
+          "name" : "Bill & Gloria Gaither",
+          "type" : "artist",
+          "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5jUdp69HaBVHmNbgc2UNGJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5jUdp69HaBVHmNbgc2UNGJ",
+        "id" : "5jUdp69HaBVHmNbgc2UNGJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273aaacadc200eeaa264995a8a6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02aaacadc200eeaa264995a8a6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851aaacadc200eeaa264995a8a6",
+          "width" : 64
+        } ],
+        "name" : "Bill Gaither's Best Of Homecoming 2013",
+        "release_date" : "2012-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5jUdp69HaBVHmNbgc2UNGJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+        "id" : "11sAWrpIkFUPQlXoQqpeBV",
+        "name" : "Bill & Gloria Gaither",
+        "type" : "artist",
+        "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/01uI1SCsA0pLwWa2ENV6Gv",
+        "id" : "01uI1SCsA0pLwWa2ENV6Gv",
+        "name" : "The Booth Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:01uI1SCsA0pLwWa2ENV6Gv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 220973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3271202521"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4JXHuB2f35OIlD4dL7qrCZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4JXHuB2f35OIlD4dL7qrCZ",
+      "id" : "4JXHuB2f35OIlD4dL7qrCZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives",
+      "popularity" : 29,
+      "preview_url" : null,
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4JXHuB2f35OIlD4dL7qrCZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1bMkQIx4MpNHLxoylvipdQ",
+          "id" : "1bMkQIx4MpNHLxoylvipdQ",
+          "name" : "The Worship Initiative",
+          "type" : "artist",
+          "uri" : "spotify:artist:1bMkQIx4MpNHLxoylvipdQ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2LFbgsbEhfilNpQYW7mied",
+          "id" : "2LFbgsbEhfilNpQYW7mied",
+          "name" : "Shane & Shane",
+          "type" : "artist",
+          "uri" : "spotify:artist:2LFbgsbEhfilNpQYW7mied"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5EXvIcWFtIjQOIe4aWd6Vw",
+        "id" : "5EXvIcWFtIjQOIe4aWd6Vw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27370b7c637b217b812b14ca255",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0270b7c637b217b812b14ca255",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485170b7c637b217b812b14ca255",
+          "width" : 64
+        } ],
+        "name" : "The Worship Initiative, Vol. 6",
+        "release_date" : "2014-08-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5EXvIcWFtIjQOIe4aWd6Vw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bMkQIx4MpNHLxoylvipdQ",
+        "id" : "1bMkQIx4MpNHLxoylvipdQ",
+        "name" : "The Worship Initiative",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bMkQIx4MpNHLxoylvipdQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2LFbgsbEhfilNpQYW7mied",
+        "id" : "2LFbgsbEhfilNpQYW7mied",
+        "name" : "Shane & Shane",
+        "type" : "artist",
+        "uri" : "spotify:artist:2LFbgsbEhfilNpQYW7mied"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 239328,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM1418181"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5VsqwtoBqA3wZemboy4ZT2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5VsqwtoBqA3wZemboy4ZT2",
+      "id" : "5VsqwtoBqA3wZemboy4ZT2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/06cb79492259c97229ce1c5485faba77fb71da74?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5VsqwtoBqA3wZemboy4ZT2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7l0sphz32GV0AjjEhECpVg",
+          "id" : "7l0sphz32GV0AjjEhECpVg",
+          "name" : "Caleb and Kelsey",
+          "type" : "artist",
+          "uri" : "spotify:artist:7l0sphz32GV0AjjEhECpVg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0QLa0kcjD4rqNsepGRhFDa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0QLa0kcjD4rqNsepGRhFDa",
+        "id" : "0QLa0kcjD4rqNsepGRhFDa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273924bbf6791731363267b4298",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02924bbf6791731363267b4298",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851924bbf6791731363267b4298",
+          "width" : 64
+        } ],
+        "name" : "Glorious Day: Worship & Hymns",
+        "release_date" : "2020-03-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0QLa0kcjD4rqNsepGRhFDa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7l0sphz32GV0AjjEhECpVg",
+        "id" : "7l0sphz32GV0AjjEhECpVg",
+        "name" : "Caleb and Kelsey",
+        "type" : "artist",
+        "uri" : "spotify:artist:7l0sphz32GV0AjjEhECpVg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 152915,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF922050039"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0XOtGHyZSW8yIswhpL9IqV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0XOtGHyZSW8yIswhpL9IqV",
+      "id" : "0XOtGHyZSW8yIswhpL9IqV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives (Amen)",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/26e45231910f3d234aa0b7df5f65817f04d7aa43?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0XOtGHyZSW8yIswhpL9IqV"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dPl8axUL09mso0myZqPZW",
+          "id" : "1dPl8axUL09mso0myZqPZW",
+          "name" : "Matt Maher",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dPl8axUL09mso0myZqPZW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/06XNamd6fjcbTjK3exT7Di"
+        },
+        "href" : "https://api.spotify.com/v1/albums/06XNamd6fjcbTjK3exT7Di",
+        "id" : "06XNamd6fjcbTjK3exT7Di",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dbe930eb12382c341d173363",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dbe930eb12382c341d173363",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dbe930eb12382c341d173363",
+          "width" : 64
+        } ],
+        "name" : "Because He Lives (Live from Steinway)",
+        "release_date" : "2018-09-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:06XNamd6fjcbTjK3exT7Di"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dPl8axUL09mso0myZqPZW",
+        "id" : "1dPl8axUL09mso0myZqPZW",
+        "name" : "Matt Maher",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dPl8axUL09mso0myZqPZW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 221760,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA5W1800136"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6FpSCe4QeFVOm5hvOn8LlV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6FpSCe4QeFVOm5hvOn8LlV",
+      "id" : "6FpSCe4QeFVOm5hvOn8LlV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Because He Lives (Live from Steinway)",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7c9acdc19b6377a9e7e0162cd9c779d4ba95e3dc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6FpSCe4QeFVOm5hvOn8LlV"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Because+He+Lives&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Because+He+Lives&type=track&market=US&offset=0&limit=10",
+    "total" : 982
+  }
+}

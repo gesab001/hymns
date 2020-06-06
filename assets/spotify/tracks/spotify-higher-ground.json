@@ -1,0 +1,744 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Higher+Ground&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5",
+          "id" : "69MEO1AADKg1IZrq2XLzo5",
+          "name" : "UB40",
+          "type" : "artist",
+          "uri" : "spotify:artist:69MEO1AADKg1IZrq2XLzo5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0B0RuH2PSWoEkIvi75xY5d",
+        "id" : "0B0RuH2PSWoEkIvi75xY5d",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732dc219f646be779b0e43a36b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022dc219f646be779b0e43a36b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512dc219f646be779b0e43a36b",
+          "width" : 64
+        } ],
+        "name" : "Promises And Lies",
+        "release_date" : "1993-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:0B0RuH2PSWoEkIvi75xY5d"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5",
+        "id" : "69MEO1AADKg1IZrq2XLzo5",
+        "name" : "UB40",
+        "type" : "artist",
+        "uri" : "spotify:artist:69MEO1AADKg1IZrq2XLzo5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 261240,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAAA9300158"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3mDoAC8R1miOQ6Ld1NkAYH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3mDoAC8R1miOQ6Ld1NkAYH",
+      "id" : "3mDoAC8R1miOQ6Ld1NkAYH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground",
+      "popularity" : 56,
+      "preview_url" : null,
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3mDoAC8R1miOQ6Ld1NkAYH"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0ySFZq3Wd0SQUyJUzmJAeb",
+          "id" : "0ySFZq3Wd0SQUyJUzmJAeb",
+          "name" : "sumika",
+          "type" : "artist",
+          "uri" : "spotify:artist:0ySFZq3Wd0SQUyJUzmJAeb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4mYuDFiHBRDKA6O7yTEyV9"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4mYuDFiHBRDKA6O7yTEyV9",
+        "id" : "4mYuDFiHBRDKA6O7yTEyV9",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ff825e4959f0f51ab588d82c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ff825e4959f0f51ab588d82c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ff825e4959f0f51ab588d82c",
+          "width" : 64
+        } ],
+        "name" : "Negai / Higher Ground",
+        "release_date" : "2019-12-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 4,
+        "type" : "album",
+        "uri" : "spotify:album:4mYuDFiHBRDKA6O7yTEyV9"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ySFZq3Wd0SQUyJUzmJAeb",
+        "id" : "0ySFZq3Wd0SQUyJUzmJAeb",
+        "name" : "sumika",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ySFZq3Wd0SQUyJUzmJAeb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 224280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "JPU901902961"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6aWtkB4wTOa7piDVcZp6uo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6aWtkB4wTOa7piDVcZp6uo",
+      "id" : "6aWtkB4wTOa7piDVcZp6uo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground",
+      "popularity" : 46,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6354b78710fd26f3dd8d2a1b42ed556e75a16799?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6aWtkB4wTOa7piDVcZp6uo"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id" : "0L8ExT028jH3ddEcZwqJJ5",
+          "name" : "Red Hot Chili Peppers",
+          "type" : "artist",
+          "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/53tvjWbVNZKd3CvpENkzOC",
+        "id" : "53tvjWbVNZKd3CvpENkzOC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735590b4ee88187cb06a5b102d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025590b4ee88187cb06a5b102d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515590b4ee88187cb06a5b102d",
+          "width" : 64
+        } ],
+        "name" : "Greatest Hits",
+        "release_date" : "2003-11-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:53tvjWbVNZKd3CvpENkzOC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id" : "0L8ExT028jH3ddEcZwqJJ5",
+        "name" : "Red Hot Chili Peppers",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USEM38900123"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5jotVjBvm9rSZSHvj4QA9R"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5jotVjBvm9rSZSHvj4QA9R",
+      "id" : "5jotVjBvm9rSZSHvj4QA9R",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground",
+      "popularity" : 46,
+      "preview_url" : "https://p.scdn.co/mp3-preview/469f4e4c9de7703ebd3272e0d1608309bcc5b817?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:5jotVjBvm9rSZSHvj4QA9R"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21mKp7DqtSNHhCAU2ugvUw",
+          "id" : "21mKp7DqtSNHhCAU2ugvUw",
+          "name" : "ODESZA",
+          "type" : "artist",
+          "uri" : "spotify:artist:21mKp7DqtSNHhCAU2ugvUw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4MRcN8PhMhBe84tcPLe2QJ",
+        "id" : "4MRcN8PhMhBe84tcPLe2QJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732527ef20ea4a7f21df00b3c7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022527ef20ea4a7f21df00b3c7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512527ef20ea4a7f21df00b3c7",
+          "width" : 64
+        } ],
+        "name" : "A Moment Apart (Deluxe Edition)",
+        "release_date" : "2018-11-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:4MRcN8PhMhBe84tcPLe2QJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21mKp7DqtSNHhCAU2ugvUw",
+        "id" : "21mKp7DqtSNHhCAU2ugvUw",
+        "name" : "ODESZA",
+        "type" : "artist",
+        "uri" : "spotify:artist:21mKp7DqtSNHhCAU2ugvUw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5EBlHXi71tDXnFtroEh7Rg",
+        "id" : "5EBlHXi71tDXnFtroEh7Rg",
+        "name" : "Naomi Wild",
+        "type" : "artist",
+        "uri" : "spotify:artist:5EBlHXi71tDXnFtroEh7Rg"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 227960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCFB1800363"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5NoSQH3h0yLc29HxoUySef"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5NoSQH3h0yLc29HxoUySef",
+      "id" : "5NoSQH3h0yLc29HxoUySef",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground (Reprise) (feat. Naomi Wild)",
+      "popularity" : 44,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cb1eb22186fa60a741d48952bb8b1aae0a428fe9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5NoSQH3h0yLc29HxoUySef"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7GvVTb8yFV0ZrdI30Qce6T",
+          "id" : "7GvVTb8yFV0ZrdI30Qce6T",
+          "name" : "Delta Heavy",
+          "type" : "artist",
+          "uri" : "spotify:artist:7GvVTb8yFV0ZrdI30Qce6T"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4UNnRb4LN2hGtbtMfPzMhg",
+          "id" : "4UNnRb4LN2hGtbtMfPzMhg",
+          "name" : "MUZZ",
+          "type" : "artist",
+          "uri" : "spotify:artist:4UNnRb4LN2hGtbtMfPzMhg"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4CzzY9kG8C2BLOuTuy3oLe",
+          "id" : "4CzzY9kG8C2BLOuTuy3oLe",
+          "name" : "Cammie Robinson",
+          "type" : "artist",
+          "uri" : "spotify:artist:4CzzY9kG8C2BLOuTuy3oLe"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/36Ldym47b3BKMIQq52AucB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/36Ldym47b3BKMIQq52AucB",
+        "id" : "36Ldym47b3BKMIQq52AucB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27383627b028d4c009f6453861c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0283627b028d4c009f6453861c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485183627b028d4c009f6453861c",
+          "width" : 64
+        } ],
+        "name" : "Higher Ground",
+        "release_date" : "2020-04-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:36Ldym47b3BKMIQq52AucB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GvVTb8yFV0ZrdI30Qce6T",
+        "id" : "7GvVTb8yFV0ZrdI30Qce6T",
+        "name" : "Delta Heavy",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GvVTb8yFV0ZrdI30Qce6T"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4UNnRb4LN2hGtbtMfPzMhg",
+        "id" : "4UNnRb4LN2hGtbtMfPzMhg",
+        "name" : "MUZZ",
+        "type" : "artist",
+        "uri" : "spotify:artist:4UNnRb4LN2hGtbtMfPzMhg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4CzzY9kG8C2BLOuTuy3oLe",
+        "id" : "4CzzY9kG8C2BLOuTuy3oLe",
+        "name" : "Cammie Robinson",
+        "type" : "artist",
+        "uri" : "spotify:artist:4CzzY9kG8C2BLOuTuy3oLe"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 205713,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLCK41065431"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0eLZf7bp815SzftuAYBXXe"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0eLZf7bp815SzftuAYBXXe",
+      "id" : "0eLZf7bp815SzftuAYBXXe",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground",
+      "popularity" : 51,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0279e62a3fdc3d68dc27c99d076566af573a3cee?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0eLZf7bp815SzftuAYBXXe"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4NwacAakrdNGNinNP54KTQ",
+          "id" : "4NwacAakrdNGNinNP54KTQ",
+          "name" : "SKAAR",
+          "type" : "artist",
+          "uri" : "spotify:artist:4NwacAakrdNGNinNP54KTQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1mkwEm8qadB5XJ2kSWnw3g"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1mkwEm8qadB5XJ2kSWnw3g",
+        "id" : "1mkwEm8qadB5XJ2kSWnw3g",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bf6d83bebe76c18c2da15486",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bf6d83bebe76c18c2da15486",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bf6d83bebe76c18c2da15486",
+          "width" : 64
+        } ],
+        "name" : "Higher Ground (From the Original Motion Picture \"Battle\")",
+        "release_date" : "2018-11-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 2,
+        "type" : "album",
+        "uri" : "spotify:album:1mkwEm8qadB5XJ2kSWnw3g"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NwacAakrdNGNinNP54KTQ",
+        "id" : "4NwacAakrdNGNinNP54KTQ",
+        "name" : "SKAAR",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NwacAakrdNGNinNP54KTQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 188050,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NOAGW1800118"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7MgbvLOnYgip82J98sLQDT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7MgbvLOnYgip82J98sLQDT",
+      "id" : "7MgbvLOnYgip82J98sLQDT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground",
+      "popularity" : 35,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8cdda31ad52683844f51c02799722592ae08ee84?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:7MgbvLOnYgip82J98sLQDT"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21mKp7DqtSNHhCAU2ugvUw",
+          "id" : "21mKp7DqtSNHhCAU2ugvUw",
+          "name" : "ODESZA",
+          "type" : "artist",
+          "uri" : "spotify:artist:21mKp7DqtSNHhCAU2ugvUw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2r6NDBw2dtOsnaiSaQGGzn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2r6NDBw2dtOsnaiSaQGGzn",
+        "id" : "2r6NDBw2dtOsnaiSaQGGzn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736d6edddc9969796c2f1bf7da",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026d6edddc9969796c2f1bf7da",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516d6edddc9969796c2f1bf7da",
+          "width" : 64
+        } ],
+        "name" : "Higher Ground Remixes",
+        "release_date" : "2018-03-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 4,
+        "type" : "album",
+        "uri" : "spotify:album:2r6NDBw2dtOsnaiSaQGGzn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21mKp7DqtSNHhCAU2ugvUw",
+        "id" : "21mKp7DqtSNHhCAU2ugvUw",
+        "name" : "ODESZA",
+        "type" : "artist",
+        "uri" : "spotify:artist:21mKp7DqtSNHhCAU2ugvUw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5EBlHXi71tDXnFtroEh7Rg",
+        "id" : "5EBlHXi71tDXnFtroEh7Rg",
+        "name" : "Naomi Wild",
+        "type" : "artist",
+        "uri" : "spotify:artist:5EBlHXi71tDXnFtroEh7Rg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1lc8mnyGrCLtPhCoWjRxjM",
+        "id" : "1lc8mnyGrCLtPhCoWjRxjM",
+        "name" : "Flight Facilities",
+        "type" : "artist",
+        "uri" : "spotify:artist:1lc8mnyGrCLtPhCoWjRxjM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 220881,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCFB1800088"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2L67zkeyUfp5eNYruHau2j"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2L67zkeyUfp5eNYruHau2j",
+      "id" : "2L67zkeyUfp5eNYruHau2j",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground - Flight Facilities Remix",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3f30ce69f2ad4bee5cab28fa8e4de3f2948f6416?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2L67zkeyUfp5eNYruHau2j"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0tiMRuAR7sxuiSmC6Mf4Ek",
+          "id" : "0tiMRuAR7sxuiSmC6Mf4Ek",
+          "name" : "Kody West",
+          "type" : "artist",
+          "uri" : "spotify:artist:0tiMRuAR7sxuiSmC6Mf4Ek"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3SsvlCGcKeEK18ZaStROp4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3SsvlCGcKeEK18ZaStROp4",
+        "id" : "3SsvlCGcKeEK18ZaStROp4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273045e1eacff4cedb2fe9790b9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02045e1eacff4cedb2fe9790b9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851045e1eacff4cedb2fe9790b9",
+          "width" : 64
+        } ],
+        "name" : "Higher Ground",
+        "release_date" : "2016-12-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:3SsvlCGcKeEK18ZaStROp4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0tiMRuAR7sxuiSmC6Mf4Ek",
+        "id" : "0tiMRuAR7sxuiSmC6Mf4Ek",
+        "name" : "Kody West",
+        "type" : "artist",
+        "uri" : "spotify:artist:0tiMRuAR7sxuiSmC6Mf4Ek"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 241706,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USCGH1624014"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4eRTL6aRYzPWA8g8nNwTQM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4eRTL6aRYzPWA8g8nNwTQM",
+      "id" : "4eRTL6aRYzPWA8g8nNwTQM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b98b948694b8cf91c84a4f1c6dfa6c8446839e58?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:4eRTL6aRYzPWA8g8nNwTQM"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4I4hmvIc3nC5mkLHuVLPBX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4I4hmvIc3nC5mkLHuVLPBX",
+          "id" : "4I4hmvIc3nC5mkLHuVLPBX",
+          "name" : "Damuyaha",
+          "type" : "artist",
+          "uri" : "spotify:artist:4I4hmvIc3nC5mkLHuVLPBX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4MwJLAnDhxG0bN291z32Eh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4MwJLAnDhxG0bN291z32Eh",
+        "id" : "4MwJLAnDhxG0bN291z32Eh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739e46972fa7fa6ee92b666cfd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029e46972fa7fa6ee92b666cfd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519e46972fa7fa6ee92b666cfd",
+          "width" : 64
+        } ],
+        "name" : "Higher Ground",
+        "release_date" : "2020-02-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:4MwJLAnDhxG0bN291z32Eh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4I4hmvIc3nC5mkLHuVLPBX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4I4hmvIc3nC5mkLHuVLPBX",
+        "id" : "4I4hmvIc3nC5mkLHuVLPBX",
+        "name" : "Damuyaha",
+        "type" : "artist",
+        "uri" : "spotify:artist:4I4hmvIc3nC5mkLHuVLPBX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 136200,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBSMU7489624"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1qstgw73aEfHq8UvtEdxLi"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1qstgw73aEfHq8UvtEdxLi",
+      "id" : "1qstgw73aEfHq8UvtEdxLi",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7c557c1c927a667be0e606b03664e54538ebdaab?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1qstgw73aEfHq8UvtEdxLi"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21mKp7DqtSNHhCAU2ugvUw",
+          "id" : "21mKp7DqtSNHhCAU2ugvUw",
+          "name" : "ODESZA",
+          "type" : "artist",
+          "uri" : "spotify:artist:21mKp7DqtSNHhCAU2ugvUw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4MRcN8PhMhBe84tcPLe2QJ",
+        "id" : "4MRcN8PhMhBe84tcPLe2QJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732527ef20ea4a7f21df00b3c7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022527ef20ea4a7f21df00b3c7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512527ef20ea4a7f21df00b3c7",
+          "width" : 64
+        } ],
+        "name" : "A Moment Apart (Deluxe Edition)",
+        "release_date" : "2018-11-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:4MRcN8PhMhBe84tcPLe2QJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21mKp7DqtSNHhCAU2ugvUw",
+        "id" : "21mKp7DqtSNHhCAU2ugvUw",
+        "name" : "ODESZA",
+        "type" : "artist",
+        "uri" : "spotify:artist:21mKp7DqtSNHhCAU2ugvUw"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 228113,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCFB1800366"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0viadwJp8Hb1oh9OaTcup6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0viadwJp8Hb1oh9OaTcup6",
+      "id" : "0viadwJp8Hb1oh9OaTcup6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Higher Ground (Reprise) - Instrumental",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/afac01eee6979f03016eb1dfaea25031adec3824?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0viadwJp8Hb1oh9OaTcup6"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Higher+Ground&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Higher+Ground&type=track&market=US&offset=0&limit=10",
+    "total" : 4197
+  }
+}

@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Come%2C+My+Way&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4sf4DrAOkheqktxTyKm7tO",
+          "id" : "4sf4DrAOkheqktxTyKm7tO",
+          "name" : "AmaLee",
+          "type" : "artist",
+          "uri" : "spotify:artist:4sf4DrAOkheqktxTyKm7tO"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7sG8pnZfnq5HY4PA4zGeib"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7sG8pnZfnq5HY4PA4zGeib",
+        "id" : "7sG8pnZfnq5HY4PA4zGeib",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e43c0ab9b1c3ae452140ac01",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e43c0ab9b1c3ae452140ac01",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e43c0ab9b1c3ae452140ac01",
+          "width" : 64
+        } ],
+        "name" : "Nostalgia VII",
+        "release_date" : "2019-12-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:7sG8pnZfnq5HY4PA4zGeib"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4sf4DrAOkheqktxTyKm7tO",
+        "id" : "4sf4DrAOkheqktxTyKm7tO",
+        "name" : "AmaLee",
+        "type" : "artist",
+        "uri" : "spotify:artist:4sf4DrAOkheqktxTyKm7tO"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 251076,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZGWW1977720"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2XwJvkzvAtLX6MDmmTeM57"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2XwJvkzvAtLX6MDmmTeM57",
+      "id" : "2XwJvkzvAtLX6MDmmTeM57",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come My Way (From \"Inuyasha\")",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dbf658a0900d04fdf9766819a8e638e61c5d7835?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:2XwJvkzvAtLX6MDmmTeM57"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1ZjTtkG8iHppYgibGNc4rw",
+          "id" : "1ZjTtkG8iHppYgibGNc4rw",
+          "name" : "Mumzy Stranger",
+          "type" : "artist",
+          "uri" : "spotify:artist:1ZjTtkG8iHppYgibGNc4rw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7GQt8Y2DMuefXZtVngR30m"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7GQt8Y2DMuefXZtVngR30m",
+        "id" : "7GQt8Y2DMuefXZtVngR30m",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f99eb13942e02fae90d5bd64",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f99eb13942e02fae90d5bd64",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f99eb13942e02fae90d5bd64",
+          "width" : 64
+        } ],
+        "name" : "Come My Way",
+        "release_date" : "2017-05-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:7GQt8Y2DMuefXZtVngR30m"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZjTtkG8iHppYgibGNc4rw",
+        "id" : "1ZjTtkG8iHppYgibGNc4rw",
+        "name" : "Mumzy Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZjTtkG8iHppYgibGNc4rw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 241217,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADA1744446"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0c9RHFzu7JP0UdoGRodVXM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0c9RHFzu7JP0UdoGRodVXM",
+      "id" : "0c9RHFzu7JP0UdoGRodVXM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come My Way",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bb9a20212a82f345f15cf2a2776d61c0bd494a2b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0c9RHFzu7JP0UdoGRodVXM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3KVbHzrthoK9ecrGMNNR1X"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3KVbHzrthoK9ecrGMNNR1X",
+          "id" : "3KVbHzrthoK9ecrGMNNR1X",
+          "name" : "Asd Wavy",
+          "type" : "artist",
+          "uri" : "spotify:artist:3KVbHzrthoK9ecrGMNNR1X"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/68UxNMW8j9wUnqPVVUfx0A"
+        },
+        "href" : "https://api.spotify.com/v1/albums/68UxNMW8j9wUnqPVVUfx0A",
+        "id" : "68UxNMW8j9wUnqPVVUfx0A",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273957da70fb7576aec56afb18d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02957da70fb7576aec56afb18d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851957da70fb7576aec56afb18d",
+          "width" : 64
+        } ],
+        "name" : "I'm Too Wavy",
+        "release_date" : "2020-04-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:68UxNMW8j9wUnqPVVUfx0A"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3KVbHzrthoK9ecrGMNNR1X"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3KVbHzrthoK9ecrGMNNR1X",
+        "id" : "3KVbHzrthoK9ecrGMNNR1X",
+        "name" : "Asd Wavy",
+        "type" : "artist",
+        "uri" : "spotify:artist:3KVbHzrthoK9ecrGMNNR1X"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 74280,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "GBSMU7871963"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2zWs4DYdFkqYl87pysqn03"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2zWs4DYdFkqYl87pysqn03",
+      "id" : "2zWs4DYdFkqYl87pysqn03",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come My Way",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/883c97f7dceddc87cbb98d8782cd412a43a597d3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:2zWs4DYdFkqYl87pysqn03"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zzbSFZMVpvxSlWAkqqtHP",
+          "id" : "5zzbSFZMVpvxSlWAkqqtHP",
+          "name" : "Brown Bird",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zzbSFZMVpvxSlWAkqqtHP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0SVsGgGApRYVXP466ywwsC",
+        "id" : "0SVsGgGApRYVXP466ywwsC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e33a95aaff11faae0826160c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e33a95aaff11faae0826160c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e33a95aaff11faae0826160c",
+          "width" : 64
+        } ],
+        "name" : "Salt For Salt",
+        "release_date" : "2011-10-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zzbSFZMVpvxSlWAkqqtHP",
+        "id" : "5zzbSFZMVpvxSlWAkqqtHP",
+        "name" : "Brown Bird",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zzbSFZMVpvxSlWAkqqtHP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 131024,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQNL1100012"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3a7oSb7a8OHrvEyGRJJad3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3a7oSb7a8OHrvEyGRJJad3",
+      "id" : "3a7oSb7a8OHrvEyGRJJad3",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come My Way",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0404cbf2fbd7562357194c2c6ee58d7eb41e2df2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:3a7oSb7a8OHrvEyGRJJad3"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4D9k73VomKTnVQ6ROnt8IO",
+          "id" : "4D9k73VomKTnVQ6ROnt8IO",
+          "name" : "Disciple",
+          "type" : "artist",
+          "uri" : "spotify:artist:4D9k73VomKTnVQ6ROnt8IO"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/156WTxzjwwbhYeCVZkZq4W"
+        },
+        "href" : "https://api.spotify.com/v1/albums/156WTxzjwwbhYeCVZkZq4W",
+        "id" : "156WTxzjwwbhYeCVZkZq4W",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b0e0e5bfd5852b8a5654a2e7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b0e0e5bfd5852b8a5654a2e7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b0e0e5bfd5852b8a5654a2e7",
+          "width" : 64
+        } ],
+        "name" : "Long Live the Rebels",
+        "release_date" : "2016-10-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:156WTxzjwwbhYeCVZkZq4W"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4D9k73VomKTnVQ6ROnt8IO",
+        "id" : "4D9k73VomKTnVQ6ROnt8IO",
+        "name" : "Disciple",
+        "type" : "artist",
+        "uri" : "spotify:artist:4D9k73VomKTnVQ6ROnt8IO"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 262437,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMGVJ1600161"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3v8Y1E02crlqkFi7TWIdnP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3v8Y1E02crlqkFi7TWIdnP",
+      "id" : "3v8Y1E02crlqkFi7TWIdnP",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come My Way",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/81ee7d90e30eb35bf36070eeb41e20940728a009?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3v8Y1E02crlqkFi7TWIdnP"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5CBNhusqki2s2jp4Lo6i2L",
+          "id" : "5CBNhusqki2s2jp4Lo6i2L",
+          "name" : "JLV",
+          "type" : "artist",
+          "uri" : "spotify:artist:5CBNhusqki2s2jp4Lo6i2L"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/09BjF7wNYsc9a86kmr2ARw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/09BjF7wNYsc9a86kmr2ARw",
+          "id" : "09BjF7wNYsc9a86kmr2ARw",
+          "name" : "Jawedsway",
+          "type" : "artist",
+          "uri" : "spotify:artist:09BjF7wNYsc9a86kmr2ARw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3b9rXzAECDxCql1r2M3mHY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3b9rXzAECDxCql1r2M3mHY",
+        "id" : "3b9rXzAECDxCql1r2M3mHY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27388f05cd3890bc9f094c9be15",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0288f05cd3890bc9f094c9be15",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485188f05cd3890bc9f094c9be15",
+          "width" : 64
+        } ],
+        "name" : "Come My Way",
+        "release_date" : "2020-05-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:3b9rXzAECDxCql1r2M3mHY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CBNhusqki2s2jp4Lo6i2L",
+        "id" : "5CBNhusqki2s2jp4Lo6i2L",
+        "name" : "JLV",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CBNhusqki2s2jp4Lo6i2L"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09BjF7wNYsc9a86kmr2ARw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09BjF7wNYsc9a86kmr2ARw",
+        "id" : "09BjF7wNYsc9a86kmr2ARw",
+        "name" : "Jawedsway",
+        "type" : "artist",
+        "uri" : "spotify:artist:09BjF7wNYsc9a86kmr2ARw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/46tAkwcuqLpuqBMC1V1fp1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/46tAkwcuqLpuqBMC1V1fp1",
+        "id" : "46tAkwcuqLpuqBMC1V1fp1",
+        "name" : "Jerry Island",
+        "type" : "artist",
+        "uri" : "spotify:artist:46tAkwcuqLpuqBMC1V1fp1"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 148064,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "NL1ZN2000321"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3bhY7kp9joVSQvCHMxbr5M"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3bhY7kp9joVSQvCHMxbr5M",
+      "id" : "3bhY7kp9joVSQvCHMxbr5M",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come My Way",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/854ca2694c53642edb42309aac64119af844e47b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3bhY7kp9joVSQvCHMxbr5M"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2w9aUCORr6fNeX7bRrbDCI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2w9aUCORr6fNeX7bRrbDCI",
+          "id" : "2w9aUCORr6fNeX7bRrbDCI",
+          "name" : "Nine to Fyah",
+          "type" : "artist",
+          "uri" : "spotify:artist:2w9aUCORr6fNeX7bRrbDCI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7bbt4wKWLakrF1CnTalM55"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7bbt4wKWLakrF1CnTalM55",
+        "id" : "7bbt4wKWLakrF1CnTalM55",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27398d02924e53468a9e6c85a65",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0298d02924e53468a9e6c85a65",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485198d02924e53468a9e6c85a65",
+          "width" : 64
+        } ],
+        "name" : "Come My Way",
+        "release_date" : "2020-05-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:7bbt4wKWLakrF1CnTalM55"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2w9aUCORr6fNeX7bRrbDCI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2w9aUCORr6fNeX7bRrbDCI",
+        "id" : "2w9aUCORr6fNeX7bRrbDCI",
+        "name" : "Nine to Fyah",
+        "type" : "artist",
+        "uri" : "spotify:artist:2w9aUCORr6fNeX7bRrbDCI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 242000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM6MZ2004982"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Yoqm2lgWagxDgpjOEzc8O"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Yoqm2lgWagxDgpjOEzc8O",
+      "id" : "1Yoqm2lgWagxDgpjOEzc8O",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come My Way",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/460f89086cc46b81e93d07405626724f52cd146e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1Yoqm2lgWagxDgpjOEzc8O"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1iJdyDcY98X3GMnUesl7tf",
+          "id" : "1iJdyDcY98X3GMnUesl7tf",
+          "name" : "Comethazine",
+          "type" : "artist",
+          "uri" : "spotify:artist:1iJdyDcY98X3GMnUesl7tf"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2lxOYynQ4xHvUZzFVbc1iO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2lxOYynQ4xHvUZzFVbc1iO",
+        "id" : "2lxOYynQ4xHvUZzFVbc1iO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fc22b0ce07f38f096102c1a7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fc22b0ce07f38f096102c1a7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fc22b0ce07f38f096102c1a7",
+          "width" : 64
+        } ],
+        "name" : "Bawskee",
+        "release_date" : "2018-08-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:2lxOYynQ4xHvUZzFVbc1iO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1iJdyDcY98X3GMnUesl7tf",
+        "id" : "1iJdyDcY98X3GMnUesl7tf",
+        "name" : "Comethazine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1iJdyDcY98X3GMnUesl7tf"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 102857,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUYG1213965"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2H085xswEodaJDr89Zr39Q"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2H085xswEodaJDr89Zr39Q",
+      "id" : "2H085xswEodaJDr89Zr39Q",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Way",
+      "popularity" : 44,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e71d8eccb0334bf50b7737c3c0fdc9206c295699?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:2H085xswEodaJDr89Zr39Q"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7sGhjDpOtxrMLip4lGFU7P"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7sGhjDpOtxrMLip4lGFU7P",
+          "id" : "7sGhjDpOtxrMLip4lGFU7P",
+          "name" : "R. Stevie Moore",
+          "type" : "artist",
+          "uri" : "spotify:artist:7sGhjDpOtxrMLip4lGFU7P"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0PbsfW4M2bS3Ng5ooJVK0V"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0PbsfW4M2bS3Ng5ooJVK0V",
+        "id" : "0PbsfW4M2bS3Ng5ooJVK0V",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b8ae5436cf1580cf17dbd3cb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b8ae5436cf1580cf17dbd3cb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b8ae5436cf1580cf17dbd3cb",
+          "width" : 64
+        } ],
+        "name" : "Afterlife",
+        "release_date" : "2019-02-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:0PbsfW4M2bS3Ng5ooJVK0V"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7sGhjDpOtxrMLip4lGFU7P"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7sGhjDpOtxrMLip4lGFU7P",
+        "id" : "7sGhjDpOtxrMLip4lGFU7P",
+        "name" : "R. Stevie Moore",
+        "type" : "artist",
+        "uri" : "spotify:artist:7sGhjDpOtxrMLip4lGFU7P"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 185080,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US37V1926703"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Am10sGCUqP6V27ACaQU8q"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Am10sGCUqP6V27ACaQU8q",
+      "id" : "2Am10sGCUqP6V27ACaQU8q",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come My Way",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2c75ba048129c1578e1a3d969296a520a355d0a3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2Am10sGCUqP6V27ACaQU8q"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1KD7ZcW8GqsnaCpGr9eEUH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1KD7ZcW8GqsnaCpGr9eEUH",
+          "id" : "1KD7ZcW8GqsnaCpGr9eEUH",
+          "name" : "Joe Blow",
+          "type" : "artist",
+          "uri" : "spotify:artist:1KD7ZcW8GqsnaCpGr9eEUH"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3cmDvkXNC41888iz9yqlNj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3cmDvkXNC41888iz9yqlNj",
+        "id" : "3cmDvkXNC41888iz9yqlNj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27383bbb72225b4393cf3ae748d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0283bbb72225b4393cf3ae748d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485183bbb72225b4393cf3ae748d",
+          "width" : 64
+        } ],
+        "name" : "Check A Real N*gga Out Tho",
+        "release_date" : "2013-09-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:3cmDvkXNC41888iz9yqlNj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KD7ZcW8GqsnaCpGr9eEUH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KD7ZcW8GqsnaCpGr9eEUH",
+        "id" : "1KD7ZcW8GqsnaCpGr9eEUH",
+        "name" : "Joe Blow",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KD7ZcW8GqsnaCpGr9eEUH"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 267408,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUYG1033956"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0vSf6nEEgKU5HAzDeDbyvP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0vSf6nEEgKU5HAzDeDbyvP",
+      "id" : "0vSf6nEEgKU5HAzDeDbyvP",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come My Way (feat. The Jacka)",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/57c4e59c36b764309d51c5a6f917674d57e30fa3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0vSf6nEEgKU5HAzDeDbyvP"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Come%2C+My+Way&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Come%2C+My+Way&type=track&market=US&offset=0&limit=10",
+    "total" : 1612
+  }
+}

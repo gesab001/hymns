@@ -1,0 +1,753 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Joyful%2C+Joyful%2C+We+Adore+Thee&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6piIAIurGAryW5h1rqQC16",
+          "id" : "6piIAIurGAryW5h1rqQC16",
+          "name" : "Passion",
+          "type" : "artist",
+          "uri" : "spotify:artist:6piIAIurGAryW5h1rqQC16"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1ABQb99YyGRAKq0z3VXgoA",
+        "id" : "1ABQb99YyGRAKq0z3VXgoA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273323b10bd13942bd4a44d2bcf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02323b10bd13942bd4a44d2bcf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851323b10bd13942bd4a44d2bcf",
+          "width" : 64
+        } ],
+        "name" : "Hymns Ancient And Modern (Live)",
+        "release_date" : "2004-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:1ABQb99YyGRAKq0z3VXgoA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6piIAIurGAryW5h1rqQC16",
+        "id" : "6piIAIurGAryW5h1rqQC16",
+        "name" : "Passion",
+        "type" : "artist",
+        "uri" : "spotify:artist:6piIAIurGAryW5h1rqQC16"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Przo8VxOHYfZv9FMZWsWV",
+        "id" : "0Przo8VxOHYfZv9FMZWsWV",
+        "name" : "Charlie Hall",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Przo8VxOHYfZv9FMZWsWV"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 334720,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP30321652"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0cuHw0f0tppNLljulzyAmn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0cuHw0f0tppNLljulzyAmn",
+      "id" : "0cuHw0f0tppNLljulzyAmn",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Joyful, Joyful We Adore Thee - Live",
+      "popularity" : 20,
+      "preview_url" : null,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0cuHw0f0tppNLljulzyAmn"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/23R5SS5O6nz9F2ea4BaVOb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/23R5SS5O6nz9F2ea4BaVOb",
+          "id" : "23R5SS5O6nz9F2ea4BaVOb",
+          "name" : "Paul Croft",
+          "type" : "artist",
+          "uri" : "spotify:artist:23R5SS5O6nz9F2ea4BaVOb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/60pAoFAdRE2AjAMuigF8kQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/60pAoFAdRE2AjAMuigF8kQ",
+        "id" : "60pAoFAdRE2AjAMuigF8kQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cf6b2ce337f7eddc2e39aac8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cf6b2ce337f7eddc2e39aac8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cf6b2ce337f7eddc2e39aac8",
+          "width" : 64
+        } ],
+        "name" : "Relaxing Hymns on Piano, Vol. 1",
+        "release_date" : "2015-09-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 36,
+        "type" : "album",
+        "uri" : "spotify:album:60pAoFAdRE2AjAMuigF8kQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/23R5SS5O6nz9F2ea4BaVOb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/23R5SS5O6nz9F2ea4BaVOb",
+        "id" : "23R5SS5O6nz9F2ea4BaVOb",
+        "name" : "Paul Croft",
+        "type" : "artist",
+        "uri" : "spotify:artist:23R5SS5O6nz9F2ea4BaVOb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 82000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM2PV1508013"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3RThmenSO6PrMySwFJQXUS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3RThmenSO6PrMySwFJQXUS",
+      "id" : "3RThmenSO6PrMySwFJQXUS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Joyful, Joyful, We Adore Thee",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f6808b9074d5814e2dd420517dcc6e331435ccd4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 21,
+      "type" : "track",
+      "uri" : "spotify:track:3RThmenSO6PrMySwFJQXUS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+          "id" : "1fO0DHOhFIvuPtObA3LtHR",
+          "name" : "Christian Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7e0OJETOGUBfcjKWR6sZrV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7e0OJETOGUBfcjKWR6sZrV",
+        "id" : "7e0OJETOGUBfcjKWR6sZrV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273eaf4566ca7e7215b219ae383",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02eaf4566ca7e7215b219ae383",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851eaf4566ca7e7215b219ae383",
+          "width" : 64
+        } ],
+        "name" : "Christian Hymns",
+        "release_date" : "2011-03-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:7e0OJETOGUBfcjKWR6sZrV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+        "id" : "1fO0DHOhFIvuPtObA3LtHR",
+        "name" : "Christian Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 80920,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAAW1164624"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4WqViYN9AKhthVQq7TKmQ9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4WqViYN9AKhthVQq7TKmQ9",
+      "id" : "4WqViYN9AKhthVQq7TKmQ9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Joyful, Joyful, We Adore Thee",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/05de71834405ff579b7da33c65e29d3fffefcb02?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:4WqViYN9AKhthVQq7TKmQ9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+          "id" : "7dc9jcxR0GgRMoNasStnmZ",
+          "name" : "David Baroni",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3ghHvaGIE11mCIxqVRoBAq"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3ghHvaGIE11mCIxqVRoBAq",
+        "id" : "3ghHvaGIE11mCIxqVRoBAq",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27304484462b89d336d63148c2c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0204484462b89d336d63148c2c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485104484462b89d336d63148c2c",
+          "width" : 64
+        } ],
+        "name" : "A Quiet Place: Instrumental Hymns Vol. III",
+        "release_date" : "2011-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:3ghHvaGIE11mCIxqVRoBAq"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+        "id" : "7dc9jcxR0GgRMoNasStnmZ",
+        "name" : "David Baroni",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 246520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p1091141"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6vXm7fgX5tnXFRHh6vuYJ2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6vXm7fgX5tnXFRHh6vuYJ2",
+      "id" : "6vXm7fgX5tnXFRHh6vuYJ2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Joyful Joyful We Adore Thee",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bcefdf2ab1480bd43f1b88166e80220576378f98?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6vXm7fgX5tnXFRHh6vuYJ2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/11Y54BxlxC3UIAUkU2eadQ",
+          "id" : "11Y54BxlxC3UIAUkU2eadQ",
+          "name" : "Rend Collective",
+          "type" : "artist",
+          "uri" : "spotify:artist:11Y54BxlxC3UIAUkU2eadQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1pNwYbeB1bqTBoEtrPJsSb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1pNwYbeB1bqTBoEtrPJsSb",
+        "id" : "1pNwYbeB1bqTBoEtrPJsSb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27358eee2c118c23593642cfe60",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0258eee2c118c23593642cfe60",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485158eee2c118c23593642cfe60",
+          "width" : 64
+        } ],
+        "name" : "Campfire Christmas (Vol. 1)",
+        "release_date" : "2014-11-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:1pNwYbeB1bqTBoEtrPJsSb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/11Y54BxlxC3UIAUkU2eadQ",
+        "id" : "11Y54BxlxC3UIAUkU2eadQ",
+        "name" : "Rend Collective",
+        "type" : "artist",
+        "uri" : "spotify:artist:11Y54BxlxC3UIAUkU2eadQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4IrPx5Pieem55X7D0OTAiW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4IrPx5Pieem55X7D0OTAiW",
+        "id" : "4IrPx5Pieem55X7D0OTAiW",
+        "name" : "Urban Rescue",
+        "type" : "artist",
+        "uri" : "spotify:artist:4IrPx5Pieem55X7D0OTAiW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 211613,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUG11401779"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7fHTZGJnELyWHrNjwqlCuO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7fHTZGJnELyWHrNjwqlCuO",
+      "id" : "7fHTZGJnELyWHrNjwqlCuO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Joyful, Joyful, We Adore Thee (Rejoice Rejoice)",
+      "popularity" : 17,
+      "preview_url" : null,
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:7fHTZGJnELyWHrNjwqlCuO"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1U5zgr455OGyIkLNXvDdrf",
+          "id" : "1U5zgr455OGyIkLNXvDdrf",
+          "name" : "Traditional",
+          "type" : "artist",
+          "uri" : "spotify:artist:1U5zgr455OGyIkLNXvDdrf"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5oW7xntz397IxAiDinC6Tk"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5oW7xntz397IxAiDinC6Tk",
+          "id" : "5oW7xntz397IxAiDinC6Tk",
+          "name" : "John Mock",
+          "type" : "artist",
+          "uri" : "spotify:artist:5oW7xntz397IxAiDinC6Tk"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7qo3kF0rtYhhCjS0qdJbkL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7qo3kF0rtYhhCjS0qdJbkL",
+        "id" : "7qo3kF0rtYhhCjS0qdJbkL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273655f886ff599f4a68a49abe6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02655f886ff599f4a68a49abe6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851655f886ff599f4a68a49abe6",
+          "width" : 64
+        } ],
+        "name" : "Classical Hymns",
+        "release_date" : "1995-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:7qo3kF0rtYhhCjS0qdJbkL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1U5zgr455OGyIkLNXvDdrf",
+        "id" : "1U5zgr455OGyIkLNXvDdrf",
+        "name" : "Traditional",
+        "type" : "artist",
+        "uri" : "spotify:artist:1U5zgr455OGyIkLNXvDdrf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5oW7xntz397IxAiDinC6Tk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5oW7xntz397IxAiDinC6Tk",
+        "id" : "5oW7xntz397IxAiDinC6Tk",
+        "name" : "John Mock",
+        "type" : "artist",
+        "uri" : "spotify:artist:5oW7xntz397IxAiDinC6Tk"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 341266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USB4U0850853"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6p6TcvfCcQB8jtmZbxllKk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6p6TcvfCcQB8jtmZbxllKk",
+      "id" : "6p6TcvfCcQB8jtmZbxllKk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Joyful, Joyful We Adore Thee - Classical Hymns Album Version",
+      "popularity" : 19,
+      "preview_url" : null,
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:6p6TcvfCcQB8jtmZbxllKk"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32QzlLbdI90xZtgtHorqzB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32QzlLbdI90xZtgtHorqzB",
+          "id" : "32QzlLbdI90xZtgtHorqzB",
+          "name" : "Baby Mozart",
+          "type" : "artist",
+          "uri" : "spotify:artist:32QzlLbdI90xZtgtHorqzB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5Q7fjwDKnhXSFwTAKRvB1X"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5Q7fjwDKnhXSFwTAKRvB1X",
+        "id" : "5Q7fjwDKnhXSFwTAKRvB1X",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273de15b4e6cf09c048a11d7613",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02de15b4e6cf09c048a11d7613",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851de15b4e6cf09c048a11d7613",
+          "width" : 64
+        } ],
+        "name" : "Best of Baby Beethoven Classic Music Box",
+        "release_date" : "2017-02-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:5Q7fjwDKnhXSFwTAKRvB1X"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32QzlLbdI90xZtgtHorqzB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32QzlLbdI90xZtgtHorqzB",
+        "id" : "32QzlLbdI90xZtgtHorqzB",
+        "name" : "Baby Mozart",
+        "type" : "artist",
+        "uri" : "spotify:artist:32QzlLbdI90xZtgtHorqzB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 102340,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ22B1747931"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6gi1P3syMrxX2xZGENOiGu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6gi1P3syMrxX2xZGENOiGu",
+      "id" : "6gi1P3syMrxX2xZGENOiGu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Ode To Joy (Joyful Joyful We Adore Thee)",
+      "popularity" : 35,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c0804eaf7650de32995fa35aad7891da34d5a85b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:6gi1P3syMrxX2xZGENOiGu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+          "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+          "name" : "Anthem Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/55y8iZYeiGKxYCxmWF5Nd4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/55y8iZYeiGKxYCxmWF5Nd4",
+        "id" : "55y8iZYeiGKxYCxmWF5Nd4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d838a61ea7ca214e4a7542d6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d838a61ea7ca214e4a7542d6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d838a61ea7ca214e4a7542d6",
+          "width" : 64
+        } ],
+        "name" : "Hymns",
+        "release_date" : "2017-04-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:55y8iZYeiGKxYCxmWF5Nd4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+        "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+        "name" : "Anthem Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 182997,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921650146"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6cI11jpAiMwCTGsNL9Hhg0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6cI11jpAiMwCTGsNL9Hhg0",
+      "id" : "6cI11jpAiMwCTGsNL9Hhg0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Christmas Hymns Medley: O, Little Town of Bethlehem / Silent Night / Hark! the Herald Angels Sing / Away in a Manger / Joyful, Joyful, We Adore Thee / Joy to the World",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/16d24ac9d6d4c2b9400b44eb7957710bd0770c1f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:6cI11jpAiMwCTGsNL9Hhg0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+          "id" : "1fO0DHOhFIvuPtObA3LtHR",
+          "name" : "Christian Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6Mpnuw1zAeDxd9Y7clGNrX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6Mpnuw1zAeDxd9Y7clGNrX",
+          "id" : "6Mpnuw1zAeDxd9Y7clGNrX",
+          "name" : "Christian Hymns Players",
+          "type" : "artist",
+          "uri" : "spotify:artist:6Mpnuw1zAeDxd9Y7clGNrX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1waJjpSI6Rar6AaYwFz8BD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1waJjpSI6Rar6AaYwFz8BD",
+        "id" : "1waJjpSI6Rar6AaYwFz8BD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739607fa1d23137720d9c6a4b1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029607fa1d23137720d9c6a4b1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519607fa1d23137720d9c6a4b1",
+          "width" : 64
+        } ],
+        "name" : "Hymns for Worship on Harp",
+        "release_date" : "2019-06-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1waJjpSI6Rar6AaYwFz8BD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fO0DHOhFIvuPtObA3LtHR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fO0DHOhFIvuPtObA3LtHR",
+        "id" : "1fO0DHOhFIvuPtObA3LtHR",
+        "name" : "Christian Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fO0DHOhFIvuPtObA3LtHR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Mpnuw1zAeDxd9Y7clGNrX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Mpnuw1zAeDxd9Y7clGNrX",
+        "id" : "6Mpnuw1zAeDxd9Y7clGNrX",
+        "name" : "Christian Hymns Players",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Mpnuw1zAeDxd9Y7clGNrX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 184202,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEG1995818"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4sYQMDQULTQSNIJmn4ubqV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4sYQMDQULTQSNIJmn4ubqV",
+      "id" : "4sYQMDQULTQSNIJmn4ubqV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Ode to Joy / Joyful, Joyful, We Adore Thee (Instrumental Version)",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9f1b016c49a1280ba5f0309c72b3a43d7679b777?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:4sYQMDQULTQSNIJmn4ubqV"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+          "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+          "name" : "Instrumental Christian Songs, Christian Piano Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1tJVia5eeqSOYTb6pQZeDg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1tJVia5eeqSOYTb6pQZeDg",
+          "id" : "1tJVia5eeqSOYTb6pQZeDg",
+          "name" : "Catholic Hymns",
+          "type" : "artist",
+          "uri" : "spotify:artist:1tJVia5eeqSOYTb6pQZeDg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5XFvWr2ehct4LlhKV7gDLV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5XFvWr2ehct4LlhKV7gDLV",
+        "id" : "5XFvWr2ehct4LlhKV7gDLV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273aed20226ddf8b7bcab55d566",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02aed20226ddf8b7bcab55d566",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851aed20226ddf8b7bcab55d566",
+          "width" : 64
+        } ],
+        "name" : "Healing Hymns for Religious Retreats",
+        "release_date" : "2020-03-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5XFvWr2ehct4LlhKV7gDLV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+        "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+        "name" : "Instrumental Christian Songs, Christian Piano Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1tJVia5eeqSOYTb6pQZeDg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1tJVia5eeqSOYTb6pQZeDg",
+        "id" : "1tJVia5eeqSOYTb6pQZeDg",
+        "name" : "Catholic Hymns",
+        "type" : "artist",
+        "uri" : "spotify:artist:1tJVia5eeqSOYTb6pQZeDg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 219977,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAER2003993"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5FcLv4htZD2dKURvWLkV75"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5FcLv4htZD2dKURvWLkV75",
+      "id" : "5FcLv4htZD2dKURvWLkV75",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Twilight (Joyful, Joyful, We Adore Thee) [Instrumental Version]",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/41cdd95d1f1180e69a6b5921fc4762930b0ca53c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5FcLv4htZD2dKURvWLkV75"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Joyful%2C+Joyful%2C+We+Adore+Thee&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Joyful%2C+Joyful%2C+We+Adore+Thee&type=track&market=US&offset=0&limit=10",
+    "total" : 797
+  }
+}

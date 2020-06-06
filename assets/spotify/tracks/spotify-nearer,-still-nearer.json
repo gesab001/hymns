@@ -1,0 +1,726 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Nearer%2C+Still+Nearer&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6sOEMfvCfHQ9dhSWyamXVb",
+          "id" : "6sOEMfvCfHQ9dhSWyamXVb",
+          "name" : "Nils Hoffmann",
+          "type" : "artist",
+          "uri" : "spotify:artist:6sOEMfvCfHQ9dhSWyamXVb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0N958VOfT2jHPCvWi1cedx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0N958VOfT2jHPCvWi1cedx",
+        "id" : "0N958VOfT2jHPCvWi1cedx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730edfa26b8c8b49a12e8332ab",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020edfa26b8c8b49a12e8332ab",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510edfa26b8c8b49a12e8332ab",
+          "width" : 64
+        } ],
+        "name" : "Once in a Blue Moon",
+        "release_date" : "2020-03-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:0N958VOfT2jHPCvWi1cedx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6sOEMfvCfHQ9dhSWyamXVb",
+        "id" : "6sOEMfvCfHQ9dhSWyamXVb",
+        "name" : "Nils Hoffmann",
+        "type" : "artist",
+        "uri" : "spotify:artist:6sOEMfvCfHQ9dhSWyamXVb"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2zx7IfHfeLnEL4wL3Vc6w1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2zx7IfHfeLnEL4wL3Vc6w1",
+        "id" : "2zx7IfHfeLnEL4wL3Vc6w1",
+        "name" : "Khåen",
+        "type" : "artist",
+        "uri" : "spotify:artist:2zx7IfHfeLnEL4wL3Vc6w1"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 271712,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEBE71900584"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7xRiQmJViKOzpQgYHBfCTZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7xRiQmJViKOzpQgYHBfCTZ",
+      "id" : "7xRiQmJViKOzpQgYHBfCTZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer Still Nearer",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a49ec7a53a998f711a2845d0134565173f306186?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:7xRiQmJViKOzpQgYHBfCTZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5OoNaL5KATvhjuct2YDOMa"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5OoNaL5KATvhjuct2YDOMa",
+          "id" : "5OoNaL5KATvhjuct2YDOMa",
+          "name" : "Ronny Matthes",
+          "type" : "artist",
+          "uri" : "spotify:artist:5OoNaL5KATvhjuct2YDOMa"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0gaP66J9DWAfsVLbMhjRbf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0gaP66J9DWAfsVLbMhjRbf",
+        "id" : "0gaP66J9DWAfsVLbMhjRbf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27379afe0c6d163a74b1f9cd414",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0279afe0c6d163a74b1f9cd414",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485179afe0c6d163a74b1f9cd414",
+          "width" : 64
+        } ],
+        "name" : "Hintergrundmusik, Vol. 1 - 4 - Gemafreie Musik zur Beschallung von Hotels & Restaurants (Inkl. Romantische Klaviermusik)",
+        "release_date" : "2015-04-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 51,
+        "type" : "album",
+        "uri" : "spotify:album:0gaP66J9DWAfsVLbMhjRbf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5OoNaL5KATvhjuct2YDOMa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5OoNaL5KATvhjuct2YDOMa",
+        "id" : "5OoNaL5KATvhjuct2YDOMa",
+        "name" : "Ronny Matthes",
+        "type" : "artist",
+        "uri" : "spotify:artist:5OoNaL5KATvhjuct2YDOMa"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 259040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEPD41308102"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/79yD6UKyjVd4njmW6DZB9s"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/79yD6UKyjVd4njmW6DZB9s",
+      "id" : "79yD6UKyjVd4njmW6DZB9s",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, Still Nearer - Gemafreie Musik",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e2aecacca872670987ca1e9737b4da86346cc582?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:79yD6UKyjVd4njmW6DZB9s"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5OoNaL5KATvhjuct2YDOMa"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5OoNaL5KATvhjuct2YDOMa",
+          "id" : "5OoNaL5KATvhjuct2YDOMa",
+          "name" : "Ronny Matthes",
+          "type" : "artist",
+          "uri" : "spotify:artist:5OoNaL5KATvhjuct2YDOMa"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/17yoAmghIlmzgzpcKlk8qo"
+        },
+        "href" : "https://api.spotify.com/v1/albums/17yoAmghIlmzgzpcKlk8qo",
+        "id" : "17yoAmghIlmzgzpcKlk8qo",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273026571b3c31f68bb06318d85",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02026571b3c31f68bb06318d85",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851026571b3c31f68bb06318d85",
+          "width" : 64
+        } ],
+        "name" : "Hintergrundmusik, Vol. 1 - 8 - Gemafreie Musik zur Beschallung von Hotels und Restaurants (Klaviermusik, Jazz, Filmmusik & Klassik)",
+        "release_date" : "2016-11-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 98,
+        "type" : "album",
+        "uri" : "spotify:album:17yoAmghIlmzgzpcKlk8qo"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55r2tlAf9woJUpWTuqkdbJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55r2tlAf9woJUpWTuqkdbJ",
+        "id" : "55r2tlAf9woJUpWTuqkdbJ",
+        "name" : "Leila N. Morris",
+        "type" : "artist",
+        "uri" : "spotify:artist:55r2tlAf9woJUpWTuqkdbJ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5OoNaL5KATvhjuct2YDOMa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5OoNaL5KATvhjuct2YDOMa",
+        "id" : "5OoNaL5KATvhjuct2YDOMa",
+        "name" : "Ronny Matthes",
+        "type" : "artist",
+        "uri" : "spotify:artist:5OoNaL5KATvhjuct2YDOMa"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 259040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEPD41610402"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/095p7nTua7bvkBaOonBVWy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/095p7nTua7bvkBaOonBVWy",
+      "id" : "095p7nTua7bvkBaOonBVWy",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, Still Nearer - Christliche Musik - Instrumental",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e2aecacca872670987ca1e9737b4da86346cc582?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:095p7nTua7bvkBaOonBVWy"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/71WdmiUGtujRDl2Iiocpvy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/71WdmiUGtujRDl2Iiocpvy",
+          "id" : "71WdmiUGtujRDl2Iiocpvy",
+          "name" : "Samuel Mitchell",
+          "type" : "artist",
+          "uri" : "spotify:artist:71WdmiUGtujRDl2Iiocpvy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3mZ0NhI2uQ9Qc4pwTifsJJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3mZ0NhI2uQ9Qc4pwTifsJJ",
+        "id" : "3mZ0NhI2uQ9Qc4pwTifsJJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cbb9a49b1f308eb023d998b0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cbb9a49b1f308eb023d998b0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cbb9a49b1f308eb023d998b0",
+          "width" : 64
+        } ],
+        "name" : "Quiet Rest",
+        "release_date" : "2020-05-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:3mZ0NhI2uQ9Qc4pwTifsJJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/71WdmiUGtujRDl2Iiocpvy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/71WdmiUGtujRDl2Iiocpvy",
+        "id" : "71WdmiUGtujRDl2Iiocpvy",
+        "name" : "Samuel Mitchell",
+        "type" : "artist",
+        "uri" : "spotify:artist:71WdmiUGtujRDl2Iiocpvy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 184560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm22017912"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5xipHwLm8U8Red7fT54N9s"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5xipHwLm8U8Red7fT54N9s",
+      "id" : "5xipHwLm8U8Red7fT54N9s",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, Still Nearer",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d09cd70fae553426c0e79267ac60c00d516f0864?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:5xipHwLm8U8Red7fT54N9s"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5OoNaL5KATvhjuct2YDOMa"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5OoNaL5KATvhjuct2YDOMa",
+          "id" : "5OoNaL5KATvhjuct2YDOMa",
+          "name" : "Ronny Matthes",
+          "type" : "artist",
+          "uri" : "spotify:artist:5OoNaL5KATvhjuct2YDOMa"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Ylkr1ap9pGLw76yitPZYL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Ylkr1ap9pGLw76yitPZYL",
+        "id" : "3Ylkr1ap9pGLw76yitPZYL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c63225d3739564a20607d0f8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c63225d3739564a20607d0f8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c63225d3739564a20607d0f8",
+          "width" : 64
+        } ],
+        "name" : "Hintergrundmusik, Vol. 1 - Gemafreie Musik zur Beschallung von Hotels & Restaurants (Gemafrei / Royalty Free Music)",
+        "release_date" : "2015-04-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:3Ylkr1ap9pGLw76yitPZYL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5OoNaL5KATvhjuct2YDOMa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5OoNaL5KATvhjuct2YDOMa",
+        "id" : "5OoNaL5KATvhjuct2YDOMa",
+        "name" : "Ronny Matthes",
+        "type" : "artist",
+        "uri" : "spotify:artist:5OoNaL5KATvhjuct2YDOMa"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 259040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEPD41306902"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3MvxjFCDKJZ2uBPNDCL6Hr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3MvxjFCDKJZ2uBPNDCL6Hr",
+      "id" : "3MvxjFCDKJZ2uBPNDCL6Hr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, Still Nearer - Gemafrei",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e2aecacca872670987ca1e9737b4da86346cc582?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3MvxjFCDKJZ2uBPNDCL6Hr"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1PCJfBD2SVVE8cGqpg1pC9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1PCJfBD2SVVE8cGqpg1pC9",
+          "id" : "1PCJfBD2SVVE8cGqpg1pC9",
+          "name" : "Hal Wright",
+          "type" : "artist",
+          "uri" : "spotify:artist:1PCJfBD2SVVE8cGqpg1pC9"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5oWBMNvHBpJEJbIuuWYIEO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5oWBMNvHBpJEJbIuuWYIEO",
+        "id" : "5oWBMNvHBpJEJbIuuWYIEO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b27b0222733203b3fa0d9301",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b27b0222733203b3fa0d9301",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b27b0222733203b3fa0d9301",
+          "width" : 64
+        } ],
+        "name" : "Instrumental Hymns 1",
+        "release_date" : "2020-05-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:5oWBMNvHBpJEJbIuuWYIEO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PCJfBD2SVVE8cGqpg1pC9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PCJfBD2SVVE8cGqpg1pC9",
+        "id" : "1PCJfBD2SVVE8cGqpg1pC9",
+        "name" : "Hal Wright",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PCJfBD2SVVE8cGqpg1pC9"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Aerx1PdoW4F5Yvrus4bDE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Aerx1PdoW4F5Yvrus4bDE",
+        "id" : "5Aerx1PdoW4F5Yvrus4bDE",
+        "name" : "Twin Sisters",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Aerx1PdoW4F5Yvrus4bDE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 178440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US6PD1903955"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3i19zGYPO0WKhpYZZDGXZ8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3i19zGYPO0WKhpYZZDGXZ8",
+      "id" : "3i19zGYPO0WKhpYZZDGXZ8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, Still Nearer",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0f9787c79e87a10ff040d4292b0c1c048fdcad8e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:3i19zGYPO0WKhpYZZDGXZ8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1rnvO0098VACV7bmTr2dIv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1rnvO0098VACV7bmTr2dIv",
+          "id" : "1rnvO0098VACV7bmTr2dIv",
+          "name" : "Jason Tonioli",
+          "type" : "artist",
+          "uri" : "spotify:artist:1rnvO0098VACV7bmTr2dIv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5J0vM24lEXhpCZVB570aU1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5J0vM24lEXhpCZVB570aU1",
+        "id" : "5J0vM24lEXhpCZVB570aU1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27354c3d30e40b79503cfe9828e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0254c3d30e40b79503cfe9828e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485154c3d30e40b79503cfe9828e",
+          "width" : 64
+        } ],
+        "name" : "Be Still - Piano Hymns",
+        "release_date" : "2012-03-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:5J0vM24lEXhpCZVB570aU1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1rnvO0098VACV7bmTr2dIv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1rnvO0098VACV7bmTr2dIv",
+        "id" : "1rnvO0098VACV7bmTr2dIv",
+        "name" : "Jason Tonioli",
+        "type" : "artist",
+        "uri" : "spotify:artist:1rnvO0098VACV7bmTr2dIv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 301453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQY51270386"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3806Evw5EhiyJnNtquBfxo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3806Evw5EhiyJnNtquBfxo",
+      "id" : "3806Evw5EhiyJnNtquBfxo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer My God to Thee",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0f78cc0a7907163bd1cb44991458362eb6e14982?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3806Evw5EhiyJnNtquBfxo"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cw7QQfN0zs6QUUGvhYp56"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cw7QQfN0zs6QUUGvhYp56",
+          "id" : "2cw7QQfN0zs6QUUGvhYp56",
+          "name" : "Galkin Evangelistic Team",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cw7QQfN0zs6QUUGvhYp56"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0y2R1g27gF9v8CkVjtCOjv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0y2R1g27gF9v8CkVjtCOjv",
+        "id" : "0y2R1g27gF9v8CkVjtCOjv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731deb9002458938001a905212",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021deb9002458938001a905212",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511deb9002458938001a905212",
+          "width" : 64
+        } ],
+        "name" : "Be Still",
+        "release_date" : "2012-03-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:0y2R1g27gF9v8CkVjtCOjv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2cw7QQfN0zs6QUUGvhYp56"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2cw7QQfN0zs6QUUGvhYp56",
+        "id" : "2cw7QQfN0zs6QUUGvhYp56",
+        "name" : "Galkin Evangelistic Team",
+        "type" : "artist",
+        "uri" : "spotify:artist:2cw7QQfN0zs6QUUGvhYp56"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 267280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1229579"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0bA5D5BRGd1lakIIcwtB2M"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0bA5D5BRGd1lakIIcwtB2M",
+      "id" : "0bA5D5BRGd1lakIIcwtB2M",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, Still Nearer",
+      "popularity" : 15,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1742fa1e36623eaadd3df27d04cf94a00d635fe9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0bA5D5BRGd1lakIIcwtB2M"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/79WVHfPz6NehWubOqTV5w3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/79WVHfPz6NehWubOqTV5w3",
+          "id" : "79WVHfPz6NehWubOqTV5w3",
+          "name" : "Keith Lancaster",
+          "type" : "artist",
+          "uri" : "spotify:artist:79WVHfPz6NehWubOqTV5w3"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5qWYFKIrDUtFAmkN9yQxEy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5qWYFKIrDUtFAmkN9yQxEy",
+          "id" : "5qWYFKIrDUtFAmkN9yQxEy",
+          "name" : "The Acappella Company",
+          "type" : "artist",
+          "uri" : "spotify:artist:5qWYFKIrDUtFAmkN9yQxEy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/270tYiXVI2SOPYV3RgrtbV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/270tYiXVI2SOPYV3RgrtbV",
+        "id" : "270tYiXVI2SOPYV3RgrtbV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e2ea8d39f82f0e11f1ef7e50",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e2ea8d39f82f0e11f1ef7e50",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e2ea8d39f82f0e11f1ef7e50",
+          "width" : 64
+        } ],
+        "name" : "Holy God: Praise & Harmony (A Cappella Worship)",
+        "release_date" : "2008-08-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:270tYiXVI2SOPYV3RgrtbV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/79WVHfPz6NehWubOqTV5w3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/79WVHfPz6NehWubOqTV5w3",
+        "id" : "79WVHfPz6NehWubOqTV5w3",
+        "name" : "Keith Lancaster",
+        "type" : "artist",
+        "uri" : "spotify:artist:79WVHfPz6NehWubOqTV5w3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5qWYFKIrDUtFAmkN9yQxEy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5qWYFKIrDUtFAmkN9yQxEy",
+        "id" : "5qWYFKIrDUtFAmkN9yQxEy",
+        "name" : "The Acappella Company",
+        "type" : "artist",
+        "uri" : "spotify:artist:5qWYFKIrDUtFAmkN9yQxEy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 138110,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21932179"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3mCftDAkQSdP0uIGc6q6tD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3mCftDAkQSdP0uIGc6q6tD",
+      "id" : "3mCftDAkQSdP0uIGc6q6tD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, Still Nearer",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5f8a94f96be33d40163944162621d097d0d5bc69?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:3mCftDAkQSdP0uIGc6q6tD"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4Msvi3J2V3vJosRHj90k0f"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4Msvi3J2V3vJosRHj90k0f",
+          "id" : "4Msvi3J2V3vJosRHj90k0f",
+          "name" : "Allan Hall",
+          "type" : "artist",
+          "uri" : "spotify:artist:4Msvi3J2V3vJosRHj90k0f"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1ETD1YhGnvinObgeJlGK5h"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1ETD1YhGnvinObgeJlGK5h",
+        "id" : "1ETD1YhGnvinObgeJlGK5h",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273efbe3a37b0d5afcfe6f0378d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02efbe3a37b0d5afcfe6f0378d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851efbe3a37b0d5afcfe6f0378d",
+          "width" : 64
+        } ],
+        "name" : "House Of A Thousand Dreams",
+        "release_date" : "2004-08-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1ETD1YhGnvinObgeJlGK5h"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Msvi3J2V3vJosRHj90k0f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Msvi3J2V3vJosRHj90k0f",
+        "id" : "4Msvi3J2V3vJosRHj90k0f",
+        "name" : "Allan Hall",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Msvi3J2V3vJosRHj90k0f"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 284893,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USCP50302095"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6XHhNQjVujnZmFQvNgueb0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6XHhNQjVujnZmFQvNgueb0",
+      "id" : "6XHhNQjVujnZmFQvNgueb0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, My God To Thee/Peace Be Still",
+      "popularity" : 14,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5c10cd67185c015b2556ffd1fbd29836f359539d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6XHhNQjVujnZmFQvNgueb0"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Nearer%2C+Still+Nearer&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Nearer%2C+Still+Nearer&type=track&market=US&offset=0&limit=10",
+    "total" : 223
+  }
+}

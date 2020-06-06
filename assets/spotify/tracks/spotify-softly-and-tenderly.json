@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Softly+and+Tenderly&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          },
+          "href" : "https://api.spotify.com/v1/artists/02rd0anEWfMtF7iMku9uor",
+          "id" : "02rd0anEWfMtF7iMku9uor",
+          "name" : "Reba McEntire",
+          "type" : "artist",
+          "uri" : "spotify:artist:02rd0anEWfMtF7iMku9uor"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3zSyGvLk5FcLhC3BtbKr9z"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3zSyGvLk5FcLhC3BtbKr9z",
+        "id" : "3zSyGvLk5FcLhC3BtbKr9z",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273aa5abb4221a953c233d348d5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02aa5abb4221a953c233d348d5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851aa5abb4221a953c233d348d5",
+          "width" : 64
+        } ],
+        "name" : "Sing It Now: Songs Of Faith & Hope",
+        "release_date" : "2017-02-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:3zSyGvLk5FcLhC3BtbKr9z"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        "href" : "https://api.spotify.com/v1/artists/02rd0anEWfMtF7iMku9uor",
+        "id" : "02rd0anEWfMtF7iMku9uor",
+        "name" : "Reba McEntire",
+        "type" : "artist",
+        "uri" : "spotify:artist:02rd0anEWfMtF7iMku9uor"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+        "id" : "3BmGtnKgCSGYIUhmivXKWX",
+        "name" : "Kelly Clarkson",
+        "type" : "artist",
+        "uri" : "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3XlIhgydjvC4EniPFZT20j",
+        "id" : "3XlIhgydjvC4EniPFZT20j",
+        "name" : "Trisha Yearwood",
+        "type" : "artist",
+        "uri" : "spotify:artist:3XlIhgydjvC4EniPFZT20j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 240506,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM7U91601195"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7f7gwBpkCJFUQnsaCI8zCr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7f7gwBpkCJFUQnsaCI8zCr",
+      "id" : "7f7gwBpkCJFUQnsaCI8zCr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly And Tenderly",
+      "popularity" : 34,
+      "preview_url" : null,
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:7f7gwBpkCJFUQnsaCI8zCr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+          "id" : "32DWM2tctxuDatAYWHjCtC",
+          "name" : "Hymns on Piano",
+          "type" : "artist",
+          "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0h5Fw4mY2qlFCjQ2ukWdQp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0h5Fw4mY2qlFCjQ2ukWdQp",
+        "id" : "0h5Fw4mY2qlFCjQ2ukWdQp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27325d8c487d4186ca78b8d5c37",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0225d8c487d4186ca78b8d5c37",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485125d8c487d4186ca78b8d5c37",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Worship, Vol. 2",
+        "release_date" : "2016-04-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:0h5Fw4mY2qlFCjQ2ukWdQp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+        "id" : "32DWM2tctxuDatAYWHjCtC",
+        "name" : "Hymns on Piano",
+        "type" : "artist",
+        "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 286995,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USE831557076"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0U1Cibz9HA1WCYVQ5cK9Hi"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0U1Cibz9HA1WCYVQ5cK9Hi",
+      "id" : "0U1Cibz9HA1WCYVQ5cK9Hi",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly and Tenderly Jesus Is Calling",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3e760ea7af905ae8d7d2dfc383ba7cd8a347c0f1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0U1Cibz9HA1WCYVQ5cK9Hi"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1pTuR132U5b4Rizal2Pr7m",
+          "id" : "1pTuR132U5b4Rizal2Pr7m",
+          "name" : "Randy Travis",
+          "type" : "artist",
+          "uri" : "spotify:artist:1pTuR132U5b4Rizal2Pr7m"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/00GTXwYxb2MB1zCbdIMHYL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/00GTXwYxb2MB1zCbdIMHYL",
+        "id" : "00GTXwYxb2MB1zCbdIMHYL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27349ec36f72eb659f391759959",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0249ec36f72eb659f391759959",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485149ec36f72eb659f391759959",
+          "width" : 64
+        } ],
+        "name" : "Worship & Faith",
+        "release_date" : "2003-11-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:00GTXwYxb2MB1zCbdIMHYL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1pTuR132U5b4Rizal2Pr7m",
+        "id" : "1pTuR132U5b4Rizal2Pr7m",
+        "name" : "Randy Travis",
+        "type" : "artist",
+        "uri" : "spotify:artist:1pTuR132U5b4Rizal2Pr7m"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 199666,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR60300852"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Gou4Zi5tfaAh7D8QDbzgR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Gou4Zi5tfaAh7D8QDbzgR",
+      "id" : "7Gou4Zi5tfaAh7D8QDbzgR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly and Tenderly",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6fb0cfe26bac6787fe1c18ce349430a90c999363?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:7Gou4Zi5tfaAh7D8QDbzgR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/29PfPMTOAqc611mj1siNoH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/29PfPMTOAqc611mj1siNoH",
+          "id" : "29PfPMTOAqc611mj1siNoH",
+          "name" : "Guy Penrod",
+          "type" : "artist",
+          "uri" : "spotify:artist:29PfPMTOAqc611mj1siNoH"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2HmAb4MR9fp9w4uEfiBnb6"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2HmAb4MR9fp9w4uEfiBnb6",
+        "id" : "2HmAb4MR9fp9w4uEfiBnb6",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735f60e2efa81b1204a851cf17",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025f60e2efa81b1204a851cf17",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515f60e2efa81b1204a851cf17",
+          "width" : 64
+        } ],
+        "name" : "Hymns",
+        "release_date" : "2012-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:2HmAb4MR9fp9w4uEfiBnb6"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/29PfPMTOAqc611mj1siNoH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/29PfPMTOAqc611mj1siNoH",
+        "id" : "29PfPMTOAqc611mj1siNoH",
+        "name" : "Guy Penrod",
+        "type" : "artist",
+        "uri" : "spotify:artist:29PfPMTOAqc611mj1siNoH"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 303680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3271200099"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/56zx52VJ3tR4TzdKoHJb0U"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/56zx52VJ3tR4TzdKoHJb0U",
+      "id" : "56zx52VJ3tR4TzdKoHJb0U",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly And Tenderly",
+      "popularity" : 34,
+      "preview_url" : null,
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:56zx52VJ3tR4TzdKoHJb0U"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4OnCEh1bwvvTuq9X0kM0iS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4OnCEh1bwvvTuq9X0kM0iS",
+          "id" : "4OnCEh1bwvvTuq9X0kM0iS",
+          "name" : "Daniel Martin Moore",
+          "type" : "artist",
+          "uri" : "spotify:artist:4OnCEh1bwvvTuq9X0kM0iS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1wS53IEcp2JCl0esfypphQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1wS53IEcp2JCl0esfypphQ",
+        "id" : "1wS53IEcp2JCl0esfypphQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d9ed61e2041664ff8acbb119",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d9ed61e2041664ff8acbb119",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d9ed61e2041664ff8acbb119",
+          "width" : 64
+        } ],
+        "name" : "In the Cool of the Day",
+        "release_date" : "2011-01-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:1wS53IEcp2JCl0esfypphQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4OnCEh1bwvvTuq9X0kM0iS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4OnCEh1bwvvTuq9X0kM0iS",
+        "id" : "4OnCEh1bwvvTuq9X0kM0iS",
+        "name" : "Daniel Martin Moore",
+        "type" : "artist",
+        "uri" : "spotify:artist:4OnCEh1bwvvTuq9X0kM0iS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 206600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSUB1086007"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/733N44vZ5uHPUPthgas6ft"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/733N44vZ5uHPUPthgas6ft",
+      "id" : "733N44vZ5uHPUPthgas6ft",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly and Tenderly",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7220523e73a6692c48ae56fb0e89ee8134da6d61?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:733N44vZ5uHPUPthgas6ft"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5oOGXLgQtWaqjMSxwAEYEB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5oOGXLgQtWaqjMSxwAEYEB",
+        "id" : "5oOGXLgQtWaqjMSxwAEYEB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f737f886f82e2315a07074f5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f737f886f82e2315a07074f5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f737f886f82e2315a07074f5",
+          "width" : 64
+        } ],
+        "name" : "Hymns 4 Worship, Vol. 2: Just As I Am",
+        "release_date" : "2005-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:5oOGXLgQtWaqjMSxwAEYEB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25Kfw0CRHgjl9oCgMfEYz7",
+        "id" : "25Kfw0CRHgjl9oCgMfEYz7",
+        "name" : "Sara Groves",
+        "type" : "artist",
+        "uri" : "spotify:artist:25Kfw0CRHgjl9oCgMfEYz7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 196253,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US25L0500178"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1dS8PGz0DdGKFPrqc37gdp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1dS8PGz0DdGKFPrqc37gdp",
+      "id" : "1dS8PGz0DdGKFPrqc37gdp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly And Tenderly",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/91fb9a7afdffb84c7fcfde4ff868eb46a9e81718?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1dS8PGz0DdGKFPrqc37gdp"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1KfPdjKbfIqoDnLVWAcXYn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1KfPdjKbfIqoDnLVWAcXYn",
+          "id" : "1KfPdjKbfIqoDnLVWAcXYn",
+          "name" : "Noah James",
+          "type" : "artist",
+          "uri" : "spotify:artist:1KfPdjKbfIqoDnLVWAcXYn"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1SmvWPV9m0jkZrDHEX0orP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1SmvWPV9m0jkZrDHEX0orP",
+          "id" : "1SmvWPV9m0jkZrDHEX0orP",
+          "name" : "The Executives",
+          "type" : "artist",
+          "uri" : "spotify:artist:1SmvWPV9m0jkZrDHEX0orP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2BVLcwRbPBmqxhteoC4U6J"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2BVLcwRbPBmqxhteoC4U6J",
+        "id" : "2BVLcwRbPBmqxhteoC4U6J",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736283e7cb059f186e8867130f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026283e7cb059f186e8867130f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516283e7cb059f186e8867130f",
+          "width" : 64
+        } ],
+        "name" : "Hymns EP",
+        "release_date" : "2013-07-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:2BVLcwRbPBmqxhteoC4U6J"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4A5PRMT58SrQ4IhPLMVRG6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4A5PRMT58SrQ4IhPLMVRG6",
+        "id" : "4A5PRMT58SrQ4IhPLMVRG6",
+        "name" : "Noah James & The Executives",
+        "type" : "artist",
+        "uri" : "spotify:artist:4A5PRMT58SrQ4IhPLMVRG6"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 271680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCABN1391582"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Ey4DG3mwGSp4l7NpjSS0o"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Ey4DG3mwGSp4l7NpjSS0o",
+      "id" : "7Ey4DG3mwGSp4l7NpjSS0o",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly and Tenderly",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dd9d2ee68fac6545aecc1f2e1937459d3dacc3d2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:7Ey4DG3mwGSp4l7NpjSS0o"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+          "id" : "6kACVPfCOnqzgfEF5ryl0x",
+          "name" : "Johnny Cash",
+          "type" : "artist",
+          "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5W5ImYrmggt6B4PidNyF2i"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5W5ImYrmggt6B4PidNyF2i",
+        "id" : "5W5ImYrmggt6B4PidNyF2i",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b83770517c2b17fc9a575c7c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b83770517c2b17fc9a575c7c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b83770517c2b17fc9a575c7c",
+          "width" : 64
+        } ],
+        "name" : "My Mother's Hymn Book",
+        "release_date" : "2004",
+        "release_date_precision" : "year",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5W5ImYrmggt6B4PidNyF2i"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+        "id" : "6kACVPfCOnqzgfEF5ryl0x",
+        "name" : "Johnny Cash",
+        "type" : "artist",
+        "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 196133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDJ20301220"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/290IyjpPnbUf3DKwLQa9LQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/290IyjpPnbUf3DKwLQa9LQ",
+      "id" : "290IyjpPnbUf3DKwLQa9LQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly And Tenderly",
+      "popularity" : 26,
+      "preview_url" : null,
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:290IyjpPnbUf3DKwLQa9LQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2eHl5z1I0fPtpBGH66qa0i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2eHl5z1I0fPtpBGH66qa0i",
+          "id" : "2eHl5z1I0fPtpBGH66qa0i",
+          "name" : "Mark Magnuson",
+          "type" : "artist",
+          "uri" : "spotify:artist:2eHl5z1I0fPtpBGH66qa0i"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6aGWfRVWqYcAsdAQ9DI8P4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6aGWfRVWqYcAsdAQ9DI8P4",
+        "id" : "6aGWfRVWqYcAsdAQ9DI8P4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735d7ee2c5176b1a24b60f0118",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025d7ee2c5176b1a24b60f0118",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515d7ee2c5176b1a24b60f0118",
+          "width" : 64
+        } ],
+        "name" : "Acoustic Lullabies",
+        "release_date" : "2011-02-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:6aGWfRVWqYcAsdAQ9DI8P4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2eHl5z1I0fPtpBGH66qa0i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2eHl5z1I0fPtpBGH66qa0i",
+        "id" : "2eHl5z1I0fPtpBGH66qa0i",
+        "name" : "Mark Magnuson",
+        "type" : "artist",
+        "uri" : "spotify:artist:2eHl5z1I0fPtpBGH66qa0i"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 166533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1164934"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/48OLEItSwsXBmpi7kSlKWU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/48OLEItSwsXBmpi7kSlKWU",
+      "id" : "48OLEItSwsXBmpi7kSlKWU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly And Tenderly",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4b35e4a9a99f64df816863744322298687225f84?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:48OLEItSwsXBmpi7kSlKWU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5aHE1EAT1F5E1kdvWCqObF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5aHE1EAT1F5E1kdvWCqObF",
+          "id" : "5aHE1EAT1F5E1kdvWCqObF",
+          "name" : "Steven Anderson",
+          "type" : "artist",
+          "uri" : "spotify:artist:5aHE1EAT1F5E1kdvWCqObF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7JcUN2ih4DKICJvDsWXEo6"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7JcUN2ih4DKICJvDsWXEo6",
+        "id" : "7JcUN2ih4DKICJvDsWXEo6",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734215661e48e76abef5f2de17",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024215661e48e76abef5f2de17",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514215661e48e76abef5f2de17",
+          "width" : 64
+        } ],
+        "name" : "Heavenly Lullabies",
+        "release_date" : "2002-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:7JcUN2ih4DKICJvDsWXEo6"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aHE1EAT1F5E1kdvWCqObF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aHE1EAT1F5E1kdvWCqObF",
+        "id" : "5aHE1EAT1F5E1kdvWCqObF",
+        "name" : "Steven Anderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aHE1EAT1F5E1kdvWCqObF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 146093,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAM460602767"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2XSvkp9p9uh2PtDazL1MEX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2XSvkp9p9uh2PtDazL1MEX",
+      "id" : "2XSvkp9p9uh2PtDazL1MEX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Softly and Tenderly",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c8386520159ea9298503b53ccc4261b305ec79b1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:2XSvkp9p9uh2PtDazL1MEX"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Softly+and+Tenderly&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Softly+and+Tenderly&type=track&market=US&offset=0&limit=10",
+    "total" : 1417
+  }
+}

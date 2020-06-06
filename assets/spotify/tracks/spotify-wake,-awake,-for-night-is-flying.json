@@ -1,0 +1,789 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Wake%2C+Awake%2C+for+Night+Is+Flying&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7Gbhs14qEzheeN71lJ1kXt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7Gbhs14qEzheeN71lJ1kXt",
+          "id" : "7Gbhs14qEzheeN71lJ1kXt",
+          "name" : "Waldham Grove Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:7Gbhs14qEzheeN71lJ1kXt"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/77jGKmRbn8AZ4g6PQjEGyv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/77jGKmRbn8AZ4g6PQjEGyv",
+        "id" : "77jGKmRbn8AZ4g6PQjEGyv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273caeabed9cf7d29e9b6fcaa57",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02caeabed9cf7d29e9b6fcaa57",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851caeabed9cf7d29e9b6fcaa57",
+          "width" : 64
+        } ],
+        "name" : "The Traditional Classic Hymns Volume Seven",
+        "release_date" : "2016-01-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:77jGKmRbn8AZ4g6PQjEGyv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Gbhs14qEzheeN71lJ1kXt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Gbhs14qEzheeN71lJ1kXt",
+        "id" : "7Gbhs14qEzheeN71lJ1kXt",
+        "name" : "Waldham Grove Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Gbhs14qEzheeN71lJ1kXt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 159196,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMPKX1631350"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3kNKmuFcnGWN4i2iKnWDwz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3kNKmuFcnGWN4i2iKnWDwz",
+      "id" : "3kNKmuFcnGWN4i2iKnWDwz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake Awake for Night Is Flying",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/03b206bc7b5d3dbe22d16787b7f796f915ed2825?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:3kNKmuFcnGWN4i2iKnWDwz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6hBbGeMub7mJn2NFV9X8ps"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6hBbGeMub7mJn2NFV9X8ps",
+          "id" : "6hBbGeMub7mJn2NFV9X8ps",
+          "name" : "Luke Morton",
+          "type" : "artist",
+          "uri" : "spotify:artist:6hBbGeMub7mJn2NFV9X8ps"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4f82I762NRdzkxu1Whv5HC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4f82I762NRdzkxu1Whv5HC",
+        "id" : "4f82I762NRdzkxu1Whv5HC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fae943ef5ba8bcdc407d1908",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fae943ef5ba8bcdc407d1908",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fae943ef5ba8bcdc407d1908",
+          "width" : 64
+        } ],
+        "name" : "Beggar",
+        "release_date" : "2013-09-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:4f82I762NRdzkxu1Whv5HC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6hBbGeMub7mJn2NFV9X8ps"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6hBbGeMub7mJn2NFV9X8ps",
+        "id" : "6hBbGeMub7mJn2NFV9X8ps",
+        "name" : "Luke Morton",
+        "type" : "artist",
+        "uri" : "spotify:artist:6hBbGeMub7mJn2NFV9X8ps"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 261306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91722528"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3rRh5ssZAQ5Oe2PL8YbdEq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3rRh5ssZAQ5Oe2PL8YbdEq",
+      "id" : "3rRh5ssZAQ5Oe2PL8YbdEq",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake Awake for Night Is Flying",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f26efcd95c51b2199c54495820b53d87a028cb1e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:3rRh5ssZAQ5Oe2PL8YbdEq"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4QuZP1QhBH7oWRFOaz1gqg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4QuZP1QhBH7oWRFOaz1gqg",
+          "id" : "4QuZP1QhBH7oWRFOaz1gqg",
+          "name" : "The Wartburg Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:4QuZP1QhBH7oWRFOaz1gqg"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1ET6v6xXOpxsXhpXX2hi3B"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1ET6v6xXOpxsXhpXX2hi3B",
+          "id" : "1ET6v6xXOpxsXhpXX2hi3B",
+          "name" : "Lee Nelson",
+          "type" : "artist",
+          "uri" : "spotify:artist:1ET6v6xXOpxsXhpXX2hi3B"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2bd3QJiOlhbpWEUofMToOr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2bd3QJiOlhbpWEUofMToOr",
+        "id" : "2bd3QJiOlhbpWEUofMToOr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273693fbd19a02e041e82ef3cea",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02693fbd19a02e041e82ef3cea",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851693fbd19a02e041e82ef3cea",
+          "width" : 64
+        } ],
+        "name" : "Endless Light",
+        "release_date" : "2013-04-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:2bd3QJiOlhbpWEUofMToOr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4QuZP1QhBH7oWRFOaz1gqg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4QuZP1QhBH7oWRFOaz1gqg",
+        "id" : "4QuZP1QhBH7oWRFOaz1gqg",
+        "name" : "The Wartburg Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:4QuZP1QhBH7oWRFOaz1gqg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ET6v6xXOpxsXhpXX2hi3B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ET6v6xXOpxsXhpXX2hi3B",
+        "id" : "1ET6v6xXOpxsXhpXX2hi3B",
+        "name" : "Lee Nelson",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ET6v6xXOpxsXhpXX2hi3B"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 230218,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm81350576"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5JUKHA5D52MLu68cKRRsBJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5JUKHA5D52MLu68cKRRsBJ",
+      "id" : "5JUKHA5D52MLu68cKRRsBJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake, Awake for Night Is Flying",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8f090cb67583e3ecc55ad930b64df18ab295ed6e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:5JUKHA5D52MLu68cKRRsBJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4QuZP1QhBH7oWRFOaz1gqg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4QuZP1QhBH7oWRFOaz1gqg",
+          "id" : "4QuZP1QhBH7oWRFOaz1gqg",
+          "name" : "The Wartburg Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:4QuZP1QhBH7oWRFOaz1gqg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/48uVtejy1Lvr27jHKOb3PJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/48uVtejy1Lvr27jHKOb3PJ",
+        "id" : "48uVtejy1Lvr27jHKOb3PJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f1513875abaf887961a5c369",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f1513875abaf887961a5c369",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f1513875abaf887961a5c369",
+          "width" : 64
+        } ],
+        "name" : "Flood My Soul With Spirit and Life",
+        "release_date" : "2011-03-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:48uVtejy1Lvr27jHKOb3PJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4QuZP1QhBH7oWRFOaz1gqg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4QuZP1QhBH7oWRFOaz1gqg",
+        "id" : "4QuZP1QhBH7oWRFOaz1gqg",
+        "name" : "The Wartburg Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:4QuZP1QhBH7oWRFOaz1gqg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 230871,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMXWD1100114"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2QIbkdpbMleKYsxvhH6dLG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2QIbkdpbMleKYsxvhH6dLG",
+      "id" : "2QIbkdpbMleKYsxvhH6dLG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake, Awake for Night is Flying",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a44f94e0c921d61cd488fc45cb9442c05aef3db7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:2QIbkdpbMleKYsxvhH6dLG"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2nqRpvL6hChCsCbkRKRTY0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2nqRpvL6hChCsCbkRKRTY0",
+          "id" : "2nqRpvL6hChCsCbkRKRTY0",
+          "name" : "Flor Peeters",
+          "type" : "artist",
+          "uri" : "spotify:artist:2nqRpvL6hChCsCbkRKRTY0"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3zwMt3z6FeU1kEkhSJDdiP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3zwMt3z6FeU1kEkhSJDdiP",
+          "id" : "3zwMt3z6FeU1kEkhSJDdiP",
+          "name" : "Peter Van de Velde",
+          "type" : "artist",
+          "uri" : "spotify:artist:3zwMt3z6FeU1kEkhSJDdiP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6x46QJOdzJEfzP3RoQk7Vp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6x46QJOdzJEfzP3RoQk7Vp",
+        "id" : "6x46QJOdzJEfzP3RoQk7Vp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736c7688651fbefd6423b42bc6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026c7688651fbefd6423b42bc6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516c7688651fbefd6423b42bc6",
+          "width" : 64
+        } ],
+        "name" : "Peeters: Selected Organ Works",
+        "release_date" : "2011-01-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:6x46QJOdzJEfzP3RoQk7Vp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2nqRpvL6hChCsCbkRKRTY0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2nqRpvL6hChCsCbkRKRTY0",
+        "id" : "2nqRpvL6hChCsCbkRKRTY0",
+        "name" : "Flor Peeters",
+        "type" : "artist",
+        "uri" : "spotify:artist:2nqRpvL6hChCsCbkRKRTY0"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zwMt3z6FeU1kEkhSJDdiP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zwMt3z6FeU1kEkhSJDdiP",
+        "id" : "3zwMt3z6FeU1kEkhSJDdiP",
+        "name" : "Peter Van de Velde",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zwMt3z6FeU1kEkhSJDdiP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 805987,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEP461071103"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5K09svlxZxPpdKUo2jlCTf"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5K09svlxZxPpdKUo2jlCTf",
+      "id" : "5K09svlxZxPpdKUo2jlCTf",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake, awake, for night is flying",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ba85027b62d7084d2acf5b0a7fa28c058e703d47?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:5K09svlxZxPpdKUo2jlCTf"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0pR7JAzTGKn2N1topz2frb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0pR7JAzTGKn2N1topz2frb",
+          "id" : "0pR7JAzTGKn2N1topz2frb",
+          "name" : "Paul Manz",
+          "type" : "artist",
+          "uri" : "spotify:artist:0pR7JAzTGKn2N1topz2frb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5Dq2Q9QCMUsJYda1bqR6RB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5Dq2Q9QCMUsJYda1bqR6RB",
+        "id" : "5Dq2Q9QCMUsJYda1bqR6RB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f3814913f18cca1fe09d7847",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f3814913f18cca1fe09d7847",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f3814913f18cca1fe09d7847",
+          "width" : 64
+        } ],
+        "name" : "Paul Manz, Vol. 1",
+        "release_date" : "2016-03-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 39,
+        "type" : "album",
+        "uri" : "spotify:album:5Dq2Q9QCMUsJYda1bqR6RB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4QXRQXv3RbcsljrgT9pjhT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4QXRQXv3RbcsljrgT9pjhT",
+        "id" : "4QXRQXv3RbcsljrgT9pjhT",
+        "name" : "Philipp Nicolai",
+        "type" : "artist",
+        "uri" : "spotify:artist:4QXRQXv3RbcsljrgT9pjhT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0pR7JAzTGKn2N1topz2frb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0pR7JAzTGKn2N1topz2frb",
+        "id" : "0pR7JAzTGKn2N1topz2frb",
+        "name" : "Paul Manz",
+        "type" : "artist",
+        "uri" : "spotify:artist:0pR7JAzTGKn2N1topz2frb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 103266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAR99219003"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6C6Pc4bcxEF28T8afVNUJ1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6C6Pc4bcxEF28T8afVNUJ1",
+      "id" : "6C6Pc4bcxEF28T8afVNUJ1",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake, Awake, for Night is Flying",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d7a56ba10715c75ab2727f16bb57ebb7f3569ce0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6C6Pc4bcxEF28T8afVNUJ1"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3I6r3dlooiDGf0FwFVsuaJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3I6r3dlooiDGf0FwFVsuaJ",
+          "id" : "3I6r3dlooiDGf0FwFVsuaJ",
+          "name" : "Inspirational Organs",
+          "type" : "artist",
+          "uri" : "spotify:artist:3I6r3dlooiDGf0FwFVsuaJ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0CbiiveRq8K6Egcld4Y484"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0CbiiveRq8K6Egcld4Y484",
+        "id" : "0CbiiveRq8K6Egcld4Y484",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b5bd6c641999d3c7257c0cde",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b5bd6c641999d3c7257c0cde",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b5bd6c641999d3c7257c0cde",
+          "width" : 64
+        } ],
+        "name" : "What a Friend We Have in Jesus",
+        "release_date" : "2016-02-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0CbiiveRq8K6Egcld4Y484"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3I6r3dlooiDGf0FwFVsuaJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3I6r3dlooiDGf0FwFVsuaJ",
+        "id" : "3I6r3dlooiDGf0FwFVsuaJ",
+        "name" : "Inspirational Organs",
+        "type" : "artist",
+        "uri" : "spotify:artist:3I6r3dlooiDGf0FwFVsuaJ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 177309,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMPKX1654782"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4mzR7E8bU7Pz1JzmtJzWWF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4mzR7E8bU7Pz1JzmtJzWWF",
+      "id" : "4mzR7E8bU7Pz1JzmtJzWWF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake, Awake, for Night Is Flying",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9374e619929b698810790c16670cf108467de29d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4mzR7E8bU7Pz1JzmtJzWWF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/27nWpEO6lfim2KzFG3QWF5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/27nWpEO6lfim2KzFG3QWF5",
+          "id" : "27nWpEO6lfim2KzFG3QWF5",
+          "name" : "AFLBS Concert Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:27nWpEO6lfim2KzFG3QWF5"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7wxJzVneXIboK5WqibLxXD"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7wxJzVneXIboK5WqibLxXD",
+          "id" : "7wxJzVneXIboK5WqibLxXD",
+          "name" : "AFLBS Proclaim Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:7wxJzVneXIboK5WqibLxXD"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6tI90GHUpVyrfzqqjjZHUL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6tI90GHUpVyrfzqqjjZHUL",
+          "id" : "6tI90GHUpVyrfzqqjjZHUL",
+          "name" : "AFLTS Seminary Chorus",
+          "type" : "artist",
+          "uri" : "spotify:artist:6tI90GHUpVyrfzqqjjZHUL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5FxbRLIYmJhfqP9nWqqkES"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5FxbRLIYmJhfqP9nWqqkES",
+        "id" : "5FxbRLIYmJhfqP9nWqqkES",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c12cc640d79dfc9b499df435",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c12cc640d79dfc9b499df435",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c12cc640d79dfc9b499df435",
+          "width" : 64
+        } ],
+        "name" : "Jesus Christ: The Light of Life",
+        "release_date" : "2016-03-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5FxbRLIYmJhfqP9nWqqkES"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/27nWpEO6lfim2KzFG3QWF5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/27nWpEO6lfim2KzFG3QWF5",
+        "id" : "27nWpEO6lfim2KzFG3QWF5",
+        "name" : "AFLBS Concert Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:27nWpEO6lfim2KzFG3QWF5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 206146,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1633901"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0mI007ZTVhJV464NSW6phT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0mI007ZTVhJV464NSW6phT",
+      "id" : "0mI007ZTVhJV464NSW6phT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake, Awake, For Night Is Flying",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/56b64702244c0a9f1e5cdbd46e206b06e7064d21?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0mI007ZTVhJV464NSW6phT"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5ztfs1pz8A3YZ3Jmu6A0Id"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5ztfs1pz8A3YZ3Jmu6A0Id",
+        "id" : "5ztfs1pz8A3YZ3Jmu6A0Id",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273aa54dfe39ac31aeb519ccbbe",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02aa54dfe39ac31aeb519ccbbe",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851aa54dfe39ac31aeb519ccbbe",
+          "width" : 64
+        } ],
+        "name" : "A Year in Song",
+        "release_date" : "2018-10-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:5ztfs1pz8A3YZ3Jmu6A0Id"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1P6AfcgiJNRDg27qPKkaBN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1P6AfcgiJNRDg27qPKkaBN",
+        "id" : "1P6AfcgiJNRDg27qPKkaBN",
+        "name" : "McFarland High School A Cappella Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:1P6AfcgiJNRDg27qPKkaBN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 214892,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADX1837040"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1gnLmIHmW4lbbScgRWTfVv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1gnLmIHmW4lbbScgRWTfVv",
+      "id" : "1gnLmIHmW4lbbScgRWTfVv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake, Awake for Night Is Flying",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ff92011669e56d643e0cd38f4fe38519eddb9714?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:1gnLmIHmW4lbbScgRWTfVv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3chxKe1QZvCqQriRx5uuF5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3chxKe1QZvCqQriRx5uuF5",
+          "id" : "3chxKe1QZvCqQriRx5uuF5",
+          "name" : "Bamberg Symphony Big Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:3chxKe1QZvCqQriRx5uuF5"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/39oWCHimnJSArWtn0lPJKh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/39oWCHimnJSArWtn0lPJKh",
+          "id" : "39oWCHimnJSArWtn0lPJKh",
+          "name" : "Rolf Beck",
+          "type" : "artist",
+          "uri" : "spotify:artist:39oWCHimnJSArWtn0lPJKh"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1X8gN4xwMMbOJ2na67p2lJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1X8gN4xwMMbOJ2na67p2lJ",
+          "id" : "1X8gN4xwMMbOJ2na67p2lJ",
+          "name" : "Bamberg Symphony Chorus",
+          "type" : "artist",
+          "uri" : "spotify:artist:1X8gN4xwMMbOJ2na67p2lJ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/26OdNQjIxzlrDoqj7llzcc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/26OdNQjIxzlrDoqj7llzcc",
+        "id" : "26OdNQjIxzlrDoqj7llzcc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273deb137e72d80020b3defac76",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02deb137e72d80020b3defac76",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851deb137e72d80020b3defac76",
+          "width" : 64
+        } ],
+        "name" : "Wheeler: Wake, awake, for Night is Flying / Hindemith: Apparebit repentina dies / Stravinsky: Mass",
+        "release_date" : "2001",
+        "release_date_precision" : "year",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:26OdNQjIxzlrDoqj7llzcc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2GIms8u3bruipn5MOR5wcs",
+        "id" : "2GIms8u3bruipn5MOR5wcs",
+        "name" : "Kenny Wheeler",
+        "type" : "artist",
+        "uri" : "spotify:artist:2GIms8u3bruipn5MOR5wcs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4KGwLt8d5enBIjv5w3ym9c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4KGwLt8d5enBIjv5w3ym9c",
+        "id" : "4KGwLt8d5enBIjv5w3ym9c",
+        "name" : "Till Fabian Weser",
+        "type" : "artist",
+        "uri" : "spotify:artist:4KGwLt8d5enBIjv5w3ym9c"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3chxKe1QZvCqQriRx5uuF5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3chxKe1QZvCqQriRx5uuF5",
+        "id" : "3chxKe1QZvCqQriRx5uuF5",
+        "name" : "Bamberg Symphony Big Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:3chxKe1QZvCqQriRx5uuF5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1X8gN4xwMMbOJ2na67p2lJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1X8gN4xwMMbOJ2na67p2lJ",
+        "id" : "1X8gN4xwMMbOJ2na67p2lJ",
+        "name" : "Bamberg Symphony Chorus",
+        "type" : "artist",
+        "uri" : "spotify:artist:1X8gN4xwMMbOJ2na67p2lJ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 407000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DES380005196"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7tqbi1ozsMdmPbKzTq0yBt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7tqbi1ozsMdmPbKzTq0yBt",
+      "id" : "7tqbi1ozsMdmPbKzTq0yBt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Wake, awake, for Night is Flying",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b091fd7d638e97c3874584004e82e858fc3c7ac8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:7tqbi1ozsMdmPbKzTq0yBt"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Wake%2C+Awake%2C+for+Night+Is+Flying&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Wake%2C+Awake%2C+for+Night+Is+Flying&type=track&market=US&offset=0&limit=10",
+    "total" : 44
+  }
+}

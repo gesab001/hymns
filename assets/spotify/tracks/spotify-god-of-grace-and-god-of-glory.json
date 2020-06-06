@@ -1,0 +1,780 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=God+of+Grace+and+God+of+Glory&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0pR7JAzTGKn2N1topz2frb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0pR7JAzTGKn2N1topz2frb",
+          "id" : "0pR7JAzTGKn2N1topz2frb",
+          "name" : "Paul Manz",
+          "type" : "artist",
+          "uri" : "spotify:artist:0pR7JAzTGKn2N1topz2frb"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5Dq2Q9QCMUsJYda1bqR6RB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5Dq2Q9QCMUsJYda1bqR6RB",
+        "id" : "5Dq2Q9QCMUsJYda1bqR6RB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f3814913f18cca1fe09d7847",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f3814913f18cca1fe09d7847",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f3814913f18cca1fe09d7847",
+          "width" : 64
+        } ],
+        "name" : "Paul Manz, Vol. 1",
+        "release_date" : "2016-03-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 39,
+        "type" : "album",
+        "uri" : "spotify:album:5Dq2Q9QCMUsJYda1bqR6RB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WFUWwbBxpR2wyC8yb8awV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WFUWwbBxpR2wyC8yb8awV",
+        "id" : "0WFUWwbBxpR2wyC8yb8awV",
+        "name" : "Harry E. Fosdick",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WFUWwbBxpR2wyC8yb8awV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0pR7JAzTGKn2N1topz2frb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0pR7JAzTGKn2N1topz2frb",
+        "id" : "0pR7JAzTGKn2N1topz2frb",
+        "name" : "Paul Manz",
+        "type" : "artist",
+        "uri" : "spotify:artist:0pR7JAzTGKn2N1topz2frb"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 134133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAR99219032"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6votP9Me9qR6qkcxFfEUAY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6votP9Me9qR6qkcxFfEUAY",
+      "id" : "6votP9Me9qR6qkcxFfEUAY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Grace and God of Glory",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d71a50fa33820a886b4344723540a4b52acdc4e4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 32,
+      "type" : "track",
+      "uri" : "spotify:track:6votP9Me9qR6qkcxFfEUAY"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3oUFArLfOA0CK6C2AD7LqU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3oUFArLfOA0CK6C2AD7LqU",
+          "id" : "3oUFArLfOA0CK6C2AD7LqU",
+          "name" : "Hymns You Love to Sing Performers",
+          "type" : "artist",
+          "uri" : "spotify:artist:3oUFArLfOA0CK6C2AD7LqU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/00H1HrMUugGp4jNWZjSLtF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/00H1HrMUugGp4jNWZjSLtF",
+        "id" : "00H1HrMUugGp4jNWZjSLtF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273eca0dc97418a9b164be3610d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02eca0dc97418a9b164be3610d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851eca0dc97418a9b164be3610d",
+          "width" : 64
+        } ],
+        "name" : "50 Contemporary Hymns You Love To Sing",
+        "release_date" : "2012-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 28,
+        "type" : "album",
+        "uri" : "spotify:album:00H1HrMUugGp4jNWZjSLtF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oUFArLfOA0CK6C2AD7LqU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oUFArLfOA0CK6C2AD7LqU",
+        "id" : "3oUFArLfOA0CK6C2AD7LqU",
+        "name" : "Hymns You Love to Sing Performers",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oUFArLfOA0CK6C2AD7LqU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 656840,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSW19548171"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6026S9A6HyQk9cFmUPkT53"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6026S9A6HyQk9cFmUPkT53",
+      "id" : "6026S9A6HyQk9cFmUPkT53",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nothing But The Blood Of Jesus / At The Cross / There Is A Fountain Filled With Blood / To God Be The Glory / And Can It Be / When I Survey The Wonderous Cross / Amazing Grace (Medley)",
+      "popularity" : 14,
+      "preview_url" : null,
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6026S9A6HyQk9cFmUPkT53"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6pr1BpLhDfMTKmyGx5V5iM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6pr1BpLhDfMTKmyGx5V5iM",
+          "id" : "6pr1BpLhDfMTKmyGx5V5iM",
+          "name" : "The Choir of the First Presbyterian Church in the City of New York",
+          "type" : "artist",
+          "uri" : "spotify:artist:6pr1BpLhDfMTKmyGx5V5iM"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5M17r3jwN4wjAbrG5CmsnD"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5M17r3jwN4wjAbrG5CmsnD",
+          "id" : "5M17r3jwN4wjAbrG5CmsnD",
+          "name" : "William F. Entriken",
+          "type" : "artist",
+          "uri" : "spotify:artist:5M17r3jwN4wjAbrG5CmsnD"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6PXlX6zi8AqDXH4eiRH3Ay"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6PXlX6zi8AqDXH4eiRH3Ay",
+        "id" : "6PXlX6zi8AqDXH4eiRH3Ay",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737f30632b3e46e93467213530",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027f30632b3e46e93467213530",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517f30632b3e46e93467213530",
+          "width" : 64
+        } ],
+        "name" : "God of Grace and God of Glory: Songs of a City Church",
+        "release_date" : "2016-04-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:6PXlX6zi8AqDXH4eiRH3Ay"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6pr1BpLhDfMTKmyGx5V5iM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6pr1BpLhDfMTKmyGx5V5iM",
+        "id" : "6pr1BpLhDfMTKmyGx5V5iM",
+        "name" : "The Choir of the First Presbyterian Church in the City of New York",
+        "type" : "artist",
+        "uri" : "spotify:artist:6pr1BpLhDfMTKmyGx5V5iM"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5M17r3jwN4wjAbrG5CmsnD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5M17r3jwN4wjAbrG5CmsnD",
+        "id" : "5M17r3jwN4wjAbrG5CmsnD",
+        "name" : "William F. Entriken",
+        "type" : "artist",
+        "uri" : "spotify:artist:5M17r3jwN4wjAbrG5CmsnD"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 339360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACL1648243"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1wKlWZIFFxcEN3lx0hXNOc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1wKlWZIFFxcEN3lx0hXNOc",
+      "id" : "1wKlWZIFFxcEN3lx0hXNOc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Grace and God of Glory",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4d7050a4608c5e929b8894074564dd7fdf51e698?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1wKlWZIFFxcEN3lx0hXNOc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2yQZGNQJExPLfCB8kfTD88"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2yQZGNQJExPLfCB8kfTD88",
+          "id" : "2yQZGNQJExPLfCB8kfTD88",
+          "name" : "Andrey Jackson",
+          "type" : "artist",
+          "uri" : "spotify:artist:2yQZGNQJExPLfCB8kfTD88"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/30AOxaN0uerFFVNBUVs8lT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/30AOxaN0uerFFVNBUVs8lT",
+        "id" : "30AOxaN0uerFFVNBUVs8lT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273251d7078a4e05c0cfe7692db",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02251d7078a4e05c0cfe7692db",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851251d7078a4e05c0cfe7692db",
+          "width" : 64
+        } ],
+        "name" : "Christian Hymns, Vol. 4, Organ Accompaniments (The Church Organist Series)",
+        "release_date" : "2016-01-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 32,
+        "type" : "album",
+        "uri" : "spotify:album:30AOxaN0uerFFVNBUVs8lT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQZGNQJExPLfCB8kfTD88"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQZGNQJExPLfCB8kfTD88",
+        "id" : "2yQZGNQJExPLfCB8kfTD88",
+        "name" : "Andrey Jackson",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQZGNQJExPLfCB8kfTD88"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 150063,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GB-SMU-25-31826"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7jEd1sI0dbQSOdXOF79mxY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7jEd1sI0dbQSOdXOF79mxY",
+      "id" : "7jEd1sI0dbQSOdXOF79mxY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Grace and God of Glory",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/584b81acbbb7b675b9ce22e19c9122d4b0488827?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:7jEd1sI0dbQSOdXOF79mxY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/08dsaoVeGLJhTdUCgiFIUJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/08dsaoVeGLJhTdUCgiFIUJ",
+          "id" : "08dsaoVeGLJhTdUCgiFIUJ",
+          "name" : "Kevin Mayhew Ltd",
+          "type" : "artist",
+          "uri" : "spotify:artist:08dsaoVeGLJhTdUCgiFIUJ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2PaMeOcz69Ovy59s5TaqzC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2PaMeOcz69Ovy59s5TaqzC",
+        "id" : "2PaMeOcz69Ovy59s5TaqzC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273831d69c234d250889f1b193c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02831d69c234d250889f1b193c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851831d69c234d250889f1b193c",
+          "width" : 64
+        } ],
+        "name" : "Piano Worship",
+        "release_date" : "2014-11-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:2PaMeOcz69Ovy59s5TaqzC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/08dsaoVeGLJhTdUCgiFIUJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/08dsaoVeGLJhTdUCgiFIUJ",
+        "id" : "08dsaoVeGLJhTdUCgiFIUJ",
+        "name" : "Kevin Mayhew Ltd",
+        "type" : "artist",
+        "uri" : "spotify:artist:08dsaoVeGLJhTdUCgiFIUJ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 230280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACB1460553"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3vsvX3YKlfku9lveQwFOGo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3vsvX3YKlfku9lveQwFOGo",
+      "id" : "3vsvX3YKlfku9lveQwFOGo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Grace and God of Glory",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/78ffeef4114bf837029659f96dcfa6742dbbb637?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:3vsvX3YKlfku9lveQwFOGo"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/41N4x8ZUxk7JkHORj8M3bd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/41N4x8ZUxk7JkHORj8M3bd",
+          "id" : "41N4x8ZUxk7JkHORj8M3bd",
+          "name" : "Concordia Publishing House",
+          "type" : "artist",
+          "uri" : "spotify:artist:41N4x8ZUxk7JkHORj8M3bd"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/38Wsc9o4bh8YWChlfM205g"
+        },
+        "href" : "https://api.spotify.com/v1/albums/38Wsc9o4bh8YWChlfM205g",
+        "id" : "38Wsc9o4bh8YWChlfM205g",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c1bee12f4bf8c575a30baf19",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c1bee12f4bf8c575a30baf19",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c1bee12f4bf8c575a30baf19",
+          "width" : 64
+        } ],
+        "name" : "Hymns for All Saints",
+        "release_date" : "2011-10-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:38Wsc9o4bh8YWChlfM205g"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/41N4x8ZUxk7JkHORj8M3bd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/41N4x8ZUxk7JkHORj8M3bd",
+        "id" : "41N4x8ZUxk7JkHORj8M3bd",
+        "name" : "Concordia Publishing House",
+        "type" : "artist",
+        "uri" : "spotify:artist:41N4x8ZUxk7JkHORj8M3bd"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203383,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3DF1115470"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2lc1YP64GSwnr1RCPb6I1s"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2lc1YP64GSwnr1RCPb6I1s",
+      "id" : "2lc1YP64GSwnr1RCPb6I1s",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Grace and God of Glory",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/edaa81b2a7490d1f7c2b17f33374eaac7a5be8bb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:2lc1YP64GSwnr1RCPb6I1s"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2e3OImB8yCNVk1SppFne96"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2e3OImB8yCNVk1SppFne96",
+          "id" : "2e3OImB8yCNVk1SppFne96",
+          "name" : "Christopher Parkening",
+          "type" : "artist",
+          "uri" : "spotify:artist:2e3OImB8yCNVk1SppFne96"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2NLpxUkZMfjdL7KgqsOwjP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2NLpxUkZMfjdL7KgqsOwjP",
+        "id" : "2NLpxUkZMfjdL7KgqsOwjP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27318fc19ea2a1ad5df0d37b4b5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0218fc19ea2a1ad5df0d37b4b5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485118fc19ea2a1ad5df0d37b4b5",
+          "width" : 64
+        } ],
+        "name" : "Simple Gifts (Sacred Music For Guitar)",
+        "release_date" : "1986-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:2NLpxUkZMfjdL7KgqsOwjP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6vztz5FEv6P3K4LylXjUJf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6vztz5FEv6P3K4LylXjUJf",
+        "id" : "6vztz5FEv6P3K4LylXjUJf",
+        "name" : "Hughes",
+        "type" : "artist",
+        "uri" : "spotify:artist:6vztz5FEv6P3K4LylXjUJf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1zOXiONjXLLHBKAYrX8TEi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1zOXiONjXLLHBKAYrX8TEi",
+        "id" : "1zOXiONjXLLHBKAYrX8TEi",
+        "name" : "Manz",
+        "type" : "artist",
+        "uri" : "spotify:artist:1zOXiONjXLLHBKAYrX8TEi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/38Urhv5VSlo7kSQq333XR6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/38Urhv5VSlo7kSQq333XR6",
+        "id" : "38Urhv5VSlo7kSQq333XR6",
+        "name" : "Ravenscroft",
+        "type" : "artist",
+        "uri" : "spotify:artist:38Urhv5VSlo7kSQq333XR6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4fsKtUsUAoFS6iMroLYLm1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4fsKtUsUAoFS6iMroLYLm1",
+        "id" : "4fsKtUsUAoFS6iMroLYLm1",
+        "name" : "Christopher Hughes",
+        "type" : "artist",
+        "uri" : "spotify:artist:4fsKtUsUAoFS6iMroLYLm1"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2e3OImB8yCNVk1SppFne96"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2e3OImB8yCNVk1SppFne96",
+        "id" : "2e3OImB8yCNVk1SppFne96",
+        "name" : "Christopher Parkening",
+        "type" : "artist",
+        "uri" : "spotify:artist:2e3OImB8yCNVk1SppFne96"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 119266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAR28200002"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2PB5jj57rgUxt8hfYKqbS5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2PB5jj57rgUxt8hfYKqbS5",
+      "id" : "2PB5jj57rgUxt8hfYKqbS5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Of Grace And God Of Glory",
+      "popularity" : 4,
+      "preview_url" : null,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2PB5jj57rgUxt8hfYKqbS5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/03hJXk4TsZN57FTAbPomPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/03hJXk4TsZN57FTAbPomPd",
+          "id" : "03hJXk4TsZN57FTAbPomPd",
+          "name" : "John Longhurst",
+          "type" : "artist",
+          "uri" : "spotify:artist:03hJXk4TsZN57FTAbPomPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/12zgsgSl9jRznw9ihh4lmk"
+          },
+          "href" : "https://api.spotify.com/v1/artists/12zgsgSl9jRznw9ihh4lmk",
+          "id" : "12zgsgSl9jRznw9ihh4lmk",
+          "name" : "Clay Christiansen",
+          "type" : "artist",
+          "uri" : "spotify:artist:12zgsgSl9jRznw9ihh4lmk"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/50Bzsa2Le4qOPs6lrfKuzY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/50Bzsa2Le4qOPs6lrfKuzY",
+          "id" : "50Bzsa2Le4qOPs6lrfKuzY",
+          "name" : "Richard Elliott",
+          "type" : "artist",
+          "uri" : "spotify:artist:50Bzsa2Le4qOPs6lrfKuzY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4L5u2ZCbjKlPvDrifs6yeh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4L5u2ZCbjKlPvDrifs6yeh",
+        "id" : "4L5u2ZCbjKlPvDrifs6yeh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730314ae4003b84446878362f1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020314ae4003b84446878362f1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510314ae4003b84446878362f1",
+          "width" : 64
+        } ],
+        "name" : "Now Let Us Rejoice: Organ Hymns for the Sabbath",
+        "release_date" : "2006-09-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:4L5u2ZCbjKlPvDrifs6yeh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6UqJCrccK50YpeyxdQ4CRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6UqJCrccK50YpeyxdQ4CRR",
+        "id" : "6UqJCrccK50YpeyxdQ4CRR",
+        "name" : "John Hughes",
+        "type" : "artist",
+        "uri" : "spotify:artist:6UqJCrccK50YpeyxdQ4CRR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50Bzsa2Le4qOPs6lrfKuzY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50Bzsa2Le4qOPs6lrfKuzY",
+        "id" : "50Bzsa2Le4qOPs6lrfKuzY",
+        "name" : "Richard Elliott",
+        "type" : "artist",
+        "uri" : "spotify:artist:50Bzsa2Le4qOPs6lrfKuzY"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 135240,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US23M0800119"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7sSMSeHnr7oGWeu4nUYrAz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7sSMSeHnr7oGWeu4nUYrAz",
+      "id" : "7sSMSeHnr7oGWeu4nUYrAz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Grace and God of Glory",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/22adc2f61d2865de5f4e9622d89b81ccfc787c98?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:7sSMSeHnr7oGWeu4nUYrAz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1uYnqb28qrdhh6q9uvYxkV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1uYnqb28qrdhh6q9uvYxkV",
+          "id" : "1uYnqb28qrdhh6q9uvYxkV",
+          "name" : "Joe Douglass & Spirit of Praise",
+          "type" : "artist",
+          "uri" : "spotify:artist:1uYnqb28qrdhh6q9uvYxkV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5UTaNU7WgPBBu04nCxUXNG"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5UTaNU7WgPBBu04nCxUXNG",
+        "id" : "5UTaNU7WgPBBu04nCxUXNG",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d23033ecaf14c3cf296e101f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d23033ecaf14c3cf296e101f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d23033ecaf14c3cf296e101f",
+          "width" : 64
+        } ],
+        "name" : "Journey To Glory (Live)",
+        "release_date" : "2020-04-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5UTaNU7WgPBBu04nCxUXNG"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1uYnqb28qrdhh6q9uvYxkV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1uYnqb28qrdhh6q9uvYxkV",
+        "id" : "1uYnqb28qrdhh6q9uvYxkV",
+        "name" : "Joe Douglass & Spirit of Praise",
+        "type" : "artist",
+        "uri" : "spotify:artist:1uYnqb28qrdhh6q9uvYxkV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6mc3x5eqTyPPz5ydCnnlyB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6mc3x5eqTyPPz5ydCnnlyB",
+        "id" : "6mc3x5eqTyPPz5ydCnnlyB",
+        "name" : "Lisa Page Brooks",
+        "type" : "artist",
+        "uri" : "spotify:artist:6mc3x5eqTyPPz5ydCnnlyB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 326146,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMQ3X2001255"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Lv3sZwtKicZ2eJp35JsnQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Lv3sZwtKicZ2eJp35JsnQ",
+      "id" : "7Lv3sZwtKicZ2eJp35JsnQ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All By The Grace Of God - Live",
+      "popularity" : 4,
+      "preview_url" : null,
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:7Lv3sZwtKicZ2eJp35JsnQ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7ngvidNmDSGOZDtgFwR090"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7ngvidNmDSGOZDtgFwR090",
+          "id" : "7ngvidNmDSGOZDtgFwR090",
+          "name" : "Lost And Found",
+          "type" : "artist",
+          "uri" : "spotify:artist:7ngvidNmDSGOZDtgFwR090"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5f8pFeRs3MThq9UHIqkxMI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5f8pFeRs3MThq9UHIqkxMI",
+        "id" : "5f8pFeRs3MThq9UHIqkxMI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738cc74ed7b0d84013f3d11113",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028cc74ed7b0d84013f3d11113",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518cc74ed7b0d84013f3d11113",
+          "width" : 64
+        } ],
+        "name" : "This",
+        "release_date" : "1998-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:5f8pFeRs3MThq9UHIqkxMI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ngvidNmDSGOZDtgFwR090"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ngvidNmDSGOZDtgFwR090",
+        "id" : "7ngvidNmDSGOZDtgFwR090",
+        "name" : "Lost And Found",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ngvidNmDSGOZDtgFwR090"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 98106,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh0514911"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/52mzMNdI0prrxxaf4I8b95"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/52mzMNdI0prrxxaf4I8b95",
+      "id" : "52mzMNdI0prrxxaf4I8b95",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Grace and God of Glory",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e414f42f50b93a3b3aeec6381bfa571a005f0212?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:52mzMNdI0prrxxaf4I8b95"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=God+of+Grace+and+God+of+Glory&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=God+of+Grace+and+God+of+Glory&type=track&market=US&offset=0&limit=10",
+    "total" : 98
+  }
+}

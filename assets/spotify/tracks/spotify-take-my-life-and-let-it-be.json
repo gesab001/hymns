@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Take+My+Life+and+Let+It+Be&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6gpOLOIn9tu4nfK52nrAIM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6gpOLOIn9tu4nfK52nrAIM",
+          "id" : "6gpOLOIn9tu4nfK52nrAIM",
+          "name" : "Zeno",
+          "type" : "artist",
+          "uri" : "spotify:artist:6gpOLOIn9tu4nfK52nrAIM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6MV6MlGgVD0B8722YKDav0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6MV6MlGgVD0B8722YKDav0",
+        "id" : "6MV6MlGgVD0B8722YKDav0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27351ee6177bc1a631c2c5402ab",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0251ee6177bc1a631c2c5402ab",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485151ee6177bc1a631c2c5402ab",
+          "width" : 64
+        } ],
+        "name" : "Fingerstyle Hymns Simple Guitar Arrangements 1",
+        "release_date" : "2015-11-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6MV6MlGgVD0B8722YKDav0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6gpOLOIn9tu4nfK52nrAIM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6gpOLOIn9tu4nfK52nrAIM",
+        "id" : "6gpOLOIn9tu4nfK52nrAIM",
+        "name" : "Zeno",
+        "type" : "artist",
+        "uri" : "spotify:artist:6gpOLOIn9tu4nfK52nrAIM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 63851,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USE831522648"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4Hbbywxle6KqT62FGifhJg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4Hbbywxle6KqT62FGifhJg",
+      "id" : "4Hbbywxle6KqT62FGifhJg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life And Let It Be - Instrumental Guitar",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/98b5c9413a18541a60a7b9fbccd32445127be581?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:4Hbbywxle6KqT62FGifhJg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1FNmqPy2DuIQkZEWSzO3Cw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1FNmqPy2DuIQkZEWSzO3Cw",
+          "id" : "1FNmqPy2DuIQkZEWSzO3Cw",
+          "name" : "Bryan Duncan",
+          "type" : "artist",
+          "uri" : "spotify:artist:1FNmqPy2DuIQkZEWSzO3Cw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7wRiXztBlwWCnlsaLkWDxj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7wRiXztBlwWCnlsaLkWDxj",
+        "id" : "7wRiXztBlwWCnlsaLkWDxj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738a497c410b98462915f08385",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028a497c410b98462915f08385",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518a497c410b98462915f08385",
+          "width" : 64
+        } ],
+        "name" : "My Utmost For His Highest Quiet Prayers",
+        "release_date" : "1996-07-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:7wRiXztBlwWCnlsaLkWDxj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1FNmqPy2DuIQkZEWSzO3Cw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1FNmqPy2DuIQkZEWSzO3Cw",
+        "id" : "1FNmqPy2DuIQkZEWSzO3Cw",
+        "name" : "Bryan Duncan",
+        "type" : "artist",
+        "uri" : "spotify:artist:1FNmqPy2DuIQkZEWSzO3Cw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 117093,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM19600906"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1HUMcL8gcELuukBWdGduGD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1HUMcL8gcELuukBWdGduGD",
+      "id" : "1HUMcL8gcELuukBWdGduGD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life And Let It Be",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5962579e4eeb0dfcd68b5d0cd6dc69452e2d7ba1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:1HUMcL8gcELuukBWdGduGD"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5WeVXS5COv8kOfCkfe5YMW",
+          "id" : "5WeVXS5COv8kOfCkfe5YMW",
+          "name" : "A New Liturgy",
+          "type" : "artist",
+          "uri" : "spotify:artist:5WeVXS5COv8kOfCkfe5YMW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4zFDtD356ai31LiT4su6JU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4zFDtD356ai31LiT4su6JU",
+        "id" : "4zFDtD356ai31LiT4su6JU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a500edc7483152337d7b6d52",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a500edc7483152337d7b6d52",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a500edc7483152337d7b6d52",
+          "width" : 64
+        } ],
+        "name" : "No 5: Here Are My Hands",
+        "release_date" : "2013-07-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4zFDtD356ai31LiT4su6JU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5WeVXS5COv8kOfCkfe5YMW",
+        "id" : "5WeVXS5COv8kOfCkfe5YMW",
+        "name" : "A New Liturgy",
+        "type" : "artist",
+        "uri" : "spotify:artist:5WeVXS5COv8kOfCkfe5YMW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 233876,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCABP1317690"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2ENC9DXo6eDLKGy668ZfPa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2ENC9DXo6eDLKGy668ZfPa",
+      "id" : "2ENC9DXo6eDLKGy668ZfPa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life and Let It Be",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/783292b34c9b4e155d65478bf05ad0a84602e99e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:2ENC9DXo6eDLKGy668ZfPa"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4s39KkIp4ZerdqkOgRaX1e"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4s39KkIp4ZerdqkOgRaX1e",
+          "id" : "4s39KkIp4ZerdqkOgRaX1e",
+          "name" : "Worship Lullaby",
+          "type" : "artist",
+          "uri" : "spotify:artist:4s39KkIp4ZerdqkOgRaX1e"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2Fz4AITVwYqwySaJMMWnZM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2Fz4AITVwYqwySaJMMWnZM",
+        "id" : "2Fz4AITVwYqwySaJMMWnZM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273014032736b967f061aad0a5c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02014032736b967f061aad0a5c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851014032736b967f061aad0a5c",
+          "width" : 64
+        } ],
+        "name" : "Classic Hymns, Vol. II",
+        "release_date" : "2019-04-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:2Fz4AITVwYqwySaJMMWnZM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4s39KkIp4ZerdqkOgRaX1e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4s39KkIp4ZerdqkOgRaX1e",
+        "id" : "4s39KkIp4ZerdqkOgRaX1e",
+        "name" : "Worship Lullaby",
+        "type" : "artist",
+        "uri" : "spotify:artist:4s39KkIp4ZerdqkOgRaX1e"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 138750,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1984279"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4K0UvDoDGlYVIVKAyvJMOx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4K0UvDoDGlYVIVKAyvJMOx",
+      "id" : "4K0UvDoDGlYVIVKAyvJMOx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life and Let It Be",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1eed3bd01a15823477e501380a998e16ed9ed509?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4K0UvDoDGlYVIVKAyvJMOx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6QHA0Ju1zeevkCUGlFG04w",
+          "id" : "6QHA0Ju1zeevkCUGlFG04w",
+          "name" : "DappyTKeys",
+          "type" : "artist",
+          "uri" : "spotify:artist:6QHA0Ju1zeevkCUGlFG04w"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5Xo4BUKrMl6lDHB4GtJGk7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5Xo4BUKrMl6lDHB4GtJGk7",
+        "id" : "5Xo4BUKrMl6lDHB4GtJGk7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c68a9c5bb3dd0c2670d9cb21",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c68a9c5bb3dd0c2670d9cb21",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c68a9c5bb3dd0c2670d9cb21",
+          "width" : 64
+        } ],
+        "name" : "Hymns Collection, Vol. 1",
+        "release_date" : "2020-01-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5Xo4BUKrMl6lDHB4GtJGk7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6QHA0Ju1zeevkCUGlFG04w",
+        "id" : "6QHA0Ju1zeevkCUGlFG04w",
+        "name" : "DappyTKeys",
+        "type" : "artist",
+        "uri" : "spotify:artist:6QHA0Ju1zeevkCUGlFG04w"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 248972,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEO1949162"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6hgZ3xk7V30DJdDfZKW8wM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6hgZ3xk7V30DJdDfZKW8wM",
+      "id" : "6hgZ3xk7V30DJdDfZKW8wM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life and Let It Be",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c777afaeb91ea582234bf68f7fceed6a3269a1ab?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6hgZ3xk7V30DJdDfZKW8wM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6yHjh2kS1GE4StjNCe5vm0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6yHjh2kS1GE4StjNCe5vm0",
+          "id" : "6yHjh2kS1GE4StjNCe5vm0",
+          "name" : "Mark Baldwin",
+          "type" : "artist",
+          "uri" : "spotify:artist:6yHjh2kS1GE4StjNCe5vm0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2cWIDhmk4Shtf6haR58d6a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2cWIDhmk4Shtf6haR58d6a",
+        "id" : "2cWIDhmk4Shtf6haR58d6a",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737dc1e90d112a875f826532b9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027dc1e90d112a875f826532b9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517dc1e90d112a875f826532b9",
+          "width" : 64
+        } ],
+        "name" : "Quiet Reflections 2",
+        "release_date" : "2012-07-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:2cWIDhmk4Shtf6haR58d6a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yHjh2kS1GE4StjNCe5vm0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yHjh2kS1GE4StjNCe5vm0",
+        "id" : "6yHjh2kS1GE4StjNCe5vm0",
+        "name" : "Mark Baldwin",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yHjh2kS1GE4StjNCe5vm0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 236226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USLF50801532"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Fy1p3VLDXbeEtQQwPe0U0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Fy1p3VLDXbeEtQQwPe0U0",
+      "id" : "2Fy1p3VLDXbeEtQQwPe0U0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life and Let It Be",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7373a8af6ecb45da97145a7fac1f47abbd3db3d4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:2Fy1p3VLDXbeEtQQwPe0U0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7rluHfxLiKAkAoMkuE1F8U"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7rluHfxLiKAkAoMkuE1F8U",
+          "id" : "7rluHfxLiKAkAoMkuE1F8U",
+          "name" : "St. Michael's Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:7rluHfxLiKAkAoMkuE1F8U"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6CUNeY5Jpun64JJURoD8Iw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6CUNeY5Jpun64JJURoD8Iw",
+        "id" : "6CUNeY5Jpun64JJURoD8Iw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fd22dc54adfe979eb62375ad",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fd22dc54adfe979eb62375ad",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fd22dc54adfe979eb62375ad",
+          "width" : 64
+        } ],
+        "name" : "Sacred Head",
+        "release_date" : "2008-12-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6CUNeY5Jpun64JJURoD8Iw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7rluHfxLiKAkAoMkuE1F8U"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7rluHfxLiKAkAoMkuE1F8U",
+        "id" : "7rluHfxLiKAkAoMkuE1F8U",
+        "name" : "St. Michael's Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7rluHfxLiKAkAoMkuE1F8U"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 233733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCEU0121611"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Vs1GjJVDAAHUqQz86cU9c"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Vs1GjJVDAAHUqQz86cU9c",
+      "id" : "2Vs1GjJVDAAHUqQz86cU9c",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life and Let It Be",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/764474c7cb381a6eda7902292d21863f1daeace7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:2Vs1GjJVDAAHUqQz86cU9c"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1zlFa2ZMLDA8Hqotxdi4fS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1zlFa2ZMLDA8Hqotxdi4fS",
+          "id" : "1zlFa2ZMLDA8Hqotxdi4fS",
+          "name" : "Paulines Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:1zlFa2ZMLDA8Hqotxdi4fS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5LKSvCVYz3WaUhwAUDLroN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5LKSvCVYz3WaUhwAUDLroN",
+        "id" : "5LKSvCVYz3WaUhwAUDLroN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731b5083da26f87f988ddd901e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021b5083da26f87f988ddd901e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511b5083da26f87f988ddd901e",
+          "width" : 64
+        } ],
+        "name" : "Take My Life and Let It Be",
+        "release_date" : "2020-05-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:5LKSvCVYz3WaUhwAUDLroN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1zlFa2ZMLDA8Hqotxdi4fS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1zlFa2ZMLDA8Hqotxdi4fS",
+        "id" : "1zlFa2ZMLDA8Hqotxdi4fS",
+        "name" : "Paulines Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:1zlFa2ZMLDA8Hqotxdi4fS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 195970,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR59R2087023"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6dDM09A5Sb8bbbJFo0E43d"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6dDM09A5Sb8bbbJFo0E43d",
+      "id" : "6dDM09A5Sb8bbbJFo0E43d",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life and Let It Be",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dc1bed4a6c478184049949ecef94836dca3ab7f0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6dDM09A5Sb8bbbJFo0E43d"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1zlFa2ZMLDA8Hqotxdi4fS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1zlFa2ZMLDA8Hqotxdi4fS",
+          "id" : "1zlFa2ZMLDA8Hqotxdi4fS",
+          "name" : "Paulines Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:1zlFa2ZMLDA8Hqotxdi4fS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1hG4KOqPFjxIKeGyDGPJRv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1hG4KOqPFjxIKeGyDGPJRv",
+        "id" : "1hG4KOqPFjxIKeGyDGPJRv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e8a624dbd6b1a0959d02b2d6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e8a624dbd6b1a0959d02b2d6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e8a624dbd6b1a0959d02b2d6",
+          "width" : 64
+        } ],
+        "name" : "JESUS THE WAY, THE TRUTH, AND THE LIFE (Instrumental Music for Meditation and Contemplation)",
+        "release_date" : "2020-05-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:1hG4KOqPFjxIKeGyDGPJRv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1zlFa2ZMLDA8Hqotxdi4fS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1zlFa2ZMLDA8Hqotxdi4fS",
+        "id" : "1zlFa2ZMLDA8Hqotxdi4fS",
+        "name" : "Paulines Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:1zlFa2ZMLDA8Hqotxdi4fS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 196336,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR59R2083597"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5vEaJIDqnIIVCKog7tO8Sn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5vEaJIDqnIIVCKog7tO8Sn",
+      "id" : "5vEaJIDqnIIVCKog7tO8Sn",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life and Let It Be - Instrumental Music for Meditation and Contemplation",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/188ca8c37ee880b27945a4f77d280f24f9c5d869?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:5vEaJIDqnIIVCKog7tO8Sn"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20rlbkwNSoLrLqQUR7GRcT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20rlbkwNSoLrLqQUR7GRcT",
+          "id" : "20rlbkwNSoLrLqQUR7GRcT",
+          "name" : "Mother’s Lullaby",
+          "type" : "artist",
+          "uri" : "spotify:artist:20rlbkwNSoLrLqQUR7GRcT"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3UIYMn7azZE5C6cSAam26w"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3UIYMn7azZE5C6cSAam26w",
+        "id" : "3UIYMn7azZE5C6cSAam26w",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27347639e86fcfe8ae1c4746787",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0247639e86fcfe8ae1c4746787",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485147639e86fcfe8ae1c4746787",
+          "width" : 64
+        } ],
+        "name" : "현악4중주 찬송가 연주곡집 Vol. 7",
+        "release_date" : "2020-05-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 50,
+        "type" : "album",
+        "uri" : "spotify:album:3UIYMn7azZE5C6cSAam26w"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20rlbkwNSoLrLqQUR7GRcT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20rlbkwNSoLrLqQUR7GRcT",
+        "id" : "20rlbkwNSoLrLqQUR7GRcT",
+        "name" : "Mother’s Lullaby",
+        "type" : "artist",
+        "uri" : "spotify:artist:20rlbkwNSoLrLqQUR7GRcT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 164411,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZEKE2002504"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4muqteSr2LFh9THm6cD3QR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4muqteSr2LFh9THm6cD3QR",
+      "id" : "4muqteSr2LFh9THm6cD3QR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take My Life And Let It Be",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/63aa1e62a941ab5a4fe1dc18fe40aa5f1ed7f25e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 48,
+      "type" : "track",
+      "uri" : "spotify:track:4muqteSr2LFh9THm6cD3QR"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Take+My+Life+and+Let+It+Be&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Take+My+Life+and+Let+It+Be&type=track&market=US&offset=0&limit=10",
+    "total" : 326
+  }
+}

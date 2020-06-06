@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Jesus+Paid+It+All&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7HLH8rV5mrT0SesUoaKEEr",
+          "id" : "7HLH8rV5mrT0SesUoaKEEr",
+          "name" : "Holy Communion Instrumental Duo",
+          "type" : "artist",
+          "uri" : "spotify:artist:7HLH8rV5mrT0SesUoaKEEr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1QbUtMMS6cIaxjiLoZhOfM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1QbUtMMS6cIaxjiLoZhOfM",
+        "id" : "1QbUtMMS6cIaxjiLoZhOfM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731348d52257d35ca7cf9f2365",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021348d52257d35ca7cf9f2365",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511348d52257d35ca7cf9f2365",
+          "width" : 64
+        } ],
+        "name" : "Modern Worship",
+        "release_date" : "2015-07-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:1QbUtMMS6cIaxjiLoZhOfM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7HLH8rV5mrT0SesUoaKEEr",
+        "id" : "7HLH8rV5mrT0SesUoaKEEr",
+        "name" : "Holy Communion Instrumental Duo",
+        "type" : "artist",
+        "uri" : "spotify:artist:7HLH8rV5mrT0SesUoaKEEr"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 183971,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USE830991245"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6LX9hB0iQiZaukDisDtiV4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6LX9hB0iQiZaukDisDtiV4",
+      "id" : "6LX9hB0iQiZaukDisDtiV4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid It All",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4a670788152033503a55e55c9bd6a2085d0419d2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:6LX9hB0iQiZaukDisDtiV4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/413rdrGoO7cMzxZvwiFpos"
+          },
+          "href" : "https://api.spotify.com/v1/artists/413rdrGoO7cMzxZvwiFpos",
+          "id" : "413rdrGoO7cMzxZvwiFpos",
+          "name" : "Worship Circle",
+          "type" : "artist",
+          "uri" : "spotify:artist:413rdrGoO7cMzxZvwiFpos"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4qaXQcWivm8hMpW65bK48l"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4qaXQcWivm8hMpW65bK48l",
+        "id" : "4qaXQcWivm8hMpW65bK48l",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273accff061dfffdcf201ab6812",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02accff061dfffdcf201ab6812",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851accff061dfffdcf201ab6812",
+          "width" : 64
+        } ],
+        "name" : "Worship Circle Hymns",
+        "release_date" : "2019-09-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:4qaXQcWivm8hMpW65bK48l"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/413rdrGoO7cMzxZvwiFpos"
+        },
+        "href" : "https://api.spotify.com/v1/artists/413rdrGoO7cMzxZvwiFpos",
+        "id" : "413rdrGoO7cMzxZvwiFpos",
+        "name" : "Worship Circle",
+        "type" : "artist",
+        "uri" : "spotify:artist:413rdrGoO7cMzxZvwiFpos"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4leTWyczsXYGlzUh8sFGSz",
+        "id" : "4leTWyczsXYGlzUh8sFGSz",
+        "name" : "Kim Walker-Smith",
+        "type" : "artist",
+        "uri" : "spotify:artist:4leTWyczsXYGlzUh8sFGSz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 423386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEK1977042"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/03Rw82H1cNja9WUeStPPFM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/03Rw82H1cNja9WUeStPPFM",
+      "id" : "03Rw82H1cNja9WUeStPPFM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid It All",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2f2afc3a48b5a155969f435c772ce5a27d71184a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:03Rw82H1cNja9WUeStPPFM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+          "id" : "32DWM2tctxuDatAYWHjCtC",
+          "name" : "Hymns on Piano",
+          "type" : "artist",
+          "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5fQB6By4CMRW3x9z8htgwx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5fQB6By4CMRW3x9z8htgwx",
+        "id" : "5fQB6By4CMRW3x9z8htgwx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cdaab5da231683ce044564f9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cdaab5da231683ce044564f9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cdaab5da231683ce044564f9",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Worship, Vol. 5",
+        "release_date" : "2017-09-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5fQB6By4CMRW3x9z8htgwx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+        "id" : "32DWM2tctxuDatAYWHjCtC",
+        "name" : "Hymns on Piano",
+        "type" : "artist",
+        "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 222003,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ22B1833431"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6tv97MpPYW0d1gGS2LiQIR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6tv97MpPYW0d1gGS2LiQIR",
+      "id" : "6tv97MpPYW0d1gGS2LiQIR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid It All",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/40c2708d063927d834acf07bb2d4690e68de11ef?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6tv97MpPYW0d1gGS2LiQIR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1hVGwYOmDTYPGeymjvTmeq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1hVGwYOmDTYPGeymjvTmeq",
+          "id" : "1hVGwYOmDTYPGeymjvTmeq",
+          "name" : "Aaron Keyes",
+          "type" : "artist",
+          "uri" : "spotify:artist:1hVGwYOmDTYPGeymjvTmeq"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/42dDY11xNGx0ay69s2g2KY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/42dDY11xNGx0ay69s2g2KY",
+        "id" : "42dDY11xNGx0ay69s2g2KY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730cf219c983c1cb5b134b1954",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020cf219c983c1cb5b134b1954",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510cf219c983c1cb5b134b1954",
+          "width" : 64
+        } ],
+        "name" : "Because",
+        "release_date" : "2004",
+        "release_date_precision" : "year",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:42dDY11xNGx0ay69s2g2KY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1hVGwYOmDTYPGeymjvTmeq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1hVGwYOmDTYPGeymjvTmeq",
+        "id" : "1hVGwYOmDTYPGeymjvTmeq",
+        "name" : "Aaron Keyes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1hVGwYOmDTYPGeymjvTmeq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 198293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM0601456"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2056ZSqALKdHRXBA5ksKYw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2056ZSqALKdHRXBA5ksKYw",
+      "id" : "2056ZSqALKdHRXBA5ksKYw",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid it All",
+      "popularity" : 35,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f78ad789d5f0e9d48328ecbffa30d1ba9e774e8f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:2056ZSqALKdHRXBA5ksKYw"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/31Esw1yHgJZBPcRa4nUyTP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/31Esw1yHgJZBPcRa4nUyTP",
+          "id" : "31Esw1yHgJZBPcRa4nUyTP",
+          "name" : "Joey + Rory",
+          "type" : "artist",
+          "uri" : "spotify:artist:31Esw1yHgJZBPcRa4nUyTP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1nbMMdt6wb16OSPF81yBuT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1nbMMdt6wb16OSPF81yBuT",
+        "id" : "1nbMMdt6wb16OSPF81yBuT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ed8396a200fc1a19c12f051d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ed8396a200fc1a19c12f051d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ed8396a200fc1a19c12f051d",
+          "width" : 64
+        } ],
+        "name" : "Hymns",
+        "release_date" : "2016-02-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:1nbMMdt6wb16OSPF81yBuT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/31Esw1yHgJZBPcRa4nUyTP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/31Esw1yHgJZBPcRa4nUyTP",
+        "id" : "31Esw1yHgJZBPcRa4nUyTP",
+        "name" : "Joey + Rory",
+        "type" : "artist",
+        "uri" : "spotify:artist:31Esw1yHgJZBPcRa4nUyTP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 195880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMFDU1600011"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4s6cSwrZr3b35snbavzlAp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4s6cSwrZr3b35snbavzlAp",
+      "id" : "4s6cSwrZr3b35snbavzlAp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid It All",
+      "popularity" : 33,
+      "preview_url" : null,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:4s6cSwrZr3b35snbavzlAp"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+          "id" : "11sAWrpIkFUPQlXoQqpeBV",
+          "name" : "Bill & Gloria Gaither",
+          "type" : "artist",
+          "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3jLYVGQDp4je2ayWff9BZ9"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3jLYVGQDp4je2ayWff9BZ9",
+        "id" : "3jLYVGQDp4je2ayWff9BZ9",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cdbf3f4a7173adef4e56bae3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cdbf3f4a7173adef4e56bae3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cdbf3f4a7173adef4e56bae3",
+          "width" : 64
+        } ],
+        "name" : "Amazing Grace",
+        "release_date" : "2007-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:3jLYVGQDp4je2ayWff9BZ9"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/30RlL4fdGuFhcBqqNUIPVe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/30RlL4fdGuFhcBqqNUIPVe",
+        "id" : "30RlL4fdGuFhcBqqNUIPVe",
+        "name" : "Ivan Parker",
+        "type" : "artist",
+        "uri" : "spotify:artist:30RlL4fdGuFhcBqqNUIPVe"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 282680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3270402681"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1uGibOgpzSX05WpoinhIco"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1uGibOgpzSX05WpoinhIco",
+      "id" : "1uGibOgpzSX05WpoinhIco",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid It All",
+      "popularity" : 30,
+      "preview_url" : null,
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1uGibOgpzSX05WpoinhIco"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1OqLFWFKaVCiF9EwJgTSot"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1OqLFWFKaVCiF9EwJgTSot",
+          "id" : "1OqLFWFKaVCiF9EwJgTSot",
+          "name" : "Hallal Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:1OqLFWFKaVCiF9EwJgTSot"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7fTqQZAzZUBsOF7jkA979x"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7fTqQZAzZUBsOF7jkA979x",
+        "id" : "7fTqQZAzZUBsOF7jkA979x",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273159c229f74f88242c18d24be",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02159c229f74f88242c18d24be",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851159c229f74f88242c18d24be",
+          "width" : 64
+        } ],
+        "name" : "At The Cross",
+        "release_date" : "2010-01-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:7fTqQZAzZUBsOF7jkA979x"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1OqLFWFKaVCiF9EwJgTSot"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1OqLFWFKaVCiF9EwJgTSot",
+        "id" : "1OqLFWFKaVCiF9EwJgTSot",
+        "name" : "Hallal Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:1OqLFWFKaVCiF9EwJgTSot"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 181666,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4YP1000424"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0MBhiHq2sTWUaw3SPneRys"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0MBhiHq2sTWUaw3SPneRys",
+      "id" : "0MBhiHq2sTWUaw3SPneRys",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid It All",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/db05239283c2d2ca6929cf5e13471822523dcab2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:0MBhiHq2sTWUaw3SPneRys"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4akybxRTGHJZ1DXjLhJ1qu",
+          "id" : "4akybxRTGHJZ1DXjLhJ1qu",
+          "name" : "Kirk Franklin",
+          "type" : "artist",
+          "uri" : "spotify:artist:4akybxRTGHJZ1DXjLhJ1qu"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0eV7uNHXarEGKmDzr5jPxp",
+          "id" : "0eV7uNHXarEGKmDzr5jPxp",
+          "name" : "The Family",
+          "type" : "artist",
+          "uri" : "spotify:artist:0eV7uNHXarEGKmDzr5jPxp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0Ire0yqH9G0mycLF1jrXxD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0Ire0yqH9G0mycLF1jrXxD",
+        "id" : "0Ire0yqH9G0mycLF1jrXxD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739c935a50c0665f8509d5007a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029c935a50c0665f8509d5007a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519c935a50c0665f8509d5007a",
+          "width" : 64
+        } ],
+        "name" : "Whatcha Lookin' 4",
+        "release_date" : "1995",
+        "release_date_precision" : "year",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:0Ire0yqH9G0mycLF1jrXxD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4akybxRTGHJZ1DXjLhJ1qu",
+        "id" : "4akybxRTGHJZ1DXjLhJ1qu",
+        "name" : "Kirk Franklin",
+        "type" : "artist",
+        "uri" : "spotify:artist:4akybxRTGHJZ1DXjLhJ1qu"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0eV7uNHXarEGKmDzr5jPxp",
+        "id" : "0eV7uNHXarEGKmDzr5jPxp",
+        "name" : "The Family",
+        "type" : "artist",
+        "uri" : "spotify:artist:0eV7uNHXarEGKmDzr5jPxp"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 304226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USGCR0600242"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/39a9wA2HJPRdbq6hmfSOl5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/39a9wA2HJPRdbq6hmfSOl5",
+      "id" : "39a9wA2HJPRdbq6hmfSOl5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid It All",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3edf21e81aaf314bff48c69670d6a310bea81c5a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:39a9wA2HJPRdbq6hmfSOl5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+          "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+          "name" : "Anthem Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2lAMuYt2TetQFMQV8GTLhO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2lAMuYt2TetQFMQV8GTLhO",
+        "id" : "2lAMuYt2TetQFMQV8GTLhO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739d2f6cf696271c89b8c777ed",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029d2f6cf696271c89b8c777ed",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519d2f6cf696271c89b8c777ed",
+          "width" : 64
+        } ],
+        "name" : "Hymn-Capella",
+        "release_date" : "2020-04-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:2lAMuYt2TetQFMQV8GTLhO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+        "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+        "name" : "Anthem Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 127686,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAES2073465"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7vp4aS2ltoKHfOR5FjqEAx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7vp4aS2ltoKHfOR5FjqEAx",
+      "id" : "7vp4aS2ltoKHfOR5FjqEAx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid It All (Acapella)",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/df1b51a8900f984a205305b272c3a82e274a9e93?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:7vp4aS2ltoKHfOR5FjqEAx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/30aMh21vdYVIjdVgIgHaqW",
+          "id" : "30aMh21vdYVIjdVgIgHaqW",
+          "name" : "Mississippi Mass Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:30aMh21vdYVIjdVgIgHaqW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7ilTFnzPNBzMKL5kloYGzG",
+        "id" : "7ilTFnzPNBzMKL5kloYGzG",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a33f19b21bdd15b7ac762aec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a33f19b21bdd15b7ac762aec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a33f19b21bdd15b7ac762aec",
+          "width" : 64
+        } ],
+        "name" : "I'll See You In The Rapture",
+        "release_date" : "1996-05-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:7ilTFnzPNBzMKL5kloYGzG"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/30aMh21vdYVIjdVgIgHaqW",
+        "id" : "30aMh21vdYVIjdVgIgHaqW",
+        "name" : "Mississippi Mass Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:30aMh21vdYVIjdVgIgHaqW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 400066,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMR50440378"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6wmaBYjdDnrPpof3WdguF4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6wmaBYjdDnrPpof3WdguF4",
+      "id" : "6wmaBYjdDnrPpof3WdguF4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Paid It All",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bb465856a871b5ab4a1bc92df2039ba1d03a0597?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6wmaBYjdDnrPpof3WdguF4"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Jesus+Paid+It+All&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Jesus+Paid+It+All&type=track&market=US&offset=0&limit=10",
+    "total" : 802
+  }
+}

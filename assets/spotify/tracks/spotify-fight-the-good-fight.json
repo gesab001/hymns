@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Fight+the+Good+Fight&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/25Maank76ry2Tmbi2Ql1SF",
+          "id" : "25Maank76ry2Tmbi2Ql1SF",
+          "name" : "The Interrupters",
+          "type" : "artist",
+          "uri" : "spotify:artist:25Maank76ry2Tmbi2Ql1SF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6AoWkAFBSNlX63z1fJVNIL",
+        "id" : "6AoWkAFBSNlX63z1fJVNIL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c9c292d93a9d27c4762cb559",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c9c292d93a9d27c4762cb559",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c9c292d93a9d27c4762cb559",
+          "width" : 64
+        } ],
+        "name" : "Fight the Good Fight",
+        "release_date" : "2018-06-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25Maank76ry2Tmbi2Ql1SF",
+        "id" : "25Maank76ry2Tmbi2Ql1SF",
+        "name" : "The Interrupters",
+        "type" : "artist",
+        "uri" : "spotify:artist:25Maank76ry2Tmbi2Ql1SF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 187515,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USHEL1801007"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4C0ZP5m9z0pfefQHUhach5",
+      "id" : "4C0ZP5m9z0pfefQHUhach5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Gave You Everything",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/970c6bf3049eb6adbb0d47d1d05fae5a31a1a12b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4C0ZP5m9z0pfefQHUhach5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4YfnJEbTz8QLD5FusYFwV6",
+          "id" : "4YfnJEbTz8QLD5FusYFwV6",
+          "name" : "Triumph",
+          "type" : "artist",
+          "uri" : "spotify:artist:4YfnJEbTz8QLD5FusYFwV6"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6IL1IMpqQoAH2SJpVj1BWn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6IL1IMpqQoAH2SJpVj1BWn",
+        "id" : "6IL1IMpqQoAH2SJpVj1BWn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a378f6891f745ca789dc5c62",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a378f6891f745ca789dc5c62",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a378f6891f745ca789dc5c62",
+          "width" : 64
+        } ],
+        "name" : "Allied Forces",
+        "release_date" : "1981-09-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:6IL1IMpqQoAH2SJpVj1BWn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YfnJEbTz8QLD5FusYFwV6",
+        "id" : "4YfnJEbTz8QLD5FusYFwV6",
+        "name" : "Triumph",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YfnJEbTz8QLD5FusYFwV6"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 384485,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAT311000186"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2yjzC8m0rkOIgAFoOTq2eG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2yjzC8m0rkOIgAFoOTq2eG",
+      "id" : "2yjzC8m0rkOIgAFoOTq2eG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fight the Good Fight",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/03046d3d342a872cbc6f6c92a0e7495f2aed75c1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:2yjzC8m0rkOIgAFoOTq2eG"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0jW6R8CVyVohuUJVcuweDI",
+          "id" : "0jW6R8CVyVohuUJVcuweDI",
+          "name" : "The Piano Guys",
+          "type" : "artist",
+          "uri" : "spotify:artist:0jW6R8CVyVohuUJVcuweDI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1hMT6Q6mbvD1KlOccOM5cR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1hMT6Q6mbvD1KlOccOM5cR",
+        "id" : "1hMT6Q6mbvD1KlOccOM5cR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737bc8585f7fba65fb0f2ac734",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027bc8585f7fba65fb0f2ac734",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517bc8585f7fba65fb0f2ac734",
+          "width" : 64
+        } ],
+        "name" : "So Far, So Good",
+        "release_date" : "2012",
+        "release_date_precision" : "year",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:1hMT6Q6mbvD1KlOccOM5cR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jW6R8CVyVohuUJVcuweDI",
+        "id" : "0jW6R8CVyVohuUJVcuweDI",
+        "name" : "The Piano Guys",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jW6R8CVyVohuUJVcuweDI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 244506,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQX91501911"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6s2XoWGkMatXbwOW6SGZuf"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6s2XoWGkMatXbwOW6SGZuf",
+      "id" : "6s2XoWGkMatXbwOW6SGZuf",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fight Song / Amazing Grace",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/efddd5298901a8eddecd5aa144c3b4bb8b0719fa?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6s2XoWGkMatXbwOW6SGZuf"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/25Maank76ry2Tmbi2Ql1SF",
+          "id" : "25Maank76ry2Tmbi2Ql1SF",
+          "name" : "The Interrupters",
+          "type" : "artist",
+          "uri" : "spotify:artist:25Maank76ry2Tmbi2Ql1SF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6AoWkAFBSNlX63z1fJVNIL",
+        "id" : "6AoWkAFBSNlX63z1fJVNIL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c9c292d93a9d27c4762cb559",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c9c292d93a9d27c4762cb559",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c9c292d93a9d27c4762cb559",
+          "width" : 64
+        } ],
+        "name" : "Fight the Good Fight",
+        "release_date" : "2018-06-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25Maank76ry2Tmbi2Ql1SF",
+        "id" : "25Maank76ry2Tmbi2Ql1SF",
+        "name" : "The Interrupters",
+        "type" : "artist",
+        "uri" : "spotify:artist:25Maank76ry2Tmbi2Ql1SF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 161680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USHEL1801001"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5dt0dBcBTgGb7Gt5hNTG91",
+      "id" : "5dt0dBcBTgGb7Gt5hNTG91",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Title Holder",
+      "popularity" : 48,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8ed0955f646d4c08bfaa1ff87631bb86a72344f3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5dt0dBcBTgGb7Gt5hNTG91"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/25Maank76ry2Tmbi2Ql1SF",
+          "id" : "25Maank76ry2Tmbi2Ql1SF",
+          "name" : "The Interrupters",
+          "type" : "artist",
+          "uri" : "spotify:artist:25Maank76ry2Tmbi2Ql1SF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6AoWkAFBSNlX63z1fJVNIL",
+        "id" : "6AoWkAFBSNlX63z1fJVNIL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c9c292d93a9d27c4762cb559",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c9c292d93a9d27c4762cb559",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c9c292d93a9d27c4762cb559",
+          "width" : 64
+        } ],
+        "name" : "Fight the Good Fight",
+        "release_date" : "2018-06-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25Maank76ry2Tmbi2Ql1SF",
+        "id" : "25Maank76ry2Tmbi2Ql1SF",
+        "name" : "The Interrupters",
+        "type" : "artist",
+        "uri" : "spotify:artist:25Maank76ry2Tmbi2Ql1SF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xTk3EK5T9UzudENVvu9YB",
+        "id" : "6xTk3EK5T9UzudENVvu9YB",
+        "name" : "Rancid",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xTk3EK5T9UzudENVvu9YB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 161613,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USHEL1801005"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0FyYR4Nnkbkk5BvECQRyXY",
+      "id" : "0FyYR4Nnkbkk5BvECQRyXY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Got Each Other",
+      "popularity" : 46,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5d7ec1ca46fde88830f2a0c432d4e0a365f3d11f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0FyYR4Nnkbkk5BvECQRyXY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4ERtgeBbWRkFzIz6LaFCeY",
+          "id" : "4ERtgeBbWRkFzIz6LaFCeY",
+          "name" : "Dashboard Confessional",
+          "type" : "artist",
+          "uri" : "spotify:artist:4ERtgeBbWRkFzIz6LaFCeY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3aH8aeNdQQO2bdLfhuL65w"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3aH8aeNdQQO2bdLfhuL65w",
+        "id" : "3aH8aeNdQQO2bdLfhuL65w",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738674d12e39f6cb4c24f8c901",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028674d12e39f6cb4c24f8c901",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518674d12e39f6cb4c24f8c901",
+          "width" : 64
+        } ],
+        "name" : "The Places You Have Come to Fear the Most",
+        "release_date" : "2001-03-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:3aH8aeNdQQO2bdLfhuL65w"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ERtgeBbWRkFzIz6LaFCeY",
+        "id" : "4ERtgeBbWRkFzIz6LaFCeY",
+        "name" : "Dashboard Confessional",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ERtgeBbWRkFzIz6LaFCeY"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 147306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USVR90235406"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7nJqInbqncXFRsEXZpRtc5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7nJqInbqncXFRsEXZpRtc5",
+      "id" : "7nJqInbqncXFRsEXZpRtc5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Good Fight",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9de6310814dc873aecba58287e9b7b7fa462e391?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7nJqInbqncXFRsEXZpRtc5"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0HhpGagIhv0HKqDROjhFW3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0HhpGagIhv0HKqDROjhFW3",
+          "id" : "0HhpGagIhv0HKqDROjhFW3",
+          "name" : "Future Funnel",
+          "type" : "artist",
+          "uri" : "spotify:artist:0HhpGagIhv0HKqDROjhFW3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4fN5X2tAuptj8LLCbhNNq0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4fN5X2tAuptj8LLCbhNNq0",
+        "id" : "4fN5X2tAuptj8LLCbhNNq0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273207ca656d433fd1eae298364",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02207ca656d433fd1eae298364",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851207ca656d433fd1eae298364",
+          "width" : 64
+        } ],
+        "name" : "Fight the Fall",
+        "release_date" : "2019-07-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 2,
+        "type" : "album",
+        "uri" : "spotify:album:4fN5X2tAuptj8LLCbhNNq0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0HhpGagIhv0HKqDROjhFW3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0HhpGagIhv0HKqDROjhFW3",
+        "id" : "0HhpGagIhv0HKqDROjhFW3",
+        "name" : "Future Funnel",
+        "type" : "artist",
+        "uri" : "spotify:artist:0HhpGagIhv0HKqDROjhFW3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 139946,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZAMM1762902"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6Bag9f007xMwsliUquvyIh"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6Bag9f007xMwsliUquvyIh",
+      "id" : "6Bag9f007xMwsliUquvyIh",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Be Good to Me",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/53b8a9a6cab855b59a30373811979813199e2ca7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6Bag9f007xMwsliUquvyIh"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6fVcDUckTwxqg56qNsEvUr",
+          "id" : "6fVcDUckTwxqg56qNsEvUr",
+          "name" : "Frightened Rabbit",
+          "type" : "artist",
+          "uri" : "spotify:artist:6fVcDUckTwxqg56qNsEvUr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/69voh97i16t9SrQeHWIqrY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/69voh97i16t9SrQeHWIqrY",
+        "id" : "69voh97i16t9SrQeHWIqrY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e2e1b5e61d34df2e3b15a176",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e2e1b5e61d34df2e3b15a176",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e2e1b5e61d34df2e3b15a176",
+          "width" : 64
+        } ],
+        "name" : "The Midnight Organ Fight",
+        "release_date" : "2007",
+        "release_date_precision" : "year",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:69voh97i16t9SrQeHWIqrY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6fVcDUckTwxqg56qNsEvUr",
+        "id" : "6fVcDUckTwxqg56qNsEvUr",
+        "name" : "Frightened Rabbit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6fVcDUckTwxqg56qNsEvUr"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 306560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBDCA0701072"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/49sm72U5rx2JAj9nI7SxEx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/49sm72U5rx2JAj9nI7SxEx",
+      "id" : "49sm72U5rx2JAj9nI7SxEx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Arms vs Bad Arms",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2c89f554a1fb28c242d492887df35c4037393704?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:49sm72U5rx2JAj9nI7SxEx"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0HhpGagIhv0HKqDROjhFW3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0HhpGagIhv0HKqDROjhFW3",
+          "id" : "0HhpGagIhv0HKqDROjhFW3",
+          "name" : "Future Funnel",
+          "type" : "artist",
+          "uri" : "spotify:artist:0HhpGagIhv0HKqDROjhFW3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5RfsawxFsrPH3Nn3Q75ccD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5RfsawxFsrPH3Nn3Q75ccD",
+        "id" : "5RfsawxFsrPH3Nn3Q75ccD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273af1f443077da44f562f9ede9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02af1f443077da44f562f9ede9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851af1f443077da44f562f9ede9",
+          "width" : 64
+        } ],
+        "name" : "Fight the Fall Instrumental",
+        "release_date" : "2019-10-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 2,
+        "type" : "album",
+        "uri" : "spotify:album:5RfsawxFsrPH3Nn3Q75ccD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0HhpGagIhv0HKqDROjhFW3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0HhpGagIhv0HKqDROjhFW3",
+        "id" : "0HhpGagIhv0HKqDROjhFW3",
+        "name" : "Future Funnel",
+        "type" : "artist",
+        "uri" : "spotify:artist:0HhpGagIhv0HKqDROjhFW3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 137536,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZAMM1776539"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1NdHEc8giThD6Ll6wUEPsw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1NdHEc8giThD6Ll6wUEPsw",
+      "id" : "1NdHEc8giThD6Ll6wUEPsw",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Be Good to Me - Instrumental",
+      "popularity" : 35,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ed54b4e3ea2e9abd8fd9eafbd795f3e84bf8a1f1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1NdHEc8giThD6Ll6wUEPsw"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/72tRiBHei5G9M8it4h4sfC",
+          "id" : "72tRiBHei5G9M8it4h4sfC",
+          "name" : "Oddisee",
+          "type" : "artist",
+          "uri" : "spotify:artist:72tRiBHei5G9M8it4h4sfC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2Il6nG7cY7C7mRax2KqPtL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2Il6nG7cY7C7mRax2KqPtL",
+        "id" : "2Il6nG7cY7C7mRax2KqPtL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27353977f76264e6bf29c3341cd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0253977f76264e6bf29c3341cd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485153977f76264e6bf29c3341cd",
+          "width" : 64
+        } ],
+        "name" : "The Good Fight",
+        "release_date" : "2015-04-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2Il6nG7cY7C7mRax2KqPtL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/72tRiBHei5G9M8it4h4sfC",
+        "id" : "72tRiBHei5G9M8it4h4sfC",
+        "name" : "Oddisee",
+        "type" : "artist",
+        "uri" : "spotify:artist:72tRiBHei5G9M8it4h4sfC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 245725,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM6N21488543"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5tI34BaM6pEPl2l0fm4jga"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5tI34BaM6pEPl2l0fm4jga",
+      "id" : "5tI34BaM6pEPl2l0fm4jga",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "That's Love",
+      "popularity" : 44,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e95f59defc25fd8092521883ce523e747f0c1d83?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5tI34BaM6pEPl2l0fm4jga"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Fight+the+Good+Fight&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Fight+the+Good+Fight&type=track&market=US&offset=0&limit=10",
+    "total" : 1424
+  }
+}

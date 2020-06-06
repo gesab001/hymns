@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Jesus+Is+Coming+Again&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0oA8UUNNUP3zWCUkZVin0G",
+          "id" : "0oA8UUNNUP3zWCUkZVin0G",
+          "name" : "David Osborne",
+          "type" : "artist",
+          "uri" : "spotify:artist:0oA8UUNNUP3zWCUkZVin0G"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7vc3KCaTx7ioClQqEGc5tR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7vc3KCaTx7ioClQqEGc5tR",
+        "id" : "7vc3KCaTx7ioClQqEGc5tR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27374e43ae73f73e396834f8b00",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0274e43ae73f73e396834f8b00",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485174e43ae73f73e396834f8b00",
+          "width" : 64
+        } ],
+        "name" : "Amazing Grace",
+        "release_date" : "2014-03-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:7vc3KCaTx7ioClQqEGc5tR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0oA8UUNNUP3zWCUkZVin0G",
+        "id" : "0oA8UUNNUP3zWCUkZVin0G",
+        "name" : "David Osborne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0oA8UUNNUP3zWCUkZVin0G"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 135626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMKX71200017"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/40w2qs0drw1ZJ5tAJwlUsE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/40w2qs0drw1ZJ5tAJwlUsE",
+      "id" : "40w2qs0drw1ZJ5tAJwlUsE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again",
+      "popularity" : 4,
+      "preview_url" : null,
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:40w2qs0drw1ZJ5tAJwlUsE"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MI02dSln6psnms6ofSvap"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MI02dSln6psnms6ofSvap",
+          "id" : "5MI02dSln6psnms6ofSvap",
+          "name" : "The Calvary Quartet",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MI02dSln6psnms6ofSvap"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0lbynIUgprF04Qet9Sgl2v"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0lbynIUgprF04Qet9Sgl2v",
+        "id" : "0lbynIUgprF04Qet9Sgl2v",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27372ad676d5f405b837872d1bd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0272ad676d5f405b837872d1bd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485172ad676d5f405b837872d1bd",
+          "width" : 64
+        } ],
+        "name" : "My Heart Has to Sing",
+        "release_date" : "2018-10-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0lbynIUgprF04Qet9Sgl2v"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MI02dSln6psnms6ofSvap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MI02dSln6psnms6ofSvap",
+        "id" : "5MI02dSln6psnms6ofSvap",
+        "name" : "The Calvary Quartet",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MI02dSln6psnms6ofSvap"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 75533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADX1865996"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3L2o2edzw8CWWKqWCVx32I"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3L2o2edzw8CWWKqWCVx32I",
+      "id" : "3L2o2edzw8CWWKqWCVx32I",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e03f11435898067acd694f8dd387da00e52da136?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3L2o2edzw8CWWKqWCVx32I"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2OmbA7QlIOP6jrevUft2BG",
+          "id" : "2OmbA7QlIOP6jrevUft2BG",
+          "name" : "Greater Vision",
+          "type" : "artist",
+          "uri" : "spotify:artist:2OmbA7QlIOP6jrevUft2BG"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4MV5qqtO37D1sRkWMHfp6a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4MV5qqtO37D1sRkWMHfp6a",
+        "id" : "4MV5qqtO37D1sRkWMHfp6a",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d7ff42838976d77b418a6be7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d7ff42838976d77b418a6be7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d7ff42838976d77b418a6be7",
+          "width" : 64
+        } ],
+        "name" : "Hymns Of The Ages",
+        "release_date" : "2008-04-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4MV5qqtO37D1sRkWMHfp6a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OmbA7QlIOP6jrevUft2BG",
+        "id" : "2OmbA7QlIOP6jrevUft2BG",
+        "name" : "Greater Vision",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OmbA7QlIOP6jrevUft2BG"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 276360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3U80600826"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5lVjhEVsWFgcfhhAhzTcac"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5lVjhEVsWFgcfhhAhzTcac",
+      "id" : "5lVjhEVsWFgcfhhAhzTcac",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again Medley (\"In Times Like These,\" \"The Solid Rock,\" & \"Jesus Is Coming Again\")",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/60bd022495ab90ef1b8fef49981b146b6017ea43?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5lVjhEVsWFgcfhhAhzTcac"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0krFA5VTJMUwHRNPf7Mnhn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0krFA5VTJMUwHRNPf7Mnhn",
+        "id" : "0krFA5VTJMUwHRNPf7Mnhn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738839e6e17e414c312f191378",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028839e6e17e414c312f191378",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518839e6e17e414c312f191378",
+          "width" : 64
+        } ],
+        "name" : "30 Favorite Piano Hymns",
+        "release_date" : "2016-05-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:0krFA5VTJMUwHRNPf7Mnhn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0oA8UUNNUP3zWCUkZVin0G",
+        "id" : "0oA8UUNNUP3zWCUkZVin0G",
+        "name" : "David Osborne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0oA8UUNNUP3zWCUkZVin0G"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 134986,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMKX71200017"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0ppY968XTvK2X4EAPSQ4vZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0ppY968XTvK2X4EAPSQ4vZ",
+      "id" : "0ppY968XTvK2X4EAPSQ4vZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again",
+      "popularity" : 1,
+      "preview_url" : null,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:0ppY968XTvK2X4EAPSQ4vZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2uiqOimQE4hjL0EXrL6WLY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2uiqOimQE4hjL0EXrL6WLY",
+          "id" : "2uiqOimQE4hjL0EXrL6WLY",
+          "name" : "AN Mikombe KB Yav",
+          "type" : "artist",
+          "uri" : "spotify:artist:2uiqOimQE4hjL0EXrL6WLY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7uGFbf14Ik1VoZwKx8SGX4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7uGFbf14Ik1VoZwKx8SGX4",
+        "id" : "7uGFbf14Ik1VoZwKx8SGX4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cfa493dc0d249784982a97ee",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cfa493dc0d249784982a97ee",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cfa493dc0d249784982a97ee",
+          "width" : 64
+        } ],
+        "name" : "Ke Nyaka Go Bona Jeso",
+        "release_date" : "2020-01-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:7uGFbf14Ik1VoZwKx8SGX4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2uiqOimQE4hjL0EXrL6WLY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2uiqOimQE4hjL0EXrL6WLY",
+        "id" : "2uiqOimQE4hjL0EXrL6WLY",
+        "name" : "AN Mikombe KB Yav",
+        "type" : "artist",
+        "uri" : "spotify:artist:2uiqOimQE4hjL0EXrL6WLY"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 279013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZFYZ2004400"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Is5u9gKAHiSSaTppdtyUv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Is5u9gKAHiSSaTppdtyUv",
+      "id" : "1Is5u9gKAHiSSaTppdtyUv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8b313d70258db1858fd161576e0fc642ed894e82?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1Is5u9gKAHiSSaTppdtyUv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4Xa8lr2QJldZrqnjNO4wS4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4Xa8lr2QJldZrqnjNO4wS4",
+          "id" : "4Xa8lr2QJldZrqnjNO4wS4",
+          "name" : "Sarah Ainsworth",
+          "type" : "artist",
+          "uri" : "spotify:artist:4Xa8lr2QJldZrqnjNO4wS4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4Ui9MfFO942t9xkfzIUlkK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4Ui9MfFO942t9xkfzIUlkK",
+        "id" : "4Ui9MfFO942t9xkfzIUlkK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27345440cb7ef18725b1b802e68",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0245440cb7ef18725b1b802e68",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485145440cb7ef18725b1b802e68",
+          "width" : 64
+        } ],
+        "name" : "30 Relaxing Piano Hymns - The Most Loved",
+        "release_date" : "2019-03-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:4Ui9MfFO942t9xkfzIUlkK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Xa8lr2QJldZrqnjNO4wS4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Xa8lr2QJldZrqnjNO4wS4",
+        "id" : "4Xa8lr2QJldZrqnjNO4wS4",
+        "name" : "Sarah Ainsworth",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Xa8lr2QJldZrqnjNO4wS4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 179304,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ5FN1961965"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5woSwZJ8eHDPtUtbgQpiM0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5woSwZJ8eHDPtUtbgQpiM0",
+      "id" : "5woSwZJ8eHDPtUtbgQpiM0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9106048dea4ca8c6266614da053c2c789962af03?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 24,
+      "type" : "track",
+      "uri" : "spotify:track:5woSwZJ8eHDPtUtbgQpiM0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/22OsIrgA5fv28qPLZG01Z4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/22OsIrgA5fv28qPLZG01Z4",
+          "id" : "22OsIrgA5fv28qPLZG01Z4",
+          "name" : "Gerson Coelho",
+          "type" : "artist",
+          "uri" : "spotify:artist:22OsIrgA5fv28qPLZG01Z4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6udDQ9xwYGpZFNuaXCFInD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6udDQ9xwYGpZFNuaXCFInD",
+        "id" : "6udDQ9xwYGpZFNuaXCFInD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273885ac449dec058efbeeb867b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02885ac449dec058efbeeb867b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851885ac449dec058efbeeb867b",
+          "width" : 64
+        } ],
+        "name" : "His Love",
+        "release_date" : "2019-12-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6udDQ9xwYGpZFNuaXCFInD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22OsIrgA5fv28qPLZG01Z4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22OsIrgA5fv28qPLZG01Z4",
+        "id" : "22OsIrgA5fv28qPLZG01Z4",
+        "name" : "Gerson Coelho",
+        "type" : "artist",
+        "uri" : "spotify:artist:22OsIrgA5fv28qPLZG01Z4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 218320,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZK6M1922105"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7zQlpg5ZBCvrcXvT61HZei"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7zQlpg5ZBCvrcXvT61HZei",
+      "id" : "7zQlpg5ZBCvrcXvT61HZei",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/69ef3b84a97aaa48a31e2d56337929fa829f5b24?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:7zQlpg5ZBCvrcXvT61HZei"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1vDtcWaArMyEZksLJNh08O"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1vDtcWaArMyEZksLJNh08O",
+          "id" : "1vDtcWaArMyEZksLJNh08O",
+          "name" : "Michael Orr And The Book Of Life",
+          "type" : "artist",
+          "uri" : "spotify:artist:1vDtcWaArMyEZksLJNh08O"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3GiuVScyKU26A3d7k62MBc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3GiuVScyKU26A3d7k62MBc",
+        "id" : "3GiuVScyKU26A3d7k62MBc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27385ebb74894ae263b235e1ba7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0285ebb74894ae263b235e1ba7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485185ebb74894ae263b235e1ba7",
+          "width" : 64
+        } ],
+        "name" : "Love Will Rise",
+        "release_date" : "2019-06-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:3GiuVScyKU26A3d7k62MBc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vDtcWaArMyEZksLJNh08O"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vDtcWaArMyEZksLJNh08O",
+        "id" : "1vDtcWaArMyEZksLJNh08O",
+        "name" : "Michael Orr And The Book Of Life",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vDtcWaArMyEZksLJNh08O"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 228315,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CHC881600056"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4gzoLb5FIrgXr1FiQ1mXM4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4gzoLb5FIrgXr1FiQ1mXM4",
+      "id" : "4gzoLb5FIrgXr1FiQ1mXM4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8ae31dfcb77850bea294084a887d0eee7369e081?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4gzoLb5FIrgXr1FiQ1mXM4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/10F6EEoKfx1nblHGX2xUwj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/10F6EEoKfx1nblHGX2xUwj",
+          "id" : "10F6EEoKfx1nblHGX2xUwj",
+          "name" : "Elder Patrick Riddick",
+          "type" : "artist",
+          "uri" : "spotify:artist:10F6EEoKfx1nblHGX2xUwj"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0ZRqoaMBmplbphqN15alkA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0ZRqoaMBmplbphqN15alkA",
+          "id" : "0ZRqoaMBmplbphqN15alkA",
+          "name" : "D'vyne Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:0ZRqoaMBmplbphqN15alkA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/76LndurFYzmZvwF66FlQpW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/76LndurFYzmZvwF66FlQpW",
+        "id" : "76LndurFYzmZvwF66FlQpW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273100494218dee37195c61966b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02100494218dee37195c61966b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851100494218dee37195c61966b",
+          "width" : 64
+        } ],
+        "name" : "A Song for Every Worshipper",
+        "release_date" : "2013-08-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:76LndurFYzmZvwF66FlQpW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10F6EEoKfx1nblHGX2xUwj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10F6EEoKfx1nblHGX2xUwj",
+        "id" : "10F6EEoKfx1nblHGX2xUwj",
+        "name" : "Elder Patrick Riddick",
+        "type" : "artist",
+        "uri" : "spotify:artist:10F6EEoKfx1nblHGX2xUwj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ZRqoaMBmplbphqN15alkA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ZRqoaMBmplbphqN15alkA",
+        "id" : "0ZRqoaMBmplbphqN15alkA",
+        "name" : "D'vyne Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ZRqoaMBmplbphqN15alkA"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KeuracMpo0kRPxPzdo69s"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KeuracMpo0kRPxPzdo69s",
+        "id" : "1KeuracMpo0kRPxPzdo69s",
+        "name" : "Naomi Kim Thomas",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KeuracMpo0kRPxPzdo69s"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 252453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM1603797"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6YuJRYm2jZo2QbZWUBKgCO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6YuJRYm2jZo2QbZWUBKgCO",
+      "id" : "6YuJRYm2jZo2QbZWUBKgCO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5b5da72c620bbadd0fd0cc1e4fb5769bfeb969e4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6YuJRYm2jZo2QbZWUBKgCO"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6b7sUTSuMbaND4ChVDlOYm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6b7sUTSuMbaND4ChVDlOYm",
+          "id" : "6b7sUTSuMbaND4ChVDlOYm",
+          "name" : "Bishop Ralph \"Donnie\" Graves",
+          "type" : "artist",
+          "uri" : "spotify:artist:6b7sUTSuMbaND4ChVDlOYm"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5js6xt1A646F289aSZecE8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5js6xt1A646F289aSZecE8",
+        "id" : "5js6xt1A646F289aSZecE8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a7129dfef4b4db71496349a1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a7129dfef4b4db71496349a1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a7129dfef4b4db71496349a1",
+          "width" : 64
+        } ],
+        "name" : "I Am Determined",
+        "release_date" : "1988-11-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:5js6xt1A646F289aSZecE8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6b7sUTSuMbaND4ChVDlOYm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6b7sUTSuMbaND4ChVDlOYm",
+        "id" : "6b7sUTSuMbaND4ChVDlOYm",
+        "name" : "Bishop Ralph \"Donnie\" Graves",
+        "type" : "artist",
+        "uri" : "spotify:artist:6b7sUTSuMbaND4ChVDlOYm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 197493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADJ1704796"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2LL6WdOk5e7kLKQVz4ludK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2LL6WdOk5e7kLKQVz4ludK",
+      "id" : "2LL6WdOk5e7kLKQVz4ludK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Is Coming Again",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9c70752d7ae45d87f5d0df1ce09fdcbfefe14412?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2LL6WdOk5e7kLKQVz4ludK"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Jesus+Is+Coming+Again&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Jesus+Is+Coming+Again&type=track&market=US&offset=0&limit=10",
+    "total" : 104
+  }
+}

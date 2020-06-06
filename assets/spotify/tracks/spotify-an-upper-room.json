@@ -1,0 +1,717 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=An+Upper+Room&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0cZGtmT6NeLtb8J9tTkEbi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0cZGtmT6NeLtb8J9tTkEbi",
+        "id" : "0cZGtmT6NeLtb8J9tTkEbi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273efaa7c8039b8436dcc1ab35f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02efaa7c8039b8436dcc1ab35f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851efaa7c8039b8436dcc1ab35f",
+          "width" : 64
+        } ],
+        "name" : "Anxiety Relief",
+        "release_date" : "2020-03-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 55,
+        "type" : "album",
+        "uri" : "spotify:album:0cZGtmT6NeLtb8J9tTkEbi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3SgHzT552wy2W8pNLaLk24",
+        "id" : "3SgHzT552wy2W8pNLaLk24",
+        "name" : "Hillsong Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:3SgHzT552wy2W8pNLaLk24"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 240946,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "AUHS01912472"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4RD8KvghDQIuCyC3VfNmzX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4RD8KvghDQIuCyC3VfNmzX",
+      "id" : "4RD8KvghDQIuCyC3VfNmzX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Upper Room",
+      "popularity" : 9,
+      "preview_url" : null,
+      "track_number" : 24,
+      "type" : "track",
+      "uri" : "spotify:track:4RD8KvghDQIuCyC3VfNmzX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN",
+          "id" : "6ra4GIOgCZQZMOaUECftGN",
+          "name" : "Frank Zappa",
+          "type" : "artist",
+          "uri" : "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1jSxVZtCi4WmY2zIzUtiFx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1jSxVZtCi4WmY2zIzUtiFx",
+        "id" : "1jSxVZtCi4WmY2zIzUtiFx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27311640309e521025e8285b06a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0211640309e521025e8285b06a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485111640309e521025e8285b06a",
+          "width" : 64
+        } ],
+        "name" : "Guitar",
+        "release_date" : "1988-04-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 32,
+        "type" : "album",
+        "uri" : "spotify:album:1jSxVZtCi4WmY2zIzUtiFx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN",
+        "id" : "6ra4GIOgCZQZMOaUECftGN",
+        "name" : "Frank Zappa",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 191906,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USZPE1200468"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7cs6atBkXVrddrzRVKmbKF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7cs6atBkXVrddrzRVKmbKF",
+      "id" : "7cs6atBkXVrddrzRVKmbKF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jim & Tammy's Upper Room",
+      "popularity" : 14,
+      "preview_url" : null,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:7cs6atBkXVrddrzRVKmbKF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5GDKrfgIsgXogDmoP2kx2x",
+          "id" : "5GDKrfgIsgXogDmoP2kx2x",
+          "name" : "catch the fire music",
+          "type" : "artist",
+          "uri" : "spotify:artist:5GDKrfgIsgXogDmoP2kx2x"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7J622dL9zFk6KQUMTZEqEt"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7J622dL9zFk6KQUMTZEqEt",
+        "id" : "7J622dL9zFk6KQUMTZEqEt",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735b0d4abc890bc4ebd3c0dddc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025b0d4abc890bc4ebd3c0dddc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515b0d4abc890bc4ebd3c0dddc",
+          "width" : 64
+        } ],
+        "name" : "Presence (Live from Toronto)",
+        "release_date" : "2019-01-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:7J622dL9zFk6KQUMTZEqEt"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5GDKrfgIsgXogDmoP2kx2x",
+        "id" : "5GDKrfgIsgXogDmoP2kx2x",
+        "name" : "catch the fire music",
+        "type" : "artist",
+        "uri" : "spotify:artist:5GDKrfgIsgXogDmoP2kx2x"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1OrUg9PYYu4Ork1Me15qZ4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1OrUg9PYYu4Ork1Me15qZ4",
+        "id" : "1OrUg9PYYu4Ork1Me15qZ4",
+        "name" : "Summer Shealy",
+        "type" : "artist",
+        "uri" : "spotify:artist:1OrUg9PYYu4Ork1Me15qZ4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 434317,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921850298"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4ulHFXw95VbalujrlLLjeR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4ulHFXw95VbalujrlLLjeR",
+      "id" : "4ulHFXw95VbalujrlLLjeR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Upper Room + (Spontaneous) [Live]",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d9e171581624f20de1b057beabd3018472ac0ed2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4ulHFXw95VbalujrlLLjeR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1w7LAltCFPNXLisri2Zvxi"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1w7LAltCFPNXLisri2Zvxi",
+          "id" : "1w7LAltCFPNXLisri2Zvxi",
+          "name" : "Sight & Sound Theatres",
+          "type" : "artist",
+          "uri" : "spotify:artist:1w7LAltCFPNXLisri2Zvxi"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7h8JCJwrX6ORFsJOMQjLD2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7h8JCJwrX6ORFsJOMQjLD2",
+        "id" : "7h8JCJwrX6ORFsJOMQjLD2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ab80195fce74b4238bd93e41",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ab80195fce74b4238bd93e41",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ab80195fce74b4238bd93e41",
+          "width" : 64
+        } ],
+        "name" : "Jesus (Original Soundtrack Recording)",
+        "release_date" : "2019-02-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:7h8JCJwrX6ORFsJOMQjLD2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1w7LAltCFPNXLisri2Zvxi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1w7LAltCFPNXLisri2Zvxi",
+        "id" : "1w7LAltCFPNXLisri2Zvxi",
+        "name" : "Sight & Sound Theatres",
+        "type" : "artist",
+        "uri" : "spotify:artist:1w7LAltCFPNXLisri2Zvxi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 130266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEC1983437"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1SKiiL68mVlxJJZEBRiziZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1SKiiL68mVlxJJZEBRiziZ",
+      "id" : "1SKiiL68mVlxJJZEBRiziZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Upper Room (Pentecost)",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c93e79c5fce13fbad36d27b2110b0145a90911d8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 29,
+      "type" : "track",
+      "uri" : "spotify:track:1SKiiL68mVlxJJZEBRiziZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/74r3GBZ9epHon6WM1sU6L7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/74r3GBZ9epHon6WM1sU6L7",
+          "id" : "74r3GBZ9epHon6WM1sU6L7",
+          "name" : "Frontier Ruckus",
+          "type" : "artist",
+          "uri" : "spotify:artist:74r3GBZ9epHon6WM1sU6L7"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/277TwSbKVTVDsMi2PAR2Ji"
+        },
+        "href" : "https://api.spotify.com/v1/albums/277TwSbKVTVDsMi2PAR2Ji",
+        "id" : "277TwSbKVTVDsMi2PAR2Ji",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e201bfaf2bb72e9d9334afb4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e201bfaf2bb72e9d9334afb4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e201bfaf2bb72e9d9334afb4",
+          "width" : 64
+        } ],
+        "name" : "Deadmalls and Nightfalls",
+        "release_date" : "2010-07-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:277TwSbKVTVDsMi2PAR2Ji"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/74r3GBZ9epHon6WM1sU6L7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/74r3GBZ9epHon6WM1sU6L7",
+        "id" : "74r3GBZ9epHon6WM1sU6L7",
+        "name" : "Frontier Ruckus",
+        "type" : "artist",
+        "uri" : "spotify:artist:74r3GBZ9epHon6WM1sU6L7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 340266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4BW1000705"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/23jweXL7du6Gxa6rX0eXlA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/23jweXL7du6Gxa6rX0eXlA",
+      "id" : "23jweXL7du6Gxa6rX0eXlA",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Upper Room",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d1e911aa7810f3c5fbd766a932a0a11a38679864?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:23jweXL7du6Gxa6rX0eXlA"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4Y9fPOXXI1w5XxUd9rQnfz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4Y9fPOXXI1w5XxUd9rQnfz",
+          "id" : "4Y9fPOXXI1w5XxUd9rQnfz",
+          "name" : "Andrew Ehrenzeller",
+          "type" : "artist",
+          "uri" : "spotify:artist:4Y9fPOXXI1w5XxUd9rQnfz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7yIZo6eVSVriGcc0C9lQNA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7yIZo6eVSVriGcc0C9lQNA",
+        "id" : "7yIZo6eVSVriGcc0C9lQNA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e4bee7d5c8668eae5102826e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e4bee7d5c8668eae5102826e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e4bee7d5c8668eae5102826e",
+          "width" : 64
+        } ],
+        "name" : "So Proud of You (Live at Upper Room Denver)",
+        "release_date" : "2019-04-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:7yIZo6eVSVriGcc0C9lQNA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Y9fPOXXI1w5XxUd9rQnfz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Y9fPOXXI1w5XxUd9rQnfz",
+        "id" : "4Y9fPOXXI1w5XxUd9rQnfz",
+        "name" : "Andrew Ehrenzeller",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Y9fPOXXI1w5XxUd9rQnfz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 690859,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEE1985701"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6y2RuwIYTCJHfIDGMLtGDC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6y2RuwIYTCJHfIDGMLtGDC",
+      "id" : "6y2RuwIYTCJHfIDGMLtGDC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "So Proud of You (Live at Upper Room Denver)",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/18d325f1139e2e7488f7300d2ea43cd3a5dd9187?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6y2RuwIYTCJHfIDGMLtGDC"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7GkPZD0O1btf2e5dtRZyfI",
+          "id" : "7GkPZD0O1btf2e5dtRZyfI",
+          "name" : "The Wonder Kids",
+          "type" : "artist",
+          "uri" : "spotify:artist:7GkPZD0O1btf2e5dtRZyfI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/24Xkt3oJpY1qKQVU1Oz8HC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/24Xkt3oJpY1qKQVU1Oz8HC",
+        "id" : "24Xkt3oJpY1qKQVU1Oz8HC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273eda4604973eccd7924dc612e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02eda4604973eccd7924dc612e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851eda4604973eccd7924dc612e",
+          "width" : 64
+        } ],
+        "name" : "The Word and Song Listening Bible: John - Revelation",
+        "release_date" : "2013-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 31,
+        "type" : "album",
+        "uri" : "spotify:album:24Xkt3oJpY1qKQVU1Oz8HC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GkPZD0O1btf2e5dtRZyfI",
+        "id" : "7GkPZD0O1btf2e5dtRZyfI",
+        "name" : "The Wonder Kids",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GkPZD0O1btf2e5dtRZyfI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 94266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1324711"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6JrnwUVumjsMnuB7IirVR8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6JrnwUVumjsMnuB7IirVR8",
+      "id" : "6JrnwUVumjsMnuB7IirVR8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Upper Room",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/438a8362941a25a79d25494a43a13d4bae262e77?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6JrnwUVumjsMnuB7IirVR8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6p7iFdv6Wn9iaS7AwVLvod",
+          "id" : "6p7iFdv6Wn9iaS7AwVLvod",
+          "name" : "Nana Mouskouri",
+          "type" : "artist",
+          "uri" : "spotify:artist:6p7iFdv6Wn9iaS7AwVLvod"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3cTTgnTTdiHEuhh4mO4OT3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3cTTgnTTdiHEuhh4mO4OT3",
+        "id" : "3cTTgnTTdiHEuhh4mO4OT3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27381ca167e47261c75b8a51272",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0281ca167e47261c75b8a51272",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485181ca167e47261c75b8a51272",
+          "width" : 64
+        } ],
+        "name" : "Sacred And Spiritual",
+        "release_date" : "2019-11-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3cTTgnTTdiHEuhh4mO4OT3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6p7iFdv6Wn9iaS7AwVLvod",
+        "id" : "6p7iFdv6Wn9iaS7AwVLvod",
+        "name" : "Nana Mouskouri",
+        "type" : "artist",
+        "uri" : "spotify:artist:6p7iFdv6Wn9iaS7AwVLvod"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 333386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CH0529080110"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Xl9YlZGEuJrrGn2ZM37YE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Xl9YlZGEuJrrGn2ZM37YE",
+      "id" : "1Xl9YlZGEuJrrGn2ZM37YE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Upper Room",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7d9c6178ae5a814e862b592477788906791e2309?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:1Xl9YlZGEuJrrGn2ZM37YE"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id" : "1ACWS59anwdSHw9frA337o",
+          "name" : "Stack Bundles",
+          "type" : "artist",
+          "uri" : "spotify:artist:1ACWS59anwdSHw9frA337o"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4MF7JqxHbH8ZPxIdsKq6Dy"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4MF7JqxHbH8ZPxIdsKq6Dy",
+        "id" : "4MF7JqxHbH8ZPxIdsKq6Dy",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d1b60f66f5b728ab67c731e4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d1b60f66f5b728ab67c731e4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d1b60f66f5b728ab67c731e4",
+          "width" : 64
+        } ],
+        "name" : "Library of a Rockstar: Chapter 3 - Riot Squad, Pt. 1",
+        "release_date" : "2019-07-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:4MF7JqxHbH8ZPxIdsKq6Dy"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+        "id" : "1ACWS59anwdSHw9frA337o",
+        "name" : "Stack Bundles",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ACWS59anwdSHw9frA337o"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Xy2kqvZUFaAkhzDBOmArj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Xy2kqvZUFaAkhzDBOmArj",
+        "id" : "1Xy2kqvZUFaAkhzDBOmArj",
+        "name" : "Cau2Gs",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Xy2kqvZUFaAkhzDBOmArj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5fdd3yiOQiNzdwAF35BOHG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5fdd3yiOQiNzdwAF35BOHG",
+        "id" : "5fdd3yiOQiNzdwAF35BOHG",
+        "name" : "Bynoe",
+        "type" : "artist",
+        "uri" : "spotify:artist:5fdd3yiOQiNzdwAF35BOHG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2DctCFD8X80VeY7WLC86PS",
+        "id" : "2DctCFD8X80VeY7WLC86PS",
+        "name" : "Chinx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2DctCFD8X80VeY7WLC86PS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 210325,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QM6P41954180"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3pbeSa85eujMQHk9OBrqE5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3pbeSa85eujMQHk9OBrqE5",
+      "id" : "3pbeSa85eujMQHk9OBrqE5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Upper Room (feat. Cau2gs, Bynoe & Chinx)",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/14953aec18be824d4ec8e67be417782814f69350?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3pbeSa85eujMQHk9OBrqE5"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1NiNTcEHxa2Lzd2xoSxC4M"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1NiNTcEHxa2Lzd2xoSxC4M",
+          "id" : "1NiNTcEHxa2Lzd2xoSxC4M",
+          "name" : "Undignified Tour",
+          "type" : "artist",
+          "uri" : "spotify:artist:1NiNTcEHxa2Lzd2xoSxC4M"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7JXgnCYnsqvgv3w1oAngte"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7JXgnCYnsqvgv3w1oAngte",
+        "id" : "7JXgnCYnsqvgv3w1oAngte",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731e77b74afbfa68b1161d9eb6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021e77b74afbfa68b1161d9eb6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511e77b74afbfa68b1161d9eb6",
+          "width" : 64
+        } ],
+        "name" : "The Upper Room",
+        "release_date" : "2017-05-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:7JXgnCYnsqvgv3w1oAngte"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1NiNTcEHxa2Lzd2xoSxC4M"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1NiNTcEHxa2Lzd2xoSxC4M",
+        "id" : "1NiNTcEHxa2Lzd2xoSxC4M",
+        "name" : "Undignified Tour",
+        "type" : "artist",
+        "uri" : "spotify:artist:1NiNTcEHxa2Lzd2xoSxC4M"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 320706,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usdy41741370"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7HNROAUFdZ9iwDFfPTUuxr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7HNROAUFdZ9iwDFfPTUuxr",
+      "id" : "7HNROAUFdZ9iwDFfPTUuxr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You and Me",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5551ed788383f9c52dfbb6623738dae3561b09ba?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:7HNROAUFdZ9iwDFfPTUuxr"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=An+Upper+Room&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=An+Upper+Room&type=track&market=US&offset=0&limit=10",
+    "total" : 95
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=The+Savior+Is+Waiting&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0XOGhQGVg5HkdudMPgyqYj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0XOGhQGVg5HkdudMPgyqYj",
+          "id" : "0XOGhQGVg5HkdudMPgyqYj",
+          "name" : "George Beverly Shea",
+          "type" : "artist",
+          "uri" : "spotify:artist:0XOGhQGVg5HkdudMPgyqYj"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/01Ua992NVbBvuI1syUNUvi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/01Ua992NVbBvuI1syUNUvi",
+        "id" : "01Ua992NVbBvuI1syUNUvi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730c9b62dd9041b53348660151",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020c9b62dd9041b53348660151",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510c9b62dd9041b53348660151",
+          "width" : 64
+        } ],
+        "name" : "Be Still My Soul",
+        "release_date" : "1968-04-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:01Ua992NVbBvuI1syUNUvi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XOGhQGVg5HkdudMPgyqYj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XOGhQGVg5HkdudMPgyqYj",
+        "id" : "0XOGhQGVg5HkdudMPgyqYj",
+        "name" : "George Beverly Shea",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XOGhQGVg5HkdudMPgyqYj"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 160613,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRC10500319"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3NyOMDSTcJc1OTy9Wadt5J"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3NyOMDSTcJc1OTy9Wadt5J",
+      "id" : "3NyOMDSTcJc1OTy9Wadt5J",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior Is Waiting",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/be2025d09f590b4c0da2db105c2e5e22c4666e52?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:3NyOMDSTcJc1OTy9Wadt5J"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4c7zlvrqio2WjtIIGTx1pm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4c7zlvrqio2WjtIIGTx1pm",
+          "id" : "4c7zlvrqio2WjtIIGTx1pm",
+          "name" : "The Whisnants",
+          "type" : "artist",
+          "uri" : "spotify:artist:4c7zlvrqio2WjtIIGTx1pm"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4jizPsj9KiNRGG52IUwJqw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4jizPsj9KiNRGG52IUwJqw",
+        "id" : "4jizPsj9KiNRGG52IUwJqw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d0387191d27e8a3fe3974397",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d0387191d27e8a3fe3974397",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d0387191d27e8a3fe3974397",
+          "width" : 64
+        } ],
+        "name" : "Hymns & Harmony",
+        "release_date" : "2012-09-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4jizPsj9KiNRGG52IUwJqw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4c7zlvrqio2WjtIIGTx1pm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4c7zlvrqio2WjtIIGTx1pm",
+        "id" : "4c7zlvrqio2WjtIIGTx1pm",
+        "name" : "The Whisnants",
+        "type" : "artist",
+        "uri" : "spotify:artist:4c7zlvrqio2WjtIIGTx1pm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 240666,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91327777"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Nvc4NhwhdL8CF1rTslOeu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Nvc4NhwhdL8CF1rTslOeu",
+      "id" : "1Nvc4NhwhdL8CF1rTslOeu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior Is Waiting",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/696351b2136eeb655ec0d66cb372d1af2fdeb540?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1Nvc4NhwhdL8CF1rTslOeu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0kinks9LXlnKPyp5TSWHOS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0kinks9LXlnKPyp5TSWHOS",
+          "id" : "0kinks9LXlnKPyp5TSWHOS",
+          "name" : "John Jones",
+          "type" : "artist",
+          "uri" : "spotify:artist:0kinks9LXlnKPyp5TSWHOS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6DUm05ooFIM9eqvEGtvbql"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6DUm05ooFIM9eqvEGtvbql",
+        "id" : "6DUm05ooFIM9eqvEGtvbql",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e4ca813a382bed2f69e54baf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e4ca813a382bed2f69e54baf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e4ca813a382bed2f69e54baf",
+          "width" : 64
+        } ],
+        "name" : "100 Sacred Hymns #2",
+        "release_date" : "2007-12-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:6DUm05ooFIM9eqvEGtvbql"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0kinks9LXlnKPyp5TSWHOS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0kinks9LXlnKPyp5TSWHOS",
+        "id" : "0kinks9LXlnKPyp5TSWHOS",
+        "name" : "John Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:0kinks9LXlnKPyp5TSWHOS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 127906,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q0746518"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0KATTYm8oydzOLnXtOHj9W"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0KATTYm8oydzOLnXtOHj9W",
+      "id" : "0KATTYm8oydzOLnXtOHj9W",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior Is Waiting",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c48df8c8c8b462c58da7b1fbd39b2ee1b2fc30fe?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:0KATTYm8oydzOLnXtOHj9W"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1hGcCpJ2iiPKnPhKQXclWG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1hGcCpJ2iiPKnPhKQXclWG",
+          "id" : "1hGcCpJ2iiPKnPhKQXclWG",
+          "name" : "The Heralds",
+          "type" : "artist",
+          "uri" : "spotify:artist:1hGcCpJ2iiPKnPhKQXclWG"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6ogsn3qC0dl33B6ISyV7mq"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6ogsn3qC0dl33B6ISyV7mq",
+        "id" : "6ogsn3qC0dl33B6ISyV7mq",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27380f56928757433088fa984fd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0280f56928757433088fa984fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485180f56928757433088fa984fd",
+          "width" : 64
+        } ],
+        "name" : "The Way We Were",
+        "release_date" : "1990",
+        "release_date_precision" : "year",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:6ogsn3qC0dl33B6ISyV7mq"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1hGcCpJ2iiPKnPhKQXclWG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1hGcCpJ2iiPKnPhKQXclWG",
+        "id" : "1hGcCpJ2iiPKnPhKQXclWG",
+        "name" : "The Heralds",
+        "type" : "artist",
+        "uri" : "spotify:artist:1hGcCpJ2iiPKnPhKQXclWG"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 164266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm80898523"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3qYn1899aVOZ8oFqaPOQ82"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3qYn1899aVOZ8oFqaPOQ82",
+      "id" : "3qYn1899aVOZ8oFqaPOQ82",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior Is Waiting",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2419268c43a94c6fbe1bb1fcc1aefa1c18aa9332?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:3qYn1899aVOZ8oFqaPOQ82"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4QyJW12xsL0To1y0GcuVxh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4QyJW12xsL0To1y0GcuVxh",
+          "id" : "4QyJW12xsL0To1y0GcuVxh",
+          "name" : "Marjorie Fitzhugh",
+          "type" : "artist",
+          "uri" : "spotify:artist:4QyJW12xsL0To1y0GcuVxh"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/64KRqcgYJSavHMjI6Zgmvp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/64KRqcgYJSavHMjI6Zgmvp",
+        "id" : "64KRqcgYJSavHMjI6Zgmvp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e3ee41f637c87e9028d686b8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e3ee41f637c87e9028d686b8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e3ee41f637c87e9028d686b8",
+          "width" : 64
+        } ],
+        "name" : "Just Margie",
+        "release_date" : "2020-04-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:64KRqcgYJSavHMjI6Zgmvp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4QyJW12xsL0To1y0GcuVxh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4QyJW12xsL0To1y0GcuVxh",
+        "id" : "4QyJW12xsL0To1y0GcuVxh",
+        "name" : "Marjorie Fitzhugh",
+        "type" : "artist",
+        "uri" : "spotify:artist:4QyJW12xsL0To1y0GcuVxh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 151480,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZDA82072012"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/167f7UplpGN1NVz1kgTJpY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/167f7UplpGN1NVz1kgTJpY",
+      "id" : "167f7UplpGN1NVz1kgTJpY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior Is Waiting",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/619ca473af78259df904ccbe5015bad07b997423?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:167f7UplpGN1NVz1kgTJpY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6RFAq9W2z5bckj36c5u2xh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6RFAq9W2z5bckj36c5u2xh",
+          "id" : "6RFAq9W2z5bckj36c5u2xh",
+          "name" : "Claude E. Reed",
+          "type" : "artist",
+          "uri" : "spotify:artist:6RFAq9W2z5bckj36c5u2xh"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0TTlV5Czl5IaTzf6yn6c0m"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0TTlV5Czl5IaTzf6yn6c0m",
+        "id" : "0TTlV5Czl5IaTzf6yn6c0m",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27375c2d3984a98ee2fad4b2c2d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0275c2d3984a98ee2fad4b2c2d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485175c2d3984a98ee2fad4b2c2d",
+          "width" : 64
+        } ],
+        "name" : "Jesus Savior To All The World",
+        "release_date" : "2007-11-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0TTlV5Czl5IaTzf6yn6c0m"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6RFAq9W2z5bckj36c5u2xh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6RFAq9W2z5bckj36c5u2xh",
+        "id" : "6RFAq9W2z5bckj36c5u2xh",
+        "name" : "Claude E. Reed",
+        "type" : "artist",
+        "uri" : "spotify:artist:6RFAq9W2z5bckj36c5u2xh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 169520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q0725957"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2LrPXeOMEAIWkf3vbv1MWK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2LrPXeOMEAIWkf3vbv1MWK",
+      "id" : "2LrPXeOMEAIWkf3vbv1MWK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior Is Waiting",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/71448cf87f0495e4dec2768672399989a34b6f84?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:2LrPXeOMEAIWkf3vbv1MWK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6PvHLf0FNT0YawQcXSuyVc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6PvHLf0FNT0YawQcXSuyVc",
+          "id" : "6PvHLf0FNT0YawQcXSuyVc",
+          "name" : "Magnificat Children's Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:6PvHLf0FNT0YawQcXSuyVc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5u1mmIq1v9yL4l0yVnKkU2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5u1mmIq1v9yL4l0yVnKkU2",
+        "id" : "5u1mmIq1v9yL4l0yVnKkU2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732adee4fb80b3f861b69fea56",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022adee4fb80b3f861b69fea56",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512adee4fb80b3f861b69fea56",
+          "width" : 64
+        } ],
+        "name" : "Magnificat Children's Choir - 25th Anniversary",
+        "release_date" : "2020-02-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:5u1mmIq1v9yL4l0yVnKkU2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PvHLf0FNT0YawQcXSuyVc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PvHLf0FNT0YawQcXSuyVc",
+        "id" : "6PvHLf0FNT0YawQcXSuyVc",
+        "name" : "Magnificat Children's Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PvHLf0FNT0YawQcXSuyVc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 238274,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRMIM1910831"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/439Yq3m6LK7Padh30QnszV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/439Yq3m6LK7Padh30QnszV",
+      "id" : "439Yq3m6LK7Padh30QnszV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior is Waiting",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f41d350160bc6fcf0a0e27f48522dfc9998f49f1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:439Yq3m6LK7Padh30QnszV"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3JXIqgWg0KKEdCDxqoyosA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3JXIqgWg0KKEdCDxqoyosA",
+          "id" : "3JXIqgWg0KKEdCDxqoyosA",
+          "name" : "Mike McBride",
+          "type" : "artist",
+          "uri" : "spotify:artist:3JXIqgWg0KKEdCDxqoyosA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0OEsOP1Rd7vIcghUEQuCiV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0OEsOP1Rd7vIcghUEQuCiV",
+        "id" : "0OEsOP1Rd7vIcghUEQuCiV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735b9aa45ebaf93b7805b90254",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025b9aa45ebaf93b7805b90254",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515b9aa45ebaf93b7805b90254",
+          "width" : 64
+        } ],
+        "name" : "Be Still My Soul",
+        "release_date" : "2016-02-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:0OEsOP1Rd7vIcghUEQuCiV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3JXIqgWg0KKEdCDxqoyosA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3JXIqgWg0KKEdCDxqoyosA",
+        "id" : "3JXIqgWg0KKEdCDxqoyosA",
+        "name" : "Mike McBride",
+        "type" : "artist",
+        "uri" : "spotify:artist:3JXIqgWg0KKEdCDxqoyosA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 213973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1640791"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5UUaxhB2u0ih8G1PGSW2UM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5UUaxhB2u0ih8G1PGSW2UM",
+      "id" : "5UUaxhB2u0ih8G1PGSW2UM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior Is Waiting",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dca8486662f779aa0541dce73c7b16a46b9b3dc0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:5UUaxhB2u0ih8G1PGSW2UM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6pAAY90iiEbhG6S2t8mGCc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6pAAY90iiEbhG6S2t8mGCc",
+          "id" : "6pAAY90iiEbhG6S2t8mGCc",
+          "name" : "Christina Escamilla",
+          "type" : "artist",
+          "uri" : "spotify:artist:6pAAY90iiEbhG6S2t8mGCc"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5CaDZr8sp8RjWM68W314fY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5CaDZr8sp8RjWM68W314fY",
+          "id" : "5CaDZr8sp8RjWM68W314fY",
+          "name" : "Erwin Nanasi",
+          "type" : "artist",
+          "uri" : "spotify:artist:5CaDZr8sp8RjWM68W314fY"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4whCCiMIIXO00Gbgl55Frg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4whCCiMIIXO00Gbgl55Frg",
+          "id" : "4whCCiMIIXO00Gbgl55Frg",
+          "name" : "Esther Nanasi",
+          "type" : "artist",
+          "uri" : "spotify:artist:4whCCiMIIXO00Gbgl55Frg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5L3dzCmdOLHjYf1fgxD9bV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5L3dzCmdOLHjYf1fgxD9bV",
+        "id" : "5L3dzCmdOLHjYf1fgxD9bV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27356befbd05e84c8b1f572d787",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0256befbd05e84c8b1f572d787",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485156befbd05e84c8b1f572d787",
+          "width" : 64
+        } ],
+        "name" : "Only Jesus",
+        "release_date" : "2017-11-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5L3dzCmdOLHjYf1fgxD9bV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6pAAY90iiEbhG6S2t8mGCc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6pAAY90iiEbhG6S2t8mGCc",
+        "id" : "6pAAY90iiEbhG6S2t8mGCc",
+        "name" : "Christina Escamilla",
+        "type" : "artist",
+        "uri" : "spotify:artist:6pAAY90iiEbhG6S2t8mGCc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CaDZr8sp8RjWM68W314fY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CaDZr8sp8RjWM68W314fY",
+        "id" : "5CaDZr8sp8RjWM68W314fY",
+        "name" : "Erwin Nanasi",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CaDZr8sp8RjWM68W314fY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4whCCiMIIXO00Gbgl55Frg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4whCCiMIIXO00Gbgl55Frg",
+        "id" : "4whCCiMIIXO00Gbgl55Frg",
+        "name" : "Esther Nanasi",
+        "type" : "artist",
+        "uri" : "spotify:artist:4whCCiMIIXO00Gbgl55Frg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 229413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1885600"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6Mey7BYm0FQtJ1CezNZaNf"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6Mey7BYm0FQtJ1CezNZaNf",
+      "id" : "6Mey7BYm0FQtJ1CezNZaNf",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior Is Waiting",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d322f9a6893dfedc5fde73a87a17ddbf2030f8a4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6Mey7BYm0FQtJ1CezNZaNf"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1TXN039YdlEShfRYp2055F"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1TXN039YdlEShfRYp2055F",
+          "id" : "1TXN039YdlEShfRYp2055F",
+          "name" : "Colyn Major",
+          "type" : "artist",
+          "uri" : "spotify:artist:1TXN039YdlEShfRYp2055F"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3dtKhOisRDWSAL412OudDU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3dtKhOisRDWSAL412OudDU",
+        "id" : "3dtKhOisRDWSAL412OudDU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273874b30a920e44bfea72e66c4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02874b30a920e44bfea72e66c4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851874b30a920e44bfea72e66c4",
+          "width" : 64
+        } ],
+        "name" : "Hymns for the Soul",
+        "release_date" : "2018-08-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:3dtKhOisRDWSAL412OudDU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TXN039YdlEShfRYp2055F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TXN039YdlEShfRYp2055F",
+        "id" : "1TXN039YdlEShfRYp2055F",
+        "name" : "Colyn Major",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TXN039YdlEShfRYp2055F"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 188000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADU1866272"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6Sit4nc8Ruz8GcsSQJh9r6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6Sit4nc8Ruz8GcsSQJh9r6",
+      "id" : "6Sit4nc8Ruz8GcsSQJh9r6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Savior Is Waiting",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f0ed7ce100f3592c609ee7a76f2bba4622b08454?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:6Sit4nc8Ruz8GcsSQJh9r6"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=The+Savior+Is+Waiting&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=The+Savior+Is+Waiting&type=track&market=US&offset=0&limit=10",
+    "total" : 49
+  }
+}

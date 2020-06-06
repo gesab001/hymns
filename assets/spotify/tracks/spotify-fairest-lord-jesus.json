@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Fairest+Lord+Jesus&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0kbhJzMYORZ3TpOEc2CEuC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0kbhJzMYORZ3TpOEc2CEuC",
+          "id" : "0kbhJzMYORZ3TpOEc2CEuC",
+          "name" : "Tim Neufeld",
+          "type" : "artist",
+          "uri" : "spotify:artist:0kbhJzMYORZ3TpOEc2CEuC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3oePkWWLwGI2SjQQ3SzpPd"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3oePkWWLwGI2SjQQ3SzpPd",
+        "id" : "3oePkWWLwGI2SjQQ3SzpPd",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737d845fe58e40284d90c64889",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027d845fe58e40284d90c64889",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517d845fe58e40284d90c64889",
+          "width" : 64
+        } ],
+        "name" : "Trees",
+        "release_date" : "2013-06-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:3oePkWWLwGI2SjQQ3SzpPd"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0kbhJzMYORZ3TpOEc2CEuC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0kbhJzMYORZ3TpOEc2CEuC",
+        "id" : "0kbhJzMYORZ3TpOEc2CEuC",
+        "name" : "Tim Neufeld",
+        "type" : "artist",
+        "uri" : "spotify:artist:0kbhJzMYORZ3TpOEc2CEuC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 195426,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CACZ61300003"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6mGetP9gn6rZXpqFKVGxLR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6mGetP9gn6rZXpqFKVGxLR",
+      "id" : "6mGetP9gn6rZXpqFKVGxLR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/de57f3edb71b14788628625b27204b58c3d8eaf5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6mGetP9gn6rZXpqFKVGxLR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+          "id" : "7dc9jcxR0GgRMoNasStnmZ",
+          "name" : "David Baroni",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0QOzN93Vhpw1rwTonEKrnf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0QOzN93Vhpw1rwTonEKrnf",
+        "id" : "0QOzN93Vhpw1rwTonEKrnf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ddfd3808b869d69ac7b94ceb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ddfd3808b869d69ac7b94ceb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ddfd3808b869d69ac7b94ceb",
+          "width" : 64
+        } ],
+        "name" : "A Quiet Place: Instrumental Hymns",
+        "release_date" : "2009-11-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0QOzN93Vhpw1rwTonEKrnf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+        "id" : "7dc9jcxR0GgRMoNasStnmZ",
+        "name" : "David Baroni",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 258053,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p0933849"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0VwZcNVqVk4T8KpDV5zPtv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0VwZcNVqVk4T8KpDV5zPtv",
+      "id" : "0VwZcNVqVk4T8KpDV5zPtv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3024508a845dc43601c7aa4e03b44f22b5630e9b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:0VwZcNVqVk4T8KpDV5zPtv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5uv6BYoPhTJPZ9KE6QxyTo"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5uv6BYoPhTJPZ9KE6QxyTo",
+          "id" : "5uv6BYoPhTJPZ9KE6QxyTo",
+          "name" : "Phillip Keveren & David Angell",
+          "type" : "artist",
+          "uri" : "spotify:artist:5uv6BYoPhTJPZ9KE6QxyTo"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7J0IEeWXtjhrjsMUxKUR4o"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7J0IEeWXtjhrjsMUxKUR4o",
+        "id" : "7J0IEeWXtjhrjsMUxKUR4o",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cc62cf7204ab4c3a8ebf4410",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cc62cf7204ab4c3a8ebf4410",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cc62cf7204ab4c3a8ebf4410",
+          "width" : 64
+        } ],
+        "name" : "Classical Praise Volume 2: Piano & Violin",
+        "release_date" : "2005-07-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:7J0IEeWXtjhrjsMUxKUR4o"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5uv6BYoPhTJPZ9KE6QxyTo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5uv6BYoPhTJPZ9KE6QxyTo",
+        "id" : "5uv6BYoPhTJPZ9KE6QxyTo",
+        "name" : "Phillip Keveren & David Angell",
+        "type" : "artist",
+        "uri" : "spotify:artist:5uv6BYoPhTJPZ9KE6QxyTo"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 185546,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM0602541"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4YWYvUNFvXhTgV21YsYreJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4YWYvUNFvXhTgV21YsYreJ",
+      "id" : "4YWYvUNFvXhTgV21YsYreJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/02a485fc6589a5c1785a627ef20d590c627b9696?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:4YWYvUNFvXhTgV21YsYreJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+          "id" : "4QKx7KohkWZAOkO4sI3GRx",
+          "name" : "VeggieTales",
+          "type" : "artist",
+          "uri" : "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7DCaLcwncrvL3Tutchzobe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7DCaLcwncrvL3Tutchzobe",
+        "id" : "7DCaLcwncrvL3Tutchzobe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a1c03a71230169132303a11c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a1c03a71230169132303a11c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a1c03a71230169132303a11c",
+          "width" : 64
+        } ],
+        "name" : "25 Favorite Lullaby Songs!",
+        "release_date" : "2009-10-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:7DCaLcwncrvL3Tutchzobe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4QKx7KohkWZAOkO4sI3GRx",
+        "id" : "4QKx7KohkWZAOkO4sI3GRx",
+        "name" : "VeggieTales",
+        "type" : "artist",
+        "uri" : "spotify:artist:4QKx7KohkWZAOkO4sI3GRx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 169986,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4EW0700010"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/19c5ABkRER00Y9sGdninUr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/19c5ABkRER00Y9sGdninUr",
+      "id" : "19c5ABkRER00Y9sGdninUr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus",
+      "popularity" : 23,
+      "preview_url" : null,
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:19c5ABkRER00Y9sGdninUr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1rnvO0098VACV7bmTr2dIv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1rnvO0098VACV7bmTr2dIv",
+          "id" : "1rnvO0098VACV7bmTr2dIv",
+          "name" : "Jason Tonioli",
+          "type" : "artist",
+          "uri" : "spotify:artist:1rnvO0098VACV7bmTr2dIv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5J0vM24lEXhpCZVB570aU1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5J0vM24lEXhpCZVB570aU1",
+        "id" : "5J0vM24lEXhpCZVB570aU1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27354c3d30e40b79503cfe9828e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0254c3d30e40b79503cfe9828e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485154c3d30e40b79503cfe9828e",
+          "width" : 64
+        } ],
+        "name" : "Be Still - Piano Hymns",
+        "release_date" : "2012-03-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:5J0vM24lEXhpCZVB570aU1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1rnvO0098VACV7bmTr2dIv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1rnvO0098VACV7bmTr2dIv",
+        "id" : "1rnvO0098VACV7bmTr2dIv",
+        "name" : "Jason Tonioli",
+        "type" : "artist",
+        "uri" : "spotify:artist:1rnvO0098VACV7bmTr2dIv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQY51270388"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/21GwPrIJWilxJU5QBof6sS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/21GwPrIJWilxJU5QBof6sS",
+      "id" : "21GwPrIJWilxJU5QBof6sS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus - Beautiful Savior",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a9afa2e2076f4fffe0518fcd216d76ec73d60c31?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:21GwPrIJWilxJU5QBof6sS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3E1yxE05BnQblIGuJ7yadK",
+          "id" : "3E1yxE05BnQblIGuJ7yadK",
+          "name" : "Dream Baby",
+          "type" : "artist",
+          "uri" : "spotify:artist:3E1yxE05BnQblIGuJ7yadK"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1B7ZQYUjHEffF2UMUdna0V"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1B7ZQYUjHEffF2UMUdna0V",
+        "id" : "1B7ZQYUjHEffF2UMUdna0V",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27314cb12b410680f0f65004035",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0214cb12b410680f0f65004035",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485114cb12b410680f0f65004035",
+          "width" : 64
+        } ],
+        "name" : "Baby's First Hymns",
+        "release_date" : "2013-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:1B7ZQYUjHEffF2UMUdna0V"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3E1yxE05BnQblIGuJ7yadK",
+        "id" : "3E1yxE05BnQblIGuJ7yadK",
+        "name" : "Dream Baby",
+        "type" : "artist",
+        "uri" : "spotify:artist:3E1yxE05BnQblIGuJ7yadK"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 233213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CASD11100902"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6m6VMRf5YkXwagQWvgDalt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6m6VMRf5YkXwagQWvgDalt",
+      "id" : "6m6VMRf5YkXwagQWvgDalt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f511e2ef29039902ff3f6a3f63c71e76dade89b8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:6m6VMRf5YkXwagQWvgDalt"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7pIlr6ZsVpOtKv0Kh46GwZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7pIlr6ZsVpOtKv0Kh46GwZ",
+          "id" : "7pIlr6ZsVpOtKv0Kh46GwZ",
+          "name" : "Greg Howlett",
+          "type" : "artist",
+          "uri" : "spotify:artist:7pIlr6ZsVpOtKv0Kh46GwZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7o1uMirC2JAvD32BL7urJs"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7o1uMirC2JAvD32BL7urJs",
+        "id" : "7o1uMirC2JAvD32BL7urJs",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bce75d09e678f4d2139d5dac",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bce75d09e678f4d2139d5dac",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bce75d09e678f4d2139d5dac",
+          "width" : 64
+        } ],
+        "name" : "Quiet Place",
+        "release_date" : "2010-12-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:7o1uMirC2JAvD32BL7urJs"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7pIlr6ZsVpOtKv0Kh46GwZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7pIlr6ZsVpOtKv0Kh46GwZ",
+        "id" : "7pIlr6ZsVpOtKv0Kh46GwZ",
+        "name" : "Greg Howlett",
+        "type" : "artist",
+        "uri" : "spotify:artist:7pIlr6ZsVpOtKv0Kh46GwZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 252173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p1045236"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0iTIc5MaVuJ1vW9wis0Oqm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0iTIc5MaVuJ1vW9wis0Oqm",
+      "id" : "0iTIc5MaVuJ1vW9wis0Oqm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a79c593a29250445ded296c97947cd21851aa891?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0iTIc5MaVuJ1vW9wis0Oqm"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2LByFn6WymbKg67CuVYqkt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2LByFn6WymbKg67CuVYqkt",
+          "id" : "2LByFn6WymbKg67CuVYqkt",
+          "name" : "Katy Kinard",
+          "type" : "artist",
+          "uri" : "spotify:artist:2LByFn6WymbKg67CuVYqkt"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0crAHACogD2wCd7kUPQK1v"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0crAHACogD2wCd7kUPQK1v",
+        "id" : "0crAHACogD2wCd7kUPQK1v",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733296b1e79c9c30248735dd0f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023296b1e79c9c30248735dd0f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513296b1e79c9c30248735dd0f",
+          "width" : 64
+        } ],
+        "name" : "Lullaby Hymns: the Weary Soul",
+        "release_date" : "2010-06-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:0crAHACogD2wCd7kUPQK1v"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2LByFn6WymbKg67CuVYqkt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2LByFn6WymbKg67CuVYqkt",
+        "id" : "2LByFn6WymbKg67CuVYqkt",
+        "name" : "Katy Kinard",
+        "type" : "artist",
+        "uri" : "spotify:artist:2LByFn6WymbKg67CuVYqkt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 175413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAAR1027757"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3pnWCLEheY2tfpMJKehuyE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3pnWCLEheY2tfpMJKehuyE",
+      "id" : "3pnWCLEheY2tfpMJKehuyE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9fa6f927c32d8ce0fa512c5e171b853692e2dcaf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3pnWCLEheY2tfpMJKehuyE"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LIG4IMVuzGJjAhMxXtll1",
+          "id" : "4LIG4IMVuzGJjAhMxXtll1",
+          "name" : "Jadon Lavik",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LIG4IMVuzGJjAhMxXtll1"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6Pcu1C4dXMinzA7AoQa83v",
+        "id" : "6Pcu1C4dXMinzA7AoQa83v",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f633c6603caeb1053310119a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f633c6603caeb1053310119a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f633c6603caeb1053310119a",
+          "width" : 64
+        } ],
+        "name" : "Roots Run Deeper",
+        "release_date" : "2012-09-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6Pcu1C4dXMinzA7AoQa83v"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LIG4IMVuzGJjAhMxXtll1",
+        "id" : "4LIG4IMVuzGJjAhMxXtll1",
+        "name" : "Jadon Lavik",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LIG4IMVuzGJjAhMxXtll1"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174946,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US9XZ1200059"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6emf6brq2P09I76xUCrUgs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6emf6brq2P09I76xUCrUgs",
+      "id" : "6emf6brq2P09I76xUCrUgs",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fd2ba71058b78ad43a56c83a55fe2f5494c59bf0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6emf6brq2P09I76xUCrUgs"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7rwhybBLjf5jWQsmXfwJhd",
+          "id" : "7rwhybBLjf5jWQsmXfwJhd",
+          "name" : "Kendra Logozar",
+          "type" : "artist",
+          "uri" : "spotify:artist:7rwhybBLjf5jWQsmXfwJhd"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1ouIk7vywD4qA06hGPgFsB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1ouIk7vywD4qA06hGPgFsB",
+        "id" : "1ouIk7vywD4qA06hGPgFsB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ae77dda82422e261b02a58f8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ae77dda82422e261b02a58f8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ae77dda82422e261b02a58f8",
+          "width" : 64
+        } ],
+        "name" : "Fairest Lord Jesus",
+        "release_date" : "2019-11-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:1ouIk7vywD4qA06hGPgFsB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7rwhybBLjf5jWQsmXfwJhd",
+        "id" : "7rwhybBLjf5jWQsmXfwJhd",
+        "name" : "Kendra Logozar",
+        "type" : "artist",
+        "uri" : "spotify:artist:7rwhybBLjf5jWQsmXfwJhd"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 238486,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMS8M1900023"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0qc5vtMprrOyz3cZjwnkvL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0qc5vtMprrOyz3cZjwnkvL",
+      "id" : "0qc5vtMprrOyz3cZjwnkvL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fairest Lord Jesus",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/71fa56d247a5b729ecf7d327b6ac6cd3de324768?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0qc5vtMprrOyz3cZjwnkvL"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Fairest+Lord+Jesus&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Fairest+Lord+Jesus&type=track&market=US&offset=0&limit=10",
+    "total" : 1023
+  }
+}

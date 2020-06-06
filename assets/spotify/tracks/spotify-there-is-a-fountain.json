@@ -1,0 +1,699 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=There+Is+a+Fountain&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3e7KVnSiZjsBkReSv0L6db",
+          "id" : "3e7KVnSiZjsBkReSv0L6db",
+          "name" : "Citizens",
+          "type" : "artist",
+          "uri" : "spotify:artist:3e7KVnSiZjsBkReSv0L6db"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/49BOvLIdtkmPrbkFstWHxR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/49BOvLIdtkmPrbkFstWHxR",
+        "id" : "49BOvLIdtkmPrbkFstWHxR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738f75cef14b663e687780ea0e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028f75cef14b663e687780ea0e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518f75cef14b663e687780ea0e",
+          "width" : 64
+        } ],
+        "name" : "Join the Triumph (Deluxe Edition)",
+        "release_date" : "2015-05-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:49BOvLIdtkmPrbkFstWHxR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3e7KVnSiZjsBkReSv0L6db",
+        "id" : "3e7KVnSiZjsBkReSv0L6db",
+        "name" : "Citizens",
+        "type" : "artist",
+        "uri" : "spotify:artist:3e7KVnSiZjsBkReSv0L6db"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190844,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMVP91400003"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6tlwHJeySPBWmOvPYyPqbD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6tlwHJeySPBWmOvPYyPqbD",
+      "id" : "6tlwHJeySPBWmOvPYyPqbD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is a Fountain",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/651116adeda5d5e61e0c2af85e82d99c56ab5e16?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6tlwHJeySPBWmOvPYyPqbD"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+          "id" : "32DWM2tctxuDatAYWHjCtC",
+          "name" : "Hymns on Piano",
+          "type" : "artist",
+          "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5fQB6By4CMRW3x9z8htgwx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5fQB6By4CMRW3x9z8htgwx",
+        "id" : "5fQB6By4CMRW3x9z8htgwx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cdaab5da231683ce044564f9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cdaab5da231683ce044564f9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cdaab5da231683ce044564f9",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Worship, Vol. 5",
+        "release_date" : "2017-09-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5fQB6By4CMRW3x9z8htgwx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+        "id" : "32DWM2tctxuDatAYWHjCtC",
+        "name" : "Hymns on Piano",
+        "type" : "artist",
+        "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 270501,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ22B1833435"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/180noOc7DOMbUncbaDD9qz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/180noOc7DOMbUncbaDD9qz",
+      "id" : "180noOc7DOMbUncbaDD9qz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is a Fountain Filled with Blood",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8b3328b42dc9849b6c8c602f4100e7b64b04eb34?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:180noOc7DOMbUncbaDD9qz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+          "id" : "7dc9jcxR0GgRMoNasStnmZ",
+          "name" : "David Baroni",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0QOzN93Vhpw1rwTonEKrnf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0QOzN93Vhpw1rwTonEKrnf",
+        "id" : "0QOzN93Vhpw1rwTonEKrnf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ddfd3808b869d69ac7b94ceb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ddfd3808b869d69ac7b94ceb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ddfd3808b869d69ac7b94ceb",
+          "width" : 64
+        } ],
+        "name" : "A Quiet Place: Instrumental Hymns",
+        "release_date" : "2009-11-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0QOzN93Vhpw1rwTonEKrnf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dc9jcxR0GgRMoNasStnmZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dc9jcxR0GgRMoNasStnmZ",
+        "id" : "7dc9jcxR0GgRMoNasStnmZ",
+        "name" : "David Baroni",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dc9jcxR0GgRMoNasStnmZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 255693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p0933843"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2ypl65yQGoMIhl8nCClbmb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2ypl65yQGoMIhl8nCClbmb",
+      "id" : "2ypl65yQGoMIhl8nCClbmb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There is a Fountain",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2f72b8601c52192f126218d5caced3a42662a8bf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2ypl65yQGoMIhl8nCClbmb"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+          "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+          "name" : "Anthem Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2lAMuYt2TetQFMQV8GTLhO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2lAMuYt2TetQFMQV8GTLhO",
+        "id" : "2lAMuYt2TetQFMQV8GTLhO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739d2f6cf696271c89b8c777ed",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029d2f6cf696271c89b8c777ed",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519d2f6cf696271c89b8c777ed",
+          "width" : 64
+        } ],
+        "name" : "Hymn-Capella",
+        "release_date" : "2020-04-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:2lAMuYt2TetQFMQV8GTLhO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+        "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+        "name" : "Anthem Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 143149,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAES2073464"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/57dDj6U1QWyc40NPCpyJTb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/57dDj6U1QWyc40NPCpyJTb",
+      "id" : "57dDj6U1QWyc40NPCpyJTb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is a Fountain (Acapella)",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/62cdcd355b36c8a858401381a7022f4ec4b9e511?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:57dDj6U1QWyc40NPCpyJTb"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2rUTHCNVy2FS3bCmzh5m7F"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2rUTHCNVy2FS3bCmzh5m7F",
+          "id" : "2rUTHCNVy2FS3bCmzh5m7F",
+          "name" : "The Cathedrals",
+          "type" : "artist",
+          "uri" : "spotify:artist:2rUTHCNVy2FS3bCmzh5m7F"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4aUdMAkFY55IWqGe3s6IR2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4aUdMAkFY55IWqGe3s6IR2",
+        "id" : "4aUdMAkFY55IWqGe3s6IR2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c69c148bacfd936fe39a80f6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c69c148bacfd936fe39a80f6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c69c148bacfd936fe39a80f6",
+          "width" : 64
+        } ],
+        "name" : "Southern Gospel Treasury Series",
+        "release_date" : "2000-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:4aUdMAkFY55IWqGe3s6IR2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2rUTHCNVy2FS3bCmzh5m7F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2rUTHCNVy2FS3bCmzh5m7F",
+        "id" : "2rUTHCNVy2FS3bCmzh5m7F",
+        "name" : "The Cathedrals",
+        "type" : "artist",
+        "uri" : "spotify:artist:2rUTHCNVy2FS3bCmzh5m7F"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 111573,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR60252049"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4nkbP49tzkyknsK7G710Xc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4nkbP49tzkyknsK7G710Xc",
+      "id" : "4nkbP49tzkyknsK7G710Xc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is A Fountain",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2091f1a30a3bb58f5607735ddb87a77324e6697d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:4nkbP49tzkyknsK7G710Xc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0vD3f3r69jBB1bL6VWnGM2",
+          "id" : "0vD3f3r69jBB1bL6VWnGM2",
+          "name" : "Chris Rice",
+          "type" : "artist",
+          "uri" : "spotify:artist:0vD3f3r69jBB1bL6VWnGM2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4XDj1573h0qRdkUNPiJKVP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4XDj1573h0qRdkUNPiJKVP",
+        "id" : "4XDj1573h0qRdkUNPiJKVP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731ff0913a6c9cb48c8611c552",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021ff0913a6c9cb48c8611c552",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511ff0913a6c9cb48c8611c552",
+          "width" : 64
+        } ],
+        "name" : "Untitled Hymn: A Collection of Hymns",
+        "release_date" : "2019-05-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4XDj1573h0qRdkUNPiJKVP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0vD3f3r69jBB1bL6VWnGM2",
+        "id" : "0vD3f3r69jBB1bL6VWnGM2",
+        "name" : "Chris Rice",
+        "type" : "artist",
+        "uri" : "spotify:artist:0vD3f3r69jBB1bL6VWnGM2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USM2C1801407"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2VbLvaEeZ8YjdEHL0JiMeH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2VbLvaEeZ8YjdEHL0JiMeH",
+      "id" : "2VbLvaEeZ8YjdEHL0JiMeH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is A Fountain",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ae7337fb4c091b145715fee0167f60afc37b8a77?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:2VbLvaEeZ8YjdEHL0JiMeH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ZKBQyNLXQd1VfNf2oH5yF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ZKBQyNLXQd1VfNf2oH5yF",
+          "id" : "5ZKBQyNLXQd1VfNf2oH5yF",
+          "name" : "Phillip Keveren",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ZKBQyNLXQd1VfNf2oH5yF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1Hz5mFMt0zot3VHHs48dfX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1Hz5mFMt0zot3VHHs48dfX",
+        "id" : "1Hz5mFMt0zot3VHHs48dfX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a89ea47037e82c7d4ba36dd6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a89ea47037e82c7d4ba36dd6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a89ea47037e82c7d4ba36dd6",
+          "width" : 64
+        } ],
+        "name" : "Classical Praise: Piano & Flute",
+        "release_date" : "2013-02-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1Hz5mFMt0zot3VHHs48dfX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ZKBQyNLXQd1VfNf2oH5yF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ZKBQyNLXQd1VfNf2oH5yF",
+        "id" : "5ZKBQyNLXQd1VfNf2oH5yF",
+        "name" : "Phillip Keveren",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ZKBQyNLXQd1VfNf2oH5yF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 287293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USLF50801607"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4OIBfOq6GB0SMLhYrkyQ2E"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4OIBfOq6GB0SMLhYrkyQ2E",
+      "id" : "4OIBfOq6GB0SMLhYrkyQ2E",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is a Fountain (with Chopin's \"Prelude in C Minor, Op. 28, No. 1\")",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0b62dc2c54262b69af19e229f949186d77f65d71?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4OIBfOq6GB0SMLhYrkyQ2E"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6MYKRhEIKscR8qdGlvpk9y",
+          "id" : "6MYKRhEIKscR8qdGlvpk9y",
+          "name" : "Sovereign Grace Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:6MYKRhEIKscR8qdGlvpk9y"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3mWDcLkpeZ5aReUNWoOadU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3mWDcLkpeZ5aReUNWoOadU",
+          "id" : "3mWDcLkpeZ5aReUNWoOadU",
+          "name" : "Bob Kauflin",
+          "type" : "artist",
+          "uri" : "spotify:artist:3mWDcLkpeZ5aReUNWoOadU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/02YQE7jfnG2cOF6qJ6KI9E"
+        },
+        "href" : "https://api.spotify.com/v1/albums/02YQE7jfnG2cOF6qJ6KI9E",
+        "id" : "02YQE7jfnG2cOF6qJ6KI9E",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738108be026d28c5fec232f6b3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028108be026d28c5fec232f6b3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518108be026d28c5fec232f6b3",
+          "width" : 64
+        } ],
+        "name" : "Together for the Gospel (Live)",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:02YQE7jfnG2cOF6qJ6KI9E"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6MYKRhEIKscR8qdGlvpk9y",
+        "id" : "6MYKRhEIKscR8qdGlvpk9y",
+        "name" : "Sovereign Grace Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:6MYKRhEIKscR8qdGlvpk9y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mWDcLkpeZ5aReUNWoOadU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mWDcLkpeZ5aReUNWoOadU",
+        "id" : "3mWDcLkpeZ5aReUNWoOadU",
+        "name" : "Bob Kauflin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mWDcLkpeZ5aReUNWoOadU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 323973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USL4Q0827034"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6LYfZj8FL5ylLkzy5zekO0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6LYfZj8FL5ylLkzy5zekO0",
+      "id" : "6LYfZj8FL5ylLkzy5zekO0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is a Fountain Filled with Blood - Live",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b7a11d7ea43030bc82d993e639c878fcf0f75422?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:6LYfZj8FL5ylLkzy5zekO0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3foczzTKMl7TLCoFOnVmgI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3foczzTKMl7TLCoFOnVmgI",
+          "id" : "3foczzTKMl7TLCoFOnVmgI",
+          "name" : "The Enfield Hymn Sessions",
+          "type" : "artist",
+          "uri" : "spotify:artist:3foczzTKMl7TLCoFOnVmgI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/71HCQlS9sNnRWFqnck5eKy"
+        },
+        "href" : "https://api.spotify.com/v1/albums/71HCQlS9sNnRWFqnck5eKy",
+        "id" : "71HCQlS9sNnRWFqnck5eKy",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27321b5f99db69a31a84eb55aee",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0221b5f99db69a31a84eb55aee",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485121b5f99db69a31a84eb55aee",
+          "width" : 64
+        } ],
+        "name" : "Resolved Music, Vol. 1",
+        "release_date" : "2010-06-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:71HCQlS9sNnRWFqnck5eKy"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3foczzTKMl7TLCoFOnVmgI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3foczzTKMl7TLCoFOnVmgI",
+        "id" : "3foczzTKMl7TLCoFOnVmgI",
+        "name" : "The Enfield Hymn Sessions",
+        "type" : "artist",
+        "uri" : "spotify:artist:3foczzTKMl7TLCoFOnVmgI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 305173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USP791000001"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2lkWp6rWCWX1uxjE9XQVzH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2lkWp6rWCWX1uxjE9XQVzH",
+      "id" : "2lkWp6rWCWX1uxjE9XQVzH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is A Fountain",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bf859fde0077a83bb752e9123274d392151d661f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2lkWp6rWCWX1uxjE9XQVzH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+          "id" : "11sAWrpIkFUPQlXoQqpeBV",
+          "name" : "Bill & Gloria Gaither",
+          "type" : "artist",
+          "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1OaykWKrH8gqCKzy5LhtUi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1OaykWKrH8gqCKzy5LhtUi",
+        "id" : "1OaykWKrH8gqCKzy5LhtUi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d15d612c9fe59c00fb1d7fc4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d15d612c9fe59c00fb1d7fc4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d15d612c9fe59c00fb1d7fc4",
+          "width" : 64
+        } ],
+        "name" : "How Great Thou Art",
+        "release_date" : "2007-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:1OaykWKrH8gqCKzy5LhtUi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1R486Y8DuEKEH01hypvW1B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1R486Y8DuEKEH01hypvW1B",
+        "id" : "1R486Y8DuEKEH01hypvW1B",
+        "name" : "David Phelps",
+        "type" : "artist",
+        "uri" : "spotify:artist:1R486Y8DuEKEH01hypvW1B"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 279466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3270402716"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5GrsjF6VQ2dQukKBewHyFk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5GrsjF6VQ2dQukKBewHyFk",
+      "id" : "5GrsjF6VQ2dQukKBewHyFk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "There Is A Fountain Filled With Blood - Live",
+      "popularity" : 26,
+      "preview_url" : null,
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:5GrsjF6VQ2dQukKBewHyFk"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=There+Is+a+Fountain&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=There+Is+a+Fountain&type=track&market=US&offset=0&limit=10",
+    "total" : 830
+  }
+}

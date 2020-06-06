@@ -1,0 +1,699 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Seeking+the+Lost&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/642W6QvgBhtJunbbnScqRU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/642W6QvgBhtJunbbnScqRU",
+          "id" : "642W6QvgBhtJunbbnScqRU",
+          "name" : "Elliot Bowman",
+          "type" : "artist",
+          "uri" : "spotify:artist:642W6QvgBhtJunbbnScqRU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3hkMUSvFQh8xX38lKz7OoM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3hkMUSvFQh8xX38lKz7OoM",
+        "id" : "3hkMUSvFQh8xX38lKz7OoM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737c805aabc222349c9ea63ca7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027c805aabc222349c9ea63ca7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517c805aabc222349c9ea63ca7",
+          "width" : 64
+        } ],
+        "name" : "A Cappella Hymns: Album Two",
+        "release_date" : "2018-04-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:3hkMUSvFQh8xX38lKz7OoM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/642W6QvgBhtJunbbnScqRU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/642W6QvgBhtJunbbnScqRU",
+        "id" : "642W6QvgBhtJunbbnScqRU",
+        "name" : "Elliot Bowman",
+        "type" : "artist",
+        "uri" : "spotify:artist:642W6QvgBhtJunbbnScqRU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 119620,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usdy41819421"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0paAMX9XTPlip3rTlDyBgT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0paAMX9XTPlip3rTlDyBgT",
+      "id" : "0paAMX9XTPlip3rTlDyBgT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seeking the Lost",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/02ddfd4d7981928943f457fbcad1d96b569de44d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0paAMX9XTPlip3rTlDyBgT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2jsJgibPMeaVKHbUCpdauN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2jsJgibPMeaVKHbUCpdauN",
+          "id" : "2jsJgibPMeaVKHbUCpdauN",
+          "name" : "Rune Realms",
+          "type" : "artist",
+          "uri" : "spotify:artist:2jsJgibPMeaVKHbUCpdauN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1sCFgAnfCPMpGhbDUH1gtM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1sCFgAnfCPMpGhbDUH1gtM",
+        "id" : "1sCFgAnfCPMpGhbDUH1gtM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27368bc7a4ba793676e1d4422be",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0268bc7a4ba793676e1d4422be",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485168bc7a4ba793676e1d4422be",
+          "width" : 64
+        } ],
+        "name" : "Seeking the Lost Castle",
+        "release_date" : "2015-12-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1sCFgAnfCPMpGhbDUH1gtM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2jsJgibPMeaVKHbUCpdauN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2jsJgibPMeaVKHbUCpdauN",
+        "id" : "2jsJgibPMeaVKHbUCpdauN",
+        "name" : "Rune Realms",
+        "type" : "artist",
+        "uri" : "spotify:artist:2jsJgibPMeaVKHbUCpdauN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 522673,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USE831523987"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/23l04PruWMXSDchhQhaznE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/23l04PruWMXSDchhQhaznE",
+      "id" : "23l04PruWMXSDchhQhaznE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seeking the Lost Castle",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/36e7f9b12ed7a4a8adc37c0ea9745fdbdc7529b9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:23l04PruWMXSDchhQhaznE"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4TTqqrG6o5BocRON3CWrOA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4TTqqrG6o5BocRON3CWrOA",
+          "id" : "4TTqqrG6o5BocRON3CWrOA",
+          "name" : "Ray Walker",
+          "type" : "artist",
+          "uri" : "spotify:artist:4TTqqrG6o5BocRON3CWrOA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/20lSqbbISDAv7FqXbpXBVO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/20lSqbbISDAv7FqXbpXBVO",
+        "id" : "20lSqbbISDAv7FqXbpXBVO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737bde77c5908244a57cb78e6e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027bde77c5908244a57cb78e6e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517bde77c5908244a57cb78e6e",
+          "width" : 64
+        } ],
+        "name" : "Crossing the Bar, Vol. 14: Ray Walker's Songbook Series",
+        "release_date" : "2015-06-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:20lSqbbISDAv7FqXbpXBVO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TTqqrG6o5BocRON3CWrOA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TTqqrG6o5BocRON3CWrOA",
+        "id" : "4TTqqrG6o5BocRON3CWrOA",
+        "name" : "Ray Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TTqqrG6o5BocRON3CWrOA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 151333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMDA61536118"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2OVjZv8qnSmVuYkRW813dE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2OVjZv8qnSmVuYkRW813dE",
+      "id" : "2OVjZv8qnSmVuYkRW813dE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seeking the Lost - Live Congregational",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/da95bee5068dd0c50e7aa4a24896be88ea9468a2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:2OVjZv8qnSmVuYkRW813dE"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2i7E6COFx7yMaWVLntONK8"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2i7E6COFx7yMaWVLntONK8",
+          "id" : "2i7E6COFx7yMaWVLntONK8",
+          "name" : "Easy Ambient Mind Body Soul Healing Meditation Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:2i7E6COFx7yMaWVLntONK8"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4Kq96uRd4vx2JP4iB8FHAi"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4Kq96uRd4vx2JP4iB8FHAi",
+          "id" : "4Kq96uRd4vx2JP4iB8FHAi",
+          "name" : "Buddha Chakras Reiki Healing and Morning Yoga Divine Meditation Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:4Kq96uRd4vx2JP4iB8FHAi"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4L2A9eULUtEhdZ1MVnzJrX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4L2A9eULUtEhdZ1MVnzJrX",
+        "id" : "4L2A9eULUtEhdZ1MVnzJrX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273664ae719019b222ebb88511b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02664ae719019b222ebb88511b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851664ae719019b222ebb88511b",
+          "width" : 64
+        } ],
+        "name" : "The Dark World (New Age Music For Deep Meditation, Solitude Seeking, Inner Peace Acquisition) (Music For Relaxation, Healing, Reiki, Spiritual Healing, Spiritual Growth)",
+        "release_date" : "2019-06-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:4L2A9eULUtEhdZ1MVnzJrX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2i7E6COFx7yMaWVLntONK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2i7E6COFx7yMaWVLntONK8",
+        "id" : "2i7E6COFx7yMaWVLntONK8",
+        "name" : "Easy Ambient Mind Body Soul Healing Meditation Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:2i7E6COFx7yMaWVLntONK8"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Kq96uRd4vx2JP4iB8FHAi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Kq96uRd4vx2JP4iB8FHAi",
+        "id" : "4Kq96uRd4vx2JP4iB8FHAi",
+        "name" : "Buddha Chakras Reiki Healing and Morning Yoga Divine Meditation Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Kq96uRd4vx2JP4iB8FHAi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 142822,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ITZ071944587"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1svyPcMTRfhYTT3lCOrdSH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1svyPcMTRfhYTT3lCOrdSH",
+      "id" : "1svyPcMTRfhYTT3lCOrdSH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lost My Way - Original Mix",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3be1fa48c343625c6e6f085a1ea4014009b4c96c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:1svyPcMTRfhYTT3lCOrdSH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4rZzc9UpbfzSCOwn6HSNay"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4rZzc9UpbfzSCOwn6HSNay",
+          "id" : "4rZzc9UpbfzSCOwn6HSNay",
+          "name" : "tonikom",
+          "type" : "artist",
+          "uri" : "spotify:artist:4rZzc9UpbfzSCOwn6HSNay"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0IahG2A0gZwxE6CCdgbjjO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0IahG2A0gZwxE6CCdgbjjO",
+        "id" : "0IahG2A0gZwxE6CCdgbjjO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b45efa3c3b631b77e745235c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b45efa3c3b631b77e745235c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b45efa3c3b631b77e745235c",
+          "width" : 64
+        } ],
+        "name" : "Seeking the Lost Mind",
+        "release_date" : "2014-10-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0IahG2A0gZwxE6CCdgbjjO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4rZzc9UpbfzSCOwn6HSNay"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4rZzc9UpbfzSCOwn6HSNay",
+        "id" : "4rZzc9UpbfzSCOwn6HSNay",
+        "name" : "tonikom",
+        "type" : "artist",
+        "uri" : "spotify:artist:4rZzc9UpbfzSCOwn6HSNay"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 327049,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USV291494302"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7oDXVQe62Ug8QtogelnF67"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7oDXVQe62Ug8QtogelnF67",
+      "id" : "7oDXVQe62Ug8QtogelnF67",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Dark Hand",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9914dec42f33bc237bcb78b11448da932f97fb41?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:7oDXVQe62Ug8QtogelnF67"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1PL49GkaFDS31mSnM04sa5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1PL49GkaFDS31mSnM04sa5",
+          "id" : "1PL49GkaFDS31mSnM04sa5",
+          "name" : "The Beacons",
+          "type" : "artist",
+          "uri" : "spotify:artist:1PL49GkaFDS31mSnM04sa5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1nPrELX4qfhtwYywvuo7BR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1nPrELX4qfhtwYywvuo7BR",
+        "id" : "1nPrELX4qfhtwYywvuo7BR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e5821222ad876302ceb6c9c2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e5821222ad876302ceb6c9c2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e5821222ad876302ceb6c9c2",
+          "width" : 64
+        } ],
+        "name" : "Seed of Promise",
+        "release_date" : "2014-09-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:1nPrELX4qfhtwYywvuo7BR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PL49GkaFDS31mSnM04sa5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PL49GkaFDS31mSnM04sa5",
+        "id" : "1PL49GkaFDS31mSnM04sa5",
+        "name" : "The Beacons",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PL49GkaFDS31mSnM04sa5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 265453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USV351425031"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/66Uq32nmSIf4cxV1c0WF6O"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/66Uq32nmSIf4cxV1c0WF6O",
+      "id" : "66Uq32nmSIf4cxV1c0WF6O",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seeking the Lost",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0cc7f1661c349d203e3b8cf4c5151519cb455cc9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:66Uq32nmSIf4cxV1c0WF6O"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3lgdZK5YXqVno4u8XqreeX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3lgdZK5YXqVno4u8XqreeX",
+          "id" : "3lgdZK5YXqVno4u8XqreeX",
+          "name" : "Ken Burton",
+          "type" : "artist",
+          "uri" : "spotify:artist:3lgdZK5YXqVno4u8XqreeX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/27EEa3dA6UiDIStWBQYZ3m"
+        },
+        "href" : "https://api.spotify.com/v1/albums/27EEa3dA6UiDIStWBQYZ3m",
+        "id" : "27EEa3dA6UiDIStWBQYZ3m",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ec6ff3a0d975fa0c5dacd9a6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ec6ff3a0d975fa0c5dacd9a6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ec6ff3a0d975fa0c5dacd9a6",
+          "width" : 64
+        } ],
+        "name" : "Hymn Accompaniments, Vol. 1",
+        "release_date" : "2020-04-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:27EEa3dA6UiDIStWBQYZ3m"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3lgdZK5YXqVno4u8XqreeX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3lgdZK5YXqVno4u8XqreeX",
+        "id" : "3lgdZK5YXqVno4u8XqreeX",
+        "name" : "Ken Burton",
+        "type" : "artist",
+        "uri" : "spotify:artist:3lgdZK5YXqVno4u8XqreeX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 218319,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USJ3V2002535"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4AZzARYh11MWHidUGQZpSO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4AZzARYh11MWHidUGQZpSO",
+      "id" : "4AZzARYh11MWHidUGQZpSO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seeking the Lost",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dbf6d11c066f5aada471545d85e5a6fc599f9f85?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:4AZzARYh11MWHidUGQZpSO"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4TTqqrG6o5BocRON3CWrOA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4TTqqrG6o5BocRON3CWrOA",
+          "id" : "4TTqqrG6o5BocRON3CWrOA",
+          "name" : "Ray Walker",
+          "type" : "artist",
+          "uri" : "spotify:artist:4TTqqrG6o5BocRON3CWrOA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2t58M21nHbWSYrguhUKjog"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2t58M21nHbWSYrguhUKjog",
+        "id" : "2t58M21nHbWSYrguhUKjog",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e46c9f7a8b29e63066344491",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e46c9f7a8b29e63066344491",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e46c9f7a8b29e63066344491",
+          "width" : 64
+        } ],
+        "name" : "No. 7 Congregational",
+        "release_date" : "2008-04-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:2t58M21nHbWSYrguhUKjog"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TTqqrG6o5BocRON3CWrOA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TTqqrG6o5BocRON3CWrOA",
+        "id" : "4TTqqrG6o5BocRON3CWrOA",
+        "name" : "Ray Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TTqqrG6o5BocRON3CWrOA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 161680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMZA0811116"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/50M8cVwr9ALNsbg7spxYHp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/50M8cVwr9ALNsbg7spxYHp",
+      "id" : "50M8cVwr9ALNsbg7spxYHp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seeking The Lost - Live Congregational",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a74dd588f3f688e46b8c69d795104d62aa2188b1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:50M8cVwr9ALNsbg7spxYHp"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7khZJsD1mAYNSIXztqU485"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7khZJsD1mAYNSIXztqU485",
+          "id" : "7khZJsD1mAYNSIXztqU485",
+          "name" : "Roumen Dimitrov",
+          "type" : "artist",
+          "uri" : "spotify:artist:7khZJsD1mAYNSIXztqU485"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3vcb77uFKoheqL6CSAwkjq"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3vcb77uFKoheqL6CSAwkjq",
+        "id" : "3vcb77uFKoheqL6CSAwkjq",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738214af2ee59d79180079d452",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028214af2ee59d79180079d452",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518214af2ee59d79180079d452",
+          "width" : 64
+        } ],
+        "name" : "Phaidros (Original Motion Picture Soundtrack)",
+        "release_date" : "2018-07-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3vcb77uFKoheqL6CSAwkjq"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7khZJsD1mAYNSIXztqU485"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7khZJsD1mAYNSIXztqU485",
+        "id" : "7khZJsD1mAYNSIXztqU485",
+        "name" : "Roumen Dimitrov",
+        "type" : "artist",
+        "uri" : "spotify:artist:7khZJsD1mAYNSIXztqU485"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167736,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "BGA261578151"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/45tlhAnd3srayMT9gs5tRG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/45tlhAnd3srayMT9gs5tRG",
+      "id" : "45tlhAnd3srayMT9gs5tRG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seeking The Lost Cliches II",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/90ab6816faec91c14837a4a98b764bf351e4e21a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:45tlhAnd3srayMT9gs5tRG"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7khZJsD1mAYNSIXztqU485"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7khZJsD1mAYNSIXztqU485",
+          "id" : "7khZJsD1mAYNSIXztqU485",
+          "name" : "Roumen Dimitrov",
+          "type" : "artist",
+          "uri" : "spotify:artist:7khZJsD1mAYNSIXztqU485"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/62n9Yv54X2fPUghiSGliOJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/62n9Yv54X2fPUghiSGliOJ",
+        "id" : "62n9Yv54X2fPUghiSGliOJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e7af87319e0a200dd401542a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e7af87319e0a200dd401542a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e7af87319e0a200dd401542a",
+          "width" : 64
+        } ],
+        "name" : "Phaidros (Original Motion Picture Soundtrack)",
+        "release_date" : "2018-07-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:62n9Yv54X2fPUghiSGliOJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7khZJsD1mAYNSIXztqU485"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7khZJsD1mAYNSIXztqU485",
+        "id" : "7khZJsD1mAYNSIXztqU485",
+        "name" : "Roumen Dimitrov",
+        "type" : "artist",
+        "uri" : "spotify:artist:7khZJsD1mAYNSIXztqU485"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167736,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "BGA261578151"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6w9uAaffGQgl19YT8owgnf"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6w9uAaffGQgl19YT8owgnf",
+      "id" : "6w9uAaffGQgl19YT8owgnf",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Seeking The Lost Cliches II",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/90ab6816faec91c14837a4a98b764bf351e4e21a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6w9uAaffGQgl19YT8owgnf"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Seeking+the+Lost&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Seeking+the+Lost&type=track&market=US&offset=0&limit=10",
+    "total" : 49
+  }
+}

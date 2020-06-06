@@ -1,0 +1,789 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Come%2C+Labor+On&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1EZwyIgCnGadksA9nGbdHu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1EZwyIgCnGadksA9nGbdHu",
+          "id" : "1EZwyIgCnGadksA9nGbdHu",
+          "name" : "Peter Gammons",
+          "type" : "artist",
+          "uri" : "spotify:artist:1EZwyIgCnGadksA9nGbdHu"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1R9g4WI8LnfkmOk9vvRxMs"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1R9g4WI8LnfkmOk9vvRxMs",
+        "id" : "1R9g4WI8LnfkmOk9vvRxMs",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733e1fde68c88486facb3d3547",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023e1fde68c88486facb3d3547",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513e1fde68c88486facb3d3547",
+          "width" : 64
+        } ],
+        "name" : "Never Slow Down, Never Grow Old",
+        "release_date" : "2006-07-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1R9g4WI8LnfkmOk9vvRxMs"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1EZwyIgCnGadksA9nGbdHu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1EZwyIgCnGadksA9nGbdHu",
+        "id" : "1EZwyIgCnGadksA9nGbdHu",
+        "name" : "Peter Gammons",
+        "type" : "artist",
+        "uri" : "spotify:artist:1EZwyIgCnGadksA9nGbdHu"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4XVRtXqULIraYADFlws4hz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4XVRtXqULIraYADFlws4hz",
+        "id" : "4XVRtXqULIraYADFlws4hz",
+        "name" : "Kay Hanley",
+        "type" : "artist",
+        "uri" : "spotify:artist:4XVRtXqULIraYADFlws4hz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6K3lE4oGSUw1zB1fC5b9ob"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6K3lE4oGSUw1zB1fC5b9ob",
+        "id" : "6K3lE4oGSUw1zB1fC5b9ob",
+        "name" : "Chris Toppin",
+        "type" : "artist",
+        "uri" : "spotify:artist:6K3lE4oGSUw1zB1fC5b9ob"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 213520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRO20607012"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Z7o4pj2kTXWr21m2AsBI8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Z7o4pj2kTXWr21m2AsBI8",
+      "id" : "3Z7o4pj2kTXWr21m2AsBI8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, Labor On",
+      "popularity" : 0,
+      "preview_url" : null,
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:3Z7o4pj2kTXWr21m2AsBI8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1FgtwdfDjcqw21j8uZ8IQs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1FgtwdfDjcqw21j8uZ8IQs",
+          "id" : "1FgtwdfDjcqw21j8uZ8IQs",
+          "name" : "Geoff Simpson",
+          "type" : "artist",
+          "uri" : "spotify:artist:1FgtwdfDjcqw21j8uZ8IQs"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1IX32kChNdTG2JihCEn9FI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1IX32kChNdTG2JihCEn9FI",
+          "id" : "1IX32kChNdTG2JihCEn9FI",
+          "name" : "Geotrio",
+          "type" : "artist",
+          "uri" : "spotify:artist:1IX32kChNdTG2JihCEn9FI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0PwNkdB0wf5vczJSAofcc7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0PwNkdB0wf5vczJSAofcc7",
+        "id" : "0PwNkdB0wf5vczJSAofcc7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b2fbea998c0b32f39bd1ddb6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b2fbea998c0b32f39bd1ddb6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b2fbea998c0b32f39bd1ddb6",
+          "width" : 64
+        } ],
+        "name" : "Ragged Offering",
+        "release_date" : "2018-05-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:0PwNkdB0wf5vczJSAofcc7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1FgtwdfDjcqw21j8uZ8IQs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1FgtwdfDjcqw21j8uZ8IQs",
+        "id" : "1FgtwdfDjcqw21j8uZ8IQs",
+        "name" : "Geoff Simpson",
+        "type" : "artist",
+        "uri" : "spotify:artist:1FgtwdfDjcqw21j8uZ8IQs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1IX32kChNdTG2JihCEn9FI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1IX32kChNdTG2JihCEn9FI",
+        "id" : "1IX32kChNdTG2JihCEn9FI",
+        "name" : "Geotrio",
+        "type" : "artist",
+        "uri" : "spotify:artist:1IX32kChNdTG2JihCEn9FI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 265440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMPK41800133"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/08egJ7DflrHVM6sdTA0nXF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/08egJ7DflrHVM6sdTA0nXF",
+      "id" : "08egJ7DflrHVM6sdTA0nXF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come Labor On",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/038baac7b5bb2d40b128ce329bfb1bd20ab01e96?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:08egJ7DflrHVM6sdTA0nXF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2K6EyF6roErs4P2v8iNaP0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2K6EyF6roErs4P2v8iNaP0",
+          "id" : "2K6EyF6roErs4P2v8iNaP0",
+          "name" : "Neil Weston",
+          "type" : "artist",
+          "uri" : "spotify:artist:2K6EyF6roErs4P2v8iNaP0"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0hRoDVqkn52meVQxKHnpCk"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0hRoDVqkn52meVQxKHnpCk",
+          "id" : "0hRoDVqkn52meVQxKHnpCk",
+          "name" : "The Choir Of St. Paul's Rock Creek Parish",
+          "type" : "artist",
+          "uri" : "spotify:artist:0hRoDVqkn52meVQxKHnpCk"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/16MADZNKJ719p9uGHOdNWS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/16MADZNKJ719p9uGHOdNWS",
+        "id" : "16MADZNKJ719p9uGHOdNWS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27318663174939d3b1ba81af43c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0218663174939d3b1ba81af43c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485118663174939d3b1ba81af43c",
+          "width" : 64
+        } ],
+        "name" : "So Come to Him - Psalms, Hymns & Spiritual Songs",
+        "release_date" : "2007-10-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:16MADZNKJ719p9uGHOdNWS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0hRoDVqkn52meVQxKHnpCk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0hRoDVqkn52meVQxKHnpCk",
+        "id" : "0hRoDVqkn52meVQxKHnpCk",
+        "name" : "The Choir Of St. Paul's Rock Creek Parish",
+        "type" : "artist",
+        "uri" : "spotify:artist:0hRoDVqkn52meVQxKHnpCk"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2K6EyF6roErs4P2v8iNaP0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2K6EyF6roErs4P2v8iNaP0",
+        "id" : "2K6EyF6roErs4P2v8iNaP0",
+        "name" : "Neil Weston",
+        "type" : "artist",
+        "uri" : "spotify:artist:2K6EyF6roErs4P2v8iNaP0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 257026,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBTHM0701526"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1rUKxMsth5RH6Rh8iFFOFp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1rUKxMsth5RH6Rh8iFFOFp",
+      "id" : "1rUKxMsth5RH6Rh8iFFOFp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come Labor On",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5a5544eca29a417fcee9c9a752fdc60b4ed6e4d8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 24,
+      "type" : "track",
+      "uri" : "spotify:track:1rUKxMsth5RH6Rh8iFFOFp"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0aVLx4P3i2l7E6U6FH8rd0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0aVLx4P3i2l7E6U6FH8rd0",
+        "id" : "0aVLx4P3i2l7E6U6FH8rd0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fbbb98d9933b26f00263262c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fbbb98d9933b26f00263262c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fbbb98d9933b26f00263262c",
+          "width" : 64
+        } ],
+        "name" : "100 Favorite Hymns",
+        "release_date" : "2012-06-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 100,
+        "type" : "album",
+        "uri" : "spotify:album:0aVLx4P3i2l7E6U6FH8rd0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4baAtY5PSKehkiN9ISON8l"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4baAtY5PSKehkiN9ISON8l",
+        "id" : "4baAtY5PSKehkiN9ISON8l",
+        "name" : "The London Fox Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4baAtY5PSKehkiN9ISON8l"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3kKSlgb9Xa9lD4ZljuR46y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3kKSlgb9Xa9lD4ZljuR46y",
+        "id" : "3kKSlgb9Xa9lD4ZljuR46y",
+        "name" : "The London Sinfonia",
+        "type" : "artist",
+        "uri" : "spotify:artist:3kKSlgb9Xa9lD4ZljuR46y"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 136720,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCEU0781930"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7IEtIa4IqkURZHj8dP7XaY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7IEtIa4IqkURZHj8dP7XaY",
+      "id" : "7IEtIa4IqkURZHj8dP7XaY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come, Labor On",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2ebce1d7dbdc859608fda9ed7062f70db8410ba3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 30,
+      "type" : "track",
+      "uri" : "spotify:track:7IEtIa4IqkURZHj8dP7XaY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/06A5asGeQsdv3wyySbrkO2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/06A5asGeQsdv3wyySbrkO2",
+        "id" : "06A5asGeQsdv3wyySbrkO2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d38329255bd34d0243f5292f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d38329255bd34d0243f5292f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d38329255bd34d0243f5292f",
+          "width" : 64
+        } ],
+        "name" : "Big Psalms, Hymns and Spirituals Box",
+        "release_date" : "2015-11-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 164,
+        "type" : "album",
+        "uri" : "spotify:album:06A5asGeQsdv3wyySbrkO2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/35y6unM66rGPWHTRFNrqKS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/35y6unM66rGPWHTRFNrqKS",
+        "id" : "35y6unM66rGPWHTRFNrqKS",
+        "name" : "Anonymous ",
+        "type" : "artist",
+        "uri" : "spotify:artist:35y6unM66rGPWHTRFNrqKS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5IaQCWolAqQpgfcp0mtt0y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5IaQCWolAqQpgfcp0mtt0y",
+        "id" : "5IaQCWolAqQpgfcp0mtt0y",
+        "name" : "St. Thomas Choir Of Men And Boys",
+        "type" : "artist",
+        "uri" : "spotify:artist:5IaQCWolAqQpgfcp0mtt0y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bN8xBVBCzXsZe7kBB47Td"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bN8xBVBCzXsZe7kBB47Td",
+        "id" : "1bN8xBVBCzXsZe7kBB47Td",
+        "name" : "Gerre Hancock",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bN8xBVBCzXsZe7kBB47Td"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 164493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USKO11501724"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1vORpoK6ZapNkI0ZHLYxgg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1vORpoK6ZapNkI0ZHLYxgg",
+      "id" : "1vORpoK6ZapNkI0ZHLYxgg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hymn: O Come Labor On",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7115b7fe144ef398cc6f19c2fb64ad23693fa9f0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:1vORpoK6ZapNkI0ZHLYxgg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5IaQCWolAqQpgfcp0mtt0y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5IaQCWolAqQpgfcp0mtt0y",
+          "id" : "5IaQCWolAqQpgfcp0mtt0y",
+          "name" : "St. Thomas Choir Of Men And Boys",
+          "type" : "artist",
+          "uri" : "spotify:artist:5IaQCWolAqQpgfcp0mtt0y"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1bN8xBVBCzXsZe7kBB47Td"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1bN8xBVBCzXsZe7kBB47Td",
+          "id" : "1bN8xBVBCzXsZe7kBB47Td",
+          "name" : "Gerre Hancock",
+          "type" : "artist",
+          "uri" : "spotify:artist:1bN8xBVBCzXsZe7kBB47Td"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/63FR4ksv8zXZZLsBbSfBLU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/63FR4ksv8zXZZLsBbSfBLU",
+        "id" : "63FR4ksv8zXZZLsBbSfBLU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a4692ab02875916c41dbfef2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a4692ab02875916c41dbfef2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a4692ab02875916c41dbfef2",
+          "width" : 64
+        } ],
+        "name" : "St. Thomas Choir Of Men & Boys - \"O God My Heart Is Ready\" - Selected Hymns & Psalms",
+        "release_date" : "1992-10-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:63FR4ksv8zXZZLsBbSfBLU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5IaQCWolAqQpgfcp0mtt0y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5IaQCWolAqQpgfcp0mtt0y",
+        "id" : "5IaQCWolAqQpgfcp0mtt0y",
+        "name" : "St. Thomas Choir Of Men And Boys",
+        "type" : "artist",
+        "uri" : "spotify:artist:5IaQCWolAqQpgfcp0mtt0y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bN8xBVBCzXsZe7kBB47Td"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bN8xBVBCzXsZe7kBB47Td",
+        "id" : "1bN8xBVBCzXsZe7kBB47Td",
+        "name" : "Gerre Hancock",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bN8xBVBCzXsZe7kBB47Td"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 163413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USKO19200638"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6iWiCRGYjn8MpkAL2mM5rt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6iWiCRGYjn8MpkAL2mM5rt",
+      "id" : "6iWiCRGYjn8MpkAL2mM5rt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hymn: O Come Labor On (Noble)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/81fe767547d34af7577493f253e7dbd051849069?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:6iWiCRGYjn8MpkAL2mM5rt"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zkmOYaXiNHBKxKnnd1rvl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zkmOYaXiNHBKxKnnd1rvl",
+          "id" : "5zkmOYaXiNHBKxKnnd1rvl",
+          "name" : "John Keys",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zkmOYaXiNHBKxKnnd1rvl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1JaiFir4mWVZzwtNZlQTwP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1JaiFir4mWVZzwtNZlQTwP",
+        "id" : "1JaiFir4mWVZzwtNZlQTwP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27360284cc813fda3e417c073c7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0260284cc813fda3e417c073c7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485160284cc813fda3e417c073c7",
+          "width" : 64
+        } ],
+        "name" : "Devotional Hymns, Vol. 4 (Organ Accompaniments)",
+        "release_date" : "2008-07-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:1JaiFir4mWVZzwtNZlQTwP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zkmOYaXiNHBKxKnnd1rvl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zkmOYaXiNHBKxKnnd1rvl",
+        "id" : "5zkmOYaXiNHBKxKnnd1rvl",
+        "name" : "John Keys",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zkmOYaXiNHBKxKnnd1rvl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 202151,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBKPL1261864"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0hFUzGARcDWJi15qGS73RT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0hFUzGARcDWJi15qGS73RT",
+      "id" : "0hFUzGARcDWJi15qGS73RT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Come Labour On (Ora Labora) [Instrumental Version]",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/755d60934ff59a6590cabf9bc18116801c422cd9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:0hFUzGARcDWJi15qGS73RT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6p6YfX5quPpprG10ASlBGc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6p6YfX5quPpprG10ASlBGc",
+          "id" : "6p6YfX5quPpprG10ASlBGc",
+          "name" : "Cartoon King",
+          "type" : "artist",
+          "uri" : "spotify:artist:6p6YfX5quPpprG10ASlBGc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1NzAByKHCp041ILUPMY7lE"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1NzAByKHCp041ILUPMY7lE",
+        "id" : "1NzAByKHCp041ILUPMY7lE",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b0b42a727588df35d87823fd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b0b42a727588df35d87823fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b0b42a727588df35d87823fd",
+          "width" : 64
+        } ],
+        "name" : "200 Comedy Songs and Funny Sound Effects",
+        "release_date" : "2007-07-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 200,
+        "type" : "album",
+        "uri" : "spotify:album:1NzAByKHCp041ILUPMY7lE"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6p6YfX5quPpprG10ASlBGc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6p6YfX5quPpprG10ASlBGc",
+        "id" : "6p6YfX5quPpprG10ASlBGc",
+        "name" : "Cartoon King",
+        "type" : "artist",
+        "uri" : "spotify:artist:6p6YfX5quPpprG10ASlBGc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 15255,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4R31133569"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3HA4Y91Mh2YxeytKXROlWX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3HA4Y91Mh2YxeytKXROlWX",
+      "id" : "3HA4Y91Mh2YxeytKXROlWX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Take a Break on Labor Day",
+      "popularity" : 0,
+      "preview_url" : null,
+      "track_number" : 181,
+      "type" : "track",
+      "uri" : "spotify:track:3HA4Y91Mh2YxeytKXROlWX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1alUZzgy4GDsk4uu1KpeiL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1alUZzgy4GDsk4uu1KpeiL",
+          "id" : "1alUZzgy4GDsk4uu1KpeiL",
+          "name" : "Miguel de Armas Quartet",
+          "type" : "artist",
+          "uri" : "spotify:artist:1alUZzgy4GDsk4uu1KpeiL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/373vrK4CCOBFPEEXutJTE7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/373vrK4CCOBFPEEXutJTE7",
+        "id" : "373vrK4CCOBFPEEXutJTE7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27388651e777ad6964ff2a9953a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0288651e777ad6964ff2a9953a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485188651e777ad6964ff2a9953a",
+          "width" : 64
+        } ],
+        "name" : "What's to Come",
+        "release_date" : "2017-11-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:373vrK4CCOBFPEEXutJTE7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1alUZzgy4GDsk4uu1KpeiL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1alUZzgy4GDsk4uu1KpeiL",
+        "id" : "1alUZzgy4GDsk4uu1KpeiL",
+        "name" : "Miguel de Armas Quartet",
+        "type" : "artist",
+        "uri" : "spotify:artist:1alUZzgy4GDsk4uu1KpeiL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3fRetYd7NaliFLe9TdJXQE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3fRetYd7NaliFLe9TdJXQE",
+        "id" : "3fRetYd7NaliFLe9TdJXQE",
+        "name" : "Alexandre Laborde",
+        "type" : "artist",
+        "uri" : "spotify:artist:3fRetYd7NaliFLe9TdJXQE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 351013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CADAJ1700008"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2qXI0DvGu3j1IXjSImYxKx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2qXI0DvGu3j1IXjSImYxKx",
+      "id" : "2qXI0DvGu3j1IXjSImYxKx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Rumba on Kent St. (feat. Alexandre Laborde)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d2ffd91ee74173e6195b01a07f7cffe259e76a21?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:2qXI0DvGu3j1IXjSImYxKx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6LZl4yc8UuUJQpvrVvufBd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6LZl4yc8UuUJQpvrVvufBd",
+          "id" : "6LZl4yc8UuUJQpvrVvufBd",
+          "name" : "acro jazz laboratories",
+          "type" : "artist",
+          "uri" : "spotify:artist:6LZl4yc8UuUJQpvrVvufBd"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5UVtykdd42s9RuwFFTgMEM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5UVtykdd42s9RuwFFTgMEM",
+        "id" : "5UVtykdd42s9RuwFFTgMEM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a9768ee8097af27d276c0acd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a9768ee8097af27d276c0acd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a9768ee8097af27d276c0acd",
+          "width" : 64
+        } ],
+        "name" : "UNRAPPED",
+        "release_date" : "2012-10-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:5UVtykdd42s9RuwFFTgMEM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6LZl4yc8UuUJQpvrVvufBd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6LZl4yc8UuUJQpvrVvufBd",
+        "id" : "6LZl4yc8UuUJQpvrVvufBd",
+        "name" : "acro jazz laboratories",
+        "type" : "artist",
+        "uri" : "spotify:artist:6LZl4yc8UuUJQpvrVvufBd"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 122213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "JPD731201099"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7lwyeJRDb5Q6DulhTnkwow"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7lwyeJRDb5Q6DulhTnkwow",
+      "id" : "7lwyeJRDb5Q6DulhTnkwow",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Black Nostaljack AKA Come On",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e4c3ac806728c1c20bf1103f901370b0814b27df?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:7lwyeJRDb5Q6DulhTnkwow"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Come%2C+Labor+On&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Come%2C+Labor+On&type=track&market=US&offset=0&limit=10",
+    "total" : 35
+  }
+}

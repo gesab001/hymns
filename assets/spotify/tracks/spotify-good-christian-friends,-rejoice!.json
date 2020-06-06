@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Good+Christian+Friends%2C+Rejoice%21&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7tuGRLplPWBxiBXBNAMHwN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7tuGRLplPWBxiBXBNAMHwN",
+          "id" : "7tuGRLplPWBxiBXBNAMHwN",
+          "name" : "John Steiner",
+          "type" : "artist",
+          "uri" : "spotify:artist:7tuGRLplPWBxiBXBNAMHwN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3NzA9cK8e7qfV2GCFjpijv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3NzA9cK8e7qfV2GCFjpijv",
+        "id" : "3NzA9cK8e7qfV2GCFjpijv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d2081bf3951baea1781227cb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d2081bf3951baea1781227cb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d2081bf3951baea1781227cb",
+          "width" : 64
+        } ],
+        "name" : "A Light Has Dawned",
+        "release_date" : "2019-11-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:3NzA9cK8e7qfV2GCFjpijv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7tuGRLplPWBxiBXBNAMHwN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7tuGRLplPWBxiBXBNAMHwN",
+        "id" : "7tuGRLplPWBxiBXBNAMHwN",
+        "name" : "John Steiner",
+        "type" : "artist",
+        "uri" : "spotify:artist:7tuGRLplPWBxiBXBNAMHwN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 118640,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMAAK1972070"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6hkX54FoguZlyHIvQxKM6s"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6hkX54FoguZlyHIvQxKM6s",
+      "id" : "6hkX54FoguZlyHIvQxKM6s",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends Rejoice",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4fd38c212d9063f3e33097d49d073a76109e7b23?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:6hkX54FoguZlyHIvQxKM6s"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5PtP0bfCAb4IKOzDcow6Pr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5PtP0bfCAb4IKOzDcow6Pr",
+          "id" : "5PtP0bfCAb4IKOzDcow6Pr",
+          "name" : "Dick Cunningham",
+          "type" : "artist",
+          "uri" : "spotify:artist:5PtP0bfCAb4IKOzDcow6Pr"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/403xk18muWzKkVrMCbmUkh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/403xk18muWzKkVrMCbmUkh",
+          "id" : "403xk18muWzKkVrMCbmUkh",
+          "name" : "Padraig Kirk O'Cumneagham",
+          "type" : "artist",
+          "uri" : "spotify:artist:403xk18muWzKkVrMCbmUkh"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/68BNA2vQmzNZUgovzFOXkJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/68BNA2vQmzNZUgovzFOXkJ",
+        "id" : "68BNA2vQmzNZUgovzFOXkJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27384a7d2464fa695ea7a7b4e65",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0284a7d2464fa695ea7a7b4e65",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485184a7d2464fa695ea7a7b4e65",
+          "width" : 64
+        } ],
+        "name" : "Christmas Memories",
+        "release_date" : "2019-11-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:68BNA2vQmzNZUgovzFOXkJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PtP0bfCAb4IKOzDcow6Pr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PtP0bfCAb4IKOzDcow6Pr",
+        "id" : "5PtP0bfCAb4IKOzDcow6Pr",
+        "name" : "Dick Cunningham",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PtP0bfCAb4IKOzDcow6Pr"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/403xk18muWzKkVrMCbmUkh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/403xk18muWzKkVrMCbmUkh",
+        "id" : "403xk18muWzKkVrMCbmUkh",
+        "name" : "Padraig Kirk O'Cumneagham",
+        "type" : "artist",
+        "uri" : "spotify:artist:403xk18muWzKkVrMCbmUkh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZAMM1727860"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2lIPEeCOrh7C7xi7h0bqTY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2lIPEeCOrh7C7xi7h0bqTY",
+      "id" : "2lIPEeCOrh7C7xi7h0bqTY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends Rejoice",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fc2d8d0c0e894f3bb149d590b7fbbcb3ec4d4d7e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:2lIPEeCOrh7C7xi7h0bqTY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7EXBhx6BozfiEBhyU61eZY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7EXBhx6BozfiEBhyU61eZY",
+          "id" : "7EXBhx6BozfiEBhyU61eZY",
+          "name" : "David Jones",
+          "type" : "artist",
+          "uri" : "spotify:artist:7EXBhx6BozfiEBhyU61eZY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5gRMfi2Y1eC49BdEUizHw5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5gRMfi2Y1eC49BdEUizHw5",
+        "id" : "5gRMfi2Y1eC49BdEUizHw5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/99d808e506378adf73a6818c935756d425ea3901",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/6e00ba8b104b6fff8c33c1143b6f1c840457878f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/f25f3a3565989b5d919a36eed55e56ca92505b73",
+          "width" : 64
+        } ],
+        "name" : "From Where We Come",
+        "release_date" : "2014-12-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:5gRMfi2Y1eC49BdEUizHw5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7EXBhx6BozfiEBhyU61eZY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7EXBhx6BozfiEBhyU61eZY",
+        "id" : "7EXBhx6BozfiEBhyU61eZY",
+        "name" : "David Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:7EXBhx6BozfiEBhyU61eZY"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 161564,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM9AA1488156"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1JP4szW4Qamb7olsiZmwhX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1JP4szW4Qamb7olsiZmwhX",
+      "id" : "1JP4szW4Qamb7olsiZmwhX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends, Rejoice",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/47da1f3e27444cc7f5ee6954997687abd4b01a69?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1JP4szW4Qamb7olsiZmwhX"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4JmBOPedbbGZPb4hwcQy1S"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4JmBOPedbbGZPb4hwcQy1S",
+          "id" : "4JmBOPedbbGZPb4hwcQy1S",
+          "name" : "Luke Sellick",
+          "type" : "artist",
+          "uri" : "spotify:artist:4JmBOPedbbGZPb4hwcQy1S"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6wGmb7N8X9GQtRmq1tXDEw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6wGmb7N8X9GQtRmq1tXDEw",
+        "id" : "6wGmb7N8X9GQtRmq1tXDEw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735302c1c46ad174bb4750c2e9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025302c1c46ad174bb4750c2e9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515302c1c46ad174bb4750c2e9",
+          "width" : 64
+        } ],
+        "name" : "Christmas - EP",
+        "release_date" : "2017-12-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:6wGmb7N8X9GQtRmq1tXDEw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4JmBOPedbbGZPb4hwcQy1S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4JmBOPedbbGZPb4hwcQy1S",
+        "id" : "4JmBOPedbbGZPb4hwcQy1S",
+        "name" : "Luke Sellick",
+        "type" : "artist",
+        "uri" : "spotify:artist:4JmBOPedbbGZPb4hwcQy1S"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3tBarEoqopIdHRadHn1pOS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3tBarEoqopIdHRadHn1pOS",
+        "id" : "3tBarEoqopIdHRadHn1pOS",
+        "name" : "Erin Propp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3tBarEoqopIdHRadHn1pOS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 209722,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM9AA1723053"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1u3FjWDPn29HhiNn6Shcx5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1u3FjWDPn29HhiNn6Shcx5",
+      "id" : "1u3FjWDPn29HhiNn6Shcx5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends Rejoice",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7dc9e2cb06314692267ffe5fe6ae6da8c34e2381?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1u3FjWDPn29HhiNn6Shcx5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/589xLczrjOGVNbpiCMz33z"
+          },
+          "href" : "https://api.spotify.com/v1/artists/589xLczrjOGVNbpiCMz33z",
+          "id" : "589xLczrjOGVNbpiCMz33z",
+          "name" : "John Michael McCluney",
+          "type" : "artist",
+          "uri" : "spotify:artist:589xLczrjOGVNbpiCMz33z"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0DtAruxjEQr1yvUE5l1liw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0DtAruxjEQr1yvUE5l1liw",
+        "id" : "0DtAruxjEQr1yvUE5l1liw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273648d66d91354b3dfe7fccb2b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02648d66d91354b3dfe7fccb2b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851648d66d91354b3dfe7fccb2b",
+          "width" : 64
+        } ],
+        "name" : "In the Moon of Wintertime",
+        "release_date" : "2004-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 24,
+        "type" : "album",
+        "uri" : "spotify:album:0DtAruxjEQr1yvUE5l1liw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/589xLczrjOGVNbpiCMz33z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/589xLczrjOGVNbpiCMz33z",
+        "id" : "589xLczrjOGVNbpiCMz33z",
+        "name" : "John Michael McCluney",
+        "type" : "artist",
+        "uri" : "spotify:artist:589xLczrjOGVNbpiCMz33z"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 206213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90578546"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3WdXrlZjYypt7XD0yU4hiz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3WdXrlZjYypt7XD0yU4hiz",
+      "id" : "3WdXrlZjYypt7XD0yU4hiz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends, Rejoice",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d4df0d695aa428941795e5ff305cac778df31479?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:3WdXrlZjYypt7XD0yU4hiz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7wY45En1Y1qPS80PICIm2i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7wY45En1Y1qPS80PICIm2i",
+          "id" : "7wY45En1Y1qPS80PICIm2i",
+          "name" : "Lynn Trapp",
+          "type" : "artist",
+          "uri" : "spotify:artist:7wY45En1Y1qPS80PICIm2i"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3iZfOBs2f4Uc3NVQ1DQY29"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3iZfOBs2f4Uc3NVQ1DQY29",
+        "id" : "3iZfOBs2f4Uc3NVQ1DQY29",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730b64672131189f2b3f8ebce3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020b64672131189f2b3f8ebce3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510b64672131189f2b3f8ebce3",
+          "width" : 64
+        } ],
+        "name" : "Christmas On Grand",
+        "release_date" : "2010-11-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:3iZfOBs2f4Uc3NVQ1DQY29"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7wY45En1Y1qPS80PICIm2i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7wY45En1Y1qPS80PICIm2i",
+        "id" : "7wY45En1Y1qPS80PICIm2i",
+        "name" : "Lynn Trapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:7wY45En1Y1qPS80PICIm2i"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 159360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1349925"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3ckvuXqX8MzcYVihRBAVVX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3ckvuXqX8MzcYVihRBAVVX",
+      "id" : "3ckvuXqX8MzcYVihRBAVVX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends, Rejoice",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/997fb543ce78498b2671f897f7540ac4d7c49b87?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:3ckvuXqX8MzcYVihRBAVVX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7pIlr6ZsVpOtKv0Kh46GwZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7pIlr6ZsVpOtKv0Kh46GwZ",
+          "id" : "7pIlr6ZsVpOtKv0Kh46GwZ",
+          "name" : "Greg Howlett",
+          "type" : "artist",
+          "uri" : "spotify:artist:7pIlr6ZsVpOtKv0Kh46GwZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4MKMG0wuixz1HJ0QXGf2Ai"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4MKMG0wuixz1HJ0QXGf2Ai",
+        "id" : "4MKMG0wuixz1HJ0QXGf2Ai",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e968f4ac49eaad6b2fc571a4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e968f4ac49eaad6b2fc571a4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e968f4ac49eaad6b2fc571a4",
+          "width" : 64
+        } ],
+        "name" : "Christmas Improvisations",
+        "release_date" : "2017-08-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4MKMG0wuixz1HJ0QXGf2Ai"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7pIlr6ZsVpOtKv0Kh46GwZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7pIlr6ZsVpOtKv0Kh46GwZ",
+        "id" : "7pIlr6ZsVpOtKv0Kh46GwZ",
+        "name" : "Greg Howlett",
+        "type" : "artist",
+        "uri" : "spotify:artist:7pIlr6ZsVpOtKv0Kh46GwZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 134500,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm81726099"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4ExRhAueJf0LxIXGwteVvz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4ExRhAueJf0LxIXGwteVvz",
+      "id" : "4ExRhAueJf0LxIXGwteVvz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends, Rejoice",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5fe772c4ce1344c08789b29a6b2b77902368ce53?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4ExRhAueJf0LxIXGwteVvz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4Zt1hkV6GmUIRHaKivbbf7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4Zt1hkV6GmUIRHaKivbbf7",
+          "id" : "4Zt1hkV6GmUIRHaKivbbf7",
+          "name" : "The River Rock Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:4Zt1hkV6GmUIRHaKivbbf7"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0uE3gIrJ11CKrMznhJL9Nu"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0uE3gIrJ11CKrMznhJL9Nu",
+        "id" : "0uE3gIrJ11CKrMznhJL9Nu",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730ee8b59fabb56c51bbc598f6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020ee8b59fabb56c51bbc598f6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510ee8b59fabb56c51bbc598f6",
+          "width" : 64
+        } ],
+        "name" : "Canticles for the Turning",
+        "release_date" : "2019-11-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0uE3gIrJ11CKrMznhJL9Nu"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Zt1hkV6GmUIRHaKivbbf7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Zt1hkV6GmUIRHaKivbbf7",
+        "id" : "4Zt1hkV6GmUIRHaKivbbf7",
+        "name" : "The River Rock Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Zt1hkV6GmUIRHaKivbbf7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 193000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q1939448"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0kM9rsGuuCw3I6S7SjWrgN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0kM9rsGuuCw3I6S7SjWrgN",
+      "id" : "0kM9rsGuuCw3I6S7SjWrgN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends, Rejoice",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/de0726d2346e5eb7c59eff10f1dfd1567305390e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:0kM9rsGuuCw3I6S7SjWrgN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5J8CQiknb6XVtuxsq0ENuX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5J8CQiknb6XVtuxsq0ENuX",
+          "id" : "5J8CQiknb6XVtuxsq0ENuX",
+          "name" : "Bells of the Lakes",
+          "type" : "artist",
+          "uri" : "spotify:artist:5J8CQiknb6XVtuxsq0ENuX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1bqM8JPshFKSeMK2U1kYA4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1bqM8JPshFKSeMK2U1kYA4",
+        "id" : "1bqM8JPshFKSeMK2U1kYA4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b0ceb1362d6ecf847d4d101e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b0ceb1362d6ecf847d4d101e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b0ceb1362d6ecf847d4d101e",
+          "width" : 64
+        } ],
+        "name" : "Bells of the Lakes",
+        "release_date" : "2001-05-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:1bqM8JPshFKSeMK2U1kYA4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5J8CQiknb6XVtuxsq0ENuX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5J8CQiknb6XVtuxsq0ENuX",
+        "id" : "5J8CQiknb6XVtuxsq0ENuX",
+        "name" : "Bells of the Lakes",
+        "type" : "artist",
+        "uri" : "spotify:artist:5J8CQiknb6XVtuxsq0ENuX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 141000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1317825"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1M6AEcmzie5KtlGYUtBPFx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1M6AEcmzie5KtlGYUtBPFx",
+      "id" : "1M6AEcmzie5KtlGYUtBPFx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends, Rejoice",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a080ddf003ffa7b56ceebdf3f2d81536715c68dd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1M6AEcmzie5KtlGYUtBPFx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6JHApdRm8Th1vLjERA3wat"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6JHApdRm8Th1vLjERA3wat",
+          "id" : "6JHApdRm8Th1vLjERA3wat",
+          "name" : "The Raleigh Ringers",
+          "type" : "artist",
+          "uri" : "spotify:artist:6JHApdRm8Th1vLjERA3wat"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2lntWUH8KbPeLFsfNnZ3HL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2lntWUH8KbPeLFsfNnZ3HL",
+        "id" : "2lntWUH8KbPeLFsfNnZ3HL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d34e6a7fe3af9ffd8dc4681d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d34e6a7fe3af9ffd8dc4681d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d34e6a7fe3af9ffd8dc4681d",
+          "width" : 64
+        } ],
+        "name" : "Impressions of the Season",
+        "release_date" : "1997",
+        "release_date_precision" : "year",
+        "total_tracks" : 26,
+        "type" : "album",
+        "uri" : "spotify:album:2lntWUH8KbPeLFsfNnZ3HL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6JHApdRm8Th1vLjERA3wat"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6JHApdRm8Th1vLjERA3wat",
+        "id" : "6JHApdRm8Th1vLjERA3wat",
+        "name" : "The Raleigh Ringers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6JHApdRm8Th1vLjERA3wat"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 140460,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA370330085"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1NgFqoJiRoIWO4QZKKCsve"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1NgFqoJiRoIWO4QZKKCsve",
+      "id" : "1NgFqoJiRoIWO4QZKKCsve",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Good Christian Friends Rejoice",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4fb7f94dc09642a1f914a08d61104ba70a2f8c33?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1NgFqoJiRoIWO4QZKKCsve"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Good+Christian+Friends%2C+Rejoice%21&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Good+Christian+Friends%2C+Rejoice%21&type=track&market=US&offset=0&limit=10",
+    "total" : 64
+  }
+}

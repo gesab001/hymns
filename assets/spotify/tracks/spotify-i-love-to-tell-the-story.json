@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+Love+to+Tell+the+Story&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/41hCpLaR1bEW5ETK3aPvDB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/41hCpLaR1bEW5ETK3aPvDB",
+          "id" : "41hCpLaR1bEW5ETK3aPvDB",
+          "name" : "The Eden Symphony Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:41hCpLaR1bEW5ETK3aPvDB"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2oQJQUIpJFFnfKvHJA0xBu",
+          "id" : "2oQJQUIpJFFnfKvHJA0xBu",
+          "name" : "The City of Prague Philharmonic Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2oQJQUIpJFFnfKvHJA0xBu"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0Hu1nIGHV6gnorzZyR4TWS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0Hu1nIGHV6gnorzZyR4TWS",
+        "id" : "0Hu1nIGHV6gnorzZyR4TWS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273280af7127cc0e446b3b70ba9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02280af7127cc0e446b3b70ba9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851280af7127cc0e446b3b70ba9",
+          "width" : 64
+        } ],
+        "name" : "Great Hymns Collection: How Great Thou Art (Orchestral)",
+        "release_date" : "2012-05-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:0Hu1nIGHV6gnorzZyR4TWS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/41hCpLaR1bEW5ETK3aPvDB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/41hCpLaR1bEW5ETK3aPvDB",
+        "id" : "41hCpLaR1bEW5ETK3aPvDB",
+        "name" : "The Eden Symphony Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:41hCpLaR1bEW5ETK3aPvDB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 326493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCEU1111602"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2f9TSAYCPUrLR7AWg5fzAJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2f9TSAYCPUrLR7AWg5fzAJ",
+      "id" : "2f9TSAYCPUrLR7AWg5fzAJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love To Tell the Story",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/085574321681372e6877513ad82faabb833a203b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:2f9TSAYCPUrLR7AWg5fzAJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6wl6yVIxkL6zz60qDZsNAn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6wl6yVIxkL6zz60qDZsNAn",
+          "id" : "6wl6yVIxkL6zz60qDZsNAn",
+          "name" : "Tim Brace",
+          "type" : "artist",
+          "uri" : "spotify:artist:6wl6yVIxkL6zz60qDZsNAn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/59gYh1EK8oGsvIqQfIA0E4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/59gYh1EK8oGsvIqQfIA0E4",
+        "id" : "59gYh1EK8oGsvIqQfIA0E4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734dd12ed01329b89b0bf7c8aa",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024dd12ed01329b89b0bf7c8aa",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514dd12ed01329b89b0bf7c8aa",
+          "width" : 64
+        } ],
+        "name" : "Songs Of Healing: Hymns For Classical Guitar",
+        "release_date" : "2005-10-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:59gYh1EK8oGsvIqQfIA0E4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6wl6yVIxkL6zz60qDZsNAn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6wl6yVIxkL6zz60qDZsNAn",
+        "id" : "6wl6yVIxkL6zz60qDZsNAn",
+        "name" : "Tim Brace",
+        "type" : "artist",
+        "uri" : "spotify:artist:6wl6yVIxkL6zz60qDZsNAn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 185960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh0535434"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/79kdbwQozzH05OhWdBwSGZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/79kdbwQozzH05OhWdBwSGZ",
+      "id" : "79kdbwQozzH05OhWdBwSGZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love To Tell The Story",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bfeb6f767e1d4f59efe2cdcc38182f9b74b89d95?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:79kdbwQozzH05OhWdBwSGZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/16dGAOg7n1wfPuLLwfdwur"
+          },
+          "href" : "https://api.spotify.com/v1/artists/16dGAOg7n1wfPuLLwfdwur",
+          "id" : "16dGAOg7n1wfPuLLwfdwur",
+          "name" : "Acapeldridge",
+          "type" : "artist",
+          "uri" : "spotify:artist:16dGAOg7n1wfPuLLwfdwur"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7sR6rl1DOBRDAgungdFaa1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7sR6rl1DOBRDAgungdFaa1",
+        "id" : "7sR6rl1DOBRDAgungdFaa1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739e5407eb5fd8b7e690c7965b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029e5407eb5fd8b7e690c7965b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519e5407eb5fd8b7e690c7965b",
+          "width" : 64
+        } ],
+        "name" : "Whatever Is Noble",
+        "release_date" : "2018-05-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:7sR6rl1DOBRDAgungdFaa1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16dGAOg7n1wfPuLLwfdwur"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16dGAOg7n1wfPuLLwfdwur",
+        "id" : "16dGAOg7n1wfPuLLwfdwur",
+        "name" : "Acapeldridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:16dGAOg7n1wfPuLLwfdwur"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 169440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usdy41815880"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6bwuWnVuCLlLnakafL2N9L"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6bwuWnVuCLlLnakafL2N9L",
+      "id" : "6bwuWnVuCLlLnakafL2N9L",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love to Tell the Story",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f51f6254dba98854a552d9a8a10805746a7e8683?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6bwuWnVuCLlLnakafL2N9L"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5X0KjwU1Uqj9PpACASaOM5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5X0KjwU1Uqj9PpACASaOM5",
+          "id" : "5X0KjwU1Uqj9PpACASaOM5",
+          "name" : "Josh Gray",
+          "type" : "artist",
+          "uri" : "spotify:artist:5X0KjwU1Uqj9PpACASaOM5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3nkQ2zdERrUzZmw8NHycIG"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3nkQ2zdERrUzZmw8NHycIG",
+        "id" : "3nkQ2zdERrUzZmw8NHycIG",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a5b1fba126660cc06f0a4680",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a5b1fba126660cc06f0a4680",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a5b1fba126660cc06f0a4680",
+          "width" : 64
+        } ],
+        "name" : "Resurrection (Classic Hymns for Funeral Services)",
+        "release_date" : "2016-02-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:3nkQ2zdERrUzZmw8NHycIG"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5X0KjwU1Uqj9PpACASaOM5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5X0KjwU1Uqj9PpACASaOM5",
+        "id" : "5X0KjwU1Uqj9PpACASaOM5",
+        "name" : "Josh Gray",
+        "type" : "artist",
+        "uri" : "spotify:artist:5X0KjwU1Uqj9PpACASaOM5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 184000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USLZJ1616706"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2p26LDJkE28gGxTDdKC6ym"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2p26LDJkE28gGxTDdKC6ym",
+      "id" : "2p26LDJkE28gGxTDdKC6ym",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love To Tell The Story",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5016434332c7f015ea026565023dc6c9eddf4ed7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:2p26LDJkE28gGxTDdKC6ym"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0DfA8skUFifUCzuHQDZSsv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0DfA8skUFifUCzuHQDZSsv",
+          "id" : "0DfA8skUFifUCzuHQDZSsv",
+          "name" : "Michael Lusk",
+          "type" : "artist",
+          "uri" : "spotify:artist:0DfA8skUFifUCzuHQDZSsv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2IDYq15EBRxcU2v7J4O3FK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2IDYq15EBRxcU2v7J4O3FK",
+        "id" : "2IDYq15EBRxcU2v7J4O3FK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731945d35447c271af63c563da",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021945d35447c271af63c563da",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511945d35447c271af63c563da",
+          "width" : 64
+        } ],
+        "name" : "Peaceful Violin Worship",
+        "release_date" : "2016-06-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:2IDYq15EBRxcU2v7J4O3FK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0DfA8skUFifUCzuHQDZSsv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0DfA8skUFifUCzuHQDZSsv",
+        "id" : "0DfA8skUFifUCzuHQDZSsv",
+        "name" : "Michael Lusk",
+        "type" : "artist",
+        "uri" : "spotify:artist:0DfA8skUFifUCzuHQDZSsv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 202826,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usdy41667388"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0xb9HTS23c7MxKf7X7VZxo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0xb9HTS23c7MxKf7X7VZxo",
+      "id" : "0xb9HTS23c7MxKf7X7VZxo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love to Tell the Story",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/eee192aa9f6e0ec4235b6e3c31f58b3fafef4b96?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:0xb9HTS23c7MxKf7X7VZxo"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/652mJtf86ADYzaZM5WKD0T"
+          },
+          "href" : "https://api.spotify.com/v1/artists/652mJtf86ADYzaZM5WKD0T",
+          "id" : "652mJtf86ADYzaZM5WKD0T",
+          "name" : "Bruce Kurnow",
+          "type" : "artist",
+          "uri" : "spotify:artist:652mJtf86ADYzaZM5WKD0T"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7DJGJFX6S7r8l3eBfVNF3U"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7DJGJFX6S7r8l3eBfVNF3U",
+        "id" : "7DJGJFX6S7r8l3eBfVNF3U",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b2916584b125c2d21aa2a317",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b2916584b125c2d21aa2a317",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b2916584b125c2d21aa2a317",
+          "width" : 64
+        } ],
+        "name" : "Inspirational Harp: Hymns",
+        "release_date" : "2014-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:7DJGJFX6S7r8l3eBfVNF3U"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/652mJtf86ADYzaZM5WKD0T"
+        },
+        "href" : "https://api.spotify.com/v1/artists/652mJtf86ADYzaZM5WKD0T",
+        "id" : "652mJtf86ADYzaZM5WKD0T",
+        "name" : "Bruce Kurnow",
+        "type" : "artist",
+        "uri" : "spotify:artist:652mJtf86ADYzaZM5WKD0T"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 225000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USP3J1006133"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6ikABug7IO5XxaTrVjwWnc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6ikABug7IO5XxaTrVjwWnc",
+      "id" : "6ikABug7IO5XxaTrVjwWnc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love to Tell the Story",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a76cfe7cd6648d5a887f547d85c872e21f340e64?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:6ikABug7IO5XxaTrVjwWnc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0U0Vlp1HGGUpeXgiqoLwf6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0U0Vlp1HGGUpeXgiqoLwf6",
+          "id" : "0U0Vlp1HGGUpeXgiqoLwf6",
+          "name" : "Anthony Burger",
+          "type" : "artist",
+          "uri" : "spotify:artist:0U0Vlp1HGGUpeXgiqoLwf6"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5jbwOux9XlXlYADVzTIhsq"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5jbwOux9XlXlYADVzTIhsq",
+        "id" : "5jbwOux9XlXlYADVzTIhsq",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f4b6d86ceff7c1c608bc854c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f4b6d86ceff7c1c608bc854c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f4b6d86ceff7c1c608bc854c",
+          "width" : 64
+        } ],
+        "name" : "Hymns Collection",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:5jbwOux9XlXlYADVzTIhsq"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0U0Vlp1HGGUpeXgiqoLwf6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0U0Vlp1HGGUpeXgiqoLwf6",
+        "id" : "0U0Vlp1HGGUpeXgiqoLwf6",
+        "name" : "Anthony Burger",
+        "type" : "artist",
+        "uri" : "spotify:artist:0U0Vlp1HGGUpeXgiqoLwf6"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 134146,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USB4U0800122"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6ZWbGsx06idOkP6gEOFSnj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6ZWbGsx06idOkP6gEOFSnj",
+      "id" : "6ZWbGsx06idOkP6gEOFSnj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love To Tell The Story/Amazing Grace (Reprise) - Medley",
+      "popularity" : 19,
+      "preview_url" : null,
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:6ZWbGsx06idOkP6gEOFSnj"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2oNxWsB010NqmSgc4Yvc2U"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2oNxWsB010NqmSgc4Yvc2U",
+          "id" : "2oNxWsB010NqmSgc4Yvc2U",
+          "name" : "Doug Gazlay",
+          "type" : "artist",
+          "uri" : "spotify:artist:2oNxWsB010NqmSgc4Yvc2U"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4584DFtadQitaiWUKe1zUX"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4584DFtadQitaiWUKe1zUX",
+        "id" : "4584DFtadQitaiWUKe1zUX",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27350ca8cb94d160005fd556a96",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0250ca8cb94d160005fd556a96",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485150ca8cb94d160005fd556a96",
+          "width" : 64
+        } ],
+        "name" : "Just Piano Hymns 3",
+        "release_date" : "2013-12-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4584DFtadQitaiWUKe1zUX"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2oNxWsB010NqmSgc4Yvc2U"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2oNxWsB010NqmSgc4Yvc2U",
+        "id" : "2oNxWsB010NqmSgc4Yvc2U",
+        "name" : "Doug Gazlay",
+        "type" : "artist",
+        "uri" : "spotify:artist:2oNxWsB010NqmSgc4Yvc2U"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 160705,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p1330490"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/76707uGc5S47kGqAkTNBcT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/76707uGc5S47kGqAkTNBcT",
+      "id" : "76707uGc5S47kGqAkTNBcT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love to Tell the Story",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e01e4a1fdfda98e57e245cdc1d39b23b07512a07?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:76707uGc5S47kGqAkTNBcT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5QSXj8YPKcFbwT0D7ZejLQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5QSXj8YPKcFbwT0D7ZejLQ",
+          "id" : "5QSXj8YPKcFbwT0D7ZejLQ",
+          "name" : "The Ben Speer Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:5QSXj8YPKcFbwT0D7ZejLQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/47cTnuPxCLv4ytnuyLMRM0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/47cTnuPxCLv4ytnuyLMRM0",
+        "id" : "47cTnuPxCLv4ytnuyLMRM0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e85e477c192c1df96c419802",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e85e477c192c1df96c419802",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e85e477c192c1df96c419802",
+          "width" : 64
+        } ],
+        "name" : "12 Revival Hymns & Gospel Songs, Volume 2",
+        "release_date" : "2008-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:47cTnuPxCLv4ytnuyLMRM0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5QSXj8YPKcFbwT0D7ZejLQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5QSXj8YPKcFbwT0D7ZejLQ",
+        "id" : "5QSXj8YPKcFbwT0D7ZejLQ",
+        "name" : "The Ben Speer Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:5QSXj8YPKcFbwT0D7ZejLQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 225999,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4R31016279"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4O51aJ2SRx0DqqGQPYHPfd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4O51aJ2SRx0DqqGQPYHPfd",
+      "id" : "4O51aJ2SRx0DqqGQPYHPfd",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love to Tell the Story",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/791fbb3abde580180703a8849b4182b1d8e79daf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:4O51aJ2SRx0DqqGQPYHPfd"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IhNdbMUUa1aedvZVZsZmv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IhNdbMUUa1aedvZVZsZmv",
+          "id" : "2IhNdbMUUa1aedvZVZsZmv",
+          "name" : "Luke Gard",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IhNdbMUUa1aedvZVZsZmv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2omdKoz7ZpkBiBbcU3Ocyl"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2omdKoz7ZpkBiBbcU3Ocyl",
+        "id" : "2omdKoz7ZpkBiBbcU3Ocyl",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c04d7a1134eafa2596777f01",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c04d7a1134eafa2596777f01",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c04d7a1134eafa2596777f01",
+          "width" : 64
+        } ],
+        "name" : "As You Go: Hymns of Hope",
+        "release_date" : "2020-05-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2omdKoz7ZpkBiBbcU3Ocyl"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IhNdbMUUa1aedvZVZsZmv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IhNdbMUUa1aedvZVZsZmv",
+        "id" : "2IhNdbMUUa1aedvZVZsZmv",
+        "name" : "Luke Gard",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IhNdbMUUa1aedvZVZsZmv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 103946,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMTJ82000112"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6696abp2j2eMD2BhBIsrUV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6696abp2j2eMD2BhBIsrUV",
+      "id" : "6696abp2j2eMD2BhBIsrUV",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Love to Tell the Story",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d649e0e4fbfa62e255d5cc09e3e33311c2706ee5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:6696abp2j2eMD2BhBIsrUV"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=I+Love+to+Tell+the+Story&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=I+Love+to+Tell+the+Story&type=track&market=US&offset=0&limit=10",
+    "total" : 739
+  }
+}

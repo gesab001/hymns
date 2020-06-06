@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=God+Is+Love&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7FQRbf8gbKw8KZQZAJWxH2",
+          "id" : "7FQRbf8gbKw8KZQZAJWxH2",
+          "name" : "Paul Cardall",
+          "type" : "artist",
+          "uri" : "spotify:artist:7FQRbf8gbKw8KZQZAJWxH2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5bUjErybgeeTCua9Oeg1xw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5bUjErybgeeTCua9Oeg1xw",
+        "id" : "5bUjErybgeeTCua9Oeg1xw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735e3f8dabf854285ad7e3da35",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025e3f8dabf854285ad7e3da35",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515e3f8dabf854285ad7e3da35",
+          "width" : 64
+        } ],
+        "name" : "40 Hymns for Forty Days",
+        "release_date" : "2015-04-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 40,
+        "type" : "album",
+        "uri" : "spotify:album:5bUjErybgeeTCua9Oeg1xw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7FQRbf8gbKw8KZQZAJWxH2",
+        "id" : "7FQRbf8gbKw8KZQZAJWxH2",
+        "name" : "Paul Cardall",
+        "type" : "artist",
+        "uri" : "spotify:artist:7FQRbf8gbKw8KZQZAJWxH2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1553137"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6pIO4NRd0ZYYubiqisjAsm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6pIO4NRd0ZYYubiqisjAsm",
+      "id" : "6pIO4NRd0ZYYubiqisjAsm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Is Love",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3a78e2921be41e2aba4164b54c723918b54d007a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:6pIO4NRd0ZYYubiqisjAsm"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4mkGZGaUTIpyG1LnZ6nNIi",
+          "id" : "4mkGZGaUTIpyG1LnZ6nNIi",
+          "name" : "Peter CottonTale",
+          "type" : "artist",
+          "uri" : "spotify:artist:4mkGZGaUTIpyG1LnZ6nNIi"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/32aregJLe1wSn5lWjmUzoF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/32aregJLe1wSn5lWjmUzoF",
+        "id" : "32aregJLe1wSn5lWjmUzoF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273855063333b23de6492fc3b46",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02855063333b23de6492fc3b46",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851855063333b23de6492fc3b46",
+          "width" : 64
+        } ],
+        "name" : "God Is Love",
+        "release_date" : "2019-04-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:32aregJLe1wSn5lWjmUzoF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4mkGZGaUTIpyG1LnZ6nNIi",
+        "id" : "4mkGZGaUTIpyG1LnZ6nNIi",
+        "name" : "Peter CottonTale",
+        "type" : "artist",
+        "uri" : "spotify:artist:4mkGZGaUTIpyG1LnZ6nNIi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Fq4DGCVw2eZ3B5YkHce0Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Fq4DGCVw2eZ3B5YkHce0Q",
+        "id" : "3Fq4DGCVw2eZ3B5YkHce0Q",
+        "name" : "New Direction",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Fq4DGCVw2eZ3B5YkHce0Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ndyVAdV9UqF1XjyTJt484",
+        "id" : "2ndyVAdV9UqF1XjyTJt484",
+        "name" : "Fred Hammond",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ndyVAdV9UqF1XjyTJt484"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 217987,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE1926639"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3zEuwLniRzvPB7Jo1B7sV9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3zEuwLniRzvPB7Jo1B7sV9",
+      "id" : "3zEuwLniRzvPB7Jo1B7sV9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Is Love",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/503f08fbc377023763d683c61d98d277db94861b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3zEuwLniRzvPB7Jo1B7sV9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0uIyzjmP48YI0dpgdAjdeI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0uIyzjmP48YI0dpgdAjdeI",
+          "id" : "0uIyzjmP48YI0dpgdAjdeI",
+          "name" : "The Praise Baby Collection",
+          "type" : "artist",
+          "uri" : "spotify:artist:0uIyzjmP48YI0dpgdAjdeI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5K8lPjRj01mNOE71GWg2nY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5K8lPjRj01mNOE71GWg2nY",
+        "id" : "5K8lPjRj01mNOE71GWg2nY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a6325ef598b35ce7945ffadb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a6325ef598b35ce7945ffadb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a6325ef598b35ce7945ffadb",
+          "width" : 64
+        } ],
+        "name" : "Praises & Smiles",
+        "release_date" : "2004",
+        "release_date_precision" : "year",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5K8lPjRj01mNOE71GWg2nY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0uIyzjmP48YI0dpgdAjdeI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0uIyzjmP48YI0dpgdAjdeI",
+        "id" : "0uIyzjmP48YI0dpgdAjdeI",
+        "name" : "The Praise Baby Collection",
+        "type" : "artist",
+        "uri" : "spotify:artist:0uIyzjmP48YI0dpgdAjdeI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USFLK0300123"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2L6BCRZCWJXsE7ShshUNcb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2L6BCRZCWJXsE7ShshUNcb",
+      "id" : "2L6BCRZCWJXsE7ShshUNcb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Is Love",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ac761bba3f03c93ad76940645a4bae012ece4b20?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:2L6BCRZCWJXsE7ShshUNcb"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2mVoAGALkIviYCkBDNDKcn",
+          "id" : "2mVoAGALkIviYCkBDNDKcn",
+          "name" : "Ginny Owens",
+          "type" : "artist",
+          "uri" : "spotify:artist:2mVoAGALkIviYCkBDNDKcn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7GsP374qLlU2p3p7jx974W"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7GsP374qLlU2p3p7jx974W",
+        "id" : "7GsP374qLlU2p3p7jx974W",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27315d636c604c83e7adc9d0e00",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0215d636c604c83e7adc9d0e00",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485115d636c604c83e7adc9d0e00",
+          "width" : 64
+        } ],
+        "name" : "Love Be the Loudest",
+        "release_date" : "2016-11-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:7GsP374qLlU2p3p7jx974W"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2mVoAGALkIviYCkBDNDKcn",
+        "id" : "2mVoAGALkIviYCkBDNDKcn",
+        "name" : "Ginny Owens",
+        "type" : "artist",
+        "uri" : "spotify:artist:2mVoAGALkIviYCkBDNDKcn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44LPOpECjnIlnwH91wo2ir",
+        "id" : "44LPOpECjnIlnwH91wo2ir",
+        "name" : "All Sons & Daughters",
+        "type" : "artist",
+        "uri" : "spotify:artist:44LPOpECjnIlnwH91wo2ir"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 146640,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USX971611012"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/283BmGxKKhAhUQ1bP61Ve8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/283BmGxKKhAhUQ1bP61Ve8",
+      "id" : "283BmGxKKhAhUQ1bP61Ve8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Is Love (feat. All Sons & Daughters)",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d4ce0e1a43a01fea3bbc28899e71af8538b18cee?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:283BmGxKKhAhUQ1bP61Ve8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+          "id" : "3koiLjNrgRTNbOwViDipeA",
+          "name" : "Marvin Gaye",
+          "type" : "artist",
+          "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3P9Pzn7O4Zsr3tsCSsx7Uk",
+        "id" : "3P9Pzn7O4Zsr3tsCSsx7Uk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ebd0b8baa57a95925425769c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ebd0b8baa57a95925425769c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ebd0b8baa57a95925425769c",
+          "width" : 64
+        } ],
+        "name" : "What's Going On - 40th Anniversary (Super Deluxe)",
+        "release_date" : "1971-05-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 46,
+        "type" : "album",
+        "uri" : "spotify:album:3P9Pzn7O4Zsr3tsCSsx7Uk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+        "id" : "3koiLjNrgRTNbOwViDipeA",
+        "name" : "Marvin Gaye",
+        "type" : "artist",
+        "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 171493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMO10110023"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7BScSQsqv90V2Fz1Z91GUU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7BScSQsqv90V2Fz1Z91GUU",
+      "id" : "7BScSQsqv90V2Fz1Z91GUU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Is Love - Mono Single Version",
+      "popularity" : 31,
+      "preview_url" : null,
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:7BScSQsqv90V2Fz1Z91GUU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5yfHeAjnSpVNRuKv5dJgxQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5yfHeAjnSpVNRuKv5dJgxQ",
+          "id" : "5yfHeAjnSpVNRuKv5dJgxQ",
+          "name" : "R & B Preacher",
+          "type" : "artist",
+          "uri" : "spotify:artist:5yfHeAjnSpVNRuKv5dJgxQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/37J8oH0elvYyBUinwxcqhY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/37J8oH0elvYyBUinwxcqhY",
+        "id" : "37J8oH0elvYyBUinwxcqhY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e2a3f8fbc5cdd180b2e71e14",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e2a3f8fbc5cdd180b2e71e14",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e2a3f8fbc5cdd180b2e71e14",
+          "width" : 64
+        } ],
+        "name" : "R & B Readings",
+        "release_date" : "2020-02-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:37J8oH0elvYyBUinwxcqhY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5yfHeAjnSpVNRuKv5dJgxQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5yfHeAjnSpVNRuKv5dJgxQ",
+        "id" : "5yfHeAjnSpVNRuKv5dJgxQ",
+        "name" : "R & B Preacher",
+        "type" : "artist",
+        "uri" : "spotify:artist:5yfHeAjnSpVNRuKv5dJgxQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 146181,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj2049088"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1zH1J9vOx9kTaXlNlXq17e"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1zH1J9vOx9kTaXlNlXq17e",
+      "id" : "1zH1J9vOx9kTaXlNlXq17e",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Is Love",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f2bd3f11bd4c5de305d2094273c28732043a58fe?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1zH1J9vOx9kTaXlNlXq17e"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/06eDTSeVX3k8W5bNAbnF9a"
+          },
+          "href" : "https://api.spotify.com/v1/artists/06eDTSeVX3k8W5bNAbnF9a",
+          "id" : "06eDTSeVX3k8W5bNAbnF9a",
+          "name" : "Papa San",
+          "type" : "artist",
+          "uri" : "spotify:artist:06eDTSeVX3k8W5bNAbnF9a"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/28uYKWXJ2kqsVwb8bQufHR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/28uYKWXJ2kqsVwb8bQufHR",
+        "id" : "28uYKWXJ2kqsVwb8bQufHR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c752e5879dc05396c7e5b5f1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c752e5879dc05396c7e5b5f1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c752e5879dc05396c7e5b5f1",
+          "width" : 64
+        } ],
+        "name" : "My Story",
+        "release_date" : "2012-04-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:28uYKWXJ2kqsVwb8bQufHR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/06eDTSeVX3k8W5bNAbnF9a"
+        },
+        "href" : "https://api.spotify.com/v1/artists/06eDTSeVX3k8W5bNAbnF9a",
+        "id" : "06eDTSeVX3k8W5bNAbnF9a",
+        "name" : "Papa San",
+        "type" : "artist",
+        "uri" : "spotify:artist:06eDTSeVX3k8W5bNAbnF9a"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USACX1200618"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6nogN85umYMIviu6nWj6Zc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6nogN85umYMIviu6nWj6Zc",
+      "id" : "6nogN85umYMIviu6nWj6Zc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God is Love",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/af959c41cf419636a935da8894cab708e1c60b46?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6nogN85umYMIviu6nWj6Zc"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5dNMG2Sk5VBPDNDdQV0YKr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5dNMG2Sk5VBPDNDdQV0YKr",
+          "id" : "5dNMG2Sk5VBPDNDdQV0YKr",
+          "name" : "Shizzie Mane",
+          "type" : "artist",
+          "uri" : "spotify:artist:5dNMG2Sk5VBPDNDdQV0YKr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/05iO2ZL51DMd28rP48hutd"
+        },
+        "href" : "https://api.spotify.com/v1/albums/05iO2ZL51DMd28rP48hutd",
+        "id" : "05iO2ZL51DMd28rP48hutd",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734189202aae64afa2da6a6c9a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024189202aae64afa2da6a6c9a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514189202aae64afa2da6a6c9a",
+          "width" : 64
+        } ],
+        "name" : "God Is Love Freestyle",
+        "release_date" : "2019-08-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:05iO2ZL51DMd28rP48hutd"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dNMG2Sk5VBPDNDdQV0YKr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dNMG2Sk5VBPDNDdQV0YKr",
+        "id" : "5dNMG2Sk5VBPDNDdQV0YKr",
+        "name" : "Shizzie Mane",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dNMG2Sk5VBPDNDdQV0YKr"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 206315,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USJ3V1864489"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3ZsiNGO433fOuEaRTqK5E7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3ZsiNGO433fOuEaRTqK5E7",
+      "id" : "3ZsiNGO433fOuEaRTqK5E7",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Is Love Freestyle",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bb940494fa27bf57989573e9d409c0210dd998b6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3ZsiNGO433fOuEaRTqK5E7"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2R1w8bGCr9u3ujVhZLB4FF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2R1w8bGCr9u3ujVhZLB4FF",
+          "id" : "2R1w8bGCr9u3ujVhZLB4FF",
+          "name" : "Dirty Love Monster",
+          "type" : "artist",
+          "uri" : "spotify:artist:2R1w8bGCr9u3ujVhZLB4FF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5zKnh004CuMOOZ0nQHPJv0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5zKnh004CuMOOZ0nQHPJv0",
+        "id" : "5zKnh004CuMOOZ0nQHPJv0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d7963c53ae99c59dbfada309",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d7963c53ae99c59dbfada309",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d7963c53ae99c59dbfada309",
+          "width" : 64
+        } ],
+        "name" : "Bar, Club and My Holy Money",
+        "release_date" : "2020-04-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:5zKnh004CuMOOZ0nQHPJv0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2R1w8bGCr9u3ujVhZLB4FF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2R1w8bGCr9u3ujVhZLB4FF",
+        "id" : "2R1w8bGCr9u3ujVhZLB4FF",
+        "name" : "Dirty Love Monster",
+        "type" : "artist",
+        "uri" : "spotify:artist:2R1w8bGCr9u3ujVhZLB4FF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190641,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZDA72038183"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2h4Id3FFqQQ5nXvvJxSTOM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2h4Id3FFqQQ5nXvvJxSTOM",
+      "id" : "2h4Id3FFqQQ5nXvvJxSTOM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Is a Woman Playing Marimba",
+      "popularity" : 39,
+      "preview_url" : "https://p.scdn.co/mp3-preview/62af91a91e927eb3d670151eecedc0ba2376030b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:2h4Id3FFqQQ5nXvvJxSTOM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+          "id" : "3koiLjNrgRTNbOwViDipeA",
+          "name" : "Marvin Gaye",
+          "type" : "artist",
+          "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3P9Pzn7O4Zsr3tsCSsx7Uk",
+        "id" : "3P9Pzn7O4Zsr3tsCSsx7Uk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ebd0b8baa57a95925425769c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ebd0b8baa57a95925425769c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ebd0b8baa57a95925425769c",
+          "width" : 64
+        } ],
+        "name" : "What's Going On - 40th Anniversary (Super Deluxe)",
+        "release_date" : "1971-05-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 46,
+        "type" : "album",
+        "uri" : "spotify:album:3P9Pzn7O4Zsr3tsCSsx7Uk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+        "id" : "3koiLjNrgRTNbOwViDipeA",
+        "name" : "Marvin Gaye",
+        "type" : "artist",
+        "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+      } ],
+      "disc_number" : 3,
+      "duration_ms" : 106733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMO10110004"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3onSwxgaklwOJBIiDms5uU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3onSwxgaklwOJBIiDms5uU",
+      "id" : "3onSwxgaklwOJBIiDms5uU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Is Love - Detroit Mix",
+      "popularity" : 26,
+      "preview_url" : null,
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3onSwxgaklwOJBIiDms5uU"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=God+Is+Love&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=God+Is+Love&type=track&market=US&offset=0&limit=10",
+    "total" : 3885
+  }
+}

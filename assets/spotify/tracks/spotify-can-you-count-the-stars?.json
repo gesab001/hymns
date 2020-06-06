@@ -1,0 +1,735 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Can+You+Count+the+Stars%3F&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4G0OKBYCcT9HyL8u3YH7tk"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4G0OKBYCcT9HyL8u3YH7tk",
+        "id" : "4G0OKBYCcT9HyL8u3YH7tk",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273359077ed9b93ed043aaf3ead",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02359077ed9b93ed043aaf3ead",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851359077ed9b93ed043aaf3ead",
+          "width" : 64
+        } ],
+        "name" : "Essential Songs for Kids - This Little Light of Mine",
+        "release_date" : "2019-02-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4G0OKBYCcT9HyL8u3YH7tk"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/076eMBnLehjyC4Ypy5zNun"
+        },
+        "href" : "https://api.spotify.com/v1/artists/076eMBnLehjyC4Ypy5zNun",
+        "id" : "076eMBnLehjyC4Ypy5zNun",
+        "name" : "Paul Field",
+        "type" : "artist",
+        "uri" : "spotify:artist:076eMBnLehjyC4Ypy5zNun"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 141333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBDPR1302790"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7sUUx7bCGkwiSTzKS6zgKJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7sUUx7bCGkwiSTzKS6zgKJ",
+      "id" : "7sUUx7bCGkwiSTzKS6zgKJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can You Count the Stars",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/eb92cae3b78ace000cc764dd33e99b09a9ff2f10?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7sUUx7bCGkwiSTzKS6zgKJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4xs6H78m01Y7cHrogTnSww"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4xs6H78m01Y7cHrogTnSww",
+          "id" : "4xs6H78m01Y7cHrogTnSww",
+          "name" : "Mary Behan Miller",
+          "type" : "artist",
+          "uri" : "spotify:artist:4xs6H78m01Y7cHrogTnSww"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6bHIToA2RzGpz5LJjCbbdb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6bHIToA2RzGpz5LJjCbbdb",
+        "id" : "6bHIToA2RzGpz5LJjCbbdb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734db5843afc6c57964faef964",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024db5843afc6c57964faef964",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514db5843afc6c57964faef964",
+          "width" : 64
+        } ],
+        "name" : "Lilting Lullabies",
+        "release_date" : "2008-07-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:6bHIToA2RzGpz5LJjCbbdb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4xs6H78m01Y7cHrogTnSww"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4xs6H78m01Y7cHrogTnSww",
+        "id" : "4xs6H78m01Y7cHrogTnSww",
+        "name" : "Mary Behan Miller",
+        "type" : "artist",
+        "uri" : "spotify:artist:4xs6H78m01Y7cHrogTnSww"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm20841341"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Vo67GPFZPeESNqhZgQsDl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Vo67GPFZPeESNqhZgQsDl",
+      "id" : "1Vo67GPFZPeESNqhZgQsDl",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can You Count The Stars?",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a422dfee82713243c858e8bcc01835fb2a64d23f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:1Vo67GPFZPeESNqhZgQsDl"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3yVyONQfdB48UHZx3z5JcE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3yVyONQfdB48UHZx3z5JcE",
+          "id" : "3yVyONQfdB48UHZx3z5JcE",
+          "name" : "Baby Babies",
+          "type" : "artist",
+          "uri" : "spotify:artist:3yVyONQfdB48UHZx3z5JcE"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5LZhh4sb4eq68yvzWSoO5X"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5LZhh4sb4eq68yvzWSoO5X",
+        "id" : "5LZhh4sb4eq68yvzWSoO5X",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b1a96b49030e2c275c542b12",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b1a96b49030e2c275c542b12",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b1a96b49030e2c275c542b12",
+          "width" : 64
+        } ],
+        "name" : "Lullaby",
+        "release_date" : "2018-06-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:5LZhh4sb4eq68yvzWSoO5X"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3yVyONQfdB48UHZx3z5JcE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3yVyONQfdB48UHZx3z5JcE",
+        "id" : "3yVyONQfdB48UHZx3z5JcE",
+        "name" : "Baby Babies",
+        "type" : "artist",
+        "uri" : "spotify:artist:3yVyONQfdB48UHZx3z5JcE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 99195,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEMZ11800275"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6lhrl3eCRMTGMyEv4xf1xD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6lhrl3eCRMTGMyEv4xf1xD",
+      "id" : "6lhrl3eCRMTGMyEv4xf1xD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can You Count the Stars",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9a6577fee64f716bd9d37bc9955d352224769cc8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6lhrl3eCRMTGMyEv4xf1xD"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/75AOyMjwXS52USpzkhahwD"
+          },
+          "href" : "https://api.spotify.com/v1/artists/75AOyMjwXS52USpzkhahwD",
+          "id" : "75AOyMjwXS52USpzkhahwD",
+          "name" : "Jason Kenney",
+          "type" : "artist",
+          "uri" : "spotify:artist:75AOyMjwXS52USpzkhahwD"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1qFY8WOkB52pQEMZRJDOVL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1qFY8WOkB52pQEMZRJDOVL",
+        "id" : "1qFY8WOkB52pQEMZRJDOVL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735779db19deed05dd5e599bcb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025779db19deed05dd5e599bcb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515779db19deed05dd5e599bcb",
+          "width" : 64
+        } ],
+        "name" : "Turn This Sorrow into Joy",
+        "release_date" : "2014-04-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:1qFY8WOkB52pQEMZRJDOVL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/75AOyMjwXS52USpzkhahwD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/75AOyMjwXS52USpzkhahwD",
+        "id" : "75AOyMjwXS52USpzkhahwD",
+        "name" : "Jason Kenney",
+        "type" : "artist",
+        "uri" : "spotify:artist:75AOyMjwXS52USpzkhahwD"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 229858,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMFME1430544"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/45onXsRBq9qi6yL4PcskNI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/45onXsRBq9qi6yL4PcskNI",
+      "id" : "45onXsRBq9qi6yL4PcskNI",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You Can't Count the Stars",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c0efa866e895a0ce94ffea3f80c43a6c7437bbf7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:45onXsRBq9qi6yL4PcskNI"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7HIK5wqVu9wLQMtU3wpsnv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7HIK5wqVu9wLQMtU3wpsnv",
+          "id" : "7HIK5wqVu9wLQMtU3wpsnv",
+          "name" : "Kelly's Heels",
+          "type" : "artist",
+          "uri" : "spotify:artist:7HIK5wqVu9wLQMtU3wpsnv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7odK3JdVxNSsiKqM5Vl2G1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7odK3JdVxNSsiKqM5Vl2G1",
+        "id" : "7odK3JdVxNSsiKqM5Vl2G1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27312ee60fd75d7f327f0194428",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0212ee60fd75d7f327f0194428",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485112ee60fd75d7f327f0194428",
+          "width" : 64
+        } ],
+        "name" : "Dig In!",
+        "release_date" : "2004-08-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:7odK3JdVxNSsiKqM5Vl2G1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7HIK5wqVu9wLQMtU3wpsnv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7HIK5wqVu9wLQMtU3wpsnv",
+        "id" : "7HIK5wqVu9wLQMtU3wpsnv",
+        "name" : "Kelly's Heels",
+        "type" : "artist",
+        "uri" : "spotify:artist:7HIK5wqVu9wLQMtU3wpsnv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203426,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90424623"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4FVQPT0DcY7bLGCdC532ci"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4FVQPT0DcY7bLGCdC532ci",
+      "id" : "4FVQPT0DcY7bLGCdC532ci",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can You Count The Stars?",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b88d48336152727a3ea5b059c8d79092c0b74de7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:4FVQPT0DcY7bLGCdC532ci"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7HIK5wqVu9wLQMtU3wpsnv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7HIK5wqVu9wLQMtU3wpsnv",
+          "id" : "7HIK5wqVu9wLQMtU3wpsnv",
+          "name" : "Kelly's Heels",
+          "type" : "artist",
+          "uri" : "spotify:artist:7HIK5wqVu9wLQMtU3wpsnv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2sUOAcTGRMRsGrWBD5tFAA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2sUOAcTGRMRsGrWBD5tFAA",
+        "id" : "2sUOAcTGRMRsGrWBD5tFAA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733ffa7f39f83466ac8b4aefc9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023ffa7f39f83466ac8b4aefc9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513ffa7f39f83466ac8b4aefc9",
+          "width" : 64
+        } ],
+        "name" : "Blunt Cut",
+        "release_date" : "1999",
+        "release_date_precision" : "year",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2sUOAcTGRMRsGrWBD5tFAA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7HIK5wqVu9wLQMtU3wpsnv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7HIK5wqVu9wLQMtU3wpsnv",
+        "id" : "7HIK5wqVu9wLQMtU3wpsnv",
+        "name" : "Kelly's Heels",
+        "type" : "artist",
+        "uri" : "spotify:artist:7HIK5wqVu9wLQMtU3wpsnv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 205240,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh0672891"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5t2nURhtQppwdyXeCn8hd7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5t2nURhtQppwdyXeCn8hd7",
+      "id" : "5t2nURhtQppwdyXeCn8hd7",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can You Count The Stars?",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d5d901b0dcdb8404fd0c20391de336e3fe7a38e3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5t2nURhtQppwdyXeCn8hd7"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/57GSEw9T6K5Z52wIe6MQYp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/57GSEw9T6K5Z52wIe6MQYp",
+          "id" : "57GSEw9T6K5Z52wIe6MQYp",
+          "name" : "Frisco All City Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:57GSEw9T6K5Z52wIe6MQYp"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4guGn6gG7ROSJAq84i8aFV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4guGn6gG7ROSJAq84i8aFV",
+          "id" : "4guGn6gG7ROSJAq84i8aFV",
+          "name" : "Emily Jones",
+          "type" : "artist",
+          "uri" : "spotify:artist:4guGn6gG7ROSJAq84i8aFV"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/76e1tEgFymx6qID8DpzIFL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/76e1tEgFymx6qID8DpzIFL",
+          "id" : "76e1tEgFymx6qID8DpzIFL",
+          "name" : "Pam Meis",
+          "type" : "artist",
+          "uri" : "spotify:artist:76e1tEgFymx6qID8DpzIFL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7ltg9OdF6qokghkUaJPUYv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7ltg9OdF6qokghkUaJPUYv",
+        "id" : "7ltg9OdF6qokghkUaJPUYv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a54a32ce3a6d56e6270dbafb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a54a32ce3a6d56e6270dbafb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a54a32ce3a6d56e6270dbafb",
+          "width" : 64
+        } ],
+        "name" : "2010 Texas Music Educators Association (TMEA): Rummel Creek Singers & Frisco All City Choir",
+        "release_date" : "2013-01-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:7ltg9OdF6qokghkUaJPUYv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4UjgWIPmRyELxRDLukdbAZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4UjgWIPmRyELxRDLukdbAZ",
+        "id" : "4UjgWIPmRyELxRDLukdbAZ",
+        "name" : "Jonathan Willcocks",
+        "type" : "artist",
+        "uri" : "spotify:artist:4UjgWIPmRyELxRDLukdbAZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7tQfU9gdS3bSsOdGNfPzNR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7tQfU9gdS3bSsOdGNfPzNR",
+        "id" : "7tQfU9gdS3bSsOdGNfPzNR",
+        "name" : "Rummel Creek Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7tQfU9gdS3bSsOdGNfPzNR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MUAc2DoWqMnbWjo7cRPHm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MUAc2DoWqMnbWjo7cRPHm",
+        "id" : "7MUAc2DoWqMnbWjo7cRPHm",
+        "name" : "Jeffrey Lerner",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MUAc2DoWqMnbWjo7cRPHm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4G0snagYesEPBv11YwWCk5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4G0snagYesEPBv11YwWCk5",
+        "id" : "4G0snagYesEPBv11YwWCk5",
+        "name" : "Betsy Collins",
+        "type" : "artist",
+        "uri" : "spotify:artist:4G0snagYesEPBv11YwWCk5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4guGn6gG7ROSJAq84i8aFV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4guGn6gG7ROSJAq84i8aFV",
+        "id" : "4guGn6gG7ROSJAq84i8aFV",
+        "name" : "Emily Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:4guGn6gG7ROSJAq84i8aFV"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 216866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USVZX1220704"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0AWz2EPuqCyDNFeytV0qVB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0AWz2EPuqCyDNFeytV0qVB",
+      "id" : "0AWz2EPuqCyDNFeytV0qVB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can You Count The Stars",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/56a057804a93e69b948df1b652f0c5c10e43f957?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:0AWz2EPuqCyDNFeytV0qVB"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2kL9hV6tkvFqAWWvUq9gO4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2kL9hV6tkvFqAWWvUq9gO4",
+          "id" : "2kL9hV6tkvFqAWWvUq9gO4",
+          "name" : "Naomi Fried",
+          "type" : "artist",
+          "uri" : "spotify:artist:2kL9hV6tkvFqAWWvUq9gO4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4dkrRJdwNRzEvLn6Kd3tRQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4dkrRJdwNRzEvLn6Kd3tRQ",
+        "id" : "4dkrRJdwNRzEvLn6Kd3tRQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cc07c7df29670970ce246632",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cc07c7df29670970ce246632",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cc07c7df29670970ce246632",
+          "width" : 64
+        } ],
+        "name" : "Can You Count the Stars?",
+        "release_date" : "2013-10-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4dkrRJdwNRzEvLn6Kd3tRQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kL9hV6tkvFqAWWvUq9gO4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kL9hV6tkvFqAWWvUq9gO4",
+        "id" : "2kL9hV6tkvFqAWWvUq9gO4",
+        "name" : "Naomi Fried",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kL9hV6tkvFqAWWvUq9gO4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 157386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91358858"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1gNggfow1pGPEPlyBZmaGr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1gNggfow1pGPEPlyBZmaGr",
+      "id" : "1gNggfow1pGPEPlyBZmaGr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can You Count the Stars",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/32e5f9acc3a67f8f502b2c32eaedc103eea08d5a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:1gNggfow1pGPEPlyBZmaGr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1h9XuEfVzk6rWs8kDIqYTN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1h9XuEfVzk6rWs8kDIqYTN",
+          "id" : "1h9XuEfVzk6rWs8kDIqYTN",
+          "name" : "Flying Colors",
+          "type" : "artist",
+          "uri" : "spotify:artist:1h9XuEfVzk6rWs8kDIqYTN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4S7VeYX3mD0TCO0sZ6Jknu"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4S7VeYX3mD0TCO0sZ6Jknu",
+        "id" : "4S7VeYX3mD0TCO0sZ6Jknu",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27327a2db03ef3c99b76c1714de",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0227a2db03ef3c99b76c1714de",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485127a2db03ef3c99b76c1714de",
+          "width" : 64
+        } ],
+        "name" : "Bible Camp Songs - The Light of the World Is Jesus",
+        "release_date" : "2008-11-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4S7VeYX3mD0TCO0sZ6Jknu"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1h9XuEfVzk6rWs8kDIqYTN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1h9XuEfVzk6rWs8kDIqYTN",
+        "id" : "1h9XuEfVzk6rWs8kDIqYTN",
+        "name" : "Flying Colors",
+        "type" : "artist",
+        "uri" : "spotify:artist:1h9XuEfVzk6rWs8kDIqYTN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 199213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US89R0814984"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3e9qmsigNT66cUrMVnV5OT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3e9qmsigNT66cUrMVnV5OT",
+      "id" : "3e9qmsigNT66cUrMVnV5OT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can You Count the Stars?",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/350b8e593bd9f77f646fcbb8a8bbd23ca2083dcf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:3e9qmsigNT66cUrMVnV5OT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3mu2aaLsLBT4YcodzHwSgX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3mu2aaLsLBT4YcodzHwSgX",
+          "id" : "3mu2aaLsLBT4YcodzHwSgX",
+          "name" : "UGR Players",
+          "type" : "artist",
+          "uri" : "spotify:artist:3mu2aaLsLBT4YcodzHwSgX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1rwaFKSiWgZthKKkKPUcIt"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1rwaFKSiWgZthKKkKPUcIt",
+        "id" : "1rwaFKSiWgZthKKkKPUcIt",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737326a6bc3a99b4e0ffb27b07",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027326a6bc3a99b4e0ffb27b07",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517326a6bc3a99b4e0ffb27b07",
+          "width" : 64
+        } ],
+        "name" : "Miracles of Jesus",
+        "release_date" : "2012-09-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1rwaFKSiWgZthKKkKPUcIt"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mu2aaLsLBT4YcodzHwSgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mu2aaLsLBT4YcodzHwSgX",
+        "id" : "3mu2aaLsLBT4YcodzHwSgX",
+        "name" : "UGR Players",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mu2aaLsLBT4YcodzHwSgX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 199813,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMDA71417227"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5P5UqZbpgxTHTsG3frxVPK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5P5UqZbpgxTHTsG3frxVPK",
+      "id" : "5P5UqZbpgxTHTsG3frxVPK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Can You Count the Stars?",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ff362371e1e72b2a7ebc49e49395ec9ba0bf887f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5P5UqZbpgxTHTsG3frxVPK"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Can+You+Count+the+Stars%3F&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Can+You+Count+the+Stars%3F&type=track&market=US&offset=0&limit=10",
+    "total" : 75
+  }
+}

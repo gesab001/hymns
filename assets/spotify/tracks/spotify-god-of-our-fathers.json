@@ -1,0 +1,834 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=God+of+Our+Fathers&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7cvnCTBvMm6OvTutfCpxjL",
+          "id" : "7cvnCTBvMm6OvTutfCpxjL",
+          "name" : "Vineyard Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:7cvnCTBvMm6OvTutfCpxjL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1flMrVZoC7GBWKvBi8Z0UQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1flMrVZoC7GBWKvBi8Z0UQ",
+        "id" : "1flMrVZoC7GBWKvBi8Z0UQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d177c1ce5bf1ad5d29598f23",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d177c1ce5bf1ad5d29598f23",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d177c1ce5bf1ad5d29598f23",
+          "width" : 64
+        } ],
+        "name" : "HERE",
+        "release_date" : "2020-01-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:1flMrVZoC7GBWKvBi8Z0UQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7cvnCTBvMm6OvTutfCpxjL",
+        "id" : "7cvnCTBvMm6OvTutfCpxjL",
+        "name" : "Vineyard Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:7cvnCTBvMm6OvTutfCpxjL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gjXbYoKHoNcdxVCBWpEKo",
+        "id" : "7gjXbYoKHoNcdxVCBWpEKo",
+        "name" : "Samuel Lane",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gjXbYoKHoNcdxVCBWpEKo"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 336325,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2T31902499"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4o8K6L0IQiLeaKE9KJb5o2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4o8K6L0IQiLeaKE9KJb5o2",
+      "id" : "4o8K6L0IQiLeaKE9KJb5o2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Our Mothers and Fathers",
+      "popularity" : 16,
+      "preview_url" : "https://p.scdn.co/mp3-preview/657139da02d0fd74a6668563cab61b6e545b2787?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4o8K6L0IQiLeaKE9KJb5o2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1U5zgr455OGyIkLNXvDdrf",
+          "id" : "1U5zgr455OGyIkLNXvDdrf",
+          "name" : "Traditional",
+          "type" : "artist",
+          "uri" : "spotify:artist:1U5zgr455OGyIkLNXvDdrf"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2igGYNAMmRUQ4nUfy0NGtN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2igGYNAMmRUQ4nUfy0NGtN",
+          "id" : "2igGYNAMmRUQ4nUfy0NGtN",
+          "name" : "London Philharmonic Concert Society",
+          "type" : "artist",
+          "uri" : "spotify:artist:2igGYNAMmRUQ4nUfy0NGtN"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0WIY8dfLqdsgKUKngzcjCm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0WIY8dfLqdsgKUKngzcjCm",
+          "id" : "0WIY8dfLqdsgKUKngzcjCm",
+          "name" : "John Alldis",
+          "type" : "artist",
+          "uri" : "spotify:artist:0WIY8dfLqdsgKUKngzcjCm"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3PfJE6ebCbCHeuqO4BfNeA",
+          "id" : "3PfJE6ebCbCHeuqO4BfNeA",
+          "name" : "London Philharmonic Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:3PfJE6ebCbCHeuqO4BfNeA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7vJBLM3TaskMnpCV49NLpO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7vJBLM3TaskMnpCV49NLpO",
+        "id" : "7vJBLM3TaskMnpCV49NLpO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732aa9eea501b86f2d5f8b0b45",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022aa9eea501b86f2d5f8b0b45",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512aa9eea501b86f2d5f8b0b45",
+          "width" : 64
+        } ],
+        "name" : "Hymns Triumphant",
+        "release_date" : "1988-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 39,
+        "type" : "album",
+        "uri" : "spotify:album:7vJBLM3TaskMnpCV49NLpO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1U5zgr455OGyIkLNXvDdrf",
+        "id" : "1U5zgr455OGyIkLNXvDdrf",
+        "name" : "Traditional",
+        "type" : "artist",
+        "uri" : "spotify:artist:1U5zgr455OGyIkLNXvDdrf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GUhTBqD7CAbbIjjBd0SdN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GUhTBqD7CAbbIjjBd0SdN",
+        "id" : "7GUhTBqD7CAbbIjjBd0SdN",
+        "name" : "London Philharmonic Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GUhTBqD7CAbbIjjBd0SdN"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WIY8dfLqdsgKUKngzcjCm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WIY8dfLqdsgKUKngzcjCm",
+        "id" : "0WIY8dfLqdsgKUKngzcjCm",
+        "name" : "John Alldis",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WIY8dfLqdsgKUKngzcjCm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Ek1WGW7WeyDoxsZiu0AAd",
+        "id" : "2Ek1WGW7WeyDoxsZiu0AAd",
+        "name" : "National Philharmonic Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Ek1WGW7WeyDoxsZiu0AAd"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 100160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP38847116"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6uJNMWDo6jFE8ZqXVlndJm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6uJNMWDo6jFE8ZqXVlndJm",
+      "id" : "6uJNMWDo6jFE8ZqXVlndJm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Of Our Fathers",
+      "popularity" : 12,
+      "preview_url" : null,
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:6uJNMWDo6jFE8ZqXVlndJm"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ZKBQyNLXQd1VfNf2oH5yF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ZKBQyNLXQd1VfNf2oH5yF",
+          "id" : "5ZKBQyNLXQd1VfNf2oH5yF",
+          "name" : "Phillip Keveren",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ZKBQyNLXQd1VfNf2oH5yF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2S1inXtjPyfMbL6EDvsZtK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2S1inXtjPyfMbL6EDvsZtK",
+        "id" : "2S1inXtjPyfMbL6EDvsZtK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736253cd7f47d8fac56ae29c65",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026253cd7f47d8fac56ae29c65",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516253cd7f47d8fac56ae29c65",
+          "width" : 64
+        } ],
+        "name" : "Classical Praise Brass",
+        "release_date" : "2009-06-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:2S1inXtjPyfMbL6EDvsZtK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ZKBQyNLXQd1VfNf2oH5yF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ZKBQyNLXQd1VfNf2oH5yF",
+        "id" : "5ZKBQyNLXQd1VfNf2oH5yF",
+        "name" : "Phillip Keveren",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ZKBQyNLXQd1VfNf2oH5yF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 59773,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USLF50801151"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4WVxOzvbgvistkz6J7eCG2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4WVxOzvbgvistkz6J7eCG2",
+      "id" : "4WVxOzvbgvistkz6J7eCG2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Fanfare / God of Our Fathers",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/940c32d5499cf3dfa994713f8321837cd4d06ca7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4WVxOzvbgvistkz6J7eCG2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/17bU8dMSnsSOnR1Wb0Xjiu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/17bU8dMSnsSOnR1Wb0Xjiu",
+          "id" : "17bU8dMSnsSOnR1Wb0Xjiu",
+          "name" : "Concordia University Chicago Wind Symphony",
+          "type" : "artist",
+          "uri" : "spotify:artist:17bU8dMSnsSOnR1Wb0Xjiu"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4k1QCMC3EN38RgxKDXqBVj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4k1QCMC3EN38RgxKDXqBVj",
+          "id" : "4k1QCMC3EN38RgxKDXqBVj",
+          "name" : "Richard R. Fischer",
+          "type" : "artist",
+          "uri" : "spotify:artist:4k1QCMC3EN38RgxKDXqBVj"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7ahlkJ3JO95BKNrHKpK7Xy"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7ahlkJ3JO95BKNrHKpK7Xy",
+        "id" : "7ahlkJ3JO95BKNrHKpK7Xy",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273874b3a9cab1d5200bda887ed",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02874b3a9cab1d5200bda887ed",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851874b3a9cab1d5200bda887ed",
+          "width" : 64
+        } ],
+        "name" : "Banners of Concord",
+        "release_date" : "2015-09-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:7ahlkJ3JO95BKNrHKpK7Xy"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5YkdQaWfRXqraZQJpGFfl1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5YkdQaWfRXqraZQJpGFfl1",
+        "id" : "5YkdQaWfRXqraZQJpGFfl1",
+        "name" : "Claude T. Smith",
+        "type" : "artist",
+        "uri" : "spotify:artist:5YkdQaWfRXqraZQJpGFfl1"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/17bU8dMSnsSOnR1Wb0Xjiu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/17bU8dMSnsSOnR1Wb0Xjiu",
+        "id" : "17bU8dMSnsSOnR1Wb0Xjiu",
+        "name" : "Concordia University Chicago Wind Symphony",
+        "type" : "artist",
+        "uri" : "spotify:artist:17bU8dMSnsSOnR1Wb0Xjiu"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4k1QCMC3EN38RgxKDXqBVj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4k1QCMC3EN38RgxKDXqBVj",
+        "id" : "4k1QCMC3EN38RgxKDXqBVj",
+        "name" : "Richard R. Fischer",
+        "type" : "artist",
+        "uri" : "spotify:artist:4k1QCMC3EN38RgxKDXqBVj"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 408533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USVZX1507709"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7vbJ7iye5qb0ldqCdLph1R"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7vbJ7iye5qb0ldqCdLph1R",
+      "id" : "7vbJ7iye5qb0ldqCdLph1R",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Our Fathers",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7f1bcb512a1ff5c72b6fdcbcd5716efa1248a3bb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:7vbJ7iye5qb0ldqCdLph1R"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7cvnCTBvMm6OvTutfCpxjL",
+          "id" : "7cvnCTBvMm6OvTutfCpxjL",
+          "name" : "Vineyard Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:7cvnCTBvMm6OvTutfCpxjL"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6YTHfR4gsqR2wlZ7GsxvH3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6YTHfR4gsqR2wlZ7GsxvH3",
+        "id" : "6YTHfR4gsqR2wlZ7GsxvH3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273629147211ee1cc2c7ee6ae4d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02629147211ee1cc2c7ee6ae4d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851629147211ee1cc2c7ee6ae4d",
+          "width" : 64
+        } ],
+        "name" : "HERE (Live)",
+        "release_date" : "2020-01-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6YTHfR4gsqR2wlZ7GsxvH3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7cvnCTBvMm6OvTutfCpxjL",
+        "id" : "7cvnCTBvMm6OvTutfCpxjL",
+        "name" : "Vineyard Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:7cvnCTBvMm6OvTutfCpxjL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gjXbYoKHoNcdxVCBWpEKo",
+        "id" : "7gjXbYoKHoNcdxVCBWpEKo",
+        "name" : "Samuel Lane",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gjXbYoKHoNcdxVCBWpEKo"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 341285,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2T32002533"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2BFsgHw4uZp5zFgRMKusZ6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2BFsgHw4uZp5zFgRMKusZ6",
+      "id" : "2BFsgHw4uZp5zFgRMKusZ6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Our Mothers and Fathers - Live",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c34e4e8fe5348c4234d3b20221c5ac468cb8e23a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:2BFsgHw4uZp5zFgRMKusZ6"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2duo4NJtUrLaI38trK0hht"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2duo4NJtUrLaI38trK0hht",
+          "id" : "2duo4NJtUrLaI38trK0hht",
+          "name" : "Mormon Tabernacle Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:2duo4NJtUrLaI38trK0hht"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4kAIRZipPTtTbZBTudxcEA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4kAIRZipPTtTbZBTudxcEA",
+          "id" : "4kAIRZipPTtTbZBTudxcEA",
+          "name" : "Orchestra at Temple Square",
+          "type" : "artist",
+          "uri" : "spotify:artist:4kAIRZipPTtTbZBTudxcEA"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/13iOctu8ZH8004y3Sy4e8p"
+          },
+          "href" : "https://api.spotify.com/v1/artists/13iOctu8ZH8004y3Sy4e8p",
+          "id" : "13iOctu8ZH8004y3Sy4e8p",
+          "name" : "Craig Jessop",
+          "type" : "artist",
+          "uri" : "spotify:artist:13iOctu8ZH8004y3Sy4e8p"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6q14URGinKww37ldHCX8Tb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6q14URGinKww37ldHCX8Tb",
+        "id" : "6q14URGinKww37ldHCX8Tb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27376a0ab14e9041e2aa3fdf3a0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0276a0ab14e9041e2aa3fdf3a0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485176a0ab14e9041e2aa3fdf3a0",
+          "width" : 64
+        } ],
+        "name" : "Spirit of America",
+        "release_date" : "2003-06-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:6q14URGinKww37ldHCX8Tb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0fbG9gzKf5VBZQHTiI00xC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0fbG9gzKf5VBZQHTiI00xC",
+        "id" : "0fbG9gzKf5VBZQHTiI00xC",
+        "name" : "George W Warren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0fbG9gzKf5VBZQHTiI00xC"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2duo4NJtUrLaI38trK0hht"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2duo4NJtUrLaI38trK0hht",
+        "id" : "2duo4NJtUrLaI38trK0hht",
+        "name" : "Mormon Tabernacle Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:2duo4NJtUrLaI38trK0hht"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kAIRZipPTtTbZBTudxcEA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kAIRZipPTtTbZBTudxcEA",
+        "id" : "4kAIRZipPTtTbZBTudxcEA",
+        "name" : "Orchestra at Temple Square",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kAIRZipPTtTbZBTudxcEA"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/13iOctu8ZH8004y3Sy4e8p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/13iOctu8ZH8004y3Sy4e8p",
+        "id" : "13iOctu8ZH8004y3Sy4e8p",
+        "name" : "Craig Jessop",
+        "type" : "artist",
+        "uri" : "spotify:artist:13iOctu8ZH8004y3Sy4e8p"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 262000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US23M0801997"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4zhNgdfUpWft1y01YefgeP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4zhNgdfUpWft1y01YefgeP",
+      "id" : "4zhNgdfUpWft1y01YefgeP",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Our Fathers, Whose Almighty Hand",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b0ff9c7750c1f46916b900d4d30a126c4397948d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:4zhNgdfUpWft1y01YefgeP"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+          "id" : "11sAWrpIkFUPQlXoQqpeBV",
+          "name" : "Bill & Gloria Gaither",
+          "type" : "artist",
+          "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3jLYVGQDp4je2ayWff9BZ9"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3jLYVGQDp4je2ayWff9BZ9",
+        "id" : "3jLYVGQDp4je2ayWff9BZ9",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cdbf3f4a7173adef4e56bae3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cdbf3f4a7173adef4e56bae3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cdbf3f4a7173adef4e56bae3",
+          "width" : 64
+        } ],
+        "name" : "Amazing Grace",
+        "release_date" : "2007-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:3jLYVGQDp4je2ayWff9BZ9"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+        "id" : "11sAWrpIkFUPQlXoQqpeBV",
+        "name" : "Bill & Gloria Gaither",
+        "type" : "artist",
+        "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 221440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3270402671"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5Jhjb9fY46CyXtCKFF8Bnm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5Jhjb9fY46CyXtCKFF8Bnm",
+      "id" : "5Jhjb9fY46CyXtCKFF8Bnm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Of Our Fathers - Amazing Grace Album Version",
+      "popularity" : 10,
+      "preview_url" : null,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:5Jhjb9fY46CyXtCKFF8Bnm"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3UZc24DOYrUhFnDPNw1L8A"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3UZc24DOYrUhFnDPNw1L8A",
+          "id" : "3UZc24DOYrUhFnDPNw1L8A",
+          "name" : "Frank Patterson",
+          "type" : "artist",
+          "uri" : "spotify:artist:3UZc24DOYrUhFnDPNw1L8A"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6vwC2oWlqXLmIjGil16vJc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6vwC2oWlqXLmIjGil16vJc",
+        "id" : "6vwC2oWlqXLmIjGil16vJc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d6263606a4a3547485a6118b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d6263606a4a3547485a6118b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d6263606a4a3547485a6118b",
+          "width" : 64
+        } ],
+        "name" : "Faith of Our Fathers: Classic Religious Anthems of Ireland",
+        "release_date" : "1998-03-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:6vwC2oWlqXLmIjGil16vJc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34mPlZCBURsb6tBXx6Hhaf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34mPlZCBURsb6tBXx6Hhaf",
+        "id" : "34mPlZCBURsb6tBXx6Hhaf",
+        "name" : "Irish Philharmonic Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:34mPlZCBURsb6tBXx6Hhaf"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 216026,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAKS1100012"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1K98q4R7zLwFIL1chnEsNx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1K98q4R7zLwFIL1chnEsNx",
+      "id" : "1K98q4R7zLwFIL1chnEsNx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Holy God, We Praise Thy Name",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3c00a7e21f7016b89bb518f2e1834d030fbafa4c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1K98q4R7zLwFIL1chnEsNx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5aHE1EAT1F5E1kdvWCqObF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5aHE1EAT1F5E1kdvWCqObF",
+          "id" : "5aHE1EAT1F5E1kdvWCqObF",
+          "name" : "Steven Anderson",
+          "type" : "artist",
+          "uri" : "spotify:artist:5aHE1EAT1F5E1kdvWCqObF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/10FM5L0AUvY6RhV3yFMLrU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/10FM5L0AUvY6RhV3yFMLrU",
+        "id" : "10FM5L0AUvY6RhV3yFMLrU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cb9034ace3fab7cadbe8cc0d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cb9034ace3fab7cadbe8cc0d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cb9034ace3fab7cadbe8cc0d",
+          "width" : 64
+        } ],
+        "name" : "40 Inspirational Piano Hymns",
+        "release_date" : "2016-04-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 40,
+        "type" : "album",
+        "uri" : "spotify:album:10FM5L0AUvY6RhV3yFMLrU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aHE1EAT1F5E1kdvWCqObF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aHE1EAT1F5E1kdvWCqObF",
+        "id" : "5aHE1EAT1F5E1kdvWCqObF",
+        "name" : "Steven Anderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aHE1EAT1F5E1kdvWCqObF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 107706,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAM460603319"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2peFvaASsxfli2ETnsxAmk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2peFvaASsxfli2ETnsxAmk",
+      "id" : "2peFvaASsxfli2ETnsxAmk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Our Fathers",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/22039b86d39f66175465485168b60735e73a821b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:2peFvaASsxfli2ETnsxAmk"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3IK8JNf7jc48FpU7H82JwI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3IK8JNf7jc48FpU7H82JwI",
+        "id" : "3IK8JNf7jc48FpU7H82JwI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b06a06b557da085d049b33d1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b06a06b557da085d049b33d1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b06a06b557da085d049b33d1",
+          "width" : 64
+        } ],
+        "name" : "50 American Patriotic Military Songs",
+        "release_date" : "2011-06-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 50,
+        "type" : "album",
+        "uri" : "spotify:album:3IK8JNf7jc48FpU7H82JwI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PYC6DmQ7ZgDF6MPXt1Fbo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PYC6DmQ7ZgDF6MPXt1Fbo",
+        "id" : "5PYC6DmQ7ZgDF6MPXt1Fbo",
+        "name" : "George W. Warren",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PYC6DmQ7ZgDF6MPXt1Fbo"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3QeUCeRZhvSxjokyg2zImM",
+        "id" : "3QeUCeRZhvSxjokyg2zImM",
+        "name" : "United States Marine Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:3QeUCeRZhvSxjokyg2zImM"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 245973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA5R1134629"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0xy7pglJHfEZLbaDVHb4HD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0xy7pglJHfEZLbaDVHb4HD",
+      "id" : "0xy7pglJHfEZLbaDVHb4HD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God of Our Fathers",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0c45a32d169dc256af4b6e102e69e161492f31ff?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:0xy7pglJHfEZLbaDVHb4HD"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=God+of+Our+Fathers&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=God+of+Our+Fathers&type=track&market=US&offset=0&limit=10",
+    "total" : 334
+  }
+}

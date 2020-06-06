@@ -1,0 +1,915 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Though+I+Speak+With+Tongues&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5CCU4FaNVaOz78uggeaZ7c"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5CCU4FaNVaOz78uggeaZ7c",
+          "id" : "5CCU4FaNVaOz78uggeaZ7c",
+          "name" : "Harvey Brough",
+          "type" : "artist",
+          "uri" : "spotify:artist:5CCU4FaNVaOz78uggeaZ7c"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4NMcaLCqDF9kQ0HHtH5Ujb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4NMcaLCqDF9kQ0HHtH5Ujb",
+          "id" : "4NMcaLCqDF9kQ0HHtH5Ujb",
+          "name" : "David Le Page Ensemble",
+          "type" : "artist",
+          "uri" : "spotify:artist:4NMcaLCqDF9kQ0HHtH5Ujb"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3eLxVEuasZWEHM3Bzc5DUF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3eLxVEuasZWEHM3Bzc5DUF",
+          "id" : "3eLxVEuasZWEHM3Bzc5DUF",
+          "name" : "Vox Holloway",
+          "type" : "artist",
+          "uri" : "spotify:artist:3eLxVEuasZWEHM3Bzc5DUF"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3UdkTUOcnVzlBPTjAuxALl"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3UdkTUOcnVzlBPTjAuxALl",
+        "id" : "3UdkTUOcnVzlBPTjAuxALl",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730d91ea109ac70c0d7a8056ec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020d91ea109ac70c0d7a8056ec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510d91ea109ac70c0d7a8056ec",
+          "width" : 64
+        } ],
+        "name" : "Thecla: An Oratorio",
+        "release_date" : "2019-04-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:3UdkTUOcnVzlBPTjAuxALl"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CCU4FaNVaOz78uggeaZ7c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CCU4FaNVaOz78uggeaZ7c",
+        "id" : "5CCU4FaNVaOz78uggeaZ7c",
+        "name" : "Harvey Brough",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CCU4FaNVaOz78uggeaZ7c"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NMcaLCqDF9kQ0HHtH5Ujb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NMcaLCqDF9kQ0HHtH5Ujb",
+        "id" : "4NMcaLCqDF9kQ0HHtH5Ujb",
+        "name" : "David Le Page Ensemble",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NMcaLCqDF9kQ0HHtH5Ujb"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eLxVEuasZWEHM3Bzc5DUF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eLxVEuasZWEHM3Bzc5DUF",
+        "id" : "3eLxVEuasZWEHM3Bzc5DUF",
+        "name" : "Vox Holloway",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eLxVEuasZWEHM3Bzc5DUF"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 342000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GB5US1900004"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5UONAKDfTuKCvkEGF46iBK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5UONAKDfTuKCvkEGF46iBK",
+      "id" : "5UONAKDfTuKCvkEGF46iBK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Thecla: IV. Though I Speak with the Tongues of Men",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e9d0df0a025062b1c23581d406a55a0938f728a3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5UONAKDfTuKCvkEGF46iBK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2codaZUp7wgHVsZuJogQX9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2codaZUp7wgHVsZuJogQX9",
+          "id" : "2codaZUp7wgHVsZuJogQX9",
+          "name" : "Fourth Presbyterian Church Morning Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:2codaZUp7wgHVsZuJogQX9"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5kBo17ZneEfUXtR7oB90NP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5kBo17ZneEfUXtR7oB90NP",
+        "id" : "5kBo17ZneEfUXtR7oB90NP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a8e2a7116ea275b2270f90a7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a8e2a7116ea275b2270f90a7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a8e2a7116ea275b2270f90a7",
+          "width" : 64
+        } ],
+        "name" : "Light",
+        "release_date" : "2011-12-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:5kBo17ZneEfUXtR7oB90NP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2codaZUp7wgHVsZuJogQX9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2codaZUp7wgHVsZuJogQX9",
+        "id" : "2codaZUp7wgHVsZuJogQX9",
+        "name" : "Fourth Presbyterian Church Morning Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:2codaZUp7wgHVsZuJogQX9"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 242000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p1175067"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0jcmJ5UAYlyvbviEX6YKwX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0jcmJ5UAYlyvbviEX6YKwX",
+      "id" : "0jcmJ5UAYlyvbviEX6YKwX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Though I Speak With the Tongues of Man and of Angels",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c190f53ac5061c739e0424743927181d3e0f23a3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:0jcmJ5UAYlyvbviEX6YKwX"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/497oYdXSj5eLjHpiKC7BMW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/497oYdXSj5eLjHpiKC7BMW",
+        "id" : "497oYdXSj5eLjHpiKC7BMW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731c3ba2a0ba4b3a945efa623f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021c3ba2a0ba4b3a945efa623f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511c3ba2a0ba4b3a945efa623f",
+          "width" : 64
+        } ],
+        "name" : "The Golden Age of English Church Music",
+        "release_date" : "2017-08-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 100,
+        "type" : "album",
+        "uri" : "spotify:album:497oYdXSj5eLjHpiKC7BMW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1F12kyzm3ZetBczIfRMpHW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1F12kyzm3ZetBczIfRMpHW",
+        "id" : "1F12kyzm3ZetBczIfRMpHW",
+        "name" : "Edward Bairstow",
+        "type" : "artist",
+        "uri" : "spotify:artist:1F12kyzm3ZetBczIfRMpHW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2uXk4gfxUJcv3idbWHJs7n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2uXk4gfxUJcv3idbWHJs7n",
+        "id" : "2uXk4gfxUJcv3idbWHJs7n",
+        "name" : "St Alban Cathedral and Abbey Choir of Men and Boys",
+        "type" : "artist",
+        "uri" : "spotify:artist:2uXk4gfxUJcv3idbWHJs7n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ROJeeu45oUCRdD9ifOV71"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ROJeeu45oUCRdD9ifOV71",
+        "id" : "6ROJeeu45oUCRdD9ifOV71",
+        "name" : "Barry Rose",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ROJeeu45oUCRdD9ifOV71"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/31KjYL83etflslVtye2abt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/31KjYL83etflslVtye2abt",
+        "id" : "31KjYL83etflslVtye2abt",
+        "name" : "Andrew Parnell",
+        "type" : "artist",
+        "uri" : "spotify:artist:31KjYL83etflslVtye2abt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 345600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USX761750041"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4sKBazXRChKXadEI61WCuF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4sKBazXRChKXadEI61WCuF",
+      "id" : "4sKBazXRChKXadEI61WCuF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Edward Cuthbert Bairstow: Though I speak with the tongues of men",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d0c46f5bc14a30f761038b9834adff0c337fb6ba?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 41,
+      "type" : "track",
+      "uri" : "spotify:track:4sKBazXRChKXadEI61WCuF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/00LdLq26q3scTAUoFyx3me"
+        },
+        "href" : "https://api.spotify.com/v1/albums/00LdLq26q3scTAUoFyx3me",
+        "id" : "00LdLq26q3scTAUoFyx3me",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f47b11b2d351a6b9f0371e59",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f47b11b2d351a6b9f0371e59",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f47b11b2d351a6b9f0371e59",
+          "width" : 64
+        } ],
+        "name" : "The Golden Age of English Church Music",
+        "release_date" : "2017-08-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 100,
+        "type" : "album",
+        "uri" : "spotify:album:00LdLq26q3scTAUoFyx3me"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1F12kyzm3ZetBczIfRMpHW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1F12kyzm3ZetBczIfRMpHW",
+        "id" : "1F12kyzm3ZetBczIfRMpHW",
+        "name" : "Edward Bairstow",
+        "type" : "artist",
+        "uri" : "spotify:artist:1F12kyzm3ZetBczIfRMpHW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2uXk4gfxUJcv3idbWHJs7n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2uXk4gfxUJcv3idbWHJs7n",
+        "id" : "2uXk4gfxUJcv3idbWHJs7n",
+        "name" : "St Alban Cathedral and Abbey Choir of Men and Boys",
+        "type" : "artist",
+        "uri" : "spotify:artist:2uXk4gfxUJcv3idbWHJs7n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/31KjYL83etflslVtye2abt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/31KjYL83etflslVtye2abt",
+        "id" : "31KjYL83etflslVtye2abt",
+        "name" : "Andrew Parnell",
+        "type" : "artist",
+        "uri" : "spotify:artist:31KjYL83etflslVtye2abt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ROJeeu45oUCRdD9ifOV71"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ROJeeu45oUCRdD9ifOV71",
+        "id" : "6ROJeeu45oUCRdD9ifOV71",
+        "name" : "Barry Rose",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ROJeeu45oUCRdD9ifOV71"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 345600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USX761750041"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5LZgnPzJKUiogmHZRfLozc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5LZgnPzJKUiogmHZRfLozc",
+      "id" : "5LZgnPzJKUiogmHZRfLozc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Edward Cuthbert Bairstow: Though I speak with the tongues of men",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d0c46f5bc14a30f761038b9834adff0c337fb6ba?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 41,
+      "type" : "track",
+      "uri" : "spotify:track:5LZgnPzJKUiogmHZRfLozc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3QK4fNtQUGr2PbZYC5lQzH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3QK4fNtQUGr2PbZYC5lQzH",
+          "id" : "3QK4fNtQUGr2PbZYC5lQzH",
+          "name" : "Kathleen Ferrier",
+          "type" : "artist",
+          "uri" : "spotify:artist:3QK4fNtQUGr2PbZYC5lQzH"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1TWxi1Ns6pcAgyQx5jdrTo"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1TWxi1Ns6pcAgyQx5jdrTo",
+        "id" : "1TWxi1Ns6pcAgyQx5jdrTo",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738c93e0e8ed193a857dd7726e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028c93e0e8ed193a857dd7726e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518c93e0e8ed193a857dd7726e",
+          "width" : 64
+        } ],
+        "name" : "Kathleen Ferrier Edition",
+        "release_date" : "2004-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 164,
+        "type" : "album",
+        "uri" : "spotify:album:1TWxi1Ns6pcAgyQx5jdrTo"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+        "id" : "5wTAi7QkpP6kp8a54lmTOq",
+        "name" : "Johannes Brahms",
+        "type" : "artist",
+        "uri" : "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3QK4fNtQUGr2PbZYC5lQzH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3QK4fNtQUGr2PbZYC5lQzH",
+        "id" : "3QK4fNtQUGr2PbZYC5lQzH",
+        "name" : "Kathleen Ferrier",
+        "type" : "artist",
+        "uri" : "spotify:artist:3QK4fNtQUGr2PbZYC5lQzH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/23BiSNXm5UaRFuusoWisYO",
+        "id" : "23BiSNXm5UaRFuusoWisYO",
+        "name" : "BBC Symphony Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:23BiSNXm5UaRFuusoWisYO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4FVncYpcoiyS5lY2ElwtK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4FVncYpcoiyS5lY2ElwtK8",
+        "id" : "4FVncYpcoiyS5lY2ElwtK8",
+        "name" : "Sir Malcolm Sargent",
+        "type" : "artist",
+        "uri" : "spotify:artist:4FVncYpcoiyS5lY2ElwtK8"
+      } ],
+      "disc_number" : 5,
+      "duration_ms" : 359800,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBF074910084"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0P4lA6toqfB5vkJj1zyOIJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0P4lA6toqfB5vkJj1zyOIJ",
+      "id" : "0P4lA6toqfB5vkJj1zyOIJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "4 Ernste Gesänge, Op.121 - Arr. Sargent: Though I speak with the tongues of men",
+      "popularity" : 0,
+      "preview_url" : null,
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:0P4lA6toqfB5vkJj1zyOIJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3QK4fNtQUGr2PbZYC5lQzH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3QK4fNtQUGr2PbZYC5lQzH",
+          "id" : "3QK4fNtQUGr2PbZYC5lQzH",
+          "name" : "Kathleen Ferrier",
+          "type" : "artist",
+          "uri" : "spotify:artist:3QK4fNtQUGr2PbZYC5lQzH"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6wriTR6rvplznnZ0nJdNRG"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6wriTR6rvplznnZ0nJdNRG",
+        "id" : "6wriTR6rvplznnZ0nJdNRG",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733a763e0d143b7e925721295c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023a763e0d143b7e925721295c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513a763e0d143b7e925721295c",
+          "width" : 64
+        } ],
+        "name" : "Kathleen Ferrier Centenary Edition - The Complete Decca Recordings",
+        "release_date" : "2012-03-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 236,
+        "type" : "album",
+        "uri" : "spotify:album:6wriTR6rvplznnZ0nJdNRG"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3QK4fNtQUGr2PbZYC5lQzH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3QK4fNtQUGr2PbZYC5lQzH",
+        "id" : "3QK4fNtQUGr2PbZYC5lQzH",
+        "name" : "Kathleen Ferrier",
+        "type" : "artist",
+        "uri" : "spotify:artist:3QK4fNtQUGr2PbZYC5lQzH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/23BiSNXm5UaRFuusoWisYO",
+        "id" : "23BiSNXm5UaRFuusoWisYO",
+        "name" : "BBC Symphony Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:23BiSNXm5UaRFuusoWisYO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4FVncYpcoiyS5lY2ElwtK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4FVncYpcoiyS5lY2ElwtK8",
+        "id" : "4FVncYpcoiyS5lY2ElwtK8",
+        "name" : "Sir Malcolm Sargent",
+        "type" : "artist",
+        "uri" : "spotify:artist:4FVncYpcoiyS5lY2ElwtK8"
+      } ],
+      "disc_number" : 5,
+      "duration_ms" : 366893,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBF071100484"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5fym0jKeLLKgP1aPtP2F7C"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5fym0jKeLLKgP1aPtP2F7C",
+      "id" : "5fym0jKeLLKgP1aPtP2F7C",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Brahms: 4 Ernste Gesänge, Op.121 - Arr. Sargent - Though I speak with the tongues of men",
+      "popularity" : 0,
+      "preview_url" : null,
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5fym0jKeLLKgP1aPtP2F7C"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+          "id" : "5wTAi7QkpP6kp8a54lmTOq",
+          "name" : "Johannes Brahms",
+          "type" : "artist",
+          "uri" : "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3QK4fNtQUGr2PbZYC5lQzH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3QK4fNtQUGr2PbZYC5lQzH",
+          "id" : "3QK4fNtQUGr2PbZYC5lQzH",
+          "name" : "Kathleen Ferrier",
+          "type" : "artist",
+          "uri" : "spotify:artist:3QK4fNtQUGr2PbZYC5lQzH"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0BD0yexvRf2lNmTwda3DvU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0BD0yexvRf2lNmTwda3DvU",
+          "id" : "0BD0yexvRf2lNmTwda3DvU",
+          "name" : "Clemens Krauss",
+          "type" : "artist",
+          "uri" : "spotify:artist:0BD0yexvRf2lNmTwda3DvU"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4FVncYpcoiyS5lY2ElwtK8"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4FVncYpcoiyS5lY2ElwtK8",
+          "id" : "4FVncYpcoiyS5lY2ElwtK8",
+          "name" : "Sir Malcolm Sargent",
+          "type" : "artist",
+          "uri" : "spotify:artist:4FVncYpcoiyS5lY2ElwtK8"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6DHkCwUMD9SDHWc6dgnIxR"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6DHkCwUMD9SDHWc6dgnIxR",
+        "id" : "6DHkCwUMD9SDHWc6dgnIxR",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fca81276bb2192e4c398ff06",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fca81276bb2192e4c398ff06",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fca81276bb2192e4c398ff06",
+          "width" : 64
+        } ],
+        "name" : "The Finest Brahms Recordings (Remastered)",
+        "release_date" : "2015-06-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:6DHkCwUMD9SDHWc6dgnIxR"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+        "id" : "5wTAi7QkpP6kp8a54lmTOq",
+        "name" : "Johannes Brahms",
+        "type" : "artist",
+        "uri" : "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3QK4fNtQUGr2PbZYC5lQzH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3QK4fNtQUGr2PbZYC5lQzH",
+        "id" : "3QK4fNtQUGr2PbZYC5lQzH",
+        "name" : "Kathleen Ferrier",
+        "type" : "artist",
+        "uri" : "spotify:artist:3QK4fNtQUGr2PbZYC5lQzH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/23BiSNXm5UaRFuusoWisYO",
+        "id" : "23BiSNXm5UaRFuusoWisYO",
+        "name" : "BBC Symphony Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:23BiSNXm5UaRFuusoWisYO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4FVncYpcoiyS5lY2ElwtK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4FVncYpcoiyS5lY2ElwtK8",
+        "id" : "4FVncYpcoiyS5lY2ElwtK8",
+        "name" : "Sir Malcolm Sargent",
+        "type" : "artist",
+        "uri" : "spotify:artist:4FVncYpcoiyS5lY2ElwtK8"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 348520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USB8U1516895"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1TOf71RwPIUl7FJ6luxGcT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1TOf71RwPIUl7FJ6luxGcT",
+      "id" : "1TOf71RwPIUl7FJ6luxGcT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "4 Ernste Gesänge, Op. 121 (Version for Voice & Orchestra): No. 4. Though I speak with tongues of men",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/de6ea0364f24440a26a9e826b406711ae19e4737?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:1TOf71RwPIUl7FJ6luxGcT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zZMvZoNqA78JIu04ylIXl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zZMvZoNqA78JIu04ylIXl",
+          "id" : "5zZMvZoNqA78JIu04ylIXl",
+          "name" : "Nina Stemme",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zZMvZoNqA78JIu04ylIXl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1vrXwkF3Zgqdf2qN3jjad5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1vrXwkF3Zgqdf2qN3jjad5",
+        "id" : "1vrXwkF3Zgqdf2qN3jjad5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273006b0bad6894e02682e50ffb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02006b0bad6894e02682e50ffb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851006b0bad6894e02682e50ffb",
+          "width" : 64
+        } ],
+        "name" : "Bach: Cantatas Nos. 56 and 82 / Brahms: 4 Ernste Gesange, Op. 121",
+        "release_date" : "2005-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:1vrXwkF3Zgqdf2qN3jjad5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+        "id" : "5wTAi7QkpP6kp8a54lmTOq",
+        "name" : "Johannes Brahms",
+        "type" : "artist",
+        "uri" : "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zZMvZoNqA78JIu04ylIXl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zZMvZoNqA78JIu04ylIXl",
+        "id" : "5zZMvZoNqA78JIu04ylIXl",
+        "name" : "Nina Stemme",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zZMvZoNqA78JIu04ylIXl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3B3RJRZTNBW9Mp7vTcx6G4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3B3RJRZTNBW9Mp7vTcx6G4",
+        "id" : "3B3RJRZTNBW9Mp7vTcx6G4",
+        "name" : "Hertha Klust",
+        "type" : "artist",
+        "uri" : "spotify:artist:3B3RJRZTNBW9Mp7vTcx6G4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 292573,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEAD60501314"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4uDdGKN1EdPkKz4OZqyK5C"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4uDdGKN1EdPkKz4OZqyK5C",
+      "id" : "4uDdGKN1EdPkKz4OZqyK5C",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "4 Ernste Gesange, Op. 121: IV. Wenn ich mit Menschen- und Engelszungen redete (Though I speak with the tongues of men and of angels)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8dbc941fdc78d88c6583267e5570f150a1a5592d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:4uDdGKN1EdPkKz4OZqyK5C"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+          "id" : "5wTAi7QkpP6kp8a54lmTOq",
+          "name" : "Johannes Brahms",
+          "type" : "artist",
+          "uri" : "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2U8jtTLeSq7hMhJcWBpjlI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2U8jtTLeSq7hMhJcWBpjlI",
+        "id" : "2U8jtTLeSq7hMhJcWBpjlI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d0cf4be04ca6221b37fcf186",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d0cf4be04ca6221b37fcf186",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d0cf4be04ca6221b37fcf186",
+          "width" : 64
+        } ],
+        "name" : "Brahms: Lieder (Complete Edition, Vol. 9)",
+        "release_date" : "2010-05-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:2U8jtTLeSq7hMhJcWBpjlI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+        "id" : "5wTAi7QkpP6kp8a54lmTOq",
+        "name" : "Johannes Brahms",
+        "type" : "artist",
+        "uri" : "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ApClEF1u5afGWjPRSIzea"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ApClEF1u5afGWjPRSIzea",
+        "id" : "3ApClEF1u5afGWjPRSIzea",
+        "name" : "Andreas Schmidt",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ApClEF1u5afGWjPRSIzea"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3v6738Dv4OlBRXQgSmrIeQ",
+        "id" : "3v6738Dv4OlBRXQgSmrIeQ",
+        "name" : "Helmut Deutsch",
+        "type" : "artist",
+        "uri" : "spotify:artist:3v6738Dv4OlBRXQgSmrIeQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 326360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEB209984022"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6tx3wzOK2i0m5J2t5nrQwt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6tx3wzOK2i0m5J2t5nrQwt",
+      "id" : "6tx3wzOK2i0m5J2t5nrQwt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "4 Ernste Gesange, Op. 121: No. 4. Wenn ich mit Menschen und Engelszungen redete (Though I speak with the tongues of men and of angels)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9b7eac5f75e6c89874d444cb3d697417ff53670a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 22,
+      "type" : "track",
+      "uri" : "spotify:track:6tx3wzOK2i0m5J2t5nrQwt"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7nEoHbcdVAwMuUylFBKhCN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7nEoHbcdVAwMuUylFBKhCN",
+          "id" : "7nEoHbcdVAwMuUylFBKhCN",
+          "name" : "New York Vocal Arts Ensemble",
+          "type" : "artist",
+          "uri" : "spotify:artist:7nEoHbcdVAwMuUylFBKhCN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0cEcEe5VxzHSdULlCTuPxK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0cEcEe5VxzHSdULlCTuPxK",
+        "id" : "0cEcEe5VxzHSdULlCTuPxK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/331651b62a0bdbdd1099278399685f2f8426cfea",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c34ff5fcb89e2e6633249dcb995ee1b9e68efa13",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a171268fa4747568e2880fd6d8dd1bdf158cbf46",
+          "width" : 64
+        } ],
+        "name" : "Brahms Quartets For Four Solo Voices & Piano",
+        "release_date" : "2006-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:0cEcEe5VxzHSdULlCTuPxK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7nEoHbcdVAwMuUylFBKhCN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7nEoHbcdVAwMuUylFBKhCN",
+        "id" : "7nEoHbcdVAwMuUylFBKhCN",
+        "name" : "New York Vocal Arts Ensemble",
+        "type" : "artist",
+        "uri" : "spotify:artist:7nEoHbcdVAwMuUylFBKhCN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 293040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA220611339"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Du47CtiynrAv1AYTAfG4z"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Du47CtiynrAv1AYTAfG4z",
+      "id" : "3Du47CtiynrAv1AYTAfG4z",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Vier Ernste Gesänge (Four Serious Songs), Op. 121 - Wenn Ich Mit Menschenzungen Und Mit Engelzungen (Though I Speak With The Tongues Of Men And Of Angels)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c4bdda29771e62981ad66b89634a67c4319cde22?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:3Du47CtiynrAv1AYTAfG4z"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Though+I+Speak+With+Tongues&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Though+I+Speak+With+Tongues&type=track&market=US&offset=0&limit=10",
+    "total" : 39
+  }
+}

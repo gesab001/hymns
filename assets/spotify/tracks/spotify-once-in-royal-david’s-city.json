@@ -1,0 +1,744 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Once+in+Royal+David%E2%80%99s+City&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0f3PsS9IQ6whvNMFFKnpjl",
+          "id" : "0f3PsS9IQ6whvNMFFKnpjl",
+          "name" : "Choir of King's College, Cambridge",
+          "type" : "artist",
+          "uri" : "spotify:artist:0f3PsS9IQ6whvNMFFKnpjl"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0ugRf6ECGBFRCHlv9iG1No",
+          "id" : "0ugRf6ECGBFRCHlv9iG1No",
+          "name" : "Stephen Cleobury",
+          "type" : "artist",
+          "uri" : "spotify:artist:0ugRf6ECGBFRCHlv9iG1No"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6Tc3jFEIS2cOYS51Iv556T"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6Tc3jFEIS2cOYS51Iv556T",
+        "id" : "6Tc3jFEIS2cOYS51Iv556T",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f09127f05f947369dbed5252",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f09127f05f947369dbed5252",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f09127f05f947369dbed5252",
+          "width" : 64
+        } ],
+        "name" : "Carols from King's",
+        "release_date" : "2012-12-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:6Tc3jFEIS2cOYS51Iv556T"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0a3dV5qOtq2AmcMBLkl1kg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0a3dV5qOtq2AmcMBLkl1kg",
+        "id" : "0a3dV5qOtq2AmcMBLkl1kg",
+        "name" : "Henry Gauntlet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0a3dV5qOtq2AmcMBLkl1kg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0f3PsS9IQ6whvNMFFKnpjl",
+        "id" : "0f3PsS9IQ6whvNMFFKnpjl",
+        "name" : "Choir of King's College, Cambridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:0f3PsS9IQ6whvNMFFKnpjl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ugRf6ECGBFRCHlv9iG1No",
+        "id" : "0ugRf6ECGBFRCHlv9iG1No",
+        "name" : "Stephen Cleobury",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ugRf6ECGBFRCHlv9iG1No"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ydL3z2G6caDkArOagfLYx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ydL3z2G6caDkArOagfLYx",
+        "id" : "5ydL3z2G6caDkArOagfLYx",
+        "name" : "Guy Johnston",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ydL3z2G6caDkArOagfLYx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25xZZmlksUhhWKjpaCYPKS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25xZZmlksUhhWKjpaCYPKS",
+        "id" : "25xZZmlksUhhWKjpaCYPKS",
+        "name" : "David Goode",
+        "type" : "artist",
+        "uri" : "spotify:artist:25xZZmlksUhhWKjpaCYPKS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 281533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NLY331215070"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2O8en4nuwOSMT87zldfRL4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2O8en4nuwOSMT87zldfRL4",
+      "id" : "2O8en4nuwOSMT87zldfRL4",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Once in Royal David's City",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0fa35ec096024b1ef66049981185cfb21013ea95?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2O8en4nuwOSMT87zldfRL4"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6NWtt9pNOL2Gx7kBykdE5x",
+          "id" : "6NWtt9pNOL2Gx7kBykdE5x",
+          "name" : "Celtic Woman",
+          "type" : "artist",
+          "uri" : "spotify:artist:6NWtt9pNOL2Gx7kBykdE5x"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7v803jrnOG2WmjlpUTzvi7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7v803jrnOG2WmjlpUTzvi7",
+        "id" : "7v803jrnOG2WmjlpUTzvi7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736e2b8086f7164f06d82c195e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026e2b8086f7164f06d82c195e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516e2b8086f7164f06d82c195e",
+          "width" : 64
+        } ],
+        "name" : "Voices Of Angels",
+        "release_date" : "2016-11-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:7v803jrnOG2WmjlpUTzvi7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6NWtt9pNOL2Gx7kBykdE5x",
+        "id" : "6NWtt9pNOL2Gx7kBykdE5x",
+        "name" : "Celtic Woman",
+        "type" : "artist",
+        "uri" : "spotify:artist:6NWtt9pNOL2Gx7kBykdE5x"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 248520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUG11600929"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1PMpwx5soGesi1tZ2RM9po"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1PMpwx5soGesi1tZ2RM9po",
+      "id" : "1PMpwx5soGesi1tZ2RM9po",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Once In Royal David's City",
+      "popularity" : 14,
+      "preview_url" : null,
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:1PMpwx5soGesi1tZ2RM9po"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6GPX4INtjMAiKD0cRKWTdn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6GPX4INtjMAiKD0cRKWTdn",
+          "id" : "6GPX4INtjMAiKD0cRKWTdn",
+          "name" : "Always Christmas",
+          "type" : "artist",
+          "uri" : "spotify:artist:6GPX4INtjMAiKD0cRKWTdn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0F23PUQhrmGcB1X7PZzPXV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0F23PUQhrmGcB1X7PZzPXV",
+        "id" : "0F23PUQhrmGcB1X7PZzPXV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a640be34ee9f2a864396bc20",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a640be34ee9f2a864396bc20",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a640be34ee9f2a864396bc20",
+          "width" : 64
+        } ],
+        "name" : "Piano Christmas Classics 3",
+        "release_date" : "2018-11-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:0F23PUQhrmGcB1X7PZzPXV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6GPX4INtjMAiKD0cRKWTdn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6GPX4INtjMAiKD0cRKWTdn",
+        "id" : "6GPX4INtjMAiKD0cRKWTdn",
+        "name" : "Always Christmas",
+        "type" : "artist",
+        "uri" : "spotify:artist:6GPX4INtjMAiKD0cRKWTdn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 118893,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBWUL1809500"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0MO0bxdPYMzo6uS5J442KN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0MO0bxdPYMzo6uS5J442KN",
+      "id" : "0MO0bxdPYMzo6uS5J442KN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Once In A Royal David's City",
+      "popularity" : 14,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d311da8cbcd4b94786cd022e3ed54af921a1a0fc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:0MO0bxdPYMzo6uS5J442KN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4W2mcEq4BtIpUc3vlvXOpy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4W2mcEq4BtIpUc3vlvXOpy",
+          "id" : "4W2mcEq4BtIpUc3vlvXOpy",
+          "name" : "Jay R. Powell",
+          "type" : "artist",
+          "uri" : "spotify:artist:4W2mcEq4BtIpUc3vlvXOpy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3h0AA5hq51qPmLXSRCBVbc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3h0AA5hq51qPmLXSRCBVbc",
+        "id" : "3h0AA5hq51qPmLXSRCBVbc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f3581290cac559aea85ad5d6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f3581290cac559aea85ad5d6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f3581290cac559aea85ad5d6",
+          "width" : 64
+        } ],
+        "name" : "All is Calm",
+        "release_date" : "2006-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:3h0AA5hq51qPmLXSRCBVbc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4W2mcEq4BtIpUc3vlvXOpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4W2mcEq4BtIpUc3vlvXOpy",
+        "id" : "4W2mcEq4BtIpUc3vlvXOpy",
+        "name" : "Jay R. Powell",
+        "type" : "artist",
+        "uri" : "spotify:artist:4W2mcEq4BtIpUc3vlvXOpy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 320653,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p0628825"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3EgVKcqWcIcqs1OrHwgT7v"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3EgVKcqWcIcqs1OrHwgT7v",
+      "id" : "3EgVKcqWcIcqs1OrHwgT7v",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Once in Royal David's City",
+      "popularity" : 14,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3792846a4e9556f3484f866fa0a7599c484d3d61?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3EgVKcqWcIcqs1OrHwgT7v"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+          "id" : "4MXUO7sVCaFgFjoTI5ox5c",
+          "name" : "Sufjan Stevens",
+          "type" : "artist",
+          "uri" : "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6ZCbYO3B5eslkY3zHdss4A",
+        "id" : "6ZCbYO3B5eslkY3zHdss4A",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273527eb894a2ac5a38f313f9ba",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02527eb894a2ac5a38f313f9ba",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851527eb894a2ac5a38f313f9ba",
+          "width" : 64
+        } ],
+        "name" : "Songs For Christmas",
+        "release_date" : "2006-11-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 42,
+        "type" : "album",
+        "uri" : "spotify:album:6ZCbYO3B5eslkY3zHdss4A"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+        "id" : "4MXUO7sVCaFgFjoTI5ox5c",
+        "name" : "Sufjan Stevens",
+        "type" : "artist",
+        "uri" : "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 220066,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US64G0602813"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6rnO4Hu53CvH0TqIshcjfn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6rnO4Hu53CvH0TqIshcjfn",
+      "id" : "6rnO4Hu53CvH0TqIshcjfn",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Once in Royal David's City",
+      "popularity" : 14,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a88e981faa68f5a1c16db34ae1087afb7dfe9243?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6rnO4Hu53CvH0TqIshcjfn"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6GPX4INtjMAiKD0cRKWTdn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6GPX4INtjMAiKD0cRKWTdn",
+          "id" : "6GPX4INtjMAiKD0cRKWTdn",
+          "name" : "Always Christmas",
+          "type" : "artist",
+          "uri" : "spotify:artist:6GPX4INtjMAiKD0cRKWTdn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2GxOlMFQlbgWxAiqg58CFm"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2GxOlMFQlbgWxAiqg58CFm",
+        "id" : "2GxOlMFQlbgWxAiqg58CFm",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27300ccb4358534b9c8b6259eb2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0200ccb4358534b9c8b6259eb2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485100ccb4358534b9c8b6259eb2",
+          "width" : 64
+        } ],
+        "name" : "Children's Piano Christmas Classics 1",
+        "release_date" : "2018-11-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:2GxOlMFQlbgWxAiqg58CFm"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6GPX4INtjMAiKD0cRKWTdn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6GPX4INtjMAiKD0cRKWTdn",
+        "id" : "6GPX4INtjMAiKD0cRKWTdn",
+        "name" : "Always Christmas",
+        "type" : "artist",
+        "uri" : "spotify:artist:6GPX4INtjMAiKD0cRKWTdn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 33928,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBWUL1809425"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2HWtt5Jf0amrzimNbolKaL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2HWtt5Jf0amrzimNbolKaL",
+      "id" : "2HWtt5Jf0amrzimNbolKaL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Once In A Royal David's City",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f0153f11c0cc8a9a87a7ed47c53005aada428acd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:2HWtt5Jf0amrzimNbolKaL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0JQ4Pe0Asm5BjrJrDmmgjY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0JQ4Pe0Asm5BjrJrDmmgjY",
+          "id" : "0JQ4Pe0Asm5BjrJrDmmgjY",
+          "name" : "Sir Charles Hammer",
+          "type" : "artist",
+          "uri" : "spotify:artist:0JQ4Pe0Asm5BjrJrDmmgjY"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0iQN3dpetGrrOzZ5LQc2zA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0iQN3dpetGrrOzZ5LQc2zA",
+        "id" : "0iQN3dpetGrrOzZ5LQc2zA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f7ea6adb18f060f9b64ca78f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f7ea6adb18f060f9b64ca78f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f7ea6adb18f060f9b64ca78f",
+          "width" : 64
+        } ],
+        "name" : "A Classical Guitar Christmas",
+        "release_date" : "2001-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:0iQN3dpetGrrOzZ5LQc2zA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YWlj6EjajT4kisY1ZRbyV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YWlj6EjajT4kisY1ZRbyV",
+        "id" : "1YWlj6EjajT4kisY1ZRbyV",
+        "name" : "Charles Hammer",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YWlj6EjajT4kisY1ZRbyV"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 55960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm20339934"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0e6g5xcgP9nDrHZrek3glW"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0e6g5xcgP9nDrHZrek3glW",
+      "id" : "0e6g5xcgP9nDrHZrek3glW",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Once In Royal David's City",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bd5961853556986ba1ce69583cc7ed4cc578718f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:0e6g5xcgP9nDrHZrek3glW"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2lDf4hYD0RvgNtYgblvb4i",
+          "id" : "2lDf4hYD0RvgNtYgblvb4i",
+          "name" : "Tori Harper",
+          "type" : "artist",
+          "uri" : "spotify:artist:2lDf4hYD0RvgNtYgblvb4i"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0FZ1Z3YvLJFepHmEXiKrdb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0FZ1Z3YvLJFepHmEXiKrdb",
+        "id" : "0FZ1Z3YvLJFepHmEXiKrdb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d7972469bdd29d4eadfd6e32",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d7972469bdd29d4eadfd6e32",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d7972469bdd29d4eadfd6e32",
+          "width" : 64
+        } ],
+        "name" : "The Greatest Love (Once in Royale David City)",
+        "release_date" : "2018-11-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:0FZ1Z3YvLJFepHmEXiKrdb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2lDf4hYD0RvgNtYgblvb4i",
+        "id" : "2lDf4hYD0RvgNtYgblvb4i",
+        "name" : "Tori Harper",
+        "type" : "artist",
+        "uri" : "spotify:artist:2lDf4hYD0RvgNtYgblvb4i"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 204866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921850212"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1BNmknPm6XKu8bij1DehlO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1BNmknPm6XKu8bij1DehlO",
+      "id" : "1BNmknPm6XKu8bij1DehlO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Greatest Love (Once in Royale David City)",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f11efb74168b519711d3a8a3ecd776f4b0021a64?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1BNmknPm6XKu8bij1DehlO"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/44FVyueHCLAMyJPnvCqqwM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/44FVyueHCLAMyJPnvCqqwM",
+          "id" : "44FVyueHCLAMyJPnvCqqwM",
+          "name" : "The Lower Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:44FVyueHCLAMyJPnvCqqwM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2V4arihZsXIg8mQfyxZfDt"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2V4arihZsXIg8mQfyxZfDt",
+        "id" : "2V4arihZsXIg8mQfyxZfDt",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bc657294125e6e3e346e33de",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bc657294125e6e3e346e33de",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bc657294125e6e3e346e33de",
+          "width" : 64
+        } ],
+        "name" : "Sing Noel",
+        "release_date" : "2013-11-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2V4arihZsXIg8mQfyxZfDt"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44FVyueHCLAMyJPnvCqqwM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44FVyueHCLAMyJPnvCqqwM",
+        "id" : "44FVyueHCLAMyJPnvCqqwM",
+        "name" : "The Lower Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:44FVyueHCLAMyJPnvCqqwM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USULT1300089"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3NDSATae9UNrX2wQIpt8yj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3NDSATae9UNrX2wQIpt8yj",
+      "id" : "3NDSATae9UNrX2wQIpt8yj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Once in Royal David's City",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/330cc254c839961c02fd6f91cfb68b100b75eee9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3NDSATae9UNrX2wQIpt8yj"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7nuIwq2Zylfuui60pnEqM5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7nuIwq2Zylfuui60pnEqM5",
+        "id" : "7nuIwq2Zylfuui60pnEqM5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736ebecb8503f4271f04801c39",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026ebecb8503f4271f04801c39",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516ebecb8503f4271f04801c39",
+          "width" : 64
+        } ],
+        "name" : "Classical Christmas - Classical Interpretations Of Christmas Favorites",
+        "release_date" : "2005-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:7nuIwq2Zylfuui60pnEqM5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0qgVqachNFzqkjvn7ryBHz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0qgVqachNFzqkjvn7ryBHz",
+        "id" : "0qgVqachNFzqkjvn7ryBHz",
+        "name" : "Roger Wilcock",
+        "type" : "artist",
+        "uri" : "spotify:artist:0qgVqachNFzqkjvn7ryBHz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4g4yYZnLuuhPGOpuRqSwrW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4g4yYZnLuuhPGOpuRqSwrW",
+        "id" : "4g4yYZnLuuhPGOpuRqSwrW",
+        "name" : "Ian Gill",
+        "type" : "artist",
+        "uri" : "spotify:artist:4g4yYZnLuuhPGOpuRqSwrW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/41hCpLaR1bEW5ETK3aPvDB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/41hCpLaR1bEW5ETK3aPvDB",
+        "id" : "41hCpLaR1bEW5ETK3aPvDB",
+        "name" : "The Eden Symphony Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:41hCpLaR1bEW5ETK3aPvDB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 145520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBCEU0545213"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/38WRvqixz9Yrqxwh8jWH0a"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/38WRvqixz9Yrqxwh8jWH0a",
+      "id" : "38WRvqixz9Yrqxwh8jWH0a",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Once In Royal David's City - Instrumental",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/10f8539813b74fdef8f41621625ab6e62d3953c4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:38WRvqixz9Yrqxwh8jWH0a"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Once+in+Royal+David%E2%80%99s+City&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Once+in+Royal+David%E2%80%99s+City&type=track&market=US&offset=0&limit=10",
+    "total" : 2073
+  }
+}

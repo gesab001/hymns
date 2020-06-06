@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Lead+Me%2C+Lord&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0zMwOM0uJz6pc5hSp1tQw4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0zMwOM0uJz6pc5hSp1tQw4",
+          "id" : "0zMwOM0uJz6pc5hSp1tQw4",
+          "name" : "Daniel Glick",
+          "type" : "artist",
+          "uri" : "spotify:artist:0zMwOM0uJz6pc5hSp1tQw4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2od0j6OyCYMOXzIxBTEBrQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2od0j6OyCYMOXzIxBTEBrQ",
+        "id" : "2od0j6OyCYMOXzIxBTEBrQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fb933c21c8067918100dd69d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fb933c21c8067918100dd69d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fb933c21c8067918100dd69d",
+          "width" : 64
+        } ],
+        "name" : "Lead Me Lord",
+        "release_date" : "2013-02-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2od0j6OyCYMOXzIxBTEBrQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0zMwOM0uJz6pc5hSp1tQw4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0zMwOM0uJz6pc5hSp1tQw4",
+        "id" : "0zMwOM0uJz6pc5hSp1tQw4",
+        "name" : "Daniel Glick",
+        "type" : "artist",
+        "uri" : "spotify:artist:0zMwOM0uJz6pc5hSp1tQw4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231093,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21557746"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2cMQTFAvY0jHOzEenB7PLt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2cMQTFAvY0jHOzEenB7PLt",
+      "id" : "2cMQTFAvY0jHOzEenB7PLt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lead Me Lord",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f1e6079cf59cf05b2f9a041070cdc84efa74ba87?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:2cMQTFAvY0jHOzEenB7PLt"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7FpmxuJEH8hTuJXA72ToNs"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7FpmxuJEH8hTuJXA72ToNs",
+        "id" : "7FpmxuJEH8hTuJXA72ToNs",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273484677281e22e2a9b438072b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02484677281e22e2a9b438072b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851484677281e22e2a9b438072b",
+          "width" : 64
+        } ],
+        "name" : "We Are All God's Children",
+        "release_date" : "2014-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:7FpmxuJEH8hTuJXA72ToNs"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16CCBPX5mzubsrAYIT0a03"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16CCBPX5mzubsrAYIT0a03",
+        "id" : "16CCBPX5mzubsrAYIT0a03",
+        "name" : "Aiza Sequerra",
+        "type" : "artist",
+        "uri" : "spotify:artist:16CCBPX5mzubsrAYIT0a03"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 274853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "PHS091003972"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2eoobUIrLMBZmYgjbKzHJf"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2eoobUIrLMBZmYgjbKzHJf",
+      "id" : "2eoobUIrLMBZmYgjbKzHJf",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lead Me Lord",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f2b3d15efda97e3eb5394319623b592264635953?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:2eoobUIrLMBZmYgjbKzHJf"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6jrOXvvjFaAWvZViSY4beA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6jrOXvvjFaAWvZViSY4beA",
+          "id" : "6jrOXvvjFaAWvZViSY4beA",
+          "name" : "The University of the Philippines Singing Ambassadors",
+          "type" : "artist",
+          "uri" : "spotify:artist:6jrOXvvjFaAWvZViSY4beA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/20EQYjuv7B2hnVRaDXtWYn"
+        },
+        "href" : "https://api.spotify.com/v1/albums/20EQYjuv7B2hnVRaDXtWYn",
+        "id" : "20EQYjuv7B2hnVRaDXtWYn",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27339b28d435b9f44317e97c047",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0239b28d435b9f44317e97c047",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485139b28d435b9f44317e97c047",
+          "width" : 64
+        } ],
+        "name" : "The University of the Philippines Singing Ambassadors Live at Luxembourg",
+        "release_date" : "2005-08-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:20EQYjuv7B2hnVRaDXtWYn"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jrOXvvjFaAWvZViSY4beA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jrOXvvjFaAWvZViSY4beA",
+        "id" : "6jrOXvvjFaAWvZViSY4beA",
+        "name" : "The University of the Philippines Singing Ambassadors",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jrOXvvjFaAWvZViSY4beA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 279013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACT1653196"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6cwfqcQ9NTF6q1Dc7Kp1u5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6cwfqcQ9NTF6q1Dc7Kp1u5",
+      "id" : "6cwfqcQ9NTF6q1Dc7Kp1u5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lead Me Lord (Live)",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/36a15ca0ad7f31140cc78e4ff713e5dfc9eb13a6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6cwfqcQ9NTF6q1Dc7Kp1u5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2XyFIwspWaxedXYnkEQI0n"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2XyFIwspWaxedXYnkEQI0n",
+          "id" : "2XyFIwspWaxedXYnkEQI0n",
+          "name" : "The Rahming Brothers",
+          "type" : "artist",
+          "uri" : "spotify:artist:2XyFIwspWaxedXYnkEQI0n"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1Bp7C40Kr0EWvaxkOpsxym"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1Bp7C40Kr0EWvaxkOpsxym",
+        "id" : "1Bp7C40Kr0EWvaxkOpsxym",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27351f2ff64137d3795b016e6a6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0251f2ff64137d3795b016e6a6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485151f2ff64137d3795b016e6a6",
+          "width" : 64
+        } ],
+        "name" : "God Specializes",
+        "release_date" : "2009-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1Bp7C40Kr0EWvaxkOpsxym"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XyFIwspWaxedXYnkEQI0n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XyFIwspWaxedXYnkEQI0n",
+        "id" : "2XyFIwspWaxedXYnkEQI0n",
+        "name" : "The Rahming Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XyFIwspWaxedXYnkEQI0n"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 233186,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1193913"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2yfQUcqLrc7x3PbWsk8Bmt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2yfQUcqLrc7x3PbWsk8Bmt",
+      "id" : "2yfQUcqLrc7x3PbWsk8Bmt",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lord Lead Me On",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f0a99fe51464bfccdf8705a03eff796ff4ff5d89?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:2yfQUcqLrc7x3PbWsk8Bmt"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6yHlLzOTenVkSW9K38AdYT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6yHlLzOTenVkSW9K38AdYT",
+          "id" : "6yHlLzOTenVkSW9K38AdYT",
+          "name" : "Mercy Message",
+          "type" : "artist",
+          "uri" : "spotify:artist:6yHlLzOTenVkSW9K38AdYT"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2XBuV8Pn3QoMabnb4xasIu"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2XBuV8Pn3QoMabnb4xasIu",
+        "id" : "2XBuV8Pn3QoMabnb4xasIu",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f741284bcf1ce27e6f698567",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f741284bcf1ce27e6f698567",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f741284bcf1ce27e6f698567",
+          "width" : 64
+        } ],
+        "name" : "Lead Through the Desert",
+        "release_date" : "2019-07-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 25,
+        "type" : "album",
+        "uri" : "spotify:album:2XBuV8Pn3QoMabnb4xasIu"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yHlLzOTenVkSW9K38AdYT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yHlLzOTenVkSW9K38AdYT",
+        "id" : "6yHlLzOTenVkSW9K38AdYT",
+        "name" : "Mercy Message",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yHlLzOTenVkSW9K38AdYT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 170000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZFZ21938379"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/36cuNncBdfvZktbJUpftvR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/36cuNncBdfvZktbJUpftvR",
+      "id" : "36cuNncBdfvZktbJUpftvR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Teach Me Thy Will O Lord",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/57bffbca385df951e4388a0652bd5fc6956ec5ad?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:36cuNncBdfvZktbJUpftvR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/76De3CbnkyCKbNg5vDSqI7",
+          "id" : "76De3CbnkyCKbNg5vDSqI7",
+          "name" : "The Hoppers",
+          "type" : "artist",
+          "uri" : "spotify:artist:76De3CbnkyCKbNg5vDSqI7"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6rM7FWwTmfkORswwIywK6N"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6rM7FWwTmfkORswwIywK6N",
+        "id" : "6rM7FWwTmfkORswwIywK6N",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27333140234589b7294fbae2abb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0233140234589b7294fbae2abb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485133140234589b7294fbae2abb",
+          "width" : 64
+        } ],
+        "name" : "Honor The First Families Of Gospel Music",
+        "release_date" : "2018-04-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6rM7FWwTmfkORswwIywK6N"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/76De3CbnkyCKbNg5vDSqI7",
+        "id" : "76De3CbnkyCKbNg5vDSqI7",
+        "name" : "The Hoppers",
+        "type" : "artist",
+        "uri" : "spotify:artist:76De3CbnkyCKbNg5vDSqI7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 188506,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMNBQ1700099"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0nv1L83UVxTbPSzd2vK10l"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0nv1L83UVxTbPSzd2vK10l",
+      "id" : "0nv1L83UVxTbPSzd2vK10l",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lord, Lead Me On",
+      "popularity" : 19,
+      "preview_url" : null,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0nv1L83UVxTbPSzd2vK10l"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0zMwOM0uJz6pc5hSp1tQw4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0zMwOM0uJz6pc5hSp1tQw4",
+          "id" : "0zMwOM0uJz6pc5hSp1tQw4",
+          "name" : "Daniel Glick",
+          "type" : "artist",
+          "uri" : "spotify:artist:0zMwOM0uJz6pc5hSp1tQw4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2od0j6OyCYMOXzIxBTEBrQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2od0j6OyCYMOXzIxBTEBrQ",
+        "id" : "2od0j6OyCYMOXzIxBTEBrQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fb933c21c8067918100dd69d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fb933c21c8067918100dd69d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fb933c21c8067918100dd69d",
+          "width" : 64
+        } ],
+        "name" : "Lead Me Lord",
+        "release_date" : "2013-02-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2od0j6OyCYMOXzIxBTEBrQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0zMwOM0uJz6pc5hSp1tQw4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0zMwOM0uJz6pc5hSp1tQw4",
+        "id" : "0zMwOM0uJz6pc5hSp1tQw4",
+        "name" : "Daniel Glick",
+        "type" : "artist",
+        "uri" : "spotify:artist:0zMwOM0uJz6pc5hSp1tQw4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 215160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21557751"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2zyTwvOLu5ZIWhzeWreEyn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2zyTwvOLu5ZIWhzeWreEyn",
+      "id" : "2zyTwvOLu5ZIWhzeWreEyn",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Face the Fire",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f40137c4fc5a14759aef6eacf9e1e3d402ee17b2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:2zyTwvOLu5ZIWhzeWreEyn"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+          "id" : "11sAWrpIkFUPQlXoQqpeBV",
+          "name" : "Bill & Gloria Gaither",
+          "type" : "artist",
+          "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4OYy5718s3tVrpk7KGEWpV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4OYy5718s3tVrpk7KGEWpV",
+        "id" : "4OYy5718s3tVrpk7KGEWpV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f9e25753d77656726b91887e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f9e25753d77656726b91887e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f9e25753d77656726b91887e",
+          "width" : 64
+        } ],
+        "name" : "Church In The Wildwood",
+        "release_date" : "2005-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:4OYy5718s3tVrpk7KGEWpV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+        "id" : "11sAWrpIkFUPQlXoQqpeBV",
+        "name" : "Bill & Gloria Gaither",
+        "type" : "artist",
+        "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 186493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USNPD0714178"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1WxZuk7KpkJ2QpjdkdKHiG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1WxZuk7KpkJ2QpjdkdKHiG",
+      "id" : "1WxZuk7KpkJ2QpjdkdKHiG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lord Lead Me On",
+      "popularity" : 20,
+      "preview_url" : null,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1WxZuk7KpkJ2QpjdkdKHiG"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0RHiqaoRCsFLPeEuj3OQz4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0RHiqaoRCsFLPeEuj3OQz4",
+          "id" : "0RHiqaoRCsFLPeEuj3OQz4",
+          "name" : "Gary Valenciano",
+          "type" : "artist",
+          "uri" : "spotify:artist:0RHiqaoRCsFLPeEuj3OQz4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0nqTcNyaJDN7CqgoW9zaZQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0nqTcNyaJDN7CqgoW9zaZQ",
+        "id" : "0nqTcNyaJDN7CqgoW9zaZQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c9565dc4da1c659ec161a54e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c9565dc4da1c659ec161a54e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c9565dc4da1c659ec161a54e",
+          "width" : 64
+        } ],
+        "name" : "Soul Full",
+        "release_date" : "2005-11-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:0nqTcNyaJDN7CqgoW9zaZQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0RHiqaoRCsFLPeEuj3OQz4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0RHiqaoRCsFLPeEuj3OQz4",
+        "id" : "0RHiqaoRCsFLPeEuj3OQz4",
+        "name" : "Gary Valenciano",
+        "type" : "artist",
+        "uri" : "spotify:artist:0RHiqaoRCsFLPeEuj3OQz4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 250264,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "PHU010002248"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6oXu0o1yrRTfRdeB8zpuHp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6oXu0o1yrRTfRdeB8zpuHp",
+      "id" : "6oXu0o1yrRTfRdeB8zpuHp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Lead Me Lord",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1e756c821bc33acd3b1e7cb4cbc26e2fc62925cc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:6oXu0o1yrRTfRdeB8zpuHp"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0zMwOM0uJz6pc5hSp1tQw4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0zMwOM0uJz6pc5hSp1tQw4",
+          "id" : "0zMwOM0uJz6pc5hSp1tQw4",
+          "name" : "Daniel Glick",
+          "type" : "artist",
+          "uri" : "spotify:artist:0zMwOM0uJz6pc5hSp1tQw4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2od0j6OyCYMOXzIxBTEBrQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2od0j6OyCYMOXzIxBTEBrQ",
+        "id" : "2od0j6OyCYMOXzIxBTEBrQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fb933c21c8067918100dd69d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fb933c21c8067918100dd69d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fb933c21c8067918100dd69d",
+          "width" : 64
+        } ],
+        "name" : "Lead Me Lord",
+        "release_date" : "2013-02-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2od0j6OyCYMOXzIxBTEBrQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0zMwOM0uJz6pc5hSp1tQw4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0zMwOM0uJz6pc5hSp1tQw4",
+        "id" : "0zMwOM0uJz6pc5hSp1tQw4",
+        "name" : "Daniel Glick",
+        "type" : "artist",
+        "uri" : "spotify:artist:0zMwOM0uJz6pc5hSp1tQw4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 169373,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21557744"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1yUgBg5yj6bKdvhblUHQPj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1yUgBg5yj6bKdvhblUHQPj",
+      "id" : "1yUgBg5yj6bKdvhblUHQPj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Savior Pilot Me",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/659de572ed52d2b44cb0824bf6146422f309be06?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1yUgBg5yj6bKdvhblUHQPj"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Lead+Me%2C+Lord&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Lead+Me%2C+Lord&type=track&market=US&offset=0&limit=10",
+    "total" : 461
+  }
+}

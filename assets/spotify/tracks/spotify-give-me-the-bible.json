@@ -1,0 +1,735 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Give+Me+the+Bible&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6HtNroow3pRDV5KsqlOyv5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6HtNroow3pRDV5KsqlOyv5",
+          "id" : "6HtNroow3pRDV5KsqlOyv5",
+          "name" : "Matt and Josie Minikus",
+          "type" : "artist",
+          "uri" : "spotify:artist:6HtNroow3pRDV5KsqlOyv5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/312BjdTohhQVgLMkMIwHAj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/312BjdTohhQVgLMkMIwHAj",
+        "id" : "312BjdTohhQVgLMkMIwHAj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27346e2571e5fa417d394e7e219",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0246e2571e5fa417d394e7e219",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485146e2571e5fa417d394e7e219",
+          "width" : 64
+        } ],
+        "name" : "Beginnings",
+        "release_date" : "2016-08-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:312BjdTohhQVgLMkMIwHAj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HtNroow3pRDV5KsqlOyv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HtNroow3pRDV5KsqlOyv5",
+        "id" : "6HtNroow3pRDV5KsqlOyv5",
+        "name" : "Matt and Josie Minikus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HtNroow3pRDV5KsqlOyv5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0lhwDtAtatC9COZV0jpqYN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0lhwDtAtatC9COZV0jpqYN",
+        "id" : "0lhwDtAtatC9COZV0jpqYN",
+        "name" : "Clint McKoy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0lhwDtAtatC9COZV0jpqYN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 205293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEE1968783"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4C1DtYeBPhDug0H2HTPnH7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4C1DtYeBPhDug0H2HTPnH7",
+      "id" : "4C1DtYeBPhDug0H2HTPnH7",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Give Me the Bible",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ef84b37465e8363ed4c36b7b7a6b835dfe02a97e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:4C1DtYeBPhDug0H2HTPnH7"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7GkPZD0O1btf2e5dtRZyfI",
+          "id" : "7GkPZD0O1btf2e5dtRZyfI",
+          "name" : "The Wonder Kids",
+          "type" : "artist",
+          "uri" : "spotify:artist:7GkPZD0O1btf2e5dtRZyfI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/42op3OweWDlumjvgFkh8nj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/42op3OweWDlumjvgFkh8nj",
+        "id" : "42op3OweWDlumjvgFkh8nj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a80381e1ca998e904db012e6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a80381e1ca998e904db012e6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a80381e1ca998e904db012e6",
+          "width" : 64
+        } ],
+        "name" : "100 Bible Songs for Kids!",
+        "release_date" : "2017-04-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 100,
+        "type" : "album",
+        "uri" : "spotify:album:42op3OweWDlumjvgFkh8nj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GkPZD0O1btf2e5dtRZyfI",
+        "id" : "7GkPZD0O1btf2e5dtRZyfI",
+        "name" : "The Wonder Kids",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GkPZD0O1btf2e5dtRZyfI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 66200,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USVX79800060"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/66uxFvm8tcV5WVPVDXV2Sa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/66uxFvm8tcV5WVPVDXV2Sa",
+      "id" : "66uxFvm8tcV5WVPVDXV2Sa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Give Me Oil in My Lamp",
+      "popularity" : 3,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8a20d7dfc43defd7e0cfb510c8950ab8ab8405ea?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 68,
+      "type" : "track",
+      "uri" : "spotify:track:66uxFvm8tcV5WVPVDXV2Sa"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7GkPZD0O1btf2e5dtRZyfI",
+          "id" : "7GkPZD0O1btf2e5dtRZyfI",
+          "name" : "The Wonder Kids",
+          "type" : "artist",
+          "uri" : "spotify:artist:7GkPZD0O1btf2e5dtRZyfI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DLNwMgQi85HVWxnmAijOI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DLNwMgQi85HVWxnmAijOI",
+        "id" : "3DLNwMgQi85HVWxnmAijOI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bcded9f62c1f944383516952",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bcded9f62c1f944383516952",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bcded9f62c1f944383516952",
+          "width" : 64
+        } ],
+        "name" : "The A to Z Memory Bible with Kirk Cameron, Vol. 1",
+        "release_date" : "2009-08-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 26,
+        "type" : "album",
+        "uri" : "spotify:album:3DLNwMgQi85HVWxnmAijOI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GkPZD0O1btf2e5dtRZyfI",
+        "id" : "7GkPZD0O1btf2e5dtRZyfI",
+        "name" : "The Wonder Kids",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GkPZD0O1btf2e5dtRZyfI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 166306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90972551"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4NbyID4meFWuuryrIkNdE2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4NbyID4meFWuuryrIkNdE2",
+      "id" : "4NbyID4meFWuuryrIkNdE2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Feeds the Thousands (Give)",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/67d3518a0610036c123b6309a2227930675b24ae?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4NbyID4meFWuuryrIkNdE2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/258Dm9AVtfbZA1w7gnEtzq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/258Dm9AVtfbZA1w7gnEtzq",
+          "id" : "258Dm9AVtfbZA1w7gnEtzq",
+          "name" : "Kim Mitzo Thompson",
+          "type" : "artist",
+          "uri" : "spotify:artist:258Dm9AVtfbZA1w7gnEtzq"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4YNwYlgMLlf1sviSR9JeQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4YNwYlgMLlf1sviSR9JeQy",
+          "id" : "4YNwYlgMLlf1sviSR9JeQy",
+          "name" : "Karen Mitzo Hilderbrand",
+          "type" : "artist",
+          "uri" : "spotify:artist:4YNwYlgMLlf1sviSR9JeQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4BOaQgWgOtvaLWHEO8AMPw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4BOaQgWgOtvaLWHEO8AMPw",
+        "id" : "4BOaQgWgOtvaLWHEO8AMPw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732703adb2d9164fc96788ffa7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022703adb2d9164fc96788ffa7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512703adb2d9164fc96788ffa7",
+          "width" : 64
+        } ],
+        "name" : "Twin Sisters: My First Bible Songs - Rise and Shine and Give God the Glory, Glory",
+        "release_date" : "1998",
+        "release_date_precision" : "year",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:4BOaQgWgOtvaLWHEO8AMPw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/258Dm9AVtfbZA1w7gnEtzq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/258Dm9AVtfbZA1w7gnEtzq",
+        "id" : "258Dm9AVtfbZA1w7gnEtzq",
+        "name" : "Kim Mitzo Thompson",
+        "type" : "artist",
+        "uri" : "spotify:artist:258Dm9AVtfbZA1w7gnEtzq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YNwYlgMLlf1sviSR9JeQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YNwYlgMLlf1sviSR9JeQy",
+        "id" : "4YNwYlgMLlf1sviSR9JeQy",
+        "name" : "Karen Mitzo Hilderbrand",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YNwYlgMLlf1sviSR9JeQy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 124226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USFEY1221704"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3fuY6eTGt12dffiHxoCJK5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3fuY6eTGt12dffiHxoCJK5",
+      "id" : "3fuY6eTGt12dffiHxoCJK5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Give Me Oil in My Lamp",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/824d3801ef0f899424c33a021a7852c30e4f3ce3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:3fuY6eTGt12dffiHxoCJK5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/258Dm9AVtfbZA1w7gnEtzq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/258Dm9AVtfbZA1w7gnEtzq",
+          "id" : "258Dm9AVtfbZA1w7gnEtzq",
+          "name" : "Kim Mitzo Thompson",
+          "type" : "artist",
+          "uri" : "spotify:artist:258Dm9AVtfbZA1w7gnEtzq"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4YNwYlgMLlf1sviSR9JeQy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4YNwYlgMLlf1sviSR9JeQy",
+          "id" : "4YNwYlgMLlf1sviSR9JeQy",
+          "name" : "Karen Mitzo Hilderbrand",
+          "type" : "artist",
+          "uri" : "spotify:artist:4YNwYlgMLlf1sviSR9JeQy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4BOaQgWgOtvaLWHEO8AMPw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4BOaQgWgOtvaLWHEO8AMPw",
+        "id" : "4BOaQgWgOtvaLWHEO8AMPw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732703adb2d9164fc96788ffa7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022703adb2d9164fc96788ffa7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512703adb2d9164fc96788ffa7",
+          "width" : 64
+        } ],
+        "name" : "Twin Sisters: My First Bible Songs - Rise and Shine and Give God the Glory, Glory",
+        "release_date" : "1998",
+        "release_date_precision" : "year",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:4BOaQgWgOtvaLWHEO8AMPw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/258Dm9AVtfbZA1w7gnEtzq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/258Dm9AVtfbZA1w7gnEtzq",
+        "id" : "258Dm9AVtfbZA1w7gnEtzq",
+        "name" : "Kim Mitzo Thompson",
+        "type" : "artist",
+        "uri" : "spotify:artist:258Dm9AVtfbZA1w7gnEtzq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YNwYlgMLlf1sviSR9JeQy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YNwYlgMLlf1sviSR9JeQy",
+        "id" : "4YNwYlgMLlf1sviSR9JeQy",
+        "name" : "Karen Mitzo Hilderbrand",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YNwYlgMLlf1sviSR9JeQy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 285066,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USFEY1220747"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/11pVJawFGnEha1ixFrXs6d"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/11pVJawFGnEha1ixFrXs6d",
+      "id" : "11pVJawFGnEha1ixFrXs6d",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus Loves the Little Children / Jesus Loves Me",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3bf694b0c6b3c99bc7e1a02ab8b9a0dee03339a6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:11pVJawFGnEha1ixFrXs6d"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5ZTCPuxqTBmTcJQy0G0Usc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5ZTCPuxqTBmTcJQy0G0Usc",
+          "id" : "5ZTCPuxqTBmTcJQy0G0Usc",
+          "name" : "Wayne Khin",
+          "type" : "artist",
+          "uri" : "spotify:artist:5ZTCPuxqTBmTcJQy0G0Usc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0GXQDuf9tsuvGqaPrRCmjp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0GXQDuf9tsuvGqaPrRCmjp",
+        "id" : "0GXQDuf9tsuvGqaPrRCmjp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f5799d2a0369c38a006a14b5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f5799d2a0369c38a006a14b5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f5799d2a0369c38a006a14b5",
+          "width" : 64
+        } ],
+        "name" : "Hymns for Dad",
+        "release_date" : "2014-10-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0GXQDuf9tsuvGqaPrRCmjp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ZTCPuxqTBmTcJQy0G0Usc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ZTCPuxqTBmTcJQy0G0Usc",
+        "id" : "5ZTCPuxqTBmTcJQy0G0Usc",
+        "name" : "Wayne Khin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ZTCPuxqTBmTcJQy0G0Usc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 260206,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91463186"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5L2TyzaldC2KXlyqudYrxl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5L2TyzaldC2KXlyqudYrxl",
+      "id" : "5L2TyzaldC2KXlyqudYrxl",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Give Me the Bible",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1f275af5ad861f3f05443ade3b04fa6c8b29ba50?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5L2TyzaldC2KXlyqudYrxl"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6chIT9NYdZw7XOXoVIqE3V"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6chIT9NYdZw7XOXoVIqE3V",
+          "id" : "6chIT9NYdZw7XOXoVIqE3V",
+          "name" : "Peggy Brown, Sylvia Brown-Roberts, and Raymond Brown",
+          "type" : "artist",
+          "uri" : "spotify:artist:6chIT9NYdZw7XOXoVIqE3V"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1Xjfc7PMByG9HowIiqTxBb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1Xjfc7PMByG9HowIiqTxBb",
+        "id" : "1Xjfc7PMByG9HowIiqTxBb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730aef2189abbb9c306ae74b2a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020aef2189abbb9c306ae74b2a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510aef2189abbb9c306ae74b2a",
+          "width" : 64
+        } ],
+        "name" : "Good News",
+        "release_date" : "2005-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1Xjfc7PMByG9HowIiqTxBb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6chIT9NYdZw7XOXoVIqE3V"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6chIT9NYdZw7XOXoVIqE3V",
+        "id" : "6chIT9NYdZw7XOXoVIqE3V",
+        "name" : "Peggy Brown, Sylvia Brown-Roberts, and Raymond Brown",
+        "type" : "artist",
+        "uri" : "spotify:artist:6chIT9NYdZw7XOXoVIqE3V"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 98040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90514486"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6dFYowMbYTmneWb9p9qmYC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6dFYowMbYTmneWb9p9qmYC",
+      "id" : "6dFYowMbYTmneWb9p9qmYC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Give me the Bible",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c1614b20c864b79cb63cc2d96dfed1e3b5ca2ecc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6dFYowMbYTmneWb9p9qmYC"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/01Er12nK5rrnHx8usFPJAs",
+          "id" : "01Er12nK5rrnHx8usFPJAs",
+          "name" : "Derek Fiechter",
+          "type" : "artist",
+          "uri" : "spotify:artist:01Er12nK5rrnHx8usFPJAs"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2XDOBQOobSTxtmFhWKdm6x",
+          "id" : "2XDOBQOobSTxtmFhWKdm6x",
+          "name" : "Brandon Fiechter",
+          "type" : "artist",
+          "uri" : "spotify:artist:2XDOBQOobSTxtmFhWKdm6x"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6jqGcax6fVjdI9n9PlJetV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6jqGcax6fVjdI9n9PlJetV",
+        "id" : "6jqGcax6fVjdI9n9PlJetV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273eee78e28d25b49dfdaeb961e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02eee78e28d25b49dfdaeb961e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851eee78e28d25b49dfdaeb961e",
+          "width" : 64
+        } ],
+        "name" : "Celtic Hymn Collection III",
+        "release_date" : "2016-11-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:6jqGcax6fVjdI9n9PlJetV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/01Er12nK5rrnHx8usFPJAs",
+        "id" : "01Er12nK5rrnHx8usFPJAs",
+        "name" : "Derek Fiechter",
+        "type" : "artist",
+        "uri" : "spotify:artist:01Er12nK5rrnHx8usFPJAs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm81691977"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/141Nk5QjRhlzwQgynRWuVv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/141Nk5QjRhlzwQgynRWuVv",
+      "id" : "141Nk5QjRhlzwQgynRWuVv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Give Me the Bible",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d42ffdee6cf3bad31093c06ab63222c6e59c1043?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:141Nk5QjRhlzwQgynRWuVv"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0p6xovPnT0lktyfP2iBOse"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0p6xovPnT0lktyfP2iBOse",
+          "id" : "0p6xovPnT0lktyfP2iBOse",
+          "name" : "Ecks & Bullz",
+          "type" : "artist",
+          "uri" : "spotify:artist:0p6xovPnT0lktyfP2iBOse"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1FUFMXHyq2oCH7QHsM9FZv"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1FUFMXHyq2oCH7QHsM9FZv",
+        "id" : "1FUFMXHyq2oCH7QHsM9FZv",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e00bf8daf57f37a268519466",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e00bf8daf57f37a268519466",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e00bf8daf57f37a268519466",
+          "width" : 64
+        } ],
+        "name" : "Biography - EP",
+        "release_date" : "2015-10-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:1FUFMXHyq2oCH7QHsM9FZv"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0p6xovPnT0lktyfP2iBOse"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0p6xovPnT0lktyfP2iBOse",
+        "id" : "0p6xovPnT0lktyfP2iBOse",
+        "name" : "Ecks & Bullz",
+        "type" : "artist",
+        "uri" : "spotify:artist:0p6xovPnT0lktyfP2iBOse"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 79133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21560932"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5eRWPk6g7YQzdi9zeSkdvx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5eRWPk6g7YQzdi9zeSkdvx",
+      "id" : "5eRWPk6g7YQzdi9zeSkdvx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Give Me the Bible",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/083a889864ab000890ebf6b9dd0f3a8df9ef8705?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:5eRWPk6g7YQzdi9zeSkdvx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1UcU5yzJLkHkZP15WW5D3Y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1UcU5yzJLkHkZP15WW5D3Y",
+          "id" : "1UcU5yzJLkHkZP15WW5D3Y",
+          "name" : "On Pointe",
+          "type" : "artist",
+          "uri" : "spotify:artist:1UcU5yzJLkHkZP15WW5D3Y"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2aJPrvORNa4vC1ZD3WCFPS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2aJPrvORNa4vC1ZD3WCFPS",
+        "id" : "2aJPrvORNa4vC1ZD3WCFPS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27324d47f2eacec6d630e5e1ef6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0224d47f2eacec6d630e5e1ef6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485124d47f2eacec6d630e5e1ef6",
+          "width" : 64
+        } ],
+        "name" : "Eclectic",
+        "release_date" : "2017-12-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:2aJPrvORNa4vC1ZD3WCFPS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1UcU5yzJLkHkZP15WW5D3Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1UcU5yzJLkHkZP15WW5D3Y",
+        "id" : "1UcU5yzJLkHkZP15WW5D3Y",
+        "name" : "On Pointe",
+        "type" : "artist",
+        "uri" : "spotify:artist:1UcU5yzJLkHkZP15WW5D3Y"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 168693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM56S1550143"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5qyCJMpNh2TCDRci6hurb5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5qyCJMpNh2TCDRci6hurb5",
+      "id" : "5qyCJMpNh2TCDRci6hurb5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Give Me the Bible",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/18771759a5af99dcac06f0a2a0079eeddb60bde2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:5qyCJMpNh2TCDRci6hurb5"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Give+Me+the+Bible&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Give+Me+the+Bible&type=track&market=US&offset=0&limit=10",
+    "total" : 52
+  }
+}

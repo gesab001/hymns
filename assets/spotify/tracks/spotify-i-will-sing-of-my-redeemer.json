@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+Will+Sing+of+My+Redeemer&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6mGZXaZ4SWNh6IsJ57thCp",
+          "id" : "6mGZXaZ4SWNh6IsJ57thCp",
+          "name" : "Fernando Ortega",
+          "type" : "artist",
+          "uri" : "spotify:artist:6mGZXaZ4SWNh6IsJ57thCp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4htGPZoFD1mKpTUrKvttQI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4htGPZoFD1mKpTUrKvttQI",
+        "id" : "4htGPZoFD1mKpTUrKvttQI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ba64e4fdcdc0641ef5735bb5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ba64e4fdcdc0641ef5735bb5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ba64e4fdcdc0641ef5735bb5",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Worship",
+        "release_date" : "2003-02-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4htGPZoFD1mKpTUrKvttQI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6mGZXaZ4SWNh6IsJ57thCp",
+        "id" : "6mGZXaZ4SWNh6IsJ57thCp",
+        "name" : "Fernando Ortega",
+        "type" : "artist",
+        "uri" : "spotify:artist:6mGZXaZ4SWNh6IsJ57thCp"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 229733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR60250964"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4w8mj4aGPFD2hlf0OahbHo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4w8mj4aGPFD2hlf0OahbHo",
+      "id" : "4w8mj4aGPFD2hlf0OahbHo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer",
+      "popularity" : 16,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bf622f5e4a9b1ccde3442c0367c023ea215963f8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:4w8mj4aGPFD2hlf0OahbHo"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0yZewTMFsWcQWtkumHzdZm"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0yZewTMFsWcQWtkumHzdZm",
+        "id" : "0yZewTMFsWcQWtkumHzdZm",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a06b593a049b6d68ade64aeb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a06b593a049b6d68ade64aeb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a06b593a049b6d68ade64aeb",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Grace (Live at Shepherds Conference)",
+        "release_date" : "2018-03-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:0yZewTMFsWcQWtkumHzdZm"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4F5kWrltAtrcp18RdrcW1e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4F5kWrltAtrcp18RdrcW1e",
+        "id" : "4F5kWrltAtrcp18RdrcW1e",
+        "name" : "Keith Getty",
+        "type" : "artist",
+        "uri" : "spotify:artist:4F5kWrltAtrcp18RdrcW1e"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/70Rhe5rWMA8u4f6ptC1iMw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/70Rhe5rWMA8u4f6ptC1iMw",
+        "id" : "70Rhe5rWMA8u4f6ptC1iMw",
+        "name" : "Kristyn Getty",
+        "type" : "artist",
+        "uri" : "spotify:artist:70Rhe5rWMA8u4f6ptC1iMw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 226900,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZCF21800011"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Kvl6JcqkW32ThuARHmWBT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Kvl6JcqkW32ThuARHmWBT",
+      "id" : "2Kvl6JcqkW32ThuARHmWBT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer (Live) [feat. Kristyn Getty]",
+      "popularity" : 15,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f59d9ca90d35c76aeb8cee64a7a30e651402d49f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:2Kvl6JcqkW32ThuARHmWBT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/05sGBQhc6wrRAOZYo3gWqP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/05sGBQhc6wrRAOZYo3gWqP",
+          "id" : "05sGBQhc6wrRAOZYo3gWqP",
+          "name" : "Worship Music Project",
+          "type" : "artist",
+          "uri" : "spotify:artist:05sGBQhc6wrRAOZYo3gWqP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3l3OYmMREUXt2Ri0v6cqEo"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3l3OYmMREUXt2Ri0v6cqEo",
+        "id" : "3l3OYmMREUXt2Ri0v6cqEo",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fc194e136067820969145641",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fc194e136067820969145641",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fc194e136067820969145641",
+          "width" : 64
+        } ],
+        "name" : "Endless Hymns for Opening Prayers 4 (기도를 여는 끊이지 않는 찬송가 4)",
+        "release_date" : "2014-07-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:3l3OYmMREUXt2Ri0v6cqEo"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05sGBQhc6wrRAOZYo3gWqP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05sGBQhc6wrRAOZYo3gWqP",
+        "id" : "05sGBQhc6wrRAOZYo3gWqP",
+        "name" : "Worship Music Project",
+        "type" : "artist",
+        "uri" : "spotify:artist:05sGBQhc6wrRAOZYo3gWqP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 173076,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRB361432838"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7xtBfrpM4cm32vCLrHxpdN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7xtBfrpM4cm32vCLrHxpdN",
+      "id" : "7xtBfrpM4cm32vCLrHxpdN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer (속죄하신 구세주를)",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/27973bfb6d6851a00eaf34178366da5a931540b0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:7xtBfrpM4cm32vCLrHxpdN"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6mGZXaZ4SWNh6IsJ57thCp",
+          "id" : "6mGZXaZ4SWNh6IsJ57thCp",
+          "name" : "Fernando Ortega",
+          "type" : "artist",
+          "uri" : "spotify:artist:6mGZXaZ4SWNh6IsJ57thCp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4IMtj8ekhVP19CxIuzs1RD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4IMtj8ekhVP19CxIuzs1RD",
+        "id" : "4IMtj8ekhVP19CxIuzs1RD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273463ee95290f5f31bdadddbcd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02463ee95290f5f31bdadddbcd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851463ee95290f5f31bdadddbcd",
+          "width" : 64
+        } ],
+        "name" : "Fernando Ortega: The Ultimate Collection",
+        "release_date" : "2014-08-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:4IMtj8ekhVP19CxIuzs1RD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6mGZXaZ4SWNh6IsJ57thCp",
+        "id" : "6mGZXaZ4SWNh6IsJ57thCp",
+        "name" : "Fernando Ortega",
+        "type" : "artist",
+        "uri" : "spotify:artist:6mGZXaZ4SWNh6IsJ57thCp"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 229733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWR60250964"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Qlt9hvKJuB8i16DqyWGWL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Qlt9hvKJuB8i16DqyWGWL",
+      "id" : "1Qlt9hvKJuB8i16DqyWGWL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bf622f5e4a9b1ccde3442c0367c023ea215963f8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1Qlt9hvKJuB8i16DqyWGWL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4q7PS6zi0CyrEo23orQCkW",
+          "id" : "4q7PS6zi0CyrEo23orQCkW",
+          "name" : "Travis Cottrell",
+          "type" : "artist",
+          "uri" : "spotify:artist:4q7PS6zi0CyrEo23orQCkW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5W4GScFSyqp7l3g5QjapjW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5W4GScFSyqp7l3g5QjapjW",
+        "id" : "5W4GScFSyqp7l3g5QjapjW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273232c594ac14aea9d8046fff1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02232c594ac14aea9d8046fff1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851232c594ac14aea9d8046fff1",
+          "width" : 64
+        } ],
+        "name" : "Jesus Saves (Live)",
+        "release_date" : "2016-03-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:5W4GScFSyqp7l3g5QjapjW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4q7PS6zi0CyrEo23orQCkW",
+        "id" : "4q7PS6zi0CyrEo23orQCkW",
+        "name" : "Travis Cottrell",
+        "type" : "artist",
+        "uri" : "spotify:artist:4q7PS6zi0CyrEo23orQCkW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 303400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1688694"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0itFIP9Zj0iANiiMydgOEk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0itFIP9Zj0iANiiMydgOEk",
+      "id" : "0itFIP9Zj0iANiiMydgOEk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer / With You Set Me Free (Live)",
+      "popularity" : 15,
+      "preview_url" : "https://p.scdn.co/mp3-preview/80bc41abf8e2e3c2797fcc852659825faa1464a5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:0itFIP9Zj0iANiiMydgOEk"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6BBWkiAPZxjaO3JedWC6RM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6BBWkiAPZxjaO3JedWC6RM",
+          "id" : "6BBWkiAPZxjaO3JedWC6RM",
+          "name" : "Coram Deo Church",
+          "type" : "artist",
+          "uri" : "spotify:artist:6BBWkiAPZxjaO3JedWC6RM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5equQ1c5wNcvsMfqa5ph7n"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5equQ1c5wNcvsMfqa5ph7n",
+        "id" : "5equQ1c5wNcvsMfqa5ph7n",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c0739760bf5513b2742576be",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c0739760bf5513b2742576be",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c0739760bf5513b2742576be",
+          "width" : 64
+        } ],
+        "name" : "Swallowed up Death",
+        "release_date" : "2015-01-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5equQ1c5wNcvsMfqa5ph7n"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6BBWkiAPZxjaO3JedWC6RM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6BBWkiAPZxjaO3JedWC6RM",
+        "id" : "6BBWkiAPZxjaO3JedWC6RM",
+        "name" : "Coram Deo Church",
+        "type" : "artist",
+        "uri" : "spotify:artist:6BBWkiAPZxjaO3JedWC6RM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 291506,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACC1405780"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7zc3hmcBQ7u3v4Wco8MrY0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7zc3hmcBQ7u3v4Wco8MrY0",
+      "id" : "7zc3hmcBQ7u3v4Wco8MrY0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/50276a37f8a9dbff9930e11f0117ede6e3a32aae?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:7zc3hmcBQ7u3v4Wco8MrY0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0OE3kdPdxaCSmBGitBzN2i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0OE3kdPdxaCSmBGitBzN2i",
+          "id" : "0OE3kdPdxaCSmBGitBzN2i",
+          "name" : "Ben Everson",
+          "type" : "artist",
+          "uri" : "spotify:artist:0OE3kdPdxaCSmBGitBzN2i"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2u1HICMgopMNFgwHQUn868"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2u1HICMgopMNFgwHQUn868",
+        "id" : "2u1HICMgopMNFgwHQUn868",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273999f70a8417e84f706e55ddc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02999f70a8417e84f706e55ddc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851999f70a8417e84f706e55ddc",
+          "width" : 64
+        } ],
+        "name" : "A Cappella Hymns",
+        "release_date" : "2019-11-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:2u1HICMgopMNFgwHQUn868"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0OE3kdPdxaCSmBGitBzN2i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0OE3kdPdxaCSmBGitBzN2i",
+        "id" : "0OE3kdPdxaCSmBGitBzN2i",
+        "name" : "Ben Everson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0OE3kdPdxaCSmBGitBzN2i"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 131136,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q1958338"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2IDMEbozaujigMjiBNbnFj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2IDMEbozaujigMjiBNbnFj",
+      "id" : "2IDMEbozaujigMjiBNbnFj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ffe90abaee3735612a2843f33bbc94ad47e7304f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:2IDMEbozaujigMjiBNbnFj"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2J69U6NEVOFV4nfVtYbJ1s"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2J69U6NEVOFV4nfVtYbJ1s",
+          "id" : "2J69U6NEVOFV4nfVtYbJ1s",
+          "name" : "Christy Galkin",
+          "type" : "artist",
+          "uri" : "spotify:artist:2J69U6NEVOFV4nfVtYbJ1s"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2tg6jXOJc8bhHjfP6Idznf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2tg6jXOJc8bhHjfP6Idznf",
+        "id" : "2tg6jXOJc8bhHjfP6Idznf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273260cc1708da10fb08c3147d5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02260cc1708da10fb08c3147d5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851260cc1708da10fb08c3147d5",
+          "width" : 64
+        } ],
+        "name" : "Let Christ Be Lifted Up",
+        "release_date" : "2005-08-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:2tg6jXOJc8bhHjfP6Idznf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2J69U6NEVOFV4nfVtYbJ1s"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2J69U6NEVOFV4nfVtYbJ1s",
+        "id" : "2J69U6NEVOFV4nfVtYbJ1s",
+        "name" : "Christy Galkin",
+        "type" : "artist",
+        "uri" : "spotify:artist:2J69U6NEVOFV4nfVtYbJ1s"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 211866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh1348553"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1VA6onCi72uQR7TjKuybmh"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1VA6onCi72uQR7TjKuybmh",
+      "id" : "1VA6onCi72uQR7TjKuybmh",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9443ebe967c486b3459581a92f94f91b8a32e596?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1VA6onCi72uQR7TjKuybmh"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/06um8wdbBpbr6AEIv63vm1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/06um8wdbBpbr6AEIv63vm1",
+          "id" : "06um8wdbBpbr6AEIv63vm1",
+          "name" : "Kaleb Brasee",
+          "type" : "artist",
+          "uri" : "spotify:artist:06um8wdbBpbr6AEIv63vm1"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5O2JywWrCMpTfuBVfQC246"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5O2JywWrCMpTfuBVfQC246",
+        "id" : "5O2JywWrCMpTfuBVfQC246",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27386a94581367b65eb42b0f8e8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0286a94581367b65eb42b0f8e8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485186a94581367b65eb42b0f8e8",
+          "width" : 64
+        } ],
+        "name" : "He Is Risen! Hymns on Piano",
+        "release_date" : "2016-03-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5O2JywWrCMpTfuBVfQC246"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/06um8wdbBpbr6AEIv63vm1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/06um8wdbBpbr6AEIv63vm1",
+        "id" : "06um8wdbBpbr6AEIv63vm1",
+        "name" : "Kaleb Brasee",
+        "type" : "artist",
+        "uri" : "spotify:artist:06um8wdbBpbr6AEIv63vm1"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 269635,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMPKX1684008"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0Fusgyek2CtO6jfxbfXh0f"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0Fusgyek2CtO6jfxbfXh0f",
+      "id" : "0Fusgyek2CtO6jfxbfXh0f",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/356d611ebcdfeac7f1615a0341604e89012f6e08?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:0Fusgyek2CtO6jfxbfXh0f"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0NBPC4eggwgtMYi0Vp1L55"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0NBPC4eggwgtMYi0Vp1L55",
+          "id" : "0NBPC4eggwgtMYi0Vp1L55",
+          "name" : "The Millers",
+          "type" : "artist",
+          "uri" : "spotify:artist:0NBPC4eggwgtMYi0Vp1L55"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/56CQTS5y1d1KWrFJdWouY4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/56CQTS5y1d1KWrFJdWouY4",
+        "id" : "56CQTS5y1d1KWrFJdWouY4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734ad187545fc115442b5cf31b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024ad187545fc115442b5cf31b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514ad187545fc115442b5cf31b",
+          "width" : 64
+        } ],
+        "name" : "King of Love",
+        "release_date" : "2017-04-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:56CQTS5y1d1KWrFJdWouY4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NBPC4eggwgtMYi0Vp1L55"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NBPC4eggwgtMYi0Vp1L55",
+        "id" : "0NBPC4eggwgtMYi0Vp1L55",
+        "name" : "The Millers",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NBPC4eggwgtMYi0Vp1L55"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 196346,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDHM1713660"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/44w40jMjkcUiphskop8ncC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/44w40jMjkcUiphskop8ncC",
+      "id" : "44w40jMjkcUiphskop8ncC",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Will Sing of My Redeemer",
+      "popularity" : 8,
+      "preview_url" : "https://p.scdn.co/mp3-preview/aba89a5aadefcdbb130df98b037a242a30a23cbd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:44w40jMjkcUiphskop8ncC"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=I+Will+Sing+of+My+Redeemer&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=I+Will+Sing+of+My+Redeemer&type=track&market=US&offset=0&limit=10",
+    "total" : 102
+  }
+}

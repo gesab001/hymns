@@ -1,0 +1,780 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=A+Child+of+the+King&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4MCsklkiBP9KTADPWmrhWB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4MCsklkiBP9KTADPWmrhWB",
+        "id" : "4MCsklkiBP9KTADPWmrhWB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c4316e0fabf06a1bf4617f00",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c4316e0fabf06a1bf4617f00",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c4316e0fabf06a1bf4617f00",
+          "width" : 64
+        } ],
+        "name" : "The King And I (The 2015 Broadway Cast Recording)",
+        "release_date" : "2015-06-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:4MCsklkiBP9KTADPWmrhWB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/52V4Y04hrgiMi9uTaaTnl2",
+        "id" : "52V4Y04hrgiMi9uTaaTnl2",
+        "name" : "Ted Sperling",
+        "type" : "artist",
+        "uri" : "spotify:artist:52V4Y04hrgiMi9uTaaTnl2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21ND47q78JLAfDR1qpKQmj",
+        "id" : "21ND47q78JLAfDR1qpKQmj",
+        "name" : "Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:21ND47q78JLAfDR1qpKQmj"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 137333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71506524"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1MKX3ZhLE5rmN2iXGU524C"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1MKX3ZhLE5rmN2iXGU524C",
+      "id" : "1MKX3ZhLE5rmN2iXGU524C",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The March Of The Siamese Children",
+      "popularity" : 18,
+      "preview_url" : null,
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:1MKX3ZhLE5rmN2iXGU524C"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4sne0PWEn5qunGDP0kzdqS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4sne0PWEn5qunGDP0kzdqS",
+          "id" : "4sne0PWEn5qunGDP0kzdqS",
+          "name" : "Harper Family",
+          "type" : "artist",
+          "uri" : "spotify:artist:4sne0PWEn5qunGDP0kzdqS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2uYkXcnQhL4X1jBYNB6BK3"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2uYkXcnQhL4X1jBYNB6BK3",
+        "id" : "2uYkXcnQhL4X1jBYNB6BK3",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27312c77d4aa30b1f7209abf63c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0212c77d4aa30b1f7209abf63c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485112c77d4aa30b1f7209abf63c",
+          "width" : 64
+        } ],
+        "name" : "Through It All",
+        "release_date" : "2013-10-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:2uYkXcnQhL4X1jBYNB6BK3"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4sne0PWEn5qunGDP0kzdqS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4sne0PWEn5qunGDP0kzdqS",
+        "id" : "4sne0PWEn5qunGDP0kzdqS",
+        "name" : "Harper Family",
+        "type" : "artist",
+        "uri" : "spotify:artist:4sne0PWEn5qunGDP0kzdqS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 197853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USETB1300567"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2yRKfHnG4AMgS4Mw9JboMA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2yRKfHnG4AMgS4Mw9JboMA",
+      "id" : "2yRKfHnG4AMgS4Mw9JboMA",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Child Of The King",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f1d1a22157e08b1d723f4844560da45dcf751bdd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2yRKfHnG4AMgS4Mw9JboMA"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5EFwxguMRkFvuy1PJbZN9b"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5EFwxguMRkFvuy1PJbZN9b",
+        "id" : "5EFwxguMRkFvuy1PJbZN9b",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27365f2042774e0a316104add8f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0265f2042774e0a316104add8f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485165f2042774e0a316104add8f",
+          "width" : 64
+        } ],
+        "name" : "The King And I: Music From The Motion Picture (Remastered 2001)",
+        "release_date" : "2001-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:5EFwxguMRkFvuy1PJbZN9b"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nKFSacPCDLOdS3P2lbqjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nKFSacPCDLOdS3P2lbqjB",
+        "id" : "6nKFSacPCDLOdS3P2lbqjB",
+        "name" : "The 20th Century-Fox Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nKFSacPCDLOdS3P2lbqjB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2LaIJDDpfnZ333bEuONwtJ",
+        "id" : "2LaIJDDpfnZ333bEuONwtJ",
+        "name" : "Darcy M. Proper",
+        "type" : "artist",
+        "uri" : "spotify:artist:2LaIJDDpfnZ333bEuONwtJ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ktpNQLvpix0NP8gyHGl9X"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ktpNQLvpix0NP8gyHGl9X",
+        "id" : "5ktpNQLvpix0NP8gyHGl9X",
+        "name" : "Jen Wyler",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ktpNQLvpix0NP8gyHGl9X"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 205040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAR20001367"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7urCfcy0bKsKOIAwW1rugR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7urCfcy0bKsKOIAwW1rugR",
+      "id" : "7urCfcy0bKsKOIAwW1rugR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The March Of The Siamese Children - Remastered 2001",
+      "popularity" : 23,
+      "preview_url" : null,
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:7urCfcy0bKsKOIAwW1rugR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2ndyVAdV9UqF1XjyTJt484",
+          "id" : "2ndyVAdV9UqF1XjyTJt484",
+          "name" : "Fred Hammond",
+          "type" : "artist",
+          "uri" : "spotify:artist:2ndyVAdV9UqF1XjyTJt484"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1ng5VtIBsjlnEVHdyQ3sUp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1ng5VtIBsjlnEVHdyQ3sUp",
+        "id" : "1ng5VtIBsjlnEVHdyQ3sUp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273283b0352c4bb68353616b995",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02283b0352c4bb68353616b995",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851283b0352c4bb68353616b995",
+          "width" : 64
+        } ],
+        "name" : "Uncle Fred - Texture Of A Man - Collectors Edition",
+        "release_date" : "2018-05-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:1ng5VtIBsjlnEVHdyQ3sUp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ndyVAdV9UqF1XjyTJt484",
+        "id" : "2ndyVAdV9UqF1XjyTJt484",
+        "name" : "Fred Hammond",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ndyVAdV9UqF1XjyTJt484"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 299674,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZCTU1800001"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4PW8cyLlVGJQhw2jaebC3M"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4PW8cyLlVGJQhw2jaebC3M",
+      "id" : "4PW8cyLlVGJQhw2jaebC3M",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Child Of The King",
+      "popularity" : 15,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c0f5d20c4ad3526d97eec08a0d20148f715dba42?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4PW8cyLlVGJQhw2jaebC3M"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4UD3GC55Y1pxYepPnwRha1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4UD3GC55Y1pxYepPnwRha1",
+          "id" : "4UD3GC55Y1pxYepPnwRha1",
+          "name" : "The Donut Man",
+          "type" : "artist",
+          "uri" : "spotify:artist:4UD3GC55Y1pxYepPnwRha1"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0hlCDOfwy5WEP4b3FeYJwM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0hlCDOfwy5WEP4b3FeYJwM",
+        "id" : "0hlCDOfwy5WEP4b3FeYJwM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735b6e8971f273fbfcebebd468",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025b6e8971f273fbfcebebd468",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515b6e8971f273fbfcebebd468",
+          "width" : 64
+        } ],
+        "name" : "King of Kings",
+        "release_date" : "2001-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:0hlCDOfwy5WEP4b3FeYJwM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4UD3GC55Y1pxYepPnwRha1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4UD3GC55Y1pxYepPnwRha1",
+        "id" : "4UD3GC55Y1pxYepPnwRha1",
+        "name" : "The Donut Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4UD3GC55Y1pxYepPnwRha1"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 147013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US25L0901339"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Q0c8TOeJx99GybVHxkTqS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Q0c8TOeJx99GybVHxkTqS",
+      "id" : "1Q0c8TOeJx99GybVHxkTqS",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "We Are The Children Of The King",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e215f7a87b5ea83e49533b50a781c2c9b8936141?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1Q0c8TOeJx99GybVHxkTqS"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/51bmuOai3rhLlwc6QJkyyf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/51bmuOai3rhLlwc6QJkyyf",
+        "id" : "51bmuOai3rhLlwc6QJkyyf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f587e64c6832785370131881",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f587e64c6832785370131881",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f587e64c6832785370131881",
+          "width" : 64
+        } ],
+        "name" : "Give The World A Smile (Live)",
+        "release_date" : "2017-02-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:51bmuOai3rhLlwc6QJkyyf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/19X4ofoCzM24w2qkiWiHrc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/19X4ofoCzM24w2qkiWiHrc",
+        "id" : "19X4ofoCzM24w2qkiWiHrc",
+        "name" : "Gene McDonald",
+        "type" : "artist",
+        "uri" : "spotify:artist:19X4ofoCzM24w2qkiWiHrc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/03SXVAysxTK8tWXzK9rNkZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/03SXVAysxTK8tWXzK9rNkZ",
+        "id" : "03SXVAysxTK8tWXzK9rNkZ",
+        "name" : "Mike Allen",
+        "type" : "artist",
+        "uri" : "spotify:artist:03SXVAysxTK8tWXzK9rNkZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3271700004"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3mIJett5mMgjJNaWyStvPc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3mIJett5mMgjJNaWyStvPc",
+      "id" : "3mIJett5mMgjJNaWyStvPc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Child Of The King - Live",
+      "popularity" : 15,
+      "preview_url" : null,
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3mIJett5mMgjJNaWyStvPc"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0MizqfgKIzEwHSlEHcJwpu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0MizqfgKIzEwHSlEHcJwpu",
+          "id" : "0MizqfgKIzEwHSlEHcJwpu",
+          "name" : "Crisis",
+          "type" : "artist",
+          "uri" : "spotify:artist:0MizqfgKIzEwHSlEHcJwpu"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5Im3OEaNH92Ns6JXfhIGMQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5Im3OEaNH92Ns6JXfhIGMQ",
+        "id" : "5Im3OEaNH92Ns6JXfhIGMQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739530352cebdd56d114f5802e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029530352cebdd56d114f5802e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519530352cebdd56d114f5802e",
+          "width" : 64
+        } ],
+        "name" : "King Reborn",
+        "release_date" : "2018-10-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:5Im3OEaNH92Ns6JXfhIGMQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0MizqfgKIzEwHSlEHcJwpu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0MizqfgKIzEwHSlEHcJwpu",
+        "id" : "0MizqfgKIzEwHSlEHcJwpu",
+        "name" : "Crisis",
+        "type" : "artist",
+        "uri" : "spotify:artist:0MizqfgKIzEwHSlEHcJwpu"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 221704,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "UST8K1876918"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4njM1ZRZm41IrfAjwLugb3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4njM1ZRZm41IrfAjwLugb3",
+      "id" : "4njM1ZRZm41IrfAjwLugb3",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "A Child of the Ghetto",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/37e2bef9a80310dd89d0a3df0471eb22902d23de?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:4njM1ZRZm41IrfAjwLugb3"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4f6XwTrkJlI4ud1nc4r5dN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4f6XwTrkJlI4ud1nc4r5dN",
+          "id" : "4f6XwTrkJlI4ud1nc4r5dN",
+          "name" : "Patch the Pirate",
+          "type" : "artist",
+          "uri" : "spotify:artist:4f6XwTrkJlI4ud1nc4r5dN"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/41HpjGrX5ygoSHy9ylCth8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/41HpjGrX5ygoSHy9ylCth8",
+        "id" : "41HpjGrX5ygoSHy9ylCth8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27344e1abb4467ffb844e954ded",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0244e1abb4467ffb844e954ded",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485144e1abb4467ffb844e954ded",
+          "width" : 64
+        } ],
+        "name" : "Hymns Every Child Should Know",
+        "release_date" : "2016-03-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:41HpjGrX5ygoSHy9ylCth8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4f6XwTrkJlI4ud1nc4r5dN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4f6XwTrkJlI4ud1nc4r5dN",
+        "id" : "4f6XwTrkJlI4ud1nc4r5dN",
+        "name" : "Patch the Pirate",
+        "type" : "artist",
+        "uri" : "spotify:artist:4f6XwTrkJlI4ud1nc4r5dN"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 175386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1602769"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5HJ2jyTIfMhXfkTiPriJ4O"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5HJ2jyTIfMhXfkTiPriJ4O",
+      "id" : "5HJ2jyTIfMhXfkTiPriJ4O",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "A Child of the King",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/426bc098fa96b8533937c3c239c5948de0d74e20?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:5HJ2jyTIfMhXfkTiPriJ4O"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3CvBmyBtwqK2g6aVkCcO4I"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3CvBmyBtwqK2g6aVkCcO4I",
+        "id" : "3CvBmyBtwqK2g6aVkCcO4I",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738a3de5bd91f86eae5f099f2c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028a3de5bd91f86eae5f099f2c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518a3de5bd91f86eae5f099f2c",
+          "width" : 64
+        } ],
+        "name" : "Pavarotti & Friends For The Children Of Guatemala And Kosovo",
+        "release_date" : "1999-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3CvBmyBtwqK2g6aVkCcO4I"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Y8KmFkKOgJybpVobn1onU",
+        "id" : "0Y8KmFkKOgJybpVobn1onU",
+        "name" : "Luciano Pavarotti",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Y8KmFkKOgJybpVobn1onU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5xLSa7l4IV1gsQfhAMvl0U",
+        "id" : "5xLSa7l4IV1gsQfhAMvl0U",
+        "name" : "B.B. King",
+        "type" : "artist",
+        "uri" : "spotify:artist:5xLSa7l4IV1gsQfhAMvl0U"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3JamY45rtaJluNZPgdVSkl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3JamY45rtaJluNZPgdVSkl",
+        "id" : "3JamY45rtaJluNZPgdVSkl",
+        "name" : "Shawn Pelton",
+        "type" : "artist",
+        "uri" : "spotify:artist:3JamY45rtaJluNZPgdVSkl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5vjTuHApbJQOo9L3Ro2KM8",
+        "id" : "5vjTuHApbJQOo9L3Ro2KM8",
+        "name" : "Pino Palladino",
+        "type" : "artist",
+        "uri" : "spotify:artist:5vjTuHApbJQOo9L3Ro2KM8"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h4fam4nEXq1bnQa4HDdrC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h4fam4nEXq1bnQa4HDdrC",
+        "id" : "0h4fam4nEXq1bnQa4HDdrC",
+        "name" : "Rob Mathes",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h4fam4nEXq1bnQa4HDdrC"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2hfCYgRwaKOMYfqgYhK0SY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2hfCYgRwaKOMYfqgYhK0SY",
+        "id" : "2hfCYgRwaKOMYfqgYhK0SY",
+        "name" : "Robbie Kondor",
+        "type" : "artist",
+        "uri" : "spotify:artist:2hfCYgRwaKOMYfqgYhK0SY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2TLCdLafkMIbrLHYvh4U5P",
+        "id" : "2TLCdLafkMIbrLHYvh4U5P",
+        "name" : "Orchestra Sinfonica Italiana",
+        "type" : "artist",
+        "uri" : "spotify:artist:2TLCdLafkMIbrLHYvh4U5P"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/64sor8KhJsha9rn0LKiDGh",
+        "id" : "64sor8KhJsha9rn0LKiDGh",
+        "name" : "José Molina",
+        "type" : "artist",
+        "uri" : "spotify:artist:64sor8KhJsha9rn0LKiDGh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 284173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBF079910680"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6NYtw1jL8vuqfLMUgtMCiL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6NYtw1jL8vuqfLMUgtMCiL",
+      "id" : "6NYtw1jL8vuqfLMUgtMCiL",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Thrill Is Gone",
+      "popularity" : 28,
+      "preview_url" : null,
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:6NYtw1jL8vuqfLMUgtMCiL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3Vszg64mczF1dWEcW2dU5W",
+          "id" : "3Vszg64mczF1dWEcW2dU5W",
+          "name" : "Luciano",
+          "type" : "artist",
+          "uri" : "spotify:artist:3Vszg64mczF1dWEcW2dU5W"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3oJVhP5OotpwpXZxaa6nda"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3oJVhP5OotpwpXZxaa6nda",
+        "id" : "3oJVhP5OotpwpXZxaa6nda",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a350fae0f3496efa6c1a227c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a350fae0f3496efa6c1a227c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a350fae0f3496efa6c1a227c",
+          "width" : 64
+        } ],
+        "name" : "Child Of A King",
+        "release_date" : "2006-11-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:3oJVhP5OotpwpXZxaa6nda"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Vszg64mczF1dWEcW2dU5W",
+        "id" : "3Vszg64mczF1dWEcW2dU5W",
+        "name" : "Luciano",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Vszg64mczF1dWEcW2dU5W"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 228573,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USVPR0612128"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/75fwejZLJxKB8ExtokFVjY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/75fwejZLJxKB8ExtokFVjY",
+      "id" : "75fwejZLJxKB8ExtokFVjY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "This One Is For The Leaders",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e8b116a33258fbfba4e1f10d51e1f7d05092d7b8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:75fwejZLJxKB8ExtokFVjY"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=A+Child+of+the+King&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=A+Child+of+the+King&type=track&market=US&offset=0&limit=10",
+    "total" : 884
+  }
+}

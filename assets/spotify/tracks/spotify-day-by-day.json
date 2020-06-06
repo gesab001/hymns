@@ -1,0 +1,735 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Day+by+Day&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2WjvvwAX0mdWwq3aFuUdtc",
+          "id" : "2WjvvwAX0mdWwq3aFuUdtc",
+          "name" : "Rebelution",
+          "type" : "artist",
+          "uri" : "spotify:artist:2WjvvwAX0mdWwq3aFuUdtc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/69QU0KRyEfMXDG2K10HdMJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/69QU0KRyEfMXDG2K10HdMJ",
+        "id" : "69QU0KRyEfMXDG2K10HdMJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27380fb45268f67e7923804ca6f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0280fb45268f67e7923804ca6f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485180fb45268f67e7923804ca6f",
+          "width" : 64
+        } ],
+        "name" : "Peace of Mind (Deluxe)",
+        "release_date" : "2012-01-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 36,
+        "type" : "album",
+        "uri" : "spotify:album:69QU0KRyEfMXDG2K10HdMJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2WjvvwAX0mdWwq3aFuUdtc",
+        "id" : "2WjvvwAX0mdWwq3aFuUdtc",
+        "name" : "Rebelution",
+        "type" : "artist",
+        "uri" : "spotify:artist:2WjvvwAX0mdWwq3aFuUdtc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 184706,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USME31101691"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1hQgDJSeNOWwV22vxDrqHN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1hQgDJSeNOWwV22vxDrqHN",
+      "id" : "1hQgDJSeNOWwV22vxDrqHN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Day by Day",
+      "popularity" : 35,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e5052d7f9e18317beffc346467201b38e0704975?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1hQgDJSeNOWwV22vxDrqHN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3e7KVnSiZjsBkReSv0L6db",
+          "id" : "3e7KVnSiZjsBkReSv0L6db",
+          "name" : "Citizens",
+          "type" : "artist",
+          "uri" : "spotify:artist:3e7KVnSiZjsBkReSv0L6db"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0zYo5vbrPVFsG3oW8EteN1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0zYo5vbrPVFsG3oW8EteN1",
+        "id" : "0zYo5vbrPVFsG3oW8EteN1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732cd0fe37f801f4fd4085ede0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022cd0fe37f801f4fd4085ede0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512cd0fe37f801f4fd4085ede0",
+          "width" : 64
+        } ],
+        "name" : "A Mirror Dimly",
+        "release_date" : "2016-09-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:0zYo5vbrPVFsG3oW8EteN1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3e7KVnSiZjsBkReSv0L6db",
+        "id" : "3e7KVnSiZjsBkReSv0L6db",
+        "name" : "Citizens",
+        "type" : "artist",
+        "uri" : "spotify:artist:3e7KVnSiZjsBkReSv0L6db"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 338333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMGVJ1600071"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0dMRtSmkZUjyerYkGyXrlA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0dMRtSmkZUjyerYkGyXrlA",
+      "id" : "0dMRtSmkZUjyerYkGyXrlA",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Day by Day",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f729ebd9722abd62bc117d39cabf1d5b75b8cda7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0dMRtSmkZUjyerYkGyXrlA"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6cbdCv0bmLwcxSVFM7tuyG",
+          "id" : "6cbdCv0bmLwcxSVFM7tuyG",
+          "name" : "John Mark Pantana",
+          "type" : "artist",
+          "uri" : "spotify:artist:6cbdCv0bmLwcxSVFM7tuyG"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/18j2N1p5fuk0yCFmfV0JmM",
+        "id" : "18j2N1p5fuk0yCFmfV0JmM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738fa60e4a773decf4e0567cda",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028fa60e4a773decf4e0567cda",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518fa60e4a773decf4e0567cda",
+          "width" : 64
+        } ],
+        "name" : "Love Secrets",
+        "release_date" : "2019-08-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:18j2N1p5fuk0yCFmfV0JmM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6cbdCv0bmLwcxSVFM7tuyG",
+        "id" : "6cbdCv0bmLwcxSVFM7tuyG",
+        "name" : "John Mark Pantana",
+        "type" : "artist",
+        "uri" : "spotify:artist:6cbdCv0bmLwcxSVFM7tuyG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6hR5fuwetYvTHfea4EwHvl",
+        "id" : "6hR5fuwetYvTHfea4EwHvl",
+        "name" : "Mark Barlow",
+        "type" : "artist",
+        "uri" : "spotify:artist:6hR5fuwetYvTHfea4EwHvl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 241815,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZFYZ1998752"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/09HPe5snPNHUcLpY43FSEZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/09HPe5snPNHUcLpY43FSEZ",
+      "id" : "09HPe5snPNHUcLpY43FSEZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Day by Day",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e58f3c1d2283f6c977de386b610db94b2136f1b8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:09HPe5snPNHUcLpY43FSEZ"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1R52cwGf75yTf7I3Q0Irf8",
+          "id" : "1R52cwGf75yTf7I3Q0Irf8",
+          "name" : "T-ara",
+          "type" : "artist",
+          "uri" : "spotify:artist:1R52cwGf75yTf7I3Q0Irf8"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5M9UHrttiFNuym6Rf3hfTT"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5M9UHrttiFNuym6Rf3hfTT",
+        "id" : "5M9UHrttiFNuym6Rf3hfTT",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a208c27aa16cb09777c8baaa",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a208c27aa16cb09777c8baaa",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a208c27aa16cb09777c8baaa",
+          "width" : 64
+        } ],
+        "name" : "DAY BY DAY",
+        "release_date" : "2012-07-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:5M9UHrttiFNuym6Rf3hfTT"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1R52cwGf75yTf7I3Q0Irf8",
+        "id" : "1R52cwGf75yTf7I3Q0Irf8",
+        "name" : "T-ara",
+        "type" : "artist",
+        "uri" : "spotify:artist:1R52cwGf75yTf7I3Q0Irf8"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 209880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRA341561095"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2DkL5Jaz5l47TksGuZ0y33"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2DkL5Jaz5l47TksGuZ0y33",
+      "id" : "2DkL5Jaz5l47TksGuZ0y33",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "DAY BY DAY",
+      "popularity" : 48,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4dc537260ffd0bda54534adb863cd9b92fb5c4c0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2DkL5Jaz5l47TksGuZ0y33"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3mJVHqaORll3o88svsb5RW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3mJVHqaORll3o88svsb5RW",
+        "id" : "3mJVHqaORll3o88svsb5RW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27342f6d44b6aff7cdf15943ac8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0242f6d44b6aff7cdf15943ac8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485142f6d44b6aff7cdf15943ac8",
+          "width" : 64
+        } ],
+        "name" : "Godspell (The New Broadway Cast Recording)",
+        "release_date" : "2011-12-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3mJVHqaORll3o88svsb5RW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Sq9ZAY2paQJhzhuBSRoKf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Sq9ZAY2paQJhzhuBSRoKf",
+        "id" : "4Sq9ZAY2paQJhzhuBSRoKf",
+        "name" : "Anna Maria Perez de Taglé",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Sq9ZAY2paQJhzhuBSRoKf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1IzpocA7UesMxUudiO8F7a"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1IzpocA7UesMxUudiO8F7a",
+        "id" : "1IzpocA7UesMxUudiO8F7a",
+        "name" : "Godspell (The New Broadway Cast Recording)",
+        "type" : "artist",
+        "uri" : "spotify:artist:1IzpocA7UesMxUudiO8F7a"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSK31192754"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0JIU2ESChzYbokTixHYK50"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0JIU2ESChzYbokTixHYK50",
+      "id" : "0JIU2ESChzYbokTixHYK50",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Day by Day",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/48af76b245b0e29d27598b46012e24c0d2dddea9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:0JIU2ESChzYbokTixHYK50"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0KFSt4Hxl95xrVMAc6wzGP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0KFSt4Hxl95xrVMAc6wzGP",
+          "id" : "0KFSt4Hxl95xrVMAc6wzGP",
+          "name" : "LoneMoon",
+          "type" : "artist",
+          "uri" : "spotify:artist:0KFSt4Hxl95xrVMAc6wzGP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2qxBsXDvdGYvdVAZMPnrJQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2qxBsXDvdGYvdVAZMPnrJQ",
+        "id" : "2qxBsXDvdGYvdVAZMPnrJQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273390aeee79259889dbbc7dfcc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02390aeee79259889dbbc7dfcc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851390aeee79259889dbbc7dfcc",
+          "width" : 64
+        } ],
+        "name" : "Better Luck Next Time",
+        "release_date" : "2018-10-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:2qxBsXDvdGYvdVAZMPnrJQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0KFSt4Hxl95xrVMAc6wzGP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0KFSt4Hxl95xrVMAc6wzGP",
+        "id" : "0KFSt4Hxl95xrVMAc6wzGP",
+        "name" : "LoneMoon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0KFSt4Hxl95xrVMAc6wzGP"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 236800,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QMD7U1802041"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5RUYkLstSxLK2NRjXARjO0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5RUYkLstSxLK2NRjXARjO0",
+      "id" : "5RUYkLstSxLK2NRjXARjO0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Day By Day",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/db2f0098a8a7a26976dca6ae7b204fe26e161a61?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:5RUYkLstSxLK2NRjXARjO0"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/319rafipfKvd4cqaOwWIvA",
+          "id" : "319rafipfKvd4cqaOwWIvA",
+          "name" : "Taproot",
+          "type" : "artist",
+          "uri" : "spotify:artist:319rafipfKvd4cqaOwWIvA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6IpFLIC5MJLOQvtqSJz9s5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6IpFLIC5MJLOQvtqSJz9s5",
+        "id" : "6IpFLIC5MJLOQvtqSJz9s5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ce29147a1556c241dae24e11",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ce29147a1556c241dae24e11",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ce29147a1556c241dae24e11",
+          "width" : 64
+        } ],
+        "name" : "Day By Day",
+        "release_date" : "2020-01-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:6IpFLIC5MJLOQvtqSJz9s5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/319rafipfKvd4cqaOwWIvA",
+        "id" : "319rafipfKvd4cqaOwWIvA",
+        "name" : "Taproot",
+        "type" : "artist",
+        "uri" : "spotify:artist:319rafipfKvd4cqaOwWIvA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 200773,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAT20100200"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0PuKJN7rYAtanQfa2gw9f5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0PuKJN7rYAtanQfa2gw9f5",
+      "id" : "0PuKJN7rYAtanQfa2gw9f5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Day By Day",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/071243644b3c2cbae9bfcf688806822eff043103?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0PuKJN7rYAtanQfa2gw9f5"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7GIgWnjx8RK1OJsMJkevgg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7GIgWnjx8RK1OJsMJkevgg",
+          "id" : "7GIgWnjx8RK1OJsMJkevgg",
+          "name" : "Burns Twins",
+          "type" : "artist",
+          "uri" : "spotify:artist:7GIgWnjx8RK1OJsMJkevgg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xfCdPjjMPxXimdsRZNlcB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xfCdPjjMPxXimdsRZNlcB",
+        "id" : "1xfCdPjjMPxXimdsRZNlcB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27361b825ebc89b8f05ae3099c2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0261b825ebc89b8f05ae3099c2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485161b825ebc89b8f05ae3099c2",
+          "width" : 64
+        } ],
+        "name" : "Day by Day",
+        "release_date" : "2017-11-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:1xfCdPjjMPxXimdsRZNlcB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GIgWnjx8RK1OJsMJkevgg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GIgWnjx8RK1OJsMJkevgg",
+        "id" : "7GIgWnjx8RK1OJsMJkevgg",
+        "name" : "Burns Twins",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GIgWnjx8RK1OJsMJkevgg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BkaMI8EVVNeaAZRhuy1l7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BkaMI8EVVNeaAZRhuy1l7",
+        "id" : "4BkaMI8EVVNeaAZRhuy1l7",
+        "name" : "Sam Hudgens",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BkaMI8EVVNeaAZRhuy1l7"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 186444,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM24S1704385"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4BlSww0O96sqshcMnTdLU7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4BlSww0O96sqshcMnTdLU7",
+      "id" : "4BlSww0O96sqshcMnTdLU7",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Day by Day",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ce843f6a859b6edfc9d06a88e832d8ebdceb6a59?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4BlSww0O96sqshcMnTdLU7"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/06cLuOP0p7VAnBnqil1eWX",
+          "id" : "06cLuOP0p7VAnBnqil1eWX",
+          "name" : "Swanky Tunes",
+          "type" : "artist",
+          "uri" : "spotify:artist:06cLuOP0p7VAnBnqil1eWX"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0J7U24vlOOIeMpuaO6Q85A",
+          "id" : "0J7U24vlOOIeMpuaO6Q85A",
+          "name" : "LP",
+          "type" : "artist",
+          "uri" : "spotify:artist:0J7U24vlOOIeMpuaO6Q85A"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6VU1gU8DiUTwtBOglFMYGO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6VU1gU8DiUTwtBOglFMYGO",
+        "id" : "6VU1gU8DiUTwtBOglFMYGO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b5842328879c3c25dad9ff2e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b5842328879c3c25dad9ff2e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b5842328879c3c25dad9ff2e",
+          "width" : 64
+        } ],
+        "name" : "Day By Day",
+        "release_date" : "2018-07-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:6VU1gU8DiUTwtBOglFMYGO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/06cLuOP0p7VAnBnqil1eWX",
+        "id" : "06cLuOP0p7VAnBnqil1eWX",
+        "name" : "Swanky Tunes",
+        "type" : "artist",
+        "uri" : "spotify:artist:06cLuOP0p7VAnBnqil1eWX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0J7U24vlOOIeMpuaO6Q85A",
+        "id" : "0J7U24vlOOIeMpuaO6Q85A",
+        "name" : "LP",
+        "type" : "artist",
+        "uri" : "spotify:artist:0J7U24vlOOIeMpuaO6Q85A"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 220160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "RUB421800783"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1AWffsRRRPuqAM6hC5atPX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1AWffsRRRPuqAM6hC5atPX",
+      "id" : "1AWffsRRRPuqAM6hC5atPX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Day By Day",
+      "popularity" : 38,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1AWffsRRRPuqAM6hC5atPX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+          "id" : "32DWM2tctxuDatAYWHjCtC",
+          "name" : "Hymns on Piano",
+          "type" : "artist",
+          "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0h5Fw4mY2qlFCjQ2ukWdQp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0h5Fw4mY2qlFCjQ2ukWdQp",
+        "id" : "0h5Fw4mY2qlFCjQ2ukWdQp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27325d8c487d4186ca78b8d5c37",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0225d8c487d4186ca78b8d5c37",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485125d8c487d4186ca78b8d5c37",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Worship, Vol. 2",
+        "release_date" : "2016-04-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:0h5Fw4mY2qlFCjQ2ukWdQp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+        "id" : "32DWM2tctxuDatAYWHjCtC",
+        "name" : "Hymns on Piano",
+        "type" : "artist",
+        "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 178501,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USE831557080"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0Yg3zxCsb2OqasfqFVOYft"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0Yg3zxCsb2OqasfqFVOYft",
+      "id" : "0Yg3zxCsb2OqasfqFVOYft",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Day By Day (Blott En Dag)",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/de2e336bc33425ce86fcb5593167317595828b9d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0Yg3zxCsb2OqasfqFVOYft"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Day+by+Day&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Day+by+Day&type=track&market=US&offset=0&limit=10",
+    "total" : 30846
+  }
+}

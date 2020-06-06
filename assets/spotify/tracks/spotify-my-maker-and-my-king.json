@@ -1,0 +1,364 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=My+Maker+and+My+King&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2Noh1MFl7484kjDIwTQ2ws"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2Noh1MFl7484kjDIwTQ2ws",
+          "id" : "2Noh1MFl7484kjDIwTQ2ws",
+          "name" : "Visio Dei",
+          "type" : "artist",
+          "uri" : "spotify:artist:2Noh1MFl7484kjDIwTQ2ws"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7tGyxrH0NvbUarvrbjmd3k"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7tGyxrH0NvbUarvrbjmd3k",
+        "id" : "7tGyxrH0NvbUarvrbjmd3k",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734123751577339f121396617b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024123751577339f121396617b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514123751577339f121396617b",
+          "width" : 64
+        } ],
+        "name" : "Seeking the Face of God - EP",
+        "release_date" : "2010-11-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:7tGyxrH0NvbUarvrbjmd3k"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Noh1MFl7484kjDIwTQ2ws"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Noh1MFl7484kjDIwTQ2ws",
+        "id" : "2Noh1MFl7484kjDIwTQ2ws",
+        "name" : "Visio Dei",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Noh1MFl7484kjDIwTQ2ws"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 281413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US94G0910038"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Y5qZ1WclENuzEaza8IBSN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Y5qZ1WclENuzEaza8IBSN",
+      "id" : "2Y5qZ1WclENuzEaza8IBSN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You Alone (My Maker and My King)",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fe910b06438d3cec82ec4a6f417ba790f0ced26b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2Y5qZ1WclENuzEaza8IBSN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/70ClbkOcCNpz249LP6PuaA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/70ClbkOcCNpz249LP6PuaA",
+          "id" : "70ClbkOcCNpz249LP6PuaA",
+          "name" : "Jason Rae",
+          "type" : "artist",
+          "uri" : "spotify:artist:70ClbkOcCNpz249LP6PuaA"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5N8uWtGIz6qDpJuFSOLZIZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5N8uWtGIz6qDpJuFSOLZIZ",
+          "id" : "5N8uWtGIz6qDpJuFSOLZIZ",
+          "name" : "Andy Green",
+          "type" : "artist",
+          "uri" : "spotify:artist:5N8uWtGIz6qDpJuFSOLZIZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2wJZNIAo0qy06IqXn45Jd7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2wJZNIAo0qy06IqXn45Jd7",
+        "id" : "2wJZNIAo0qy06IqXn45Jd7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27377cdfb1e32f72e4b364e2b51",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0277cdfb1e32f72e4b364e2b51",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485177cdfb1e32f72e4b364e2b51",
+          "width" : 64
+        } ],
+        "name" : "Sax Chill",
+        "release_date" : "2006",
+        "release_date_precision" : "year",
+        "total_tracks" : 27,
+        "type" : "album",
+        "uri" : "spotify:album:2wJZNIAo0qy06IqXn45Jd7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/70ClbkOcCNpz249LP6PuaA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/70ClbkOcCNpz249LP6PuaA",
+        "id" : "70ClbkOcCNpz249LP6PuaA",
+        "name" : "Jason Rae",
+        "type" : "artist",
+        "uri" : "spotify:artist:70ClbkOcCNpz249LP6PuaA"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5N8uWtGIz6qDpJuFSOLZIZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5N8uWtGIz6qDpJuFSOLZIZ",
+        "id" : "5N8uWtGIz6qDpJuFSOLZIZ",
+        "name" : "Andy Green",
+        "type" : "artist",
+        "uri" : "spotify:artist:5N8uWtGIz6qDpJuFSOLZIZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 220453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBBTM0673123"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1j7VhTCAB9pi83kPiWDd29"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1j7VhTCAB9pi83kPiWDd29",
+      "id" : "1j7VhTCAB9pi83kPiWDd29",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In You Alone (My Maker And My King)",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/62cbddd5bfa16905c50812b3b7f546b3c31704fa?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 23,
+      "type" : "track",
+      "uri" : "spotify:track:1j7VhTCAB9pi83kPiWDd29"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+          "id" : "0kXPoMYYhhXMT1Acf6d1At",
+          "name" : "Johan Muren",
+          "type" : "artist",
+          "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4HTfLvMtYOThI2hAmbWs2v"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4HTfLvMtYOThI2hAmbWs2v",
+        "id" : "4HTfLvMtYOThI2hAmbWs2v",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27359ad2b9dcb7cac3bace347a2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0259ad2b9dcb7cac3bace347a2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485159ad2b9dcb7cac3bace347a2",
+          "width" : 64
+        } ],
+        "name" : "American SDA Hymnal Sing Along Vol. 01",
+        "release_date" : "2019-11-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:4HTfLvMtYOThI2hAmbWs2v"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0kXPoMYYhhXMT1Acf6d1At"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0kXPoMYYhhXMT1Acf6d1At",
+        "id" : "0kXPoMYYhhXMT1Acf6d1At",
+        "name" : "Johan Muren",
+        "type" : "artist",
+        "uri" : "spotify:artist:0kXPoMYYhhXMT1Acf6d1At"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 150000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMFME1908771"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Fe9a4EcLD9zJGKkI6CNpR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Fe9a4EcLD9zJGKkI6CNpR",
+      "id" : "7Fe9a4EcLD9zJGKkI6CNpR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Maker and My King",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9214e066b1239ae6a1b43e95a21e842024ac1043?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:7Fe9a4EcLD9zJGKkI6CNpR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/04V6nCBJq5l3f5Ucdptw5R"
+          },
+          "href" : "https://api.spotify.com/v1/artists/04V6nCBJq5l3f5Ucdptw5R",
+          "id" : "04V6nCBJq5l3f5Ucdptw5R",
+          "name" : "Original Hit Makers",
+          "type" : "artist",
+          "uri" : "spotify:artist:04V6nCBJq5l3f5Ucdptw5R"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4WasKpmPpYR0IVPurpfTKL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4WasKpmPpYR0IVPurpfTKL",
+        "id" : "4WasKpmPpYR0IVPurpfTKL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27379a352ead07a742dafe0678e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0279a352ead07a742dafe0678e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485179a352ead07a742dafe0678e",
+          "width" : 64
+        } ],
+        "name" : "Sing It Like An Idol: Legends Plus, Vol. 4",
+        "release_date" : "2013-03-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 34,
+        "type" : "album",
+        "uri" : "spotify:album:4WasKpmPpYR0IVPurpfTKL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04V6nCBJq5l3f5Ucdptw5R"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04V6nCBJq5l3f5Ucdptw5R",
+        "id" : "04V6nCBJq5l3f5Ucdptw5R",
+        "name" : "Original Hit Makers",
+        "type" : "artist",
+        "uri" : "spotify:artist:04V6nCBJq5l3f5Ucdptw5R"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 171937,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USGN61302722"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4J85vbZ3zsfDJqICYTXuGu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4J85vbZ3zsfDJqICYTXuGu",
+      "id" : "4J85vbZ3zsfDJqICYTXuGu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You're My Everything (Karaoke Version) - Originally Performed By Nat King Cole",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f0ee897bf5181e5780eaf7a05e5fb47d396c3249?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:4J85vbZ3zsfDJqICYTXuGu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/04V6nCBJq5l3f5Ucdptw5R"
+          },
+          "href" : "https://api.spotify.com/v1/artists/04V6nCBJq5l3f5Ucdptw5R",
+          "id" : "04V6nCBJq5l3f5Ucdptw5R",
+          "name" : "Original Hit Makers",
+          "type" : "artist",
+          "uri" : "spotify:artist:04V6nCBJq5l3f5Ucdptw5R"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4WasKpmPpYR0IVPurpfTKL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4WasKpmPpYR0IVPurpfTKL",
+        "id" : "4WasKpmPpYR0IVPurpfTKL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27379a352ead07a742dafe0678e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0279a352ead07a742dafe0678e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485179a352ead07a742dafe0678e",
+          "width" : 64
+        } ],
+        "name" : "Sing It Like An Idol: Legends Plus, Vol. 4",
+        "release_date" : "2013-03-04",
+        "release_date_precision" : "day",
+        "total_tracks" : 34,
+        "type" : "album",
+        "uri" : "spotify:album:4WasKpmPpYR0IVPurpfTKL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04V6nCBJq5l3f5Ucdptw5R"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04V6nCBJq5l3f5Ucdptw5R",
+        "id" : "04V6nCBJq5l3f5Ucdptw5R",
+        "name" : "Original Hit Makers",
+        "type" : "artist",
+        "uri" : "spotify:artist:04V6nCBJq5l3f5Ucdptw5R"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 168306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USGN61302723"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4fc4uRjhtQwn2b3725Gnjl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4fc4uRjhtQwn2b3725Gnjl",
+      "id" : "4fc4uRjhtQwn2b3725Gnjl",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "You're My Everything (Without Backing Vocals) [karaoke Version] - Originally Performed By Nat King Cole",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ce464daa75264dbd7e251586e4fa49fddd646bc1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:4fc4uRjhtQwn2b3725Gnjl"
+    } ],
+    "limit" : 10,
+    "next" : null,
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=My+Maker+and+My+King&type=track&market=US&offset=0&limit=10",
+    "total" : 10
+  }
+}

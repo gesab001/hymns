@@ -1,0 +1,681 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Hiding+in+Thee&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5moQ9B9NU3DzMYDSaCbuvy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5moQ9B9NU3DzMYDSaCbuvy",
+          "id" : "5moQ9B9NU3DzMYDSaCbuvy",
+          "name" : "Adrian Westney, Jr.",
+          "type" : "artist",
+          "uri" : "spotify:artist:5moQ9B9NU3DzMYDSaCbuvy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7BcuJi7VP7Yu5vgLcSHrus"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7BcuJi7VP7Yu5vgLcSHrus",
+        "id" : "7BcuJi7VP7Yu5vgLcSHrus",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c01afc1ed5317d380438b010",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c01afc1ed5317d380438b010",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c01afc1ed5317d380438b010",
+          "width" : 64
+        } ],
+        "name" : "A Triumph of Grace",
+        "release_date" : "2017-04-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:7BcuJi7VP7Yu5vgLcSHrus"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5moQ9B9NU3DzMYDSaCbuvy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5moQ9B9NU3DzMYDSaCbuvy",
+        "id" : "5moQ9B9NU3DzMYDSaCbuvy",
+        "name" : "Adrian Westney, Jr.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5moQ9B9NU3DzMYDSaCbuvy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 303226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj1789924"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7fzNLuP8JYNyumADCitdZ0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7fzNLuP8JYNyumADCitdZ0",
+      "id" : "7fzNLuP8JYNyumADCitdZ0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding in Thee",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fbf7dda29dc10a11a071acfcef2be95b4f1b9fd2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:7fzNLuP8JYNyumADCitdZ0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7pIlr6ZsVpOtKv0Kh46GwZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7pIlr6ZsVpOtKv0Kh46GwZ",
+          "id" : "7pIlr6ZsVpOtKv0Kh46GwZ",
+          "name" : "Greg Howlett",
+          "type" : "artist",
+          "uri" : "spotify:artist:7pIlr6ZsVpOtKv0Kh46GwZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6DXRDFg3Ecpgf0W8h6mqCa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6DXRDFg3Ecpgf0W8h6mqCa",
+        "id" : "6DXRDFg3Ecpgf0W8h6mqCa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27305b0c2387a2a191544f3d296",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0205b0c2387a2a191544f3d296",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485105b0c2387a2a191544f3d296",
+          "width" : 64
+        } ],
+        "name" : "Solace",
+        "release_date" : "2016-08-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6DXRDFg3Ecpgf0W8h6mqCa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7pIlr6ZsVpOtKv0Kh46GwZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7pIlr6ZsVpOtKv0Kh46GwZ",
+        "id" : "7pIlr6ZsVpOtKv0Kh46GwZ",
+        "name" : "Greg Howlett",
+        "type" : "artist",
+        "uri" : "spotify:artist:7pIlr6ZsVpOtKv0Kh46GwZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 224613,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM9AA1656878"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/63SNyjfBba6QpLAG5TIBCU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/63SNyjfBba6QpLAG5TIBCU",
+      "id" : "63SNyjfBba6QpLAG5TIBCU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding in Thee",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b09c9495e5f395415ab52204b670fd8d34db4994?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:63SNyjfBba6QpLAG5TIBCU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5yqcfQJB6S4uTWjL0wqZkr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5yqcfQJB6S4uTWjL0wqZkr",
+          "id" : "5yqcfQJB6S4uTWjL0wqZkr",
+          "name" : "Bridget Blucher",
+          "type" : "artist",
+          "uri" : "spotify:artist:5yqcfQJB6S4uTWjL0wqZkr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5K21XNg5SeyG2Nc9vJkWdA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5K21XNg5SeyG2Nc9vJkWdA",
+        "id" : "5K21XNg5SeyG2Nc9vJkWdA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c0929e1d8c8123ffabb0310e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c0929e1d8c8123ffabb0310e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c0929e1d8c8123ffabb0310e",
+          "width" : 64
+        } ],
+        "name" : "Winners by Choice",
+        "release_date" : "2000-12-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:5K21XNg5SeyG2Nc9vJkWdA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5yqcfQJB6S4uTWjL0wqZkr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5yqcfQJB6S4uTWjL0wqZkr",
+        "id" : "5yqcfQJB6S4uTWjL0wqZkr",
+        "name" : "Bridget Blucher",
+        "type" : "artist",
+        "uri" : "spotify:artist:5yqcfQJB6S4uTWjL0wqZkr"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 351040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQY50940711"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0eQhmc4rZ7ps3fEtZvvRgT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0eQhmc4rZ7ps3fEtZvvRgT",
+      "id" : "0eQhmc4rZ7ps3fEtZvvRgT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding in Thee - Medley",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/adb1665ffc9bc638fa4e5e537d9303903ff4261c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0eQhmc4rZ7ps3fEtZvvRgT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7pIlr6ZsVpOtKv0Kh46GwZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7pIlr6ZsVpOtKv0Kh46GwZ",
+          "id" : "7pIlr6ZsVpOtKv0Kh46GwZ",
+          "name" : "Greg Howlett",
+          "type" : "artist",
+          "uri" : "spotify:artist:7pIlr6ZsVpOtKv0Kh46GwZ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7yJiTY2jrHSRwwgmVXHNzB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7yJiTY2jrHSRwwgmVXHNzB",
+        "id" : "7yJiTY2jrHSRwwgmVXHNzB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c26564cf5327f9c1ef52731a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c26564cf5327f9c1ef52731a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c26564cf5327f9c1ef52731a",
+          "width" : 64
+        } ],
+        "name" : "Timeless Reflections",
+        "release_date" : "2003",
+        "release_date_precision" : "year",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:7yJiTY2jrHSRwwgmVXHNzB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7pIlr6ZsVpOtKv0Kh46GwZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7pIlr6ZsVpOtKv0Kh46GwZ",
+        "id" : "7pIlr6ZsVpOtKv0Kh46GwZ",
+        "name" : "Greg Howlett",
+        "type" : "artist",
+        "uri" : "spotify:artist:7pIlr6ZsVpOtKv0Kh46GwZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 255640,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90660053"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0WLDWmjSHhJCsEvD8ewBX0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0WLDWmjSHhJCsEvD8ewBX0",
+      "id" : "0WLDWmjSHhJCsEvD8ewBX0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding In Thee",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e979c3c90fd10409357e1d10db8b6f21b3a5874b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0WLDWmjSHhJCsEvD8ewBX0"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5OhICQI2VdbUBiddgckoCE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5OhICQI2VdbUBiddgckoCE",
+          "id" : "5OhICQI2VdbUBiddgckoCE",
+          "name" : "Kim Collingsworth",
+          "type" : "artist",
+          "uri" : "spotify:artist:5OhICQI2VdbUBiddgckoCE"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4w6OPPmrnb8XoTGbVXgLBZ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4w6OPPmrnb8XoTGbVXgLBZ",
+        "id" : "4w6OPPmrnb8XoTGbVXgLBZ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a65d22f50d237ef96fac86b2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a65d22f50d237ef96fac86b2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a65d22f50d237ef96fac86b2",
+          "width" : 64
+        } ],
+        "name" : "Sunday Morning Ivories",
+        "release_date" : "2006-06-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:4w6OPPmrnb8XoTGbVXgLBZ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5OhICQI2VdbUBiddgckoCE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5OhICQI2VdbUBiddgckoCE",
+        "id" : "5OhICQI2VdbUBiddgckoCE",
+        "name" : "Kim Collingsworth",
+        "type" : "artist",
+        "uri" : "spotify:artist:5OhICQI2VdbUBiddgckoCE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 66266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USETB0810229"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Bj9ToIfEaxJpBWZzrI5Vz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Bj9ToIfEaxJpBWZzrI5Vz",
+      "id" : "2Bj9ToIfEaxJpBWZzrI5Vz",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding In Thee",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/12f1575248c6fefa6b601f5e418e8ba6de9a89d2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:2Bj9ToIfEaxJpBWZzrI5Vz"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0XOGhQGVg5HkdudMPgyqYj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0XOGhQGVg5HkdudMPgyqYj",
+          "id" : "0XOGhQGVg5HkdudMPgyqYj",
+          "name" : "George Beverly Shea",
+          "type" : "artist",
+          "uri" : "spotify:artist:0XOGhQGVg5HkdudMPgyqYj"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0MAras8MwLrN41J17huYyt"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0MAras8MwLrN41J17huYyt",
+        "id" : "0MAras8MwLrN41J17huYyt",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fc65fe922ffdcbbee238f376",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fc65fe922ffdcbbee238f376",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fc65fe922ffdcbbee238f376",
+          "width" : 64
+        } ],
+        "name" : "Sings Fireside Hymns",
+        "release_date" : "1966",
+        "release_date_precision" : "year",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:0MAras8MwLrN41J17huYyt"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XOGhQGVg5HkdudMPgyqYj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XOGhQGVg5HkdudMPgyqYj",
+        "id" : "0XOGhQGVg5HkdudMPgyqYj",
+        "name" : "George Beverly Shea",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XOGhQGVg5HkdudMPgyqYj"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 166813,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRN11600213"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0RUicPufg6MOCIgUaVncr2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0RUicPufg6MOCIgUaVncr2",
+      "id" : "0RUicPufg6MOCIgUaVncr2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding in Thee",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8897073ae595d0739f3f1a25181cd675e7549f15?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0RUicPufg6MOCIgUaVncr2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2KDQveryEM9eDBofEiLkDX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2KDQveryEM9eDBofEiLkDX",
+          "id" : "2KDQveryEM9eDBofEiLkDX",
+          "name" : "Alan Tuttle",
+          "type" : "artist",
+          "uri" : "spotify:artist:2KDQveryEM9eDBofEiLkDX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2GeY5DPjUO0teHoooaQh37"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2GeY5DPjUO0teHoooaQh37",
+        "id" : "2GeY5DPjUO0teHoooaQh37",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734295cf1d0a762d6d12aed546",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024295cf1d0a762d6d12aed546",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514295cf1d0a762d6d12aed546",
+          "width" : 64
+        } ],
+        "name" : "Near the Cross",
+        "release_date" : "2017-10-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:2GeY5DPjUO0teHoooaQh37"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2KDQveryEM9eDBofEiLkDX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2KDQveryEM9eDBofEiLkDX",
+        "id" : "2KDQveryEM9eDBofEiLkDX",
+        "name" : "Alan Tuttle",
+        "type" : "artist",
+        "uri" : "spotify:artist:2KDQveryEM9eDBofEiLkDX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 296666,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91713209"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3rJ1Kc43aQR4j0SGuYOzAh"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3rJ1Kc43aQR4j0SGuYOzAh",
+      "id" : "3rJ1Kc43aQR4j0SGuYOzAh",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding in Thee",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1f427aca7cacc9ef50040b42122e279f568f04b8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3rJ1Kc43aQR4j0SGuYOzAh"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7oLK3lkAdCkJsXMNMWfgd5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7oLK3lkAdCkJsXMNMWfgd5",
+          "id" : "7oLK3lkAdCkJsXMNMWfgd5",
+          "name" : "Barry Craft",
+          "type" : "artist",
+          "uri" : "spotify:artist:7oLK3lkAdCkJsXMNMWfgd5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6Q0gMURWNrR94GGPsvzXFZ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6Q0gMURWNrR94GGPsvzXFZ",
+        "id" : "6Q0gMURWNrR94GGPsvzXFZ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dc4f1ef563165785b92aff94",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dc4f1ef563165785b92aff94",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dc4f1ef563165785b92aff94",
+          "width" : 64
+        } ],
+        "name" : "Hymns I Learned in a Country Church",
+        "release_date" : "2004",
+        "release_date_precision" : "year",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:6Q0gMURWNrR94GGPsvzXFZ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7oLK3lkAdCkJsXMNMWfgd5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7oLK3lkAdCkJsXMNMWfgd5",
+        "id" : "7oLK3lkAdCkJsXMNMWfgd5",
+        "name" : "Barry Craft",
+        "type" : "artist",
+        "uri" : "spotify:artist:7oLK3lkAdCkJsXMNMWfgd5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 200533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US79W0811302"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/445qBTbHmRieYyEOS69Swg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/445qBTbHmRieYyEOS69Swg",
+      "id" : "445qBTbHmRieYyEOS69Swg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding in Thee",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e2879eb7d04be234f2c1edf65938882e00e7faca?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:445qBTbHmRieYyEOS69Swg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7sM3Vaa1bJOb9PEmhfWIHx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7sM3Vaa1bJOb9PEmhfWIHx",
+          "id" : "7sM3Vaa1bJOb9PEmhfWIHx",
+          "name" : "Jackson A Taylor",
+          "type" : "artist",
+          "uri" : "spotify:artist:7sM3Vaa1bJOb9PEmhfWIHx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0AAK8BLXZK8l7ZLAhG73Wb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0AAK8BLXZK8l7ZLAhG73Wb",
+        "id" : "0AAK8BLXZK8l7ZLAhG73Wb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733cb8bf0bd7a2b3a1f5b295bf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023cb8bf0bd7a2b3a1f5b295bf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513cb8bf0bd7a2b3a1f5b295bf",
+          "width" : 64
+        } ],
+        "name" : "His Way With Thee",
+        "release_date" : "2009-01-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0AAK8BLXZK8l7ZLAhG73Wb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7sM3Vaa1bJOb9PEmhfWIHx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7sM3Vaa1bJOb9PEmhfWIHx",
+        "id" : "7sM3Vaa1bJOb9PEmhfWIHx",
+        "name" : "Jackson A Taylor",
+        "type" : "artist",
+        "uri" : "spotify:artist:7sM3Vaa1bJOb9PEmhfWIHx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 141531,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USJ3V0914150"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5gClgWhSgq0hKczJLjJhGJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5gClgWhSgq0hKczJLjJhGJ",
+      "id" : "5gClgWhSgq0hKczJLjJhGJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding In Thee",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2c2cad2e51dc59129ed6117f49efe447825a0079?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:5gClgWhSgq0hKczJLjJhGJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3tx2t7J6WlFUEdB74ED1Ro"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3tx2t7J6WlFUEdB74ED1Ro",
+          "id" : "3tx2t7J6WlFUEdB74ED1Ro",
+          "name" : "Big Band Boys",
+          "type" : "artist",
+          "uri" : "spotify:artist:3tx2t7J6WlFUEdB74ED1Ro"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1yVRrD9KgjQfFvSmieNjII"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1yVRrD9KgjQfFvSmieNjII",
+        "id" : "1yVRrD9KgjQfFvSmieNjII",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273baf0c8ff4e426195328251f0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02baf0c8ff4e426195328251f0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851baf0c8ff4e426195328251f0",
+          "width" : 64
+        } ],
+        "name" : "Big Band Gospel",
+        "release_date" : "2010-04-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1yVRrD9KgjQfFvSmieNjII"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3tx2t7J6WlFUEdB74ED1Ro"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3tx2t7J6WlFUEdB74ED1Ro",
+        "id" : "3tx2t7J6WlFUEdB74ED1Ro",
+        "name" : "Big Band Boys",
+        "type" : "artist",
+        "uri" : "spotify:artist:3tx2t7J6WlFUEdB74ED1Ro"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174521,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4R31018298"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7I9jJ7bkNBjZkaSpZbfW0O"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7I9jJ7bkNBjZkaSpZbfW0O",
+      "id" : "7I9jJ7bkNBjZkaSpZbfW0O",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hiding in Thee",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d20ba91046345940cc6b54b12a719b9da18c03a6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7I9jJ7bkNBjZkaSpZbfW0O"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Hiding+in+Thee&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Hiding+in+Thee&type=track&market=US&offset=0&limit=10",
+    "total" : 51
+  }
+}

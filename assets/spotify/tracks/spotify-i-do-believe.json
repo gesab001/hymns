@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+Do+Believe&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7wCjDgV6nqBsHguQXPAaIM",
+          "id" : "7wCjDgV6nqBsHguQXPAaIM",
+          "name" : "Waylon Jennings",
+          "type" : "artist",
+          "uri" : "spotify:artist:7wCjDgV6nqBsHguQXPAaIM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2sRs6dIRPjwMrIVioItuxp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2sRs6dIRPjwMrIVioItuxp",
+        "id" : "2sRs6dIRPjwMrIVioItuxp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27334ff0f7b28a3cb73e4ad0803",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0234ff0f7b28a3cb73e4ad0803",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485134ff0f7b28a3cb73e4ad0803",
+          "width" : 64
+        } ],
+        "name" : "Goin' Down Rockin': The Last Recordings",
+        "release_date" : "2012-09-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2sRs6dIRPjwMrIVioItuxp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7wCjDgV6nqBsHguQXPAaIM",
+        "id" : "7wCjDgV6nqBsHguQXPAaIM",
+        "name" : "Waylon Jennings",
+        "type" : "artist",
+        "uri" : "spotify:artist:7wCjDgV6nqBsHguQXPAaIM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 213000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMRWW1200004"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/28djx6iwOWb7GFMcwF1Iqu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/28djx6iwOWb7GFMcwF1Iqu",
+      "id" : "28djx6iwOWb7GFMcwF1Iqu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Do Believe",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/79fc4e1c39a863d20514ad0e99ec038207b9ef25?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:28djx6iwOWb7GFMcwF1Iqu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4xoTZnaFX7xWz76sVSgg7u",
+          "id" : "4xoTZnaFX7xWz76sVSgg7u",
+          "name" : "Pages",
+          "type" : "artist",
+          "uri" : "spotify:artist:4xoTZnaFX7xWz76sVSgg7u"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7KBgZw2zPPQes5Oo1vNQha"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7KBgZw2zPPQes5Oo1vNQha",
+        "id" : "7KBgZw2zPPQes5Oo1vNQha",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27342739315c1b54fc82912c9f8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0242739315c1b54fc82912c9f8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485142739315c1b54fc82912c9f8",
+          "width" : 64
+        } ],
+        "name" : "Future Street",
+        "release_date" : "1979-11-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 8,
+        "type" : "album",
+        "uri" : "spotify:album:7KBgZw2zPPQes5Oo1vNQha"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4xoTZnaFX7xWz76sVSgg7u",
+        "id" : "4xoTZnaFX7xWz76sVSgg7u",
+        "name" : "Pages",
+        "type" : "artist",
+        "uri" : "spotify:artist:4xoTZnaFX7xWz76sVSgg7u"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 242786,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM10503245"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7ls1Cc1QuQXkiYKq67oPqa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7ls1Cc1QuQXkiYKq67oPqa",
+      "id" : "7ls1Cc1QuQXkiYKq67oPqa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Do Believe in You",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7ff1a8f5c2753473855d5e3b9a741c993d079180?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7ls1Cc1QuQXkiYKq67oPqa"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5SaDyTQkjAAdrsmhPzrmw2",
+          "id" : "5SaDyTQkjAAdrsmhPzrmw2",
+          "name" : "Jorn",
+          "type" : "artist",
+          "uri" : "spotify:artist:5SaDyTQkjAAdrsmhPzrmw2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0yDZwMe2YGuRb9BoxOCQWA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0yDZwMe2YGuRb9BoxOCQWA",
+        "id" : "0yDZwMe2YGuRb9BoxOCQWA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f2aa1cf63a28b504444c7bc8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f2aa1cf63a28b504444c7bc8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f2aa1cf63a28b504444c7bc8",
+          "width" : 64
+        } ],
+        "name" : "Heavy Rock Radio II - Executing The Classics",
+        "release_date" : "2020-01-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:0yDZwMe2YGuRb9BoxOCQWA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5SaDyTQkjAAdrsmhPzrmw2",
+        "id" : "5SaDyTQkjAAdrsmhPzrmw2",
+        "name" : "Jorn",
+        "type" : "artist",
+        "uri" : "spotify:artist:5SaDyTQkjAAdrsmhPzrmw2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 276235,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ITG271900868"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/54VV2QYE3bSP6yghl0C9Ou"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/54VV2QYE3bSP6yghl0C9Ou",
+      "id" : "54VV2QYE3bSP6yghl0C9Ou",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Do Believe in You",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/976e8d7657b7748953f57ab7eb83e7ef7e2efba5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:54VV2QYE3bSP6yghl0C9Ou"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5uCXJWo3WoXgqv3T1RlAbh",
+          "id" : "5uCXJWo3WoXgqv3T1RlAbh",
+          "name" : "Katie Melua",
+          "type" : "artist",
+          "uri" : "spotify:artist:5uCXJWo3WoXgqv3T1RlAbh"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/39LGwjgf2oV1BlCPsuLp4S"
+        },
+        "href" : "https://api.spotify.com/v1/albums/39LGwjgf2oV1BlCPsuLp4S",
+        "id" : "39LGwjgf2oV1BlCPsuLp4S",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734762c4f5409bebf59076ab49",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024762c4f5409bebf59076ab49",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514762c4f5409bebf59076ab49",
+          "width" : 64
+        } ],
+        "name" : "Piece By Piece",
+        "release_date" : "2005-09-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:39LGwjgf2oV1BlCPsuLp4S"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5uCXJWo3WoXgqv3T1RlAbh",
+        "id" : "5uCXJWo3WoXgqv3T1RlAbh",
+        "name" : "Katie Melua",
+        "type" : "artist",
+        "uri" : "spotify:artist:5uCXJWo3WoXgqv3T1RlAbh"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 180960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBDVY0500068"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3lHiGw6pNwJeWz4kGG5zuk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3lHiGw6pNwJeWz4kGG5zuk",
+      "id" : "3lHiGw6pNwJeWz4kGG5zuk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Do Believe In Love",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c258de2229e5dc43461919f17c8e12c3b3748b78?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:3lHiGw6pNwJeWz4kGG5zuk"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2M3vnW1p5w4uPRkLYTbvdB",
+          "id" : "2M3vnW1p5w4uPRkLYTbvdB",
+          "name" : "Rusted Root",
+          "type" : "artist",
+          "uri" : "spotify:artist:2M3vnW1p5w4uPRkLYTbvdB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4vpOWOy8UEL98Pw484XBs0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4vpOWOy8UEL98Pw484XBs0",
+        "id" : "4vpOWOy8UEL98Pw484XBs0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739a0ef07343e20bac09a2bffc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029a0ef07343e20bac09a2bffc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519a0ef07343e20bac09a2bffc",
+          "width" : 64
+        } ],
+        "name" : "Remember",
+        "release_date" : "1996-10-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:4vpOWOy8UEL98Pw484XBs0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2M3vnW1p5w4uPRkLYTbvdB",
+        "id" : "2M3vnW1p5w4uPRkLYTbvdB",
+        "name" : "Rusted Root",
+        "type" : "artist",
+        "uri" : "spotify:artist:2M3vnW1p5w4uPRkLYTbvdB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 271600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMR19607365"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0lFVICxi3fQBepxT8MRCcu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0lFVICxi3fQBepxT8MRCcu",
+      "id" : "0lFVICxi3fQBepxT8MRCcu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith I Do Believe",
+      "popularity" : 22,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0lFVICxi3fQBepxT8MRCcu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7CjnYXSrc2CkcgptzVsxDm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7CjnYXSrc2CkcgptzVsxDm",
+          "id" : "7CjnYXSrc2CkcgptzVsxDm",
+          "name" : "Jim van der Zee",
+          "type" : "artist",
+          "uri" : "spotify:artist:7CjnYXSrc2CkcgptzVsxDm"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/63j7flqIfiF0LnlOppAkl5"
+        },
+        "href" : "https://api.spotify.com/v1/albums/63j7flqIfiF0LnlOppAkl5",
+        "id" : "63j7flqIfiF0LnlOppAkl5",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273646e71c7426fac175c62d112",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02646e71c7426fac175c62d112",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851646e71c7426fac175c62d112",
+          "width" : 64
+        } ],
+        "name" : "Starting The Engine (Deluxe)",
+        "release_date" : "2019-09-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:63j7flqIfiF0LnlOppAkl5"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CjnYXSrc2CkcgptzVsxDm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CjnYXSrc2CkcgptzVsxDm",
+        "id" : "7CjnYXSrc2CkcgptzVsxDm",
+        "name" : "Jim van der Zee",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CjnYXSrc2CkcgptzVsxDm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 219120,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NL1HU1800001"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/55wRjS0d1QVav5ruF7zMTD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/55wRjS0d1QVav5ruF7zMTD",
+      "id" : "55wRjS0d1QVav5ruF7zMTD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Do Believe It's Time",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a9289901ab4cd8d0543640b70cc67c1d63a8ac3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:55wRjS0d1QVav5ruF7zMTD"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/15RRw7pJo5ZCXSjt2SOVAU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/15RRw7pJo5ZCXSjt2SOVAU",
+          "id" : "15RRw7pJo5ZCXSjt2SOVAU",
+          "name" : "Amit Rathore",
+          "type" : "artist",
+          "uri" : "spotify:artist:15RRw7pJo5ZCXSjt2SOVAU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4lFbheI45qdobtDNQBwQP0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4lFbheI45qdobtDNQBwQP0",
+        "id" : "4lFbheI45qdobtDNQBwQP0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732feec6a5ea1aeb245b73bebc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022feec6a5ea1aeb245b73bebc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512feec6a5ea1aeb245b73bebc",
+          "width" : 64
+        } ],
+        "name" : "I Do Believe",
+        "release_date" : "2020-05-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:4lFbheI45qdobtDNQBwQP0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/15RRw7pJo5ZCXSjt2SOVAU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/15RRw7pJo5ZCXSjt2SOVAU",
+        "id" : "15RRw7pJo5ZCXSjt2SOVAU",
+        "name" : "Amit Rathore",
+        "type" : "artist",
+        "uri" : "spotify:artist:15RRw7pJo5ZCXSjt2SOVAU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 131250,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "IND382004101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/69KLH3OtBodlH82cQMjmjg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/69KLH3OtBodlH82cQMjmjg",
+      "id" : "69KLH3OtBodlH82cQMjmjg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Do Believe",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dd8604a7804e56a343b5f1c43497d59a4124bd29?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:69KLH3OtBodlH82cQMjmjg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+          "id" : "2HPaUgqeutzr3jx5a9WyDV",
+          "name" : "PARTYNEXTDOOR",
+          "type" : "artist",
+          "uri" : "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2T8UlI17u5hwTqu6zkpkW7",
+        "id" : "2T8UlI17u5hwTqu6zkpkW7",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d8082097058d4c44739b17dd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d8082097058d4c44739b17dd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d8082097058d4c44739b17dd",
+          "width" : 64
+        } ],
+        "name" : "PARTYMOBILE",
+        "release_date" : "2020-03-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:2T8UlI17u5hwTqu6zkpkW7"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+        "id" : "2HPaUgqeutzr3jx5a9WyDV",
+        "name" : "PARTYNEXTDOOR",
+        "type" : "artist",
+        "uri" : "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+        "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+        "name" : "Rihanna",
+        "type" : "artist",
+        "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 183219,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USWB12000762"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4HDCLYli2SUdkq9OjmvhSD",
+      "id" : "4HDCLYli2SUdkq9OjmvhSD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "BELIEVE IT",
+      "popularity" : 87,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c6f33c22314cf938e0706e8a7797d575d46984ac?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4HDCLYli2SUdkq9OjmvhSD"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7CCn4PFRRRZF127jtCBAUe",
+          "id" : "7CCn4PFRRRZF127jtCBAUe",
+          "name" : "The Lovin' Spoonful",
+          "type" : "artist",
+          "uri" : "spotify:artist:7CCn4PFRRRZF127jtCBAUe"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5bx2ZHa0KUDMD5T0r9V030",
+        "id" : "5bx2ZHa0KUDMD5T0r9V030",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730b6b12fd915f73fce8082de3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020b6b12fd915f73fce8082de3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510b6b12fd915f73fce8082de3",
+          "width" : 64
+        } ],
+        "name" : "Do you Believe In Magic",
+        "release_date" : "1965-11",
+        "release_date_precision" : "month",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CCn4PFRRRZF127jtCBAUe",
+        "id" : "7CCn4PFRRRZF127jtCBAUe",
+        "name" : "The Lovin' Spoonful",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CCn4PFRRRZF127jtCBAUe"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 125826,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USBR16600004"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1udKn1oNKYQSQ9OmiIWCMu",
+      "id" : "1udKn1oNKYQSQ9OmiIWCMu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Do You Believe in Magic?",
+      "popularity" : 67,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3a68c7436943a6cb0680e953842368aadad7513c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1udKn1oNKYQSQ9OmiIWCMu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1VPmR4DJC1PlOtd0IADAO0",
+          "id" : "1VPmR4DJC1PlOtd0IADAO0",
+          "name" : "$uicideBoy$",
+          "type" : "artist",
+          "uri" : "spotify:artist:1VPmR4DJC1PlOtd0IADAO0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5LOL8CEx6hHuDlrKF4tTAI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5LOL8CEx6hHuDlrKF4tTAI",
+        "id" : "5LOL8CEx6hHuDlrKF4tTAI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273188e6dee2c54ce6ddd570a59",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02188e6dee2c54ce6ddd570a59",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851188e6dee2c54ce6ddd570a59",
+          "width" : 64
+        } ],
+        "name" : "Grey Sheep II",
+        "release_date" : "2016-05-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:5LOL8CEx6hHuDlrKF4tTAI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1VPmR4DJC1PlOtd0IADAO0",
+        "id" : "1VPmR4DJC1PlOtd0IADAO0",
+        "name" : "$uicideBoy$",
+        "type" : "artist",
+        "uri" : "spotify:artist:1VPmR4DJC1PlOtd0IADAO0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 118073,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QM8DG1600831"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0Xq0JbzlxLGNfdyR9gM5y2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0Xq0JbzlxLGNfdyR9gM5y2",
+      "id" : "0Xq0JbzlxLGNfdyR9gM5y2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Do You Believe In God?",
+      "popularity" : 63,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0Xq0JbzlxLGNfdyR9gM5y2"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=I+Do+Believe&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=I+Do+Believe&type=track&market=US&offset=0&limit=10",
+    "total" : 9315
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=All+the+Way&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1MT1Wz4G9Z9EVOg4L5zZMS",
+          "id" : "1MT1Wz4G9Z9EVOg4L5zZMS",
+          "name" : "Tamar Braxton",
+          "type" : "artist",
+          "uri" : "spotify:artist:1MT1Wz4G9Z9EVOg4L5zZMS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1783Mxpt38yxafCtFlgHNF",
+        "id" : "1783Mxpt38yxafCtFlgHNF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a05c4211fd18f4a7362b9551",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a05c4211fd18f4a7362b9551",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a05c4211fd18f4a7362b9551",
+          "width" : 64
+        } ],
+        "name" : "Love and War",
+        "release_date" : "2013-09-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:1783Mxpt38yxafCtFlgHNF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MT1Wz4G9Z9EVOg4L5zZMS",
+        "id" : "1MT1Wz4G9Z9EVOg4L5zZMS",
+        "name" : "Tamar Braxton",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MT1Wz4G9Z9EVOg4L5zZMS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 262226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM11304724"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6rvKqjSuVP02HzGiV4G4iq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6rvKqjSuVP02HzGiV4G4iq",
+      "id" : "6rvKqjSuVP02HzGiV4G4iq",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All the Way Home",
+      "popularity" : 51,
+      "preview_url" : "https://p.scdn.co/mp3-preview/98eabc6a86d26837e84d12a6f9597bb66b07d710?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6rvKqjSuVP02HzGiV4G4iq"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6dC0rIJNLSFZwqckLgXJ8p",
+          "id" : "6dC0rIJNLSFZwqckLgXJ8p",
+          "name" : "Timeflies",
+          "type" : "artist",
+          "uri" : "spotify:artist:6dC0rIJNLSFZwqckLgXJ8p"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4xltDDKkCArA03HKOZnuQD",
+        "id" : "4xltDDKkCArA03HKOZnuQD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c427ebe8f221119facd59cc7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c427ebe8f221119facd59cc7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c427ebe8f221119facd59cc7",
+          "width" : 64
+        } ],
+        "name" : "After Hours",
+        "release_date" : "2014-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4xltDDKkCArA03HKOZnuQD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6dC0rIJNLSFZwqckLgXJ8p",
+        "id" : "6dC0rIJNLSFZwqckLgXJ8p",
+        "name" : "Timeflies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6dC0rIJNLSFZwqckLgXJ8p"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 179533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71320073"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0SB9oIIBgZaYdV2GrwkxbX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0SB9oIIBgZaYdV2GrwkxbX",
+      "id" : "0SB9oIIBgZaYdV2GrwkxbX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All The Way",
+      "popularity" : 45,
+      "preview_url" : null,
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0SB9oIIBgZaYdV2GrwkxbX"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+          "id" : "4XDi67ZENZcbfKnvMnTYsI",
+          "name" : "Jay Park",
+          "type" : "artist",
+          "uri" : "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6qJ6mDO8ZgAlmYrdYmfPtj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6qJ6mDO8ZgAlmYrdYmfPtj",
+        "id" : "6qJ6mDO8ZgAlmYrdYmfPtj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27381a69beba73732ac9ca8f231",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0281a69beba73732ac9ca8f231",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485181a69beba73732ac9ca8f231",
+          "width" : 64
+        } ],
+        "name" : "All The Way Up",
+        "release_date" : "2020-04-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 2,
+        "type" : "album",
+        "uri" : "spotify:album:6qJ6mDO8ZgAlmYrdYmfPtj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4XDi67ZENZcbfKnvMnTYsI",
+        "id" : "4XDi67ZENZcbfKnvMnTYsI",
+        "name" : "Jay Park",
+        "type" : "artist",
+        "uri" : "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 223026,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "KRC712000037"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/35MgPN6aHRqkISsSGwTSej"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/35MgPN6aHRqkISsSGwTSej",
+      "id" : "35MgPN6aHRqkISsSGwTSej",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All The Way Up",
+      "popularity" : 55,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9f10a6610d21e1fbdab6d52cf9d403b051303449?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:35MgPN6aHRqkISsSGwTSej"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3KV3p5EY4AvKxOlhGHORLg",
+          "id" : "3KV3p5EY4AvKxOlhGHORLg",
+          "name" : "Jeremih",
+          "type" : "artist",
+          "uri" : "spotify:artist:3KV3p5EY4AvKxOlhGHORLg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0FLBYsbtkgS11YvAnJc0Ct"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0FLBYsbtkgS11YvAnJc0Ct",
+        "id" : "0FLBYsbtkgS11YvAnJc0Ct",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735697952b2de8c7c2ee942153",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025697952b2de8c7c2ee942153",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515697952b2de8c7c2ee942153",
+          "width" : 64
+        } ],
+        "name" : "All The Time",
+        "release_date" : "2013-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:0FLBYsbtkgS11YvAnJc0Ct"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3KV3p5EY4AvKxOlhGHORLg",
+        "id" : "3KV3p5EY4AvKxOlhGHORLg",
+        "name" : "Jeremih",
+        "type" : "artist",
+        "uri" : "spotify:artist:3KV3p5EY4AvKxOlhGHORLg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fYdgyGBrMIEML5cuo5FpZ",
+        "id" : "1fYdgyGBrMIEML5cuo5FpZ",
+        "name" : "Natasha Mosley",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fYdgyGBrMIEML5cuo5FpZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 264200,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUM71303090"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0USZx50eApN045zIIyjePN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0USZx50eApN045zIIyjePN",
+      "id" : "0USZx50eApN045zIIyjePN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All The Time",
+      "popularity" : 71,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0USZx50eApN045zIIyjePN"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+          "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name" : "Frank Sinatra",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6gLsNre727RSLK2j0LGmCp",
+        "id" : "6gLsNre727RSLK2j0LGmCp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273090855439edd3e7fc599b714",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02090855439edd3e7fc599b714",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851090855439edd3e7fc599b714",
+          "width" : 64
+        } ],
+        "name" : "Romance: Songs From The Heart",
+        "release_date" : "2007-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 21,
+        "type" : "album",
+        "uri" : "spotify:album:6gLsNre727RSLK2j0LGmCp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name" : "Frank Sinatra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 172546,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USCA20601830"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7fanCwOck16J9MPJ3SR39P",
+      "id" : "7fanCwOck16J9MPJ3SR39P",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "popularity" : 53,
+      "preview_url" : null,
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:7fanCwOck16J9MPJ3SR39P"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id" : "6JL8zeS1NmiOftqZTRgdTz",
+          "name" : "Meghan Trainor",
+          "type" : "artist",
+          "uri" : "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6gPxH3fvJgStwB7Fs1nyfL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6gPxH3fvJgStwB7Fs1nyfL",
+        "id" : "6gPxH3fvJgStwB7Fs1nyfL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27387c5a02ec1092e294e671dc1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0287c5a02ec1092e294e671dc1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485187c5a02ec1092e294e671dc1",
+          "width" : 64
+        } ],
+        "name" : "ALL THE WAYS",
+        "release_date" : "2018-06-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:6gPxH3fvJgStwB7Fs1nyfL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+        "id" : "6JL8zeS1NmiOftqZTRgdTz",
+        "name" : "Meghan Trainor",
+        "type" : "artist",
+        "uri" : "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 175223,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM11805716"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2BNQpd87nSv475zdww9K0Z"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2BNQpd87nSv475zdww9K0Z",
+      "id" : "2BNQpd87nSv475zdww9K0Z",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "ALL THE WAYS",
+      "popularity" : 51,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d7ec8285b3b9cf8bd253bff504a7ea2db47f5b92?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2BNQpd87nSv475zdww9K0Z"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1SZMaiNHfdUuU0qZKZ6y62",
+          "id" : "1SZMaiNHfdUuU0qZKZ6y62",
+          "name" : "Newsboys",
+          "type" : "artist",
+          "uri" : "spotify:artist:1SZMaiNHfdUuU0qZKZ6y62"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5hKRNZkzNcdSr1OLD2SrWN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5hKRNZkzNcdSr1OLD2SrWN",
+        "id" : "5hKRNZkzNcdSr1OLD2SrWN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737fc7b9f96d0e2fed1fb88f2c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027fc7b9f96d0e2fed1fb88f2c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517fc7b9f96d0e2fed1fb88f2c",
+          "width" : 64
+        } ],
+        "name" : "Newsboys Collection",
+        "release_date" : "2020-05-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 50,
+        "type" : "album",
+        "uri" : "spotify:album:5hKRNZkzNcdSr1OLD2SrWN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1SZMaiNHfdUuU0qZKZ6y62",
+        "id" : "1SZMaiNHfdUuU0qZKZ6y62",
+        "name" : "Newsboys",
+        "type" : "artist",
+        "uri" : "spotify:artist:1SZMaiNHfdUuU0qZKZ6y62"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 247337,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USP1R1100686"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/61BOaEmKu3IVWu3lBfcLg9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/61BOaEmKu3IVWu3lBfcLg9",
+      "id" : "61BOaEmKu3IVWu3lBfcLg9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All The Way",
+      "popularity" : 0,
+      "preview_url" : null,
+      "track_number" : 42,
+      "type" : "track",
+      "uri" : "spotify:track:61BOaEmKu3IVWu3lBfcLg9"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2u5z9TgFi560vSrrlZkr9Q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2u5z9TgFi560vSrrlZkr9Q",
+          "id" : "2u5z9TgFi560vSrrlZkr9Q",
+          "name" : "Grotacious",
+          "type" : "artist",
+          "uri" : "spotify:artist:2u5z9TgFi560vSrrlZkr9Q"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6puuSebU2WK5o1MU7rjbkC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6puuSebU2WK5o1MU7rjbkC",
+        "id" : "6puuSebU2WK5o1MU7rjbkC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27320c56ca88096a3188c1e03b0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0220c56ca88096a3188c1e03b0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485120c56ca88096a3188c1e03b0",
+          "width" : 64
+        } ],
+        "name" : "All the Way",
+        "release_date" : "2020-01-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 3,
+        "type" : "album",
+        "uri" : "spotify:album:6puuSebU2WK5o1MU7rjbkC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2u5z9TgFi560vSrrlZkr9Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2u5z9TgFi560vSrrlZkr9Q",
+        "id" : "2u5z9TgFi560vSrrlZkr9Q",
+        "name" : "Grotacious",
+        "type" : "artist",
+        "uri" : "spotify:artist:2u5z9TgFi560vSrrlZkr9Q"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 109333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgh2021666"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5x5GIMDeV4LwaLE24qfub5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5x5GIMDeV4LwaLE24qfub5",
+      "id" : "5x5GIMDeV4LwaLE24qfub5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All the Way",
+      "popularity" : 42,
+      "preview_url" : "https://p.scdn.co/mp3-preview/759f435fd98f1ec933ce19041c0fbb2dc71ace8b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5x5GIMDeV4LwaLE24qfub5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/60ciIY5MouLc2Y9n34DJdA",
+          "id" : "60ciIY5MouLc2Y9n34DJdA",
+          "name" : "Ledisi",
+          "type" : "artist",
+          "uri" : "spotify:artist:60ciIY5MouLc2Y9n34DJdA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0YtU2YYjqJv8E0MAePFpom"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0YtU2YYjqJv8E0MAePFpom",
+        "id" : "0YtU2YYjqJv8E0MAePFpom",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27373b914578aa082453bd0b0d3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0273b914578aa082453bd0b0d3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485173b914578aa082453bd0b0d3",
+          "width" : 64
+        } ],
+        "name" : "Let Love Rule",
+        "release_date" : "2017-09-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:0YtU2YYjqJv8E0MAePFpom"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60ciIY5MouLc2Y9n34DJdA",
+        "id" : "60ciIY5MouLc2Y9n34DJdA",
+        "name" : "Ledisi",
+        "type" : "artist",
+        "uri" : "spotify:artist:60ciIY5MouLc2Y9n34DJdA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 302413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71707450"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6MLyrHJWiEjDlA1fuPlxrd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6MLyrHJWiEjDlA1fuPlxrd",
+      "id" : "6MLyrHJWiEjDlA1fuPlxrd",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All The Way",
+      "popularity" : 43,
+      "preview_url" : null,
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:6MLyrHJWiEjDlA1fuPlxrd"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gqL9JWgVW2O87KbYWPNbC",
+          "id" : "1gqL9JWgVW2O87KbYWPNbC",
+          "name" : "Bob Berg",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gqL9JWgVW2O87KbYWPNbC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5uQeyBHwBYFsxAFqyjjY9Z",
+        "id" : "5uQeyBHwBYFsxAFqyjjY9Z",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273569e192cbed2e6420dc93d52",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02569e192cbed2e6420dc93d52",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851569e192cbed2e6420dc93d52",
+          "width" : 64
+        } ],
+        "name" : "Another Standard",
+        "release_date" : "1997-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:5uQeyBHwBYFsxAFqyjjY9Z"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gqL9JWgVW2O87KbYWPNbC",
+        "id" : "1gqL9JWgVW2O87KbYWPNbC",
+        "name" : "Bob Berg",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gqL9JWgVW2O87KbYWPNbC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 335333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USC4R0300320"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6rUGbjo3y0MbeQNaPfytXe",
+      "id" : "6rUGbjo3y0MbeQNaPfytXe",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All The Way",
+      "popularity" : 50,
+      "preview_url" : null,
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6rUGbjo3y0MbeQNaPfytXe"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=All+the+Way&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=All+the+Way&type=track&market=US&offset=0&limit=10",
+    "total" : 18774
+  }
+}

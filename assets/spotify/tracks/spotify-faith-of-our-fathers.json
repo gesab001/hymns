@@ -1,0 +1,699 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Faith+of+Our+Fathers&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5BcEbeQq5n2fz8HbhI9CWU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5BcEbeQq5n2fz8HbhI9CWU",
+          "id" : "5BcEbeQq5n2fz8HbhI9CWU",
+          "name" : "Emile Pandolfi",
+          "type" : "artist",
+          "uri" : "spotify:artist:5BcEbeQq5n2fz8HbhI9CWU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4R1RTyKqYhvEOczoia1a8g"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4R1RTyKqYhvEOczoia1a8g",
+        "id" : "4R1RTyKqYhvEOczoia1a8g",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737752b140e013933fdb243624",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027752b140e013933fdb243624",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517752b140e013933fdb243624",
+          "width" : 64
+        } ],
+        "name" : "How Sweet The Sound!",
+        "release_date" : "2007-09-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:4R1RTyKqYhvEOczoia1a8g"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5BcEbeQq5n2fz8HbhI9CWU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5BcEbeQq5n2fz8HbhI9CWU",
+        "id" : "5BcEbeQq5n2fz8HbhI9CWU",
+        "name" : "Emile Pandolfi",
+        "type" : "artist",
+        "uri" : "spotify:artist:5BcEbeQq5n2fz8HbhI9CWU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 295573,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usy280769221"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/268I3b16osffduDoKY9mg5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/268I3b16osffduDoKY9mg5",
+      "id" : "268I3b16osffduDoKY9mg5",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith Of Our Fathers",
+      "popularity" : 15,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fe22dd0ef2f9358c4bd6b9840f46408b0be26288?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:268I3b16osffduDoKY9mg5"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/06um8wdbBpbr6AEIv63vm1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/06um8wdbBpbr6AEIv63vm1",
+          "id" : "06um8wdbBpbr6AEIv63vm1",
+          "name" : "Kaleb Brasee",
+          "type" : "artist",
+          "uri" : "spotify:artist:06um8wdbBpbr6AEIv63vm1"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6AvCOW2bU3X5C0gtqhE2KB"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6AvCOW2bU3X5C0gtqhE2KB",
+        "id" : "6AvCOW2bU3X5C0gtqhE2KB",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734569b55b5cb2fca7ac27a3d6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024569b55b5cb2fca7ac27a3d6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514569b55b5cb2fca7ac27a3d6",
+          "width" : 64
+        } ],
+        "name" : "One More Hour of Relaxing Hymns on Piano",
+        "release_date" : "2015-05-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:6AvCOW2bU3X5C0gtqhE2KB"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/06um8wdbBpbr6AEIv63vm1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/06um8wdbBpbr6AEIv63vm1",
+        "id" : "06um8wdbBpbr6AEIv63vm1",
+        "name" : "Kaleb Brasee",
+        "type" : "artist",
+        "uri" : "spotify:artist:06um8wdbBpbr6AEIv63vm1"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 172460,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1513837"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7dkfngvaNIu3pzDWzHN0yX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7dkfngvaNIu3pzDWzHN0yX",
+      "id" : "7dkfngvaNIu3pzDWzHN0yX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith of Our Fathers",
+      "popularity" : 14,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2e58db04c190d67f88e992ae2ffd9ca4575275fc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:7dkfngvaNIu3pzDWzHN0yX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6Mpnuw1zAeDxd9Y7clGNrX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6Mpnuw1zAeDxd9Y7clGNrX",
+          "id" : "6Mpnuw1zAeDxd9Y7clGNrX",
+          "name" : "Christian Hymns Players",
+          "type" : "artist",
+          "uri" : "spotify:artist:6Mpnuw1zAeDxd9Y7clGNrX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5ZTNBPmtf07Hq7xFN4cssK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5ZTNBPmtf07Hq7xFN4cssK",
+        "id" : "5ZTNBPmtf07Hq7xFN4cssK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739c77259d89595361363c63a6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029c77259d89595361363c63a6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519c77259d89595361363c63a6",
+          "width" : 64
+        } ],
+        "name" : "Classic Piano Hymns: The Church Is One Foundation",
+        "release_date" : "2012-10-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5ZTNBPmtf07Hq7xFN4cssK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Mpnuw1zAeDxd9Y7clGNrX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Mpnuw1zAeDxd9Y7clGNrX",
+        "id" : "6Mpnuw1zAeDxd9Y7clGNrX",
+        "name" : "Christian Hymns Players",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Mpnuw1zAeDxd9Y7clGNrX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 136960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA371636720"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7eWGoRlpNK2KNASMpvT1cn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7eWGoRlpNK2KNASMpvT1cn",
+      "id" : "7eWGoRlpNK2KNASMpvT1cn",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith of Our Fathers",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ffb18304aad1b7b6e7aac4ad7d9fd35f8ff8b5ec?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:7eWGoRlpNK2KNASMpvT1cn"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5F211gZjfoqvH8v7erGdsy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5F211gZjfoqvH8v7erGdsy",
+          "id" : "5F211gZjfoqvH8v7erGdsy",
+          "name" : "4Him",
+          "type" : "artist",
+          "uri" : "spotify:artist:5F211gZjfoqvH8v7erGdsy"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0ucd9V91sbhnKPE3ycOoqL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0ucd9V91sbhnKPE3ycOoqL",
+        "id" : "0ucd9V91sbhnKPE3ycOoqL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731a72f5e934003f1c88eaf728",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021a72f5e934003f1c88eaf728",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511a72f5e934003f1c88eaf728",
+          "width" : 64
+        } ],
+        "name" : "Hymns: A Place Of Worship",
+        "release_date" : "2000",
+        "release_date_precision" : "year",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:0ucd9V91sbhnKPE3ycOoqL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5F211gZjfoqvH8v7erGdsy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5F211gZjfoqvH8v7erGdsy",
+        "id" : "5F211gZjfoqvH8v7erGdsy",
+        "name" : "4Him",
+        "type" : "artist",
+        "uri" : "spotify:artist:5F211gZjfoqvH8v7erGdsy"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 36873,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USBE10000001"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7xgZROiUZ5zyRHjeljJfCp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7xgZROiUZ5zyRHjeljJfCp",
+      "id" : "7xgZROiUZ5zyRHjeljJfCp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith Of Our Fathers (interlude)",
+      "popularity" : 11,
+      "preview_url" : "https://p.scdn.co/mp3-preview/73da09122234903e7539d6e06dd8874cfa27a44f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7xgZROiUZ5zyRHjeljJfCp"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7plcCuYAfwxST9cnnJZhuf"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7plcCuYAfwxST9cnnJZhuf",
+          "id" : "7plcCuYAfwxST9cnnJZhuf",
+          "name" : "The Hymn Ensemble",
+          "type" : "artist",
+          "uri" : "spotify:artist:7plcCuYAfwxST9cnnJZhuf"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0gtT7lZYLthC6nH4JRuokr"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0gtT7lZYLthC6nH4JRuokr",
+        "id" : "0gtT7lZYLthC6nH4JRuokr",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d1c2aa08cda92438e4ddc212",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d1c2aa08cda92438e4ddc212",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d1c2aa08cda92438e4ddc212",
+          "width" : 64
+        } ],
+        "name" : "Instrumental Gospel: Gospel Hymns",
+        "release_date" : "2012-06-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:0gtT7lZYLthC6nH4JRuokr"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7plcCuYAfwxST9cnnJZhuf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7plcCuYAfwxST9cnnJZhuf",
+        "id" : "7plcCuYAfwxST9cnnJZhuf",
+        "name" : "The Hymn Ensemble",
+        "type" : "artist",
+        "uri" : "spotify:artist:7plcCuYAfwxST9cnnJZhuf"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 136960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA371636720"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/55UQcyS30ud5pNkhg2kTHD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/55UQcyS30ud5pNkhg2kTHD",
+      "id" : "55UQcyS30ud5pNkhg2kTHD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith of Our Fathers",
+      "popularity" : 16,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ffb18304aad1b7b6e7aac4ad7d9fd35f8ff8b5ec?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:55UQcyS30ud5pNkhg2kTHD"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1MmubZDiFWXhOXz941cRRp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1MmubZDiFWXhOXz941cRRp",
+          "id" : "1MmubZDiFWXhOXz941cRRp",
+          "name" : "Our Daily Bread",
+          "type" : "artist",
+          "uri" : "spotify:artist:1MmubZDiFWXhOXz941cRRp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1rXuOoosy5TOjlHe1dy8VQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1rXuOoosy5TOjlHe1dy8VQ",
+        "id" : "1rXuOoosy5TOjlHe1dy8VQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27359e9049f1b339d22644a8385",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0259e9049f1b339d22644a8385",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485159e9049f1b339d22644a8385",
+          "width" : 64
+        } ],
+        "name" : "Our Daily Bread Hymns of Praise & Wonder and Hymns for the Wounded Heart",
+        "release_date" : "2017-10-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:1rXuOoosy5TOjlHe1dy8VQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MmubZDiFWXhOXz941cRRp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MmubZDiFWXhOXz941cRRp",
+        "id" : "1MmubZDiFWXhOXz941cRRp",
+        "name" : "Our Daily Bread",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MmubZDiFWXhOXz941cRRp"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 197244,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USLF51702294"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5ZlPvjIagO6VqwzDMAxVMZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5ZlPvjIagO6VqwzDMAxVMZ",
+      "id" : "5ZlPvjIagO6VqwzDMAxVMZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith of Our Fathers",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c22e1e5a5248f3e970d821c6eb8c7783db7a6e18?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5ZlPvjIagO6VqwzDMAxVMZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+          "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+          "name" : "Instrumental Christian Songs, Christian Piano Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+          "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+          "name" : "Praise and Worship",
+          "type" : "artist",
+          "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1AfoEPy4TG1eGDiFjnR28R"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1AfoEPy4TG1eGDiFjnR28R",
+        "id" : "1AfoEPy4TG1eGDiFjnR28R",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273fbb4f150bb476534730bdee6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02fbb4f150bb476534730bdee6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851fbb4f150bb476534730bdee6",
+          "width" : 64
+        } ],
+        "name" : "Harp Music for Bible Study",
+        "release_date" : "2020-01-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:1AfoEPy4TG1eGDiFjnR28R"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gjHSq6MQ3C2RNdlIkbYnG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gjHSq6MQ3C2RNdlIkbYnG",
+        "id" : "7gjHSq6MQ3C2RNdlIkbYnG",
+        "name" : "Instrumental Christian Songs, Christian Piano Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gjHSq6MQ3C2RNdlIkbYnG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07MOqUaJ2WqGGHQlpcz9H3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07MOqUaJ2WqGGHQlpcz9H3",
+        "id" : "07MOqUaJ2WqGGHQlpcz9H3",
+        "name" : "Praise and Worship",
+        "type" : "artist",
+        "uri" : "spotify:artist:07MOqUaJ2WqGGHQlpcz9H3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 210750,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAEI1991546"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1i5jyPMbBzeJKosOPQ05rT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1i5jyPMbBzeJKosOPQ05rT",
+      "id" : "1i5jyPMbBzeJKosOPQ05rT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith of Our Fathers (Instrumental Version)",
+      "popularity" : 15,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ffa9c95b997ddb68b6e703dca2b2af95bd9352ee?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1i5jyPMbBzeJKosOPQ05rT"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2469YtMzpDabTl9fziUaHu"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2469YtMzpDabTl9fziUaHu",
+        "id" : "2469YtMzpDabTl9fziUaHu",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a26b5da4c14cdf6df7fbf8de",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a26b5da4c14cdf6df7fbf8de",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a26b5da4c14cdf6df7fbf8de",
+          "width" : 64
+        } ],
+        "name" : "50 Best-Loved Hymns (Old and New)",
+        "release_date" : "2013-10-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 50,
+        "type" : "album",
+        "uri" : "spotify:album:2469YtMzpDabTl9fziUaHu"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1aKitAFQNRHhMjh8szJ5jm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1aKitAFQNRHhMjh8szJ5jm",
+        "id" : "1aKitAFQNRHhMjh8szJ5jm",
+        "name" : "The Larry Dalton Chorus & Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1aKitAFQNRHhMjh8szJ5jm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 150026,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USRDG0226588"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6qi6Pi5CB1I1ZtKHHyyZRH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6qi6Pi5CB1I1ZtKHHyyZRH",
+      "id" : "6qi6Pi5CB1I1ZtKHHyyZRH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith of Our Fathers",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/75a1cade01dc6100f2df676fce1187d464422718?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:6qi6Pi5CB1I1ZtKHHyyZRH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/09TOgappqOohpamkrpP78c"
+          },
+          "href" : "https://api.spotify.com/v1/artists/09TOgappqOohpamkrpP78c",
+          "id" : "09TOgappqOohpamkrpP78c",
+          "name" : "Fountainview Academy Orchestra & Singers",
+          "type" : "artist",
+          "uri" : "spotify:artist:09TOgappqOohpamkrpP78c"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0tgdXkG40UHl881VY6DpW2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0tgdXkG40UHl881VY6DpW2",
+        "id" : "0tgdXkG40UHl881VY6DpW2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736eecda8d1aa4a17f0bd0e5cb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026eecda8d1aa4a17f0bd0e5cb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516eecda8d1aa4a17f0bd0e5cb",
+          "width" : 64
+        } ],
+        "name" : "The Great Controversy",
+        "release_date" : "2014",
+        "release_date_precision" : "year",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:0tgdXkG40UHl881VY6DpW2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09TOgappqOohpamkrpP78c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09TOgappqOohpamkrpP78c",
+        "id" : "09TOgappqOohpamkrpP78c",
+        "name" : "Fountainview Academy Orchestra & Singers",
+        "type" : "artist",
+        "uri" : "spotify:artist:09TOgappqOohpamkrpP78c"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 131860,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMEZE1900714"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/27exbYoUcbeCej4vmDy8Bp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/27exbYoUcbeCej4vmDy8Bp",
+      "id" : "27exbYoUcbeCej4vmDy8Bp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith of Our Fathers",
+      "popularity" : 13,
+      "preview_url" : "https://p.scdn.co/mp3-preview/976045c2a31ffead88eb9136899d2530c555a8e3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:27exbYoUcbeCej4vmDy8Bp"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7Iz4reAxyHXjqHix5cYlej"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7Iz4reAxyHXjqHix5cYlej",
+          "id" : "7Iz4reAxyHXjqHix5cYlej",
+          "name" : "Faithful Fathers",
+          "type" : "artist",
+          "uri" : "spotify:artist:7Iz4reAxyHXjqHix5cYlej"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5MOrH86u66wWv4sOXTu0F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5MOrH86u66wWv4sOXTu0F8",
+        "id" : "5MOrH86u66wWv4sOXTu0F8",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a85c29a1f1166ed508ab556b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a85c29a1f1166ed508ab556b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a85c29a1f1166ed508ab556b",
+          "width" : 64
+        } ],
+        "name" : "Pipe Organ Hymns",
+        "release_date" : "2008-05-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:5MOrH86u66wWv4sOXTu0F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Iz4reAxyHXjqHix5cYlej"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Iz4reAxyHXjqHix5cYlej",
+        "id" : "7Iz4reAxyHXjqHix5cYlej",
+        "name" : "Faithful Fathers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Iz4reAxyHXjqHix5cYlej"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 144760,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4R30740184"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2scWPgmZJOT00hMBsktEtO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2scWPgmZJOT00hMBsktEtO",
+      "id" : "2scWPgmZJOT00hMBsktEtO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Faith of Our Fathers - Church Organ",
+      "popularity" : 12,
+      "preview_url" : "https://p.scdn.co/mp3-preview/717d8e90b42150ecf63bcc37658f9513f5cfdf30?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:2scWPgmZJOT00hMBsktEtO"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Faith+of+Our+Fathers&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Faith+of+Our+Fathers&type=track&market=US&offset=0&limit=10",
+    "total" : 574
+  }
+}

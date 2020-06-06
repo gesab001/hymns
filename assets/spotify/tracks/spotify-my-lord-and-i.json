@@ -1,0 +1,726 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=My+Lord+and+I&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2bBRxQ6hEba2rm64HLgFTo"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2bBRxQ6hEba2rm64HLgFTo",
+          "id" : "2bBRxQ6hEba2rm64HLgFTo",
+          "name" : "Scripture Lullabies",
+          "type" : "artist",
+          "uri" : "spotify:artist:2bBRxQ6hEba2rm64HLgFTo"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/69KmVHvt4V9tFqqLLKx63o"
+        },
+        "href" : "https://api.spotify.com/v1/albums/69KmVHvt4V9tFqqLLKx63o",
+        "id" : "69KmVHvt4V9tFqqLLKx63o",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f18997d6dcc137ece19505e2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f18997d6dcc137ece19505e2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f18997d6dcc137ece19505e2",
+          "width" : 64
+        } ],
+        "name" : "Hidden in My Heart (A Lullaby Journey Through Scripture), Vol. 2",
+        "release_date" : "2011-12-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:69KmVHvt4V9tFqqLLKx63o"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2bBRxQ6hEba2rm64HLgFTo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2bBRxQ6hEba2rm64HLgFTo",
+        "id" : "2bBRxQ6hEba2rm64HLgFTo",
+        "name" : "Scripture Lullabies",
+        "type" : "artist",
+        "uri" : "spotify:artist:2bBRxQ6hEba2rm64HLgFTo"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US8CK1100013"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4ZNV16F2TQ1c00izfPXzMP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4ZNV16F2TQ1c00izfPXzMP",
+      "id" : "4ZNV16F2TQ1c00izfPXzMP",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Lord Bless You and Keep You",
+      "popularity" : 35,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4ae384e1446528097aff3c4bbb076bce9ef1adbf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:4ZNV16F2TQ1c00izfPXzMP"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7l0sphz32GV0AjjEhECpVg",
+          "id" : "7l0sphz32GV0AjjEhECpVg",
+          "name" : "Caleb and Kelsey",
+          "type" : "artist",
+          "uri" : "spotify:artist:7l0sphz32GV0AjjEhECpVg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2mbvCedc1bYX0JPj2pEald"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2mbvCedc1bYX0JPj2pEald",
+        "id" : "2mbvCedc1bYX0JPj2pEald",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736d2c0bb0b0532389cfaf2e03",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026d2c0bb0b0532389cfaf2e03",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516d2c0bb0b0532389cfaf2e03",
+          "width" : 64
+        } ],
+        "name" : "Timeless Worship",
+        "release_date" : "2018-08-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:2mbvCedc1bYX0JPj2pEald"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7l0sphz32GV0AjjEhECpVg",
+        "id" : "7l0sphz32GV0AjjEhECpVg",
+        "name" : "Caleb and Kelsey",
+        "type" : "artist",
+        "uri" : "spotify:artist:7l0sphz32GV0AjjEhECpVg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 151127,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921850039"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7vZ1H0vo8L6w6k5odhkjEr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7vZ1H0vo8L6w6k5odhkjEr",
+      "id" : "7vZ1H0vo8L6w6k5odhkjEr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Open the Eyes of My Heart / Lord I Give You My Heart",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cf8a50a6f38a01e6fe8766834d468b3c1b9b7619?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:7vZ1H0vo8L6w6k5odhkjEr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/08EFt670UCZCyxbhI1VtxG",
+          "id" : "08EFt670UCZCyxbhI1VtxG",
+          "name" : "Gordon Mote",
+          "type" : "artist",
+          "uri" : "spotify:artist:08EFt670UCZCyxbhI1VtxG"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6nTUcSc95KcBKo9ompAD5H"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6nTUcSc95KcBKo9ompAD5H",
+        "id" : "6nTUcSc95KcBKo9ompAD5H",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ede6c417c2361ad1d3b0924d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ede6c417c2361ad1d3b0924d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ede6c417c2361ad1d3b0924d",
+          "width" : 64
+        } ],
+        "name" : "Gordon Mote Sings Hymns and Songs of Inspiration",
+        "release_date" : "2015-10-23",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:6nTUcSc95KcBKo9ompAD5H"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/08EFt670UCZCyxbhI1VtxG",
+        "id" : "08EFt670UCZCyxbhI1VtxG",
+        "name" : "Gordon Mote",
+        "type" : "artist",
+        "uri" : "spotify:artist:08EFt670UCZCyxbhI1VtxG"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 262613,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM6P41576244"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2CP9MKVbhDoT9f3JVMg2Es"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2CP9MKVbhDoT9f3JVMg2Es",
+      "id" : "2CP9MKVbhDoT9f3JVMg2Es",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Precious Lord, Take My Hand",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9b2253d6c7bb7afa04ea3290663ad1c37137570c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:2CP9MKVbhDoT9f3JVMg2Es"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/57YsESW6BGZLHQgOg8AiAq",
+          "id" : "57YsESW6BGZLHQgOg8AiAq",
+          "name" : "Charity Gayle",
+          "type" : "artist",
+          "uri" : "spotify:artist:57YsESW6BGZLHQgOg8AiAq"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7FoyZkLRt81ubD7Tsk65WU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7FoyZkLRt81ubD7Tsk65WU",
+        "id" : "7FoyZkLRt81ubD7Tsk65WU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b8d813e8179c1f7b32793980",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b8d813e8179c1f7b32793980",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b8d813e8179c1f7b32793980",
+          "width" : 64
+        } ],
+        "name" : "Lord You Are My Song (Deluxe Edition)",
+        "release_date" : "2018-01-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:7FoyZkLRt81ubD7Tsk65WU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57YsESW6BGZLHQgOg8AiAq",
+        "id" : "57YsESW6BGZLHQgOg8AiAq",
+        "name" : "Charity Gayle",
+        "type" : "artist",
+        "uri" : "spotify:artist:57YsESW6BGZLHQgOg8AiAq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7adV3tjip6mYhVUxLUZ4QR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7adV3tjip6mYhVUxLUZ4QR",
+        "id" : "7adV3tjip6mYhVUxLUZ4QR",
+        "name" : "Joshua Sherman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7adV3tjip6mYhVUxLUZ4QR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6qG7Lqb9bjQXrmFjj3z8Qx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6qG7Lqb9bjQXrmFjj3z8Qx",
+        "id" : "6qG7Lqb9bjQXrmFjj3z8Qx",
+        "name" : "Steven Musso",
+        "type" : "artist",
+        "uri" : "spotify:artist:6qG7Lqb9bjQXrmFjj3z8Qx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 262746,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCADI1762076"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6pfXdoDaYt4wJtDdNYa1CX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6pfXdoDaYt4wJtDdNYa1CX",
+      "id" : "6pfXdoDaYt4wJtDdNYa1CX",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Psalm 100 (Enter In) [feat. Joshua Sherman & Steven Musso]",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e6fb706eb72e88541c6152bded7e1cf7396a817d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6pfXdoDaYt4wJtDdNYa1CX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6XpaIBNiVzIetEPCWDvAFP",
+          "id" : "6XpaIBNiVzIetEPCWDvAFP",
+          "name" : "Whitney Houston",
+          "type" : "artist",
+          "uri" : "spotify:artist:6XpaIBNiVzIetEPCWDvAFP"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4GtmXlzXsP67AKOVT8LWKK",
+        "id" : "4GtmXlzXsP67AKOVT8LWKK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27318262e319060dda67816bca7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0218262e319060dda67816bca7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485118262e319060dda67816bca7",
+          "width" : 64
+        } ],
+        "name" : "The Preacher's Wife",
+        "release_date" : "1996-11-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4QYDxx5VDqINxMtUapyF9q",
+        "id" : "4QYDxx5VDqINxMtUapyF9q",
+        "name" : "Cissy Houston",
+        "type" : "artist",
+        "uri" : "spotify:artist:4QYDxx5VDqINxMtUapyF9q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mj9GjK6HBh9wHKF5dHRU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mj9GjK6HBh9wHKF5dHRU2",
+        "id" : "3mj9GjK6HBh9wHKF5dHRU2",
+        "name" : "Hezekiah Walker & The Love Fellowship Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mj9GjK6HBh9wHKF5dHRU2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 264400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAR19900986"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0Gizt0VIOGSRMje4pkfocJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0Gizt0VIOGSRMje4pkfocJ",
+      "id" : "0Gizt0VIOGSRMje4pkfocJ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Lord Is My Shepherd (with Hezekiah Walker And The Love Fellowship Choir)",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ccf6efd0a2199259c4d3827ac24132e24832804f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:0Gizt0VIOGSRMje4pkfocJ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3pxLSxg8klHu1L9d93cpq7",
+          "id" : "3pxLSxg8klHu1L9d93cpq7",
+          "name" : "Andrae Crouch",
+          "type" : "artist",
+          "uri" : "spotify:artist:3pxLSxg8klHu1L9d93cpq7"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1kFeSFEDVuHsn30lkrawEZ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1kFeSFEDVuHsn30lkrawEZ",
+        "id" : "1kFeSFEDVuHsn30lkrawEZ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730aa2051e774cb492ddeb34cc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020aa2051e774cb492ddeb34cc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510aa2051e774cb492ddeb34cc",
+          "width" : 64
+        } ],
+        "name" : "Mercy",
+        "release_date" : "1994-03-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:1kFeSFEDVuHsn30lkrawEZ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3pxLSxg8klHu1L9d93cpq7",
+        "id" : "3pxLSxg8klHu1L9d93cpq7",
+        "name" : "Andrae Crouch",
+        "type" : "artist",
+        "uri" : "spotify:artist:3pxLSxg8klHu1L9d93cpq7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 322466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQW10100025"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0bUO3Dqgrpug6pqLf0ThgK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0bUO3Dqgrpug6pqLf0ThgK",
+      "id" : "0bUO3Dqgrpug6pqLf0ThgK",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Lord Is My Light",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c0acf9ca677db24161fcdba29a78265ca56435d1?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0bUO3Dqgrpug6pqLf0ThgK"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7GkPZD0O1btf2e5dtRZyfI",
+          "id" : "7GkPZD0O1btf2e5dtRZyfI",
+          "name" : "The Wonder Kids",
+          "type" : "artist",
+          "uri" : "spotify:artist:7GkPZD0O1btf2e5dtRZyfI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2V7ojDM1ibyt5TtTnkGRLx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2V7ojDM1ibyt5TtTnkGRLx",
+        "id" : "2V7ojDM1ibyt5TtTnkGRLx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b35a3b66631eb01c3a6a57e4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b35a3b66631eb01c3a6a57e4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b35a3b66631eb01c3a6a57e4",
+          "width" : 64
+        } ],
+        "name" : "Bible Songs for Baby and Me",
+        "release_date" : "2009-08-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:2V7ojDM1ibyt5TtTnkGRLx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GkPZD0O1btf2e5dtRZyfI",
+        "id" : "7GkPZD0O1btf2e5dtRZyfI",
+        "name" : "The Wonder Kids",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GkPZD0O1btf2e5dtRZyfI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 140853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90972782"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6gX3Cz2m6lLRZTxXr1DPOi"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6gX3Cz2m6lLRZTxXr1DPOi",
+      "id" : "6gX3Cz2m6lLRZTxXr1DPOi",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Lord Is My Shepherd",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f88b388a47b666ab891fb06dd7b8ea8a687c2409?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:6gX3Cz2m6lLRZTxXr1DPOi"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0I4Bk2s2BUJyykCwtxx8Xx",
+          "id" : "0I4Bk2s2BUJyykCwtxx8Xx",
+          "name" : "Keith & Kristyn Getty",
+          "type" : "artist",
+          "uri" : "spotify:artist:0I4Bk2s2BUJyykCwtxx8Xx"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4iaznzAVvJg550xaOBDKOz",
+        "id" : "4iaznzAVvJg550xaOBDKOz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dc728e25ab559df768f9f597",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dc728e25ab559df768f9f597",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dc728e25ab559df768f9f597",
+          "width" : 64
+        } ],
+        "name" : "Facing A Task Unfinished",
+        "release_date" : "2016-06-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:4iaznzAVvJg550xaOBDKOz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0I4Bk2s2BUJyykCwtxx8Xx",
+        "id" : "0I4Bk2s2BUJyykCwtxx8Xx",
+        "name" : "Keith & Kristyn Getty",
+        "type" : "artist",
+        "uri" : "spotify:artist:0I4Bk2s2BUJyykCwtxx8Xx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 321400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USY5K1600009"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Z0KQUEP8q4ljSqBgCpTEf"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Z0KQUEP8q4ljSqBgCpTEf",
+      "id" : "3Z0KQUEP8q4ljSqBgCpTEf",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Lord Is My Salvation",
+      "popularity" : 27,
+      "preview_url" : null,
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:3Z0KQUEP8q4ljSqBgCpTEf"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6MYKRhEIKscR8qdGlvpk9y",
+          "id" : "6MYKRhEIKscR8qdGlvpk9y",
+          "name" : "Sovereign Grace Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:6MYKRhEIKscR8qdGlvpk9y"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3mWDcLkpeZ5aReUNWoOadU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3mWDcLkpeZ5aReUNWoOadU",
+          "id" : "3mWDcLkpeZ5aReUNWoOadU",
+          "name" : "Bob Kauflin",
+          "type" : "artist",
+          "uri" : "spotify:artist:3mWDcLkpeZ5aReUNWoOadU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1L8ux7GT04wMY8cCYZfTEE"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1L8ux7GT04wMY8cCYZfTEE",
+        "id" : "1L8ux7GT04wMY8cCYZfTEE",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d7e594da44470d973c04c107",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d7e594da44470d973c04c107",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d7e594da44470d973c04c107",
+          "width" : 64
+        } ],
+        "name" : "Together for the Gospel IV (Live)",
+        "release_date" : "2018-10-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:1L8ux7GT04wMY8cCYZfTEE"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6MYKRhEIKscR8qdGlvpk9y",
+        "id" : "6MYKRhEIKscR8qdGlvpk9y",
+        "name" : "Sovereign Grace Music",
+        "type" : "artist",
+        "uri" : "spotify:artist:6MYKRhEIKscR8qdGlvpk9y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mWDcLkpeZ5aReUNWoOadU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mWDcLkpeZ5aReUNWoOadU",
+        "id" : "3mWDcLkpeZ5aReUNWoOadU",
+        "name" : "Bob Kauflin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mWDcLkpeZ5aReUNWoOadU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 312485,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US25L1800472"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0TIe4fWwnZTCba7wFZBcHD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0TIe4fWwnZTCba7wFZBcHD",
+      "id" : "0TIe4fWwnZTCba7wFZBcHD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "O Lord My Rock and My Redeemer - Live",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/95b1da0fece06643014119686541b42455671f11?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0TIe4fWwnZTCba7wFZBcHD"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/24pxvLTDsfnox2HHlKf2mX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/24pxvLTDsfnox2HHlKf2mX",
+          "id" : "24pxvLTDsfnox2HHlKf2mX",
+          "name" : "Adeaze",
+          "type" : "artist",
+          "uri" : "spotify:artist:24pxvLTDsfnox2HHlKf2mX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0eiijBKGudk1upWMSWdO5W"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0eiijBKGudk1upWMSWdO5W",
+        "id" : "0eiijBKGudk1upWMSWdO5W",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273414b6e208e20bf6f69f4aae4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02414b6e208e20bf6f69f4aae4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851414b6e208e20bf6f69f4aae4",
+          "width" : 64
+        } ],
+        "name" : "Always & for Real",
+        "release_date" : "2004-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0eiijBKGudk1upWMSWdO5W"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/24pxvLTDsfnox2HHlKf2mX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/24pxvLTDsfnox2HHlKf2mX",
+        "id" : "24pxvLTDsfnox2HHlKf2mX",
+        "name" : "Adeaze",
+        "type" : "artist",
+        "uri" : "spotify:artist:24pxvLTDsfnox2HHlKf2mX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 207360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "NZDR00400021"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6iyTrfewqlqOxmYkV7QVrO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6iyTrfewqlqOxmYkV7QVrO",
+      "id" : "6iyTrfewqlqOxmYkV7QVrO",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Lord Is My Light",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ac0e535f221e9319e2fc464600c9f238d8b1d43d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:6iyTrfewqlqOxmYkV7QVrO"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=My+Lord+and+I&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=My+Lord+and+I&type=track&market=US&offset=0&limit=10",
+    "total" : 2361
+  }
+}

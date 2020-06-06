@@ -1,0 +1,789 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Nearer+My+God%2C+to+Thee&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7FQRbf8gbKw8KZQZAJWxH2",
+          "id" : "7FQRbf8gbKw8KZQZAJWxH2",
+          "name" : "Paul Cardall",
+          "type" : "artist",
+          "uri" : "spotify:artist:7FQRbf8gbKw8KZQZAJWxH2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0EpzfsQousFs65vjvTYbWY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0EpzfsQousFs65vjvTYbWY",
+        "id" : "0EpzfsQousFs65vjvTYbWY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273826ee667310c5fc1df79abf5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02826ee667310c5fc1df79abf5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851826ee667310c5fc1df79abf5",
+          "width" : 64
+        } ],
+        "name" : "Hymns",
+        "release_date" : "1997",
+        "release_date_precision" : "year",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:0EpzfsQousFs65vjvTYbWY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7FQRbf8gbKw8KZQZAJWxH2",
+        "id" : "7FQRbf8gbKw8KZQZAJWxH2",
+        "name" : "Paul Cardall",
+        "type" : "artist",
+        "uri" : "spotify:artist:7FQRbf8gbKw8KZQZAJWxH2"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 197066,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "uscgj0604080"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7t0jFpkEL013wmf0CCn9Ui"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7t0jFpkEL013wmf0CCn9Ui",
+      "id" : "7t0jFpkEL013wmf0CCn9Ui",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer My God To Thee",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5caa2eca30f94bf6350b23f46a6f815838f39e1b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:7t0jFpkEL013wmf0CCn9Ui"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6L1D8jvWy1L2O27T5mqn8z"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6L1D8jvWy1L2O27T5mqn8z",
+          "id" : "6L1D8jvWy1L2O27T5mqn8z",
+          "name" : "Titanic Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:6L1D8jvWy1L2O27T5mqn8z"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/40EDAH4pR1cabq0ebLrfD2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/40EDAH4pR1cabq0ebLrfD2",
+        "id" : "40EDAH4pR1cabq0ebLrfD2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dbf5d8963028eda2a7b5e29a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dbf5d8963028eda2a7b5e29a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dbf5d8963028eda2a7b5e29a",
+          "width" : 64
+        } ],
+        "name" : "Back to Titanic",
+        "release_date" : "2016-09-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:40EDAH4pR1cabq0ebLrfD2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6L1D8jvWy1L2O27T5mqn8z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6L1D8jvWy1L2O27T5mqn8z",
+        "id" : "6L1D8jvWy1L2O27T5mqn8z",
+        "name" : "Titanic Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:6L1D8jvWy1L2O27T5mqn8z"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 161093,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBJUT0800573"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6dMW4183qISfHJwHOU27nc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6dMW4183qISfHJwHOU27nc",
+      "id" : "6dMW4183qISfHJwHOU27nc",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer My God to Thee",
+      "popularity" : 39,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d028bcd4a6a8be6062fd99c49f2e5fd16e6d98a7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:6dMW4183qISfHJwHOU27nc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6JVhGfVC1noBzzWtK146Ck"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6JVhGfVC1noBzzWtK146Ck",
+          "id" : "6JVhGfVC1noBzzWtK146Ck",
+          "name" : "Rebecca Mohler",
+          "type" : "artist",
+          "uri" : "spotify:artist:6JVhGfVC1noBzzWtK146Ck"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1lzm078XFVG2w2GN480yYs"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1lzm078XFVG2w2GN480yYs",
+        "id" : "1lzm078XFVG2w2GN480yYs",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273711ba1f11560dfa0862f11e5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02711ba1f11560dfa0862f11e5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851711ba1f11560dfa0862f11e5",
+          "width" : 64
+        } ],
+        "name" : "Called to the Work",
+        "release_date" : "2013-07-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:1lzm078XFVG2w2GN480yYs"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6JVhGfVC1noBzzWtK146Ck"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6JVhGfVC1noBzzWtK146Ck",
+        "id" : "6JVhGfVC1noBzzWtK146Ck",
+        "name" : "Rebecca Mohler",
+        "type" : "artist",
+        "uri" : "spotify:artist:6JVhGfVC1noBzzWtK146Ck"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 195283,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm81320823"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2oPXW6rnbO3eEIiHEBS3PH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2oPXW6rnbO3eEIiHEBS3PH",
+      "id" : "2oPXW6rnbO3eEIiHEBS3PH",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer My God to Thee",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f40d3568785989f4d831343dd5d83cc9d2eb23e8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2oPXW6rnbO3eEIiHEBS3PH"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3PhL2Vdao2v8SS8AptuhAr",
+          "id" : "3PhL2Vdao2v8SS8AptuhAr",
+          "name" : "James Horner",
+          "type" : "artist",
+          "uri" : "spotify:artist:3PhL2Vdao2v8SS8AptuhAr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/24YoVjBTadmRW2Zhc9ou9S"
+        },
+        "href" : "https://api.spotify.com/v1/albums/24YoVjBTadmRW2Zhc9ou9S",
+        "id" : "24YoVjBTadmRW2Zhc9ou9S",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273065c3565b58f738e30035f10",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02065c3565b58f738e30035f10",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851065c3565b58f738e30035f10",
+          "width" : 64
+        } ],
+        "name" : "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "release_date" : "1997",
+        "release_date_precision" : "year",
+        "total_tracks" : 57,
+        "type" : "album",
+        "uri" : "spotify:album:24YoVjBTadmRW2Zhc9ou9S"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0TEjrjC7baC4jJTQiOMsxJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0TEjrjC7baC4jJTQiOMsxJ",
+        "id" : "0TEjrjC7baC4jJTQiOMsxJ",
+        "name" : "I Salonisti",
+        "type" : "artist",
+        "uri" : "spotify:artist:0TEjrjC7baC4jJTQiOMsxJ"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 169560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM19803262"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/07vZEpICj2YTSywq2BkQLF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/07vZEpICj2YTSywq2BkQLF",
+      "id" : "07vZEpICj2YTSywq2BkQLF",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer My God to Thee",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/df942f3eec6364d427c23f6b19d43b6283aec17a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:07vZEpICj2YTSywq2BkQLF"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/44FVyueHCLAMyJPnvCqqwM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/44FVyueHCLAMyJPnvCqqwM",
+          "id" : "44FVyueHCLAMyJPnvCqqwM",
+          "name" : "The Lower Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:44FVyueHCLAMyJPnvCqqwM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6n5YhTwVVLpDz0pobKEe5P"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6n5YhTwVVLpDz0pobKEe5P",
+        "id" : "6n5YhTwVVLpDz0pobKEe5P",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27370cbea559ef1baea05220bee",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0270cbea559ef1baea05220bee",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485170cbea559ef1baea05220bee",
+          "width" : 64
+        } ],
+        "name" : "A Hymn Revival: Vol. 2",
+        "release_date" : "2012-07-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:6n5YhTwVVLpDz0pobKEe5P"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44FVyueHCLAMyJPnvCqqwM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44FVyueHCLAMyJPnvCqqwM",
+        "id" : "44FVyueHCLAMyJPnvCqqwM",
+        "name" : "The Lower Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:44FVyueHCLAMyJPnvCqqwM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 211200,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USULT1200059"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0BmebUz00dVPwMwCrMZT5i"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0BmebUz00dVPwMwCrMZT5i",
+      "id" : "0BmebUz00dVPwMwCrMZT5i",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, My God, to Thee",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e963a0db3014f29edf40f4120eb66430faa4e62e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:0BmebUz00dVPwMwCrMZT5i"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2duo4NJtUrLaI38trK0hht"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2duo4NJtUrLaI38trK0hht",
+          "id" : "2duo4NJtUrLaI38trK0hht",
+          "name" : "Mormon Tabernacle Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:2duo4NJtUrLaI38trK0hht"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/235O9JdWj2FxUFXdjl22lo"
+        },
+        "href" : "https://api.spotify.com/v1/albums/235O9JdWj2FxUFXdjl22lo",
+        "id" : "235O9JdWj2FxUFXdjl22lo",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273923fcab6bee801b9f9f649a6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02923fcab6bee801b9f9f649a6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851923fcab6bee801b9f9f649a6",
+          "width" : 64
+        } ],
+        "name" : "Rock of Ages - 30 Favorite Hymns (with The Philadelphia Brass Ensemble & Percussion & Alexander Schreiner)",
+        "release_date" : "1960",
+        "release_date_precision" : "year",
+        "total_tracks" : 30,
+        "type" : "album",
+        "uri" : "spotify:album:235O9JdWj2FxUFXdjl22lo"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1OTzty5JmoNS56iOYgsTwf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1OTzty5JmoNS56iOYgsTwf",
+        "id" : "1OTzty5JmoNS56iOYgsTwf",
+        "name" : "Lowell Mason",
+        "type" : "artist",
+        "uri" : "spotify:artist:1OTzty5JmoNS56iOYgsTwf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2duo4NJtUrLaI38trK0hht"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2duo4NJtUrLaI38trK0hht",
+        "id" : "2duo4NJtUrLaI38trK0hht",
+        "name" : "Mormon Tabernacle Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:2duo4NJtUrLaI38trK0hht"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7msm7itiMt8EnLLTBDTp3H"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7msm7itiMt8EnLLTBDTp3H",
+        "id" : "7msm7itiMt8EnLLTBDTp3H",
+        "name" : "Richard P. Condie",
+        "type" : "artist",
+        "uri" : "spotify:artist:7msm7itiMt8EnLLTBDTp3H"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/65dK30YxV8h1n7VSAhTiUi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/65dK30YxV8h1n7VSAhTiUi",
+        "id" : "65dK30YxV8h1n7VSAhTiUi",
+        "name" : "Alexander Schreiner",
+        "type" : "artist",
+        "uri" : "spotify:artist:65dK30YxV8h1n7VSAhTiUi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3lOftQQkjrA48AxTX7lJcv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3lOftQQkjrA48AxTX7lJcv",
+        "id" : "3lOftQQkjrA48AxTX7lJcv",
+        "name" : "The Philadelphia Brass Ensemble & Percussion",
+        "type" : "artist",
+        "uri" : "spotify:artist:3lOftQQkjrA48AxTX7lJcv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 186733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSM16901057"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3TZ6nb0lzm6UpRDeCsMWx0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3TZ6nb0lzm6UpRDeCsMWx0",
+      "id" : "3TZ6nb0lzm6UpRDeCsMWx0",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, My God, to Thee - Voice",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d83e1c50c91a61c71a1097c252dacbf6dd65ffdc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:3TZ6nb0lzm6UpRDeCsMWx0"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1OTzty5JmoNS56iOYgsTwf"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1OTzty5JmoNS56iOYgsTwf",
+          "id" : "1OTzty5JmoNS56iOYgsTwf",
+          "name" : "Lowell Mason",
+          "type" : "artist",
+          "uri" : "spotify:artist:1OTzty5JmoNS56iOYgsTwf"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zhxxb24WP6q6rbLHAn2UQ",
+          "id" : "5zhxxb24WP6q6rbLHAn2UQ",
+          "name" : "BYU Vocal Point",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zhxxb24WP6q6rbLHAn2UQ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/52QyVRbjUEr2G9cY2kv0OS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/52QyVRbjUEr2G9cY2kv0OS",
+          "id" : "52QyVRbjUEr2G9cY2kv0OS",
+          "name" : "BYU Men's Chorus",
+          "type" : "artist",
+          "uri" : "spotify:artist:52QyVRbjUEr2G9cY2kv0OS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/15pEo4xkV6qi1csqzSFqjA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/15pEo4xkV6qi1csqzSFqjA",
+        "id" : "15pEo4xkV6qi1csqzSFqjA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d71e9b96dd394e521e91999d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d71e9b96dd394e521e91999d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d71e9b96dd394e521e91999d",
+          "width" : 64
+        } ],
+        "name" : "Nearer, My God, to Thee (Arr. J.L. Stevens)",
+        "release_date" : "2014-08-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:15pEo4xkV6qi1csqzSFqjA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1OTzty5JmoNS56iOYgsTwf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1OTzty5JmoNS56iOYgsTwf",
+        "id" : "1OTzty5JmoNS56iOYgsTwf",
+        "name" : "Lowell Mason",
+        "type" : "artist",
+        "uri" : "spotify:artist:1OTzty5JmoNS56iOYgsTwf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zhxxb24WP6q6rbLHAn2UQ",
+        "id" : "5zhxxb24WP6q6rbLHAn2UQ",
+        "name" : "BYU Vocal Point",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zhxxb24WP6q6rbLHAn2UQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/52QyVRbjUEr2G9cY2kv0OS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/52QyVRbjUEr2G9cY2kv0OS",
+        "id" : "52QyVRbjUEr2G9cY2kv0OS",
+        "name" : "BYU Men's Chorus",
+        "type" : "artist",
+        "uri" : "spotify:artist:52QyVRbjUEr2G9cY2kv0OS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190302,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMRB31400068"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/670KQpQBh0sXyoKWnPAuNb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/670KQpQBh0sXyoKWnPAuNb",
+      "id" : "670KQpQBh0sXyoKWnPAuNb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, My God, to Thee (Arr. J.L. Stevens)",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8a450ff0ebb0d826c4eecd5bf238024de9d3e267?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:670KQpQBh0sXyoKWnPAuNb"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1rnvO0098VACV7bmTr2dIv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1rnvO0098VACV7bmTr2dIv",
+          "id" : "1rnvO0098VACV7bmTr2dIv",
+          "name" : "Jason Tonioli",
+          "type" : "artist",
+          "uri" : "spotify:artist:1rnvO0098VACV7bmTr2dIv"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5J0vM24lEXhpCZVB570aU1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5J0vM24lEXhpCZVB570aU1",
+        "id" : "5J0vM24lEXhpCZVB570aU1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27354c3d30e40b79503cfe9828e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0254c3d30e40b79503cfe9828e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485154c3d30e40b79503cfe9828e",
+          "width" : 64
+        } ],
+        "name" : "Be Still - Piano Hymns",
+        "release_date" : "2012-03-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:5J0vM24lEXhpCZVB570aU1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1rnvO0098VACV7bmTr2dIv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1rnvO0098VACV7bmTr2dIv",
+        "id" : "1rnvO0098VACV7bmTr2dIv",
+        "name" : "Jason Tonioli",
+        "type" : "artist",
+        "uri" : "spotify:artist:1rnvO0098VACV7bmTr2dIv"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 301453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USQY51270386"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3806Evw5EhiyJnNtquBfxo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3806Evw5EhiyJnNtquBfxo",
+      "id" : "3806Evw5EhiyJnNtquBfxo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer My God to Thee",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0f78cc0a7907163bd1cb44991458362eb6e14982?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3806Evw5EhiyJnNtquBfxo"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2duo4NJtUrLaI38trK0hht"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2duo4NJtUrLaI38trK0hht",
+          "id" : "2duo4NJtUrLaI38trK0hht",
+          "name" : "Mormon Tabernacle Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:2duo4NJtUrLaI38trK0hht"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4kAIRZipPTtTbZBTudxcEA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4kAIRZipPTtTbZBTudxcEA",
+          "id" : "4kAIRZipPTtTbZBTudxcEA",
+          "name" : "Orchestra at Temple Square",
+          "type" : "artist",
+          "uri" : "spotify:artist:4kAIRZipPTtTbZBTudxcEA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/65X6CeYJHBmTvhjtfYmxVf"
+        },
+        "href" : "https://api.spotify.com/v1/albums/65X6CeYJHBmTvhjtfYmxVf",
+        "id" : "65X6CeYJHBmTvhjtfYmxVf",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27352bc8b8969ab4a4e4b01ed06",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0252bc8b8969ab4a4e4b01ed06",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485152bc8b8969ab4a4e4b01ed06",
+          "width" : 64
+        } ],
+        "name" : "Then Sings My Soul",
+        "release_date" : "2006-05-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:65X6CeYJHBmTvhjtfYmxVf"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2duo4NJtUrLaI38trK0hht"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2duo4NJtUrLaI38trK0hht",
+        "id" : "2duo4NJtUrLaI38trK0hht",
+        "name" : "Mormon Tabernacle Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:2duo4NJtUrLaI38trK0hht"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kAIRZipPTtTbZBTudxcEA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kAIRZipPTtTbZBTudxcEA",
+        "id" : "4kAIRZipPTtTbZBTudxcEA",
+        "name" : "Orchestra at Temple Square",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kAIRZipPTtTbZBTudxcEA"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/13iOctu8ZH8004y3Sy4e8p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/13iOctu8ZH8004y3Sy4e8p",
+        "id" : "13iOctu8ZH8004y3Sy4e8p",
+        "name" : "Craig Jessop",
+        "type" : "artist",
+        "uri" : "spotify:artist:13iOctu8ZH8004y3Sy4e8p"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Zpql3RdMQjunbDKk1bIiz",
+        "id" : "2Zpql3RdMQjunbDKk1bIiz",
+        "name" : "Mack Wilberg",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Zpql3RdMQjunbDKk1bIiz"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 183173,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US23M0645430"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3xlBBjzUMBDDS1hjfLFfB2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3xlBBjzUMBDDS1hjfLFfB2",
+      "id" : "3xlBBjzUMBDDS1hjfLFfB2",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, My God, to Thee",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/831d13c68c83f0c9bd348ad9f182734a08f279e6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:3xlBBjzUMBDDS1hjfLFfB2"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7xkEury4Vby5uUKojsVMKm"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7xkEury4Vby5uUKojsVMKm",
+          "id" : "7xkEury4Vby5uUKojsVMKm",
+          "name" : "Life Hymns Worship Trio",
+          "type" : "artist",
+          "uri" : "spotify:artist:7xkEury4Vby5uUKojsVMKm"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5vn0Nmxh7xDJuvSvh8PPpt"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5vn0Nmxh7xDJuvSvh8PPpt",
+        "id" : "5vn0Nmxh7xDJuvSvh8PPpt",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273941df60da8bb0e94a06c9a92",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02941df60da8bb0e94a06c9a92",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851941df60da8bb0e94a06c9a92",
+          "width" : 64
+        } ],
+        "name" : "Relaxing Worship Hymns, Vol. 1",
+        "release_date" : "2019-10-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:5vn0Nmxh7xDJuvSvh8PPpt"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xkEury4Vby5uUKojsVMKm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xkEury4Vby5uUKojsVMKm",
+        "id" : "7xkEury4Vby5uUKojsVMKm",
+        "name" : "Life Hymns Worship Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xkEury4Vby5uUKojsVMKm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 251000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZGWW1974930"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6XtTjj0zV6CTn3pJ180uhq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6XtTjj0zV6CTn3pJ180uhq",
+      "id" : "6XtTjj0zV6CTn3pJ180uhq",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Nearer, My God, to Thee",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/08c0d24fe24954e2047567bc9d8d0ad9ad7efe8d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:6XtTjj0zV6CTn3pJ180uhq"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Nearer+My+God%2C+to+Thee&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Nearer+My+God%2C+to+Thee&type=track&market=US&offset=0&limit=10",
+    "total" : 1597
+  }
+}

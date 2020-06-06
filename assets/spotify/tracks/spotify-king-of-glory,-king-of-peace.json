@@ -1,0 +1,915 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=King+of+Glory%2C+King+of+Peace&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1iZZQ9LJg4rERzOzLwjkRW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1iZZQ9LJg4rERzOzLwjkRW",
+          "id" : "1iZZQ9LJg4rERzOzLwjkRW",
+          "name" : "The Choir of Magdalen College, Oxford",
+          "type" : "artist",
+          "uri" : "spotify:artist:1iZZQ9LJg4rERzOzLwjkRW"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1a5vaPdpbNJTqVY1RKjseJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1a5vaPdpbNJTqVY1RKjseJ",
+          "id" : "1a5vaPdpbNJTqVY1RKjseJ",
+          "name" : "John Harper",
+          "type" : "artist",
+          "uri" : "spotify:artist:1a5vaPdpbNJTqVY1RKjseJ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1MgoemxPpRJH6gqVQtblbI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1MgoemxPpRJH6gqVQtblbI",
+        "id" : "1MgoemxPpRJH6gqVQtblbI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f6ef096271831266324cfe72",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f6ef096271831266324cfe72",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f6ef096271831266324cfe72",
+          "width" : 64
+        } ],
+        "name" : "The English Anthem Anthology, Volume II (1886-1988)",
+        "release_date" : "2010-11-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 32,
+        "type" : "album",
+        "uri" : "spotify:album:1MgoemxPpRJH6gqVQtblbI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1iZZQ9LJg4rERzOzLwjkRW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1iZZQ9LJg4rERzOzLwjkRW",
+        "id" : "1iZZQ9LJg4rERzOzLwjkRW",
+        "name" : "The Choir of Magdalen College, Oxford",
+        "type" : "artist",
+        "uri" : "spotify:artist:1iZZQ9LJg4rERzOzLwjkRW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a5vaPdpbNJTqVY1RKjseJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a5vaPdpbNJTqVY1RKjseJ",
+        "id" : "1a5vaPdpbNJTqVY1RKjseJ",
+        "name" : "John Harper",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a5vaPdpbNJTqVY1RKjseJ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Eu6YSl222EtxChsp3e6F2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Eu6YSl222EtxChsp3e6F2",
+        "id" : "3Eu6YSl222EtxChsp3e6F2",
+        "name" : "Roy James Stewart",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Eu6YSl222EtxChsp3e6F2"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 227133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USX761006115"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1gR0VJJXOM8mZTwZYgR91U"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1gR0VJJXOM8mZTwZYgR91U",
+      "id" : "1gR0VJJXOM8mZTwZYgR91U",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of Peace",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6c0070d2292909f99b666c8d8f71376849cd6dd4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1gR0VJJXOM8mZTwZYgR91U"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3mhhqnNLrZ6Qr5VQfsRDxH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3mhhqnNLrZ6Qr5VQfsRDxH",
+          "id" : "3mhhqnNLrZ6Qr5VQfsRDxH",
+          "name" : "Polly Edmonds Baldridge and Walter G. Edmonds",
+          "type" : "artist",
+          "uri" : "spotify:artist:3mhhqnNLrZ6Qr5VQfsRDxH"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3HUPQoSLIknItun0qbqBr9"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3HUPQoSLIknItun0qbqBr9",
+        "id" : "3HUPQoSLIknItun0qbqBr9",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27307f807b21025274b4c301573",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0207f807b21025274b4c301573",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485107f807b21025274b4c301573",
+          "width" : 64
+        } ],
+        "name" : "Christ Is All to Me",
+        "release_date" : "2007-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 17,
+        "type" : "album",
+        "uri" : "spotify:album:3HUPQoSLIknItun0qbqBr9"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mhhqnNLrZ6Qr5VQfsRDxH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mhhqnNLrZ6Qr5VQfsRDxH",
+        "id" : "3mhhqnNLrZ6Qr5VQfsRDxH",
+        "name" : "Polly Edmonds Baldridge and Walter G. Edmonds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mhhqnNLrZ6Qr5VQfsRDxH"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 149866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usx9p0726621"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0G3BMOgNCQSeFla4GebEKl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0G3BMOgNCQSeFla4GebEKl",
+      "id" : "0G3BMOgNCQSeFla4GebEKl",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of Peace",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/843ed230c245261b382e483cf5fdd9a7fec33d60?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0G3BMOgNCQSeFla4GebEKl"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4FdiaaZ3KPwjaBfL9IlqsU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4FdiaaZ3KPwjaBfL9IlqsU",
+          "id" : "4FdiaaZ3KPwjaBfL9IlqsU",
+          "name" : "The Incarnation Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:4FdiaaZ3KPwjaBfL9IlqsU"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4j30o9AJi60yBFaMV0i2kY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4j30o9AJi60yBFaMV0i2kY",
+          "id" : "4j30o9AJi60yBFaMV0i2kY",
+          "name" : "Scott Dettra",
+          "type" : "artist",
+          "uri" : "spotify:artist:4j30o9AJi60yBFaMV0i2kY"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21cM2luTFMQ1gfAtfsaE3G"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21cM2luTFMQ1gfAtfsaE3G",
+          "id" : "21cM2luTFMQ1gfAtfsaE3G",
+          "name" : "L. Graham Schultz",
+          "type" : "artist",
+          "uri" : "spotify:artist:21cM2luTFMQ1gfAtfsaE3G"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0azY32GPoFGueZq33FtFX9"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0azY32GPoFGueZq33FtFX9",
+        "id" : "0azY32GPoFGueZq33FtFX9",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27301b6f5e3d19a0fc759746a9d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0201b6f5e3d19a0fc759746a9d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485101b6f5e3d19a0fc759746a9d",
+          "width" : 64
+        } ],
+        "name" : "Choral Evensong for Eastertide",
+        "release_date" : "2018-04-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 19,
+        "type" : "album",
+        "uri" : "spotify:album:0azY32GPoFGueZq33FtFX9"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7bCZD8dpkpeb4XA32w9Yj7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7bCZD8dpkpeb4XA32w9Yj7",
+        "id" : "7bCZD8dpkpeb4XA32w9Yj7",
+        "name" : "Harold Friedell",
+        "type" : "artist",
+        "uri" : "spotify:artist:7bCZD8dpkpeb4XA32w9Yj7"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4FdiaaZ3KPwjaBfL9IlqsU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4FdiaaZ3KPwjaBfL9IlqsU",
+        "id" : "4FdiaaZ3KPwjaBfL9IlqsU",
+        "name" : "The Incarnation Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:4FdiaaZ3KPwjaBfL9IlqsU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4j30o9AJi60yBFaMV0i2kY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4j30o9AJi60yBFaMV0i2kY",
+        "id" : "4j30o9AJi60yBFaMV0i2kY",
+        "name" : "Scott Dettra",
+        "type" : "artist",
+        "uri" : "spotify:artist:4j30o9AJi60yBFaMV0i2kY"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 188653,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USG3E1830802"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0ZzWDWTg9iNgcma87gMsl6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0ZzWDWTg9iNgcma87gMsl6",
+      "id" : "0ZzWDWTg9iNgcma87gMsl6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of Peace",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/34d902c21aefd8932924ebfb1a3547e33a7277dd?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0ZzWDWTg9iNgcma87gMsl6"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1iZZQ9LJg4rERzOzLwjkRW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1iZZQ9LJg4rERzOzLwjkRW",
+          "id" : "1iZZQ9LJg4rERzOzLwjkRW",
+          "name" : "The Choir of Magdalen College, Oxford",
+          "type" : "artist",
+          "uri" : "spotify:artist:1iZZQ9LJg4rERzOzLwjkRW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/07eEGtuRJf0wx4yrvfkJGA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/07eEGtuRJf0wx4yrvfkJGA",
+        "id" : "07eEGtuRJf0wx4yrvfkJGA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737e820ccce43df68cf6bc781a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027e820ccce43df68cf6bc781a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517e820ccce43df68cf6bc781a",
+          "width" : 64
+        } ],
+        "name" : "The English Anthem Collection",
+        "release_date" : "2012-01-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 67,
+        "type" : "album",
+        "uri" : "spotify:album:07eEGtuRJf0wx4yrvfkJGA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Eu6YSl222EtxChsp3e6F2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Eu6YSl222EtxChsp3e6F2",
+        "id" : "3Eu6YSl222EtxChsp3e6F2",
+        "name" : "Roy James Stewart",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Eu6YSl222EtxChsp3e6F2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1iZZQ9LJg4rERzOzLwjkRW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1iZZQ9LJg4rERzOzLwjkRW",
+        "id" : "1iZZQ9LJg4rERzOzLwjkRW",
+        "name" : "The Choir of Magdalen College, Oxford",
+        "type" : "artist",
+        "uri" : "spotify:artist:1iZZQ9LJg4rERzOzLwjkRW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a5vaPdpbNJTqVY1RKjseJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a5vaPdpbNJTqVY1RKjseJ",
+        "id" : "1a5vaPdpbNJTqVY1RKjseJ",
+        "name" : "John Harper",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a5vaPdpbNJTqVY1RKjseJ"
+      } ],
+      "disc_number" : 4,
+      "duration_ms" : 225293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USX761240150"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2pFnn0wI5tljUPmiGo48Ls"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2pFnn0wI5tljUPmiGo48Ls",
+      "id" : "2pFnn0wI5tljUPmiGo48Ls",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of Peace",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ed9bf040a2f5b0197a7e96bdc9615de542a9aebc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:2pFnn0wI5tljUPmiGo48Ls"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2PgiCuDn73QT9Bmsfkj7TQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2PgiCuDn73QT9Bmsfkj7TQ",
+          "id" : "2PgiCuDn73QT9Bmsfkj7TQ",
+          "name" : "John Padley",
+          "type" : "artist",
+          "uri" : "spotify:artist:2PgiCuDn73QT9Bmsfkj7TQ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4FgUStWBpa1aN7W7oRd8PU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4FgUStWBpa1aN7W7oRd8PU",
+          "id" : "4FgUStWBpa1aN7W7oRd8PU",
+          "name" : "David Bannister",
+          "type" : "artist",
+          "uri" : "spotify:artist:4FgUStWBpa1aN7W7oRd8PU"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2VTdYWyAgpOcWwDHM5oSML"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2VTdYWyAgpOcWwDHM5oSML",
+          "id" : "2VTdYWyAgpOcWwDHM5oSML",
+          "name" : "The Cathedral Singers of Christ Church, Oxford",
+          "type" : "artist",
+          "uri" : "spotify:artist:2VTdYWyAgpOcWwDHM5oSML"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2Q8I3IWq5StLaJq4annvWz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2Q8I3IWq5StLaJq4annvWz",
+        "id" : "2Q8I3IWq5StLaJq4annvWz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739e626e301d9cef671b4050d3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029e626e301d9cef671b4050d3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519e626e301d9cef671b4050d3",
+          "width" : 64
+        } ],
+        "name" : "How Shall I Sing That Majesty? - A Selection of Hymns",
+        "release_date" : "2013-08-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:2Q8I3IWq5StLaJq4annvWz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2PgiCuDn73QT9Bmsfkj7TQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2PgiCuDn73QT9Bmsfkj7TQ",
+        "id" : "2PgiCuDn73QT9Bmsfkj7TQ",
+        "name" : "John Padley",
+        "type" : "artist",
+        "uri" : "spotify:artist:2PgiCuDn73QT9Bmsfkj7TQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4FgUStWBpa1aN7W7oRd8PU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4FgUStWBpa1aN7W7oRd8PU",
+        "id" : "4FgUStWBpa1aN7W7oRd8PU",
+        "name" : "David Bannister",
+        "type" : "artist",
+        "uri" : "spotify:artist:4FgUStWBpa1aN7W7oRd8PU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2VTdYWyAgpOcWwDHM5oSML"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2VTdYWyAgpOcWwDHM5oSML",
+        "id" : "2VTdYWyAgpOcWwDHM5oSML",
+        "name" : "The Cathedral Singers of Christ Church, Oxford",
+        "type" : "artist",
+        "uri" : "spotify:artist:2VTdYWyAgpOcWwDHM5oSML"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 116906,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "UK2381302101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6tbAcgDvi7sQ3BJGVYy9Zv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6tbAcgDvi7sQ3BJGVYy9Zv",
+      "id" : "6tbAcgDvi7sQ3BJGVYy9Zv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of Peace",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2647b45710f1760b436671f82343316b9a0d8dae?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6tbAcgDvi7sQ3BJGVYy9Zv"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/30plygIgv91yOpsyPT0xHW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/30plygIgv91yOpsyPT0xHW",
+          "id" : "30plygIgv91yOpsyPT0xHW",
+          "name" : "The Choir of St George's Chapel, Windsor",
+          "type" : "artist",
+          "uri" : "spotify:artist:30plygIgv91yOpsyPT0xHW"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3aCRF9PEJRl9zDKKLedMAI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3aCRF9PEJRl9zDKKLedMAI",
+          "id" : "3aCRF9PEJRl9zDKKLedMAI",
+          "name" : "Christopher Robinson",
+          "type" : "artist",
+          "uri" : "spotify:artist:3aCRF9PEJRl9zDKKLedMAI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/50j6zDWTewIChJipfHj2Ti"
+        },
+        "href" : "https://api.spotify.com/v1/albums/50j6zDWTewIChJipfHj2Ti",
+        "id" : "50j6zDWTewIChJipfHj2Ti",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e96672f4c0c09d878b11f96c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e96672f4c0c09d878b11f96c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e96672f4c0c09d878b11f96c",
+          "width" : 64
+        } ],
+        "name" : "Choral Music by Brahms, Britten, Standford, Tippett, Harris",
+        "release_date" : "1982",
+        "release_date_precision" : "year",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:50j6zDWTewIChJipfHj2Ti"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6wOfczAGVYHk0eJ3Y17VjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6wOfczAGVYHk0eJ3Y17VjB",
+        "id" : "6wOfczAGVYHk0eJ3Y17VjB",
+        "name" : "William Harris",
+        "type" : "artist",
+        "uri" : "spotify:artist:6wOfczAGVYHk0eJ3Y17VjB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/23h87JEy6Tyl9Yy7jzNdAt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/23h87JEy6Tyl9Yy7jzNdAt",
+        "id" : "23h87JEy6Tyl9Yy7jzNdAt",
+        "name" : "John Porter",
+        "type" : "artist",
+        "uri" : "spotify:artist:23h87JEy6Tyl9Yy7jzNdAt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3aCRF9PEJRl9zDKKLedMAI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3aCRF9PEJRl9zDKKLedMAI",
+        "id" : "3aCRF9PEJRl9zDKKLedMAI",
+        "name" : "Christopher Robinson",
+        "type" : "artist",
+        "uri" : "spotify:artist:3aCRF9PEJRl9zDKKLedMAI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 347560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CH6639570503"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4DEm7Z3857NLftOy8vyYaR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4DEm7Z3857NLftOy8vyYaR",
+      "id" : "4DEm7Z3857NLftOy8vyYaR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of peace",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5da3645ef0eebe774b6a33cbc9ae7fb6f400212a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:4DEm7Z3857NLftOy8vyYaR"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/61WkWysVptnRkmDLDIoBpX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/61WkWysVptnRkmDLDIoBpX",
+          "id" : "61WkWysVptnRkmDLDIoBpX",
+          "name" : "Wells Cathedral Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:61WkWysVptnRkmDLDIoBpX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/43qggyD9Kc1w75wQrsEHR4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/43qggyD9Kc1w75wQrsEHR4",
+        "id" : "43qggyD9Kc1w75wQrsEHR4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733aae517ca42706af300f7b5d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023aae517ca42706af300f7b5d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513aae517ca42706af300f7b5d",
+          "width" : 64
+        } ],
+        "name" : "More Than Hymns",
+        "release_date" : "2007-10-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:43qggyD9Kc1w75wQrsEHR4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/61WkWysVptnRkmDLDIoBpX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/61WkWysVptnRkmDLDIoBpX",
+        "id" : "61WkWysVptnRkmDLDIoBpX",
+        "name" : "Wells Cathedral Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:61WkWysVptnRkmDLDIoBpX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5hzVruo6hza65D4Xz1iJsG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5hzVruo6hza65D4Xz1iJsG",
+        "id" : "5hzVruo6hza65D4Xz1iJsG",
+        "name" : "Rupert Gough",
+        "type" : "artist",
+        "uri" : "spotify:artist:5hzVruo6hza65D4Xz1iJsG"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 146026,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBTHM0700134"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/50N7um3M8lReBzOFWWjBl9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/50N7um3M8lReBzOFWWjBl9",
+      "id" : "50N7um3M8lReBzOFWWjBl9",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of Peace",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/362a5d45765d1c78d4d6fea76b0f7bf15a0582f9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:50N7um3M8lReBzOFWWjBl9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0fMfr6cSzWtgIk6NoXbjvK"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0fMfr6cSzWtgIk6NoXbjvK",
+          "id" : "0fMfr6cSzWtgIk6NoXbjvK",
+          "name" : "Carrie Wickens",
+          "type" : "artist",
+          "uri" : "spotify:artist:0fMfr6cSzWtgIk6NoXbjvK"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1Zif4VhxuAx7NQ1Dg2k0Es"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1Zif4VhxuAx7NQ1Dg2k0Es",
+        "id" : "1Zif4VhxuAx7NQ1Dg2k0Es",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bc04c439a3eddce6d91bea50",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bc04c439a3eddce6d91bea50",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bc04c439a3eddce6d91bea50",
+          "width" : 64
+        } ],
+        "name" : "Eternal Days",
+        "release_date" : "2017-10-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:1Zif4VhxuAx7NQ1Dg2k0Es"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0fMfr6cSzWtgIk6NoXbjvK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0fMfr6cSzWtgIk6NoXbjvK",
+        "id" : "0fMfr6cSzWtgIk6NoXbjvK",
+        "name" : "Carrie Wickens",
+        "type" : "artist",
+        "uri" : "spotify:artist:0fMfr6cSzWtgIk6NoXbjvK"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 177000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91737792"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5iA18Jpchi0sTEGwAgiSac"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5iA18Jpchi0sTEGwAgiSac",
+      "id" : "5iA18Jpchi0sTEGwAgiSac",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of Peace",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b1b73a0e72476df6c2330958401f62a5b20b6e49?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:5iA18Jpchi0sTEGwAgiSac"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4PTYDt11yyW0xlHQgQhSg4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4PTYDt11yyW0xlHQgQhSg4",
+          "id" : "4PTYDt11yyW0xlHQgQhSg4",
+          "name" : "Lincoln Minster School Chamber Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:4PTYDt11yyW0xlHQgQhSg4"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6rCnFpBaornndzPZofQfM3"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6rCnFpBaornndzPZofQfM3",
+          "id" : "6rCnFpBaornndzPZofQfM3",
+          "name" : "Aric Prentice",
+          "type" : "artist",
+          "uri" : "spotify:artist:6rCnFpBaornndzPZofQfM3"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3zNKXE9rI72st0KYupZppq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3zNKXE9rI72st0KYupZppq",
+          "id" : "3zNKXE9rI72st0KYupZppq",
+          "name" : "Charles Harrison",
+          "type" : "artist",
+          "uri" : "spotify:artist:3zNKXE9rI72st0KYupZppq"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4qrBrjcA7NRN3wcKhzhaz4"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4qrBrjcA7NRN3wcKhzhaz4",
+        "id" : "4qrBrjcA7NRN3wcKhzhaz4",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b0e721a7c6a5c9cfdda71353",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b0e721a7c6a5c9cfdda71353",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b0e721a7c6a5c9cfdda71353",
+          "width" : 64
+        } ],
+        "name" : "Great Hymns from Lincoln",
+        "release_date" : "2013-09-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 23,
+        "type" : "album",
+        "uri" : "spotify:album:4qrBrjcA7NRN3wcKhzhaz4"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6sKqyTNoaLTjtiDCtXZCV6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6sKqyTNoaLTjtiDCtXZCV6",
+        "id" : "6sKqyTNoaLTjtiDCtXZCV6",
+        "name" : "J. D. Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:6sKqyTNoaLTjtiDCtXZCV6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4PTYDt11yyW0xlHQgQhSg4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4PTYDt11yyW0xlHQgQhSg4",
+        "id" : "4PTYDt11yyW0xlHQgQhSg4",
+        "name" : "Lincoln Minster School Chamber Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:4PTYDt11yyW0xlHQgQhSg4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6rCnFpBaornndzPZofQfM3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6rCnFpBaornndzPZofQfM3",
+        "id" : "6rCnFpBaornndzPZofQfM3",
+        "name" : "Aric Prentice",
+        "type" : "artist",
+        "uri" : "spotify:artist:6rCnFpBaornndzPZofQfM3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNKXE9rI72st0KYupZppq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNKXE9rI72st0KYupZppq",
+        "id" : "3zNKXE9rI72st0KYupZppq",
+        "name" : "Charles Harrison",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNKXE9rI72st0KYupZppq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 139560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBXUX1310420"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6ZJx2Eyfuqz0mE7sty2kar"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6ZJx2Eyfuqz0mE7sty2kar",
+      "id" : "6ZJx2Eyfuqz0mE7sty2kar",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of Peace",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fda15ae8b23235a4ba557791ab94f2a205ee15cf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:6ZJx2Eyfuqz0mE7sty2kar"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4Z4hcxLRsKJbXKa1Zx5nqY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4Z4hcxLRsKJbXKa1Zx5nqY",
+        "id" : "4Z4hcxLRsKJbXKa1Zx5nqY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739156f257a28ff8bc8072ddda",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029156f257a28ff8bc8072ddda",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519156f257a28ff8bc8072ddda",
+          "width" : 64
+        } ],
+        "name" : "Fifty Best-Loved Hymns",
+        "release_date" : "2012-11-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 50,
+        "type" : "album",
+        "uri" : "spotify:album:4Z4hcxLRsKJbXKa1Zx5nqY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4XpHmVnDdangRn7CJ15FYy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4XpHmVnDdangRn7CJ15FYy",
+        "id" : "4XpHmVnDdangRn7CJ15FYy",
+        "name" : "John David Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:4XpHmVnDdangRn7CJ15FYy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6cn6We2Z7CFZVhQ9QTiiCU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6cn6We2Z7CFZVhQ9QTiiCU",
+        "id" : "6cn6We2Z7CFZVhQ9QTiiCU",
+        "name" : "George Herbert",
+        "type" : "artist",
+        "uri" : "spotify:artist:6cn6We2Z7CFZVhQ9QTiiCU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0FWsqdOkrZ1hGmXYWCwfTw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0FWsqdOkrZ1hGmXYWCwfTw",
+        "id" : "0FWsqdOkrZ1hGmXYWCwfTw",
+        "name" : "Choir of Trinity College, University of Melbourne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0FWsqdOkrZ1hGmXYWCwfTw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3aQcnRvK4fF3Kq2axKjbYO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3aQcnRvK4fF3Kq2axKjbYO",
+        "id" : "3aQcnRvK4fF3Kq2axKjbYO",
+        "name" : "John O'Donnell",
+        "type" : "artist",
+        "uri" : "spotify:artist:3aQcnRvK4fF3Kq2axKjbYO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2cnmogXOELDovpCcOKAdGH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2cnmogXOELDovpCcOKAdGH",
+        "id" : "2cnmogXOELDovpCcOKAdGH",
+        "name" : "Michael Leighton Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:2cnmogXOELDovpCcOKAdGH"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 147573,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "AUAB01250556"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6sL3h2CVpKsUuw70qKAAAR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6sL3h2CVpKsUuw70qKAAAR",
+      "id" : "6sL3h2CVpKsUuw70qKAAAR",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "King of Glory, King of Peace",
+      "popularity" : 1,
+      "preview_url" : null,
+      "track_number" : 30,
+      "type" : "track",
+      "uri" : "spotify:track:6sL3h2CVpKsUuw70qKAAAR"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=King+of+Glory%2C+King+of+Peace&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=King+of+Glory%2C+King+of+Peace&type=track&market=US&offset=0&limit=10",
+    "total" : 52
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Sweet%2C+Sweet+Spirit&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4llAOeA6kEF4ytaB2fsmcW",
+          "id" : "4llAOeA6kEF4ytaB2fsmcW",
+          "name" : "Lemon Demon",
+          "type" : "artist",
+          "uri" : "spotify:artist:4llAOeA6kEF4ytaB2fsmcW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4ocal2JegUDVQdP6KN1roI",
+        "id" : "4ocal2JegUDVQdP6KN1roI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ae390841cf7a97bf3a59bb5d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ae390841cf7a97bf3a59bb5d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ae390841cf7a97bf3a59bb5d",
+          "width" : 64
+        } ],
+        "name" : "Spirit Phone",
+        "release_date" : "2016-02-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 27,
+        "type" : "album",
+        "uri" : "spotify:album:4ocal2JegUDVQdP6KN1roI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4llAOeA6kEF4ytaB2fsmcW",
+        "id" : "4llAOeA6kEF4ytaB2fsmcW",
+        "name" : "Lemon Demon",
+        "type" : "artist",
+        "uri" : "spotify:artist:4llAOeA6kEF4ytaB2fsmcW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 250726,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACM1645307"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3lLIFgBuVG5sL0FKElIYJE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3lLIFgBuVG5sL0FKElIYJE",
+      "id" : "3lLIFgBuVG5sL0FKElIYJE",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sweet Bod",
+      "popularity" : 43,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b7cdec6516357a7a387776c3839c7f7333da32d6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:3lLIFgBuVG5sL0FKElIYJE"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4llAOeA6kEF4ytaB2fsmcW",
+          "id" : "4llAOeA6kEF4ytaB2fsmcW",
+          "name" : "Lemon Demon",
+          "type" : "artist",
+          "uri" : "spotify:artist:4llAOeA6kEF4ytaB2fsmcW"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4ocal2JegUDVQdP6KN1roI",
+        "id" : "4ocal2JegUDVQdP6KN1roI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ae390841cf7a97bf3a59bb5d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ae390841cf7a97bf3a59bb5d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ae390841cf7a97bf3a59bb5d",
+          "width" : 64
+        } ],
+        "name" : "Spirit Phone",
+        "release_date" : "2016-02-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 27,
+        "type" : "album",
+        "uri" : "spotify:album:4ocal2JegUDVQdP6KN1roI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4llAOeA6kEF4ytaB2fsmcW",
+        "id" : "4llAOeA6kEF4ytaB2fsmcW",
+        "name" : "Lemon Demon",
+        "type" : "artist",
+        "uri" : "spotify:artist:4llAOeA6kEF4ytaB2fsmcW"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 253614,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCACM1645391"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0NNxB5TvO0NkKAcJwUnXdw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0NNxB5TvO0NkKAcJwUnXdw",
+      "id" : "0NNxB5TvO0NkKAcJwUnXdw",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sweet Bod (Bonus Track)",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/67ea4bbe574e6a0d1f2847a77b2f031800fd1812?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 26,
+      "type" : "track",
+      "uri" : "spotify:track:0NNxB5TvO0NkKAcJwUnXdw"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32L6HnQe9jCXLmjpnS2XSQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32L6HnQe9jCXLmjpnS2XSQ",
+          "id" : "32L6HnQe9jCXLmjpnS2XSQ",
+          "name" : "Sweet Spirit",
+          "type" : "artist",
+          "uri" : "spotify:artist:32L6HnQe9jCXLmjpnS2XSQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1BNTBiSN0f1yiBi1MnxxPD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1BNTBiSN0f1yiBi1MnxxPD",
+        "id" : "1BNTBiSN0f1yiBi1MnxxPD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731b9d4d7c442b47a955c20bec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021b9d4d7c442b47a955c20bec",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511b9d4d7c442b47a955c20bec",
+          "width" : 64
+        } ],
+        "name" : "Cokomo",
+        "release_date" : "2015-10-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1BNTBiSN0f1yiBi1MnxxPD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32L6HnQe9jCXLmjpnS2XSQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32L6HnQe9jCXLmjpnS2XSQ",
+        "id" : "32L6HnQe9jCXLmjpnS2XSQ",
+        "name" : "Sweet Spirit",
+        "type" : "artist",
+        "uri" : "spotify:artist:32L6HnQe9jCXLmjpnS2XSQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 232733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USF2M1500516"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7FggS5G81lTWypLR9EGLPr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7FggS5G81lTWypLR9EGLPr",
+      "id" : "7FggS5G81lTWypLR9EGLPr",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Baby When I Close My Eyes",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d50fb52cc76705aea1c3f2f45909e3efcbbf5dd4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:7FggS5G81lTWypLR9EGLPr"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5rScKX1Sh1U67meeUyTGwk",
+          "id" : "5rScKX1Sh1U67meeUyTGwk",
+          "name" : "Michelle Branch",
+          "type" : "artist",
+          "uri" : "spotify:artist:5rScKX1Sh1U67meeUyTGwk"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1agL7TUoZXr0Xd4Irievqi",
+        "id" : "1agL7TUoZXr0Xd4Irievqi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27311e62b6d4e56b060aa71e09d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0211e62b6d4e56b060aa71e09d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485111e62b6d4e56b060aa71e09d",
+          "width" : 64
+        } ],
+        "name" : "The Spirit Room",
+        "release_date" : "2001-07-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5rScKX1Sh1U67meeUyTGwk",
+        "id" : "5rScKX1Sh1U67meeUyTGwk",
+        "name" : "Michelle Branch",
+        "type" : "artist",
+        "uri" : "spotify:artist:5rScKX1Sh1U67meeUyTGwk"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 223160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USMV20100086"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5vsWGHdghNsZyLusaRlVzo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5vsWGHdghNsZyLusaRlVzo",
+      "id" : "5vsWGHdghNsZyLusaRlVzo",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sweet Misery",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ec868f97bf1aff5503c94fd5a22e5235e0e201c3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:5vsWGHdghNsZyLusaRlVzo"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32L6HnQe9jCXLmjpnS2XSQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32L6HnQe9jCXLmjpnS2XSQ",
+          "id" : "32L6HnQe9jCXLmjpnS2XSQ",
+          "name" : "Sweet Spirit",
+          "type" : "artist",
+          "uri" : "spotify:artist:32L6HnQe9jCXLmjpnS2XSQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/607nMfcR5EMg8o7El6G0fj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/607nMfcR5EMg8o7El6G0fj",
+        "id" : "607nMfcR5EMg8o7El6G0fj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27352586f32b6db58eee0422044",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0252586f32b6db58eee0422044",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485152586f32b6db58eee0422044",
+          "width" : 64
+        } ],
+        "name" : "St. Mojo",
+        "release_date" : "2017-04-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:607nMfcR5EMg8o7El6G0fj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32L6HnQe9jCXLmjpnS2XSQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32L6HnQe9jCXLmjpnS2XSQ",
+        "id" : "32L6HnQe9jCXLmjpnS2XSQ",
+        "name" : "Sweet Spirit",
+        "type" : "artist",
+        "uri" : "spotify:artist:32L6HnQe9jCXLmjpnS2XSQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 224512,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USF2M1600563"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7qOYIsNi3d8ZJ86kjIbeI7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7qOYIsNi3d8ZJ86kjIbeI7",
+      "id" : "7qOYIsNi3d8ZJ86kjIbeI7",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Wanna Have You",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d020e013d5323d48bf0e59950f54efe02a16224b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:7qOYIsNi3d8ZJ86kjIbeI7"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1EGVLwdxU6X5VRdJ5vQcGR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1EGVLwdxU6X5VRdJ5vQcGR",
+          "id" : "1EGVLwdxU6X5VRdJ5vQcGR",
+          "name" : "Bishop Larry Trotter",
+          "type" : "artist",
+          "uri" : "spotify:artist:1EGVLwdxU6X5VRdJ5vQcGR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0JJWGRNsWAPiezjDCmEdsB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0JJWGRNsWAPiezjDCmEdsB",
+          "id" : "0JJWGRNsWAPiezjDCmEdsB",
+          "name" : "Sweet Holy Spirit",
+          "type" : "artist",
+          "uri" : "spotify:artist:0JJWGRNsWAPiezjDCmEdsB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DfExCIYUlG12eOFPnw3VN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DfExCIYUlG12eOFPnw3VN",
+        "id" : "3DfExCIYUlG12eOFPnw3VN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ff49fab2f3d941a8132be3d3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ff49fab2f3d941a8132be3d3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ff49fab2f3d941a8132be3d3",
+          "width" : 64
+        } ],
+        "name" : "Tell The Devil I'm Back",
+        "release_date" : "2001-01-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:3DfExCIYUlG12eOFPnw3VN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1EGVLwdxU6X5VRdJ5vQcGR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1EGVLwdxU6X5VRdJ5vQcGR",
+        "id" : "1EGVLwdxU6X5VRdJ5vQcGR",
+        "name" : "Bishop Larry Trotter",
+        "type" : "artist",
+        "uri" : "spotify:artist:1EGVLwdxU6X5VRdJ5vQcGR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0JJWGRNsWAPiezjDCmEdsB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0JJWGRNsWAPiezjDCmEdsB",
+        "id" : "0JJWGRNsWAPiezjDCmEdsB",
+        "name" : "Sweet Holy Spirit",
+        "type" : "artist",
+        "uri" : "spotify:artist:0JJWGRNsWAPiezjDCmEdsB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 426333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4Z60110813"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/18gq2RkNXWCyf3Rnjkx9Bs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/18gq2RkNXWCyf3Rnjkx9Bs",
+      "id" : "18gq2RkNXWCyf3Rnjkx9Bs",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "My Worship Is For Real",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d844351bad0675b42a4835c33921b715bf7f3ac4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:18gq2RkNXWCyf3Rnjkx9Bs"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1EGVLwdxU6X5VRdJ5vQcGR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1EGVLwdxU6X5VRdJ5vQcGR",
+          "id" : "1EGVLwdxU6X5VRdJ5vQcGR",
+          "name" : "Bishop Larry Trotter",
+          "type" : "artist",
+          "uri" : "spotify:artist:1EGVLwdxU6X5VRdJ5vQcGR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0JJWGRNsWAPiezjDCmEdsB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0JJWGRNsWAPiezjDCmEdsB",
+          "id" : "0JJWGRNsWAPiezjDCmEdsB",
+          "name" : "Sweet Holy Spirit",
+          "type" : "artist",
+          "uri" : "spotify:artist:0JJWGRNsWAPiezjDCmEdsB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2L5t1kpL9oxpNq2KIL7v3h"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2L5t1kpL9oxpNq2KIL7v3h",
+        "id" : "2L5t1kpL9oxpNq2KIL7v3h",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273213efab9eb3c8d4c4be10665",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02213efab9eb3c8d4c4be10665",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851213efab9eb3c8d4c4be10665",
+          "width" : 64
+        } ],
+        "name" : "What's 2 Come is Better Than What's Been!!",
+        "release_date" : "1999-08-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:2L5t1kpL9oxpNq2KIL7v3h"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1EGVLwdxU6X5VRdJ5vQcGR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1EGVLwdxU6X5VRdJ5vQcGR",
+        "id" : "1EGVLwdxU6X5VRdJ5vQcGR",
+        "name" : "Bishop Larry Trotter",
+        "type" : "artist",
+        "uri" : "spotify:artist:1EGVLwdxU6X5VRdJ5vQcGR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0JJWGRNsWAPiezjDCmEdsB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0JJWGRNsWAPiezjDCmEdsB",
+        "id" : "0JJWGRNsWAPiezjDCmEdsB",
+        "name" : "Sweet Holy Spirit",
+        "type" : "artist",
+        "uri" : "spotify:artist:0JJWGRNsWAPiezjDCmEdsB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 288413,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US4Z69907202"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3PWzBVskGNV5YRThi0Sxh8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3PWzBVskGNV5YRThi0Sxh8",
+      "id" : "3PWzBVskGNV5YRThi0Sxh8",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Lord Is Blessing Me",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3842752cade4e1430d9bafeee8e256cfb3f8511c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3PWzBVskGNV5YRThi0Sxh8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7kSP0XY1UueKCMOGJhIV9N",
+          "id" : "7kSP0XY1UueKCMOGJhIV9N",
+          "name" : "Masakatsu Takagi",
+          "type" : "artist",
+          "uri" : "spotify:artist:7kSP0XY1UueKCMOGJhIV9N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3CVU0gY4r5hYuf23oLOszP",
+        "id" : "3CVU0gY4r5hYuf23oLOszP",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273147e513da815d0299d6c2d1e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02147e513da815d0299d6c2d1e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851147e513da815d0299d6c2d1e",
+          "width" : 64
+        } ],
+        "name" : "Mirai (Original Motion Picture Soundtrack)",
+        "release_date" : "2018",
+        "release_date_precision" : "year",
+        "total_tracks" : 22,
+        "type" : "album",
+        "uri" : "spotify:album:3CVU0gY4r5hYuf23oLOszP"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kSP0XY1UueKCMOGJhIV9N",
+        "id" : "7kSP0XY1UueKCMOGJhIV9N",
+        "name" : "Masakatsu Takagi",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kSP0XY1UueKCMOGJhIV9N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 63533,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US5941409917"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1K7jgwtOxXJY1DLUCdqu29"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1K7jgwtOxXJY1DLUCdqu29",
+      "id" : "1K7jgwtOxXJY1DLUCdqu29",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sweet Spirit",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/451cc0ab008c5085af8f8299fad58aa37fdbffcb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1K7jgwtOxXJY1DLUCdqu29"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0Rh2F37PiLjhYaERywNulu"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0Rh2F37PiLjhYaERywNulu",
+          "id" : "0Rh2F37PiLjhYaERywNulu",
+          "name" : "Sweet Valley",
+          "type" : "artist",
+          "uri" : "spotify:artist:0Rh2F37PiLjhYaERywNulu"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1pIenhYmZdwdgLic6Gd5sx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1pIenhYmZdwdgLic6Gd5sx",
+        "id" : "1pIenhYmZdwdgLic6Gd5sx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738412ec3285d2d37d834bf1fc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028412ec3285d2d37d834bf1fc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518412ec3285d2d37d834bf1fc",
+          "width" : 64
+        } ],
+        "name" : "Eternal Champ",
+        "release_date" : "2012-09-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:1pIenhYmZdwdgLic6Gd5sx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Rh2F37PiLjhYaERywNulu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Rh2F37PiLjhYaERywNulu",
+        "id" : "0Rh2F37PiLjhYaERywNulu",
+        "name" : "Sweet Valley",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Rh2F37PiLjhYaERywNulu"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 232109,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMSDU1200132"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1RcAr39P5qKoon2ypPlvl6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1RcAr39P5qKoon2ypPlvl6",
+      "id" : "1RcAr39P5qKoon2ypPlvl6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Spirit Temple",
+      "popularity" : 26,
+      "preview_url" : null,
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1RcAr39P5qKoon2ypPlvl6"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3d2pb1dHTm8b61zAGVUVvO",
+          "id" : "3d2pb1dHTm8b61zAGVUVvO",
+          "name" : "Mick Jagger",
+          "type" : "artist",
+          "uri" : "spotify:artist:3d2pb1dHTm8b61zAGVUVvO"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3TAd5skYEcJ9dosbhEsVgA"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3TAd5skYEcJ9dosbhEsVgA",
+        "id" : "3TAd5skYEcJ9dosbhEsVgA",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737f22d4b9cc23b24dff3480e5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027f22d4b9cc23b24dff3480e5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517f22d4b9cc23b24dff3480e5",
+          "width" : 64
+        } ],
+        "name" : "Wandering Spirit",
+        "release_date" : "1993-02-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:3TAd5skYEcJ9dosbhEsVgA"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3d2pb1dHTm8b61zAGVUVvO",
+        "id" : "3d2pb1dHTm8b61zAGVUVvO",
+        "name" : "Mick Jagger",
+        "type" : "artist",
+        "uri" : "spotify:artist:3d2pb1dHTm8b61zAGVUVvO"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 259519,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USAT20105444"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/46oxhVXWECsaPytsDW6GKb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/46oxhVXWECsaPytsDW6GKb",
+      "id" : "46oxhVXWECsaPytsDW6GKb",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sweet Thing",
+      "popularity" : 42,
+      "preview_url" : null,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:46oxhVXWECsaPytsDW6GKb"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Sweet%2C+Sweet+Spirit&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Sweet%2C+Sweet+Spirit&type=track&market=US&offset=0&limit=10",
+    "total" : 4030
+  }
+}

@@ -1,0 +1,708 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=O+God+of+Light&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F"
+          },
+          "href" : "https://api.spotify.com/v1/artists/55RDuy7cQW2Dqrcz3Jjl6F",
+          "id" : "55RDuy7cQW2Dqrcz3Jjl6F",
+          "name" : "Freedom Call",
+          "type" : "artist",
+          "uri" : "spotify:artist:55RDuy7cQW2Dqrcz3Jjl6F"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2l3lL1oX1ejmOfZdDZK47W"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2l3lL1oX1ejmOfZdDZK47W",
+        "id" : "2l3lL1oX1ejmOfZdDZK47W",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f88e03910f94af0d1b14dca8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f88e03910f94af0d1b14dca8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f88e03910f94af0d1b14dca8",
+          "width" : 64
+        } ],
+        "name" : "Master of Light",
+        "release_date" : "2016-11-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2l3lL1oX1ejmOfZdDZK47W"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55RDuy7cQW2Dqrcz3Jjl6F",
+        "id" : "55RDuy7cQW2Dqrcz3Jjl6F",
+        "name" : "Freedom Call",
+        "type" : "artist",
+        "uri" : "spotify:artist:55RDuy7cQW2Dqrcz3Jjl6F"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEA451612030"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6sMvzPQdawOeEpFTZIpwsj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6sMvzPQdawOeEpFTZIpwsj",
+      "id" : "6sMvzPQdawOeEpFTZIpwsj",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Hammer of the Gods",
+      "popularity" : 42,
+      "preview_url" : "https://p.scdn.co/mp3-preview/522086abe3bb350d7bc3efd07989e15942c42b8e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6sMvzPQdawOeEpFTZIpwsj"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32vWCbZh0xZ4o9gkz4PsEU",
+          "id" : "32vWCbZh0xZ4o9gkz4PsEU",
+          "name" : "Dolly Parton",
+          "type" : "artist",
+          "uri" : "spotify:artist:32vWCbZh0xZ4o9gkz4PsEU"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6dEsLfS7vQJEOkfpAq8VwF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6dEsLfS7vQJEOkfpAq8VwF",
+        "id" : "6dEsLfS7vQJEOkfpAq8VwF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cfa159078c981905767e85f0",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cfa159078c981905767e85f0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cfa159078c981905767e85f0",
+          "width" : 64
+        } ],
+        "name" : "For God and Country",
+        "release_date" : "2003-11-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:6dEsLfS7vQJEOkfpAq8VwF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32vWCbZh0xZ4o9gkz4PsEU",
+        "id" : "32vWCbZh0xZ4o9gkz4PsEU",
+        "name" : "Dolly Parton",
+        "type" : "artist",
+        "uri" : "spotify:artist:32vWCbZh0xZ4o9gkz4PsEU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 289826,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USVG20388345"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5brA4jqWOLxPTuLaIaDaKk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5brA4jqWOLxPTuLaIaDaKk",
+      "id" : "5brA4jqWOLxPTuLaIaDaKk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Light of a Clear Blue Morning",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e59a7b4da7e5560f4b6864314e8ba0dc32bb4659?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5brA4jqWOLxPTuLaIaDaKk"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0oM8RWZXhJYSnzGdepP7fM",
+          "id" : "0oM8RWZXhJYSnzGdepP7fM",
+          "name" : "Aaron Shust",
+          "type" : "artist",
+          "uri" : "spotify:artist:0oM8RWZXhJYSnzGdepP7fM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2alCW8DgTycp93l6Apa2QS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2alCW8DgTycp93l6Apa2QS",
+        "id" : "2alCW8DgTycp93l6Apa2QS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273de83fa3144482cea20384e3a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02de83fa3144482cea20384e3a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851de83fa3144482cea20384e3a",
+          "width" : 64
+        } ],
+        "name" : "Morning Rises",
+        "release_date" : "2013-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2alCW8DgTycp93l6Apa2QS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0oM8RWZXhJYSnzGdepP7fM",
+        "id" : "0oM8RWZXhJYSnzGdepP7fM",
+        "name" : "Aaron Shust",
+        "type" : "artist",
+        "uri" : "spotify:artist:0oM8RWZXhJYSnzGdepP7fM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 220226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US8391300005"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2D3ubHfFB1ijMWvy0UABmN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2D3ubHfFB1ijMWvy0UABmN",
+      "id" : "2D3ubHfFB1ijMWvy0UABmN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "God Of Brilliant Lights",
+      "popularity" : 30,
+      "preview_url" : null,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:2D3ubHfFB1ijMWvy0UABmN"
+    }, {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3mJVHqaORll3o88svsb5RW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3mJVHqaORll3o88svsb5RW",
+        "id" : "3mJVHqaORll3o88svsb5RW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27342f6d44b6aff7cdf15943ac8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0242f6d44b6aff7cdf15943ac8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485142f6d44b6aff7cdf15943ac8",
+          "width" : 64
+        } ],
+        "name" : "Godspell (The New Broadway Cast Recording)",
+        "release_date" : "2011-12-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3mJVHqaORll3o88svsb5RW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VluulYWhcwWaD1pV7CtKB",
+        "id" : "4VluulYWhcwWaD1pV7CtKB",
+        "name" : "George Salazar",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VluulYWhcwWaD1pV7CtKB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1IzpocA7UesMxUudiO8F7a"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1IzpocA7UesMxUudiO8F7a",
+        "id" : "1IzpocA7UesMxUudiO8F7a",
+        "name" : "Godspell (The New Broadway Cast Recording)",
+        "type" : "artist",
+        "uri" : "spotify:artist:1IzpocA7UesMxUudiO8F7a"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 163466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSK31192759"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2F1ZysvlaF8cSLDF0g9GJM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2F1ZysvlaF8cSLDF0g9GJM",
+      "id" : "2F1ZysvlaF8cSLDF0g9GJM",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Light of the World",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/32c340101bc6f179200181d9de19dbce1bb3f32e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:2F1ZysvlaF8cSLDF0g9GJM"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+          "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+          "name" : "Anthem Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/18we0y1PK9lt3Qneye6ciV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/18we0y1PK9lt3Qneye6ciV",
+        "id" : "18we0y1PK9lt3Qneye6ciV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dafdd3fa96666ede04d6bbcb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dafdd3fa96666ede04d6bbcb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dafdd3fa96666ede04d6bbcb",
+          "width" : 64
+        } ],
+        "name" : "Hymns, Vol. II",
+        "release_date" : "2018-03-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:18we0y1PK9lt3Qneye6ciV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+        "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+        "name" : "Anthem Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 171177,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921850014"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5WR2AshcWbmiOirh2uYs04"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5WR2AshcWbmiOirh2uYs04",
+      "id" : "5WR2AshcWbmiOirh2uYs04",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "All Creatures of Our God and King",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/50a5d10f2e31dd1f6e562d663e44ac9668e416f5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:5WR2AshcWbmiOirh2uYs04"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+          "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+          "name" : "Anthem Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/14E15vFaHQVFTWGTaCFglz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/14E15vFaHQVFTWGTaCFglz",
+        "id" : "14E15vFaHQVFTWGTaCFglz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2736a28b3145d907e130119cc41",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e026a28b3145d907e130119cc41",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048516a28b3145d907e130119cc41",
+          "width" : 64
+        } ],
+        "name" : "We Got You Covered, Vol. 3",
+        "release_date" : "2018-08-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:14E15vFaHQVFTWGTaCFglz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+        "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+        "name" : "Anthem Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 179211,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921850034"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Jh8c6EDjsoJf3H01a3oDn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Jh8c6EDjsoJf3H01a3oDn",
+      "id" : "1Jh8c6EDjsoJf3H01a3oDn",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "I Can Only Imagine / Word of God Speak / Even If",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0589ba7afdc4bdc83eebf5fc02a1750b9ccf7311?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:1Jh8c6EDjsoJf3H01a3oDn"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6pRi6EIPXz4QJEOEsBaA0m",
+          "id" : "6pRi6EIPXz4QJEOEsBaA0m",
+          "name" : "Chris Tomlin",
+          "type" : "artist",
+          "uri" : "spotify:artist:6pRi6EIPXz4QJEOEsBaA0m"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3tSSB1DofuOXRnNXPDjwiW",
+        "id" : "3tSSB1DofuOXRnNXPDjwiW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273efcc466455922781330e23a2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02efcc466455922781330e23a2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851efcc466455922781330e23a2",
+          "width" : 64
+        } ],
+        "name" : "Burning Lights",
+        "release_date" : "2013-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6pRi6EIPXz4QJEOEsBaA0m",
+        "id" : "6pRi6EIPXz4QJEOEsBaA0m",
+        "name" : "Chris Tomlin",
+        "type" : "artist",
+        "uri" : "spotify:artist:6pRi6EIPXz4QJEOEsBaA0m"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XFBXku1ro7p7bjFQk98o6",
+        "id" : "0XFBXku1ro7p7bjFQk98o6",
+        "name" : "Christy Nockels",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XFBXku1ro7p7bjFQk98o6"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 267553,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USSP31200559"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5KcimqY4Uhp73W67TifdZZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5KcimqY4Uhp73W67TifdZZ",
+      "id" : "5KcimqY4Uhp73W67TifdZZ",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Jesus, Son Of God",
+      "popularity" : 33,
+      "preview_url" : null,
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:5KcimqY4Uhp73W67TifdZZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1MhtYlJvUqfd2EgHSQTGK4",
+          "id" : "1MhtYlJvUqfd2EgHSQTGK4",
+          "name" : "Jim James",
+          "type" : "artist",
+          "uri" : "spotify:artist:1MhtYlJvUqfd2EgHSQTGK4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3S9HLKJlIahphBAjzsHDzi"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3S9HLKJlIahphBAjzsHDzi",
+        "id" : "3S9HLKJlIahphBAjzsHDzi",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273285314f0017b652a7eec7e67",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02285314f0017b652a7eec7e67",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851285314f0017b652a7eec7e67",
+          "width" : 64
+        } ],
+        "name" : "Regions of Light and Sound of God",
+        "release_date" : "2013-02-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:3S9HLKJlIahphBAjzsHDzi"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MhtYlJvUqfd2EgHSQTGK4",
+        "id" : "1MhtYlJvUqfd2EgHSQTGK4",
+        "name" : "Jim James",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MhtYlJvUqfd2EgHSQTGK4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 268400,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USATO1300003"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/64EalHWTWqWq4WPEKJNBWg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/64EalHWTWqWq4WPEKJNBWg",
+      "id" : "64EalHWTWqWq4WPEKJNBWg",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "A New Life",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8fde040168963138bd83095e44d93f81e8da4b20?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:64EalHWTWqWq4WPEKJNBWg"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+          "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+          "name" : "Anthem Lights",
+          "type" : "artist",
+          "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/18we0y1PK9lt3Qneye6ciV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/18we0y1PK9lt3Qneye6ciV",
+        "id" : "18we0y1PK9lt3Qneye6ciV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273dafdd3fa96666ede04d6bbcb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02dafdd3fa96666ede04d6bbcb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851dafdd3fa96666ede04d6bbcb",
+          "width" : 64
+        } ],
+        "name" : "Hymns, Vol. II",
+        "release_date" : "2018-03-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:18we0y1PK9lt3Qneye6ciV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ",
+        "id" : "7kwEvDE8e7EBGKh5bLczqQ",
+        "name" : "Anthem Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kwEvDE8e7EBGKh5bLczqQ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 154668,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMF921850019"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0ZGoG29XxlfLM18ABZqbFa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0ZGoG29XxlfLM18ABZqbFa",
+      "id" : "0ZGoG29XxlfLM18ABZqbFa",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "The Crown Medley: All Hail the Power of Jesus Name / Crown Him With Many Crowns / Before the Throne of God Above",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7ec16975f5ae392039d87e4bdf5927938d78b811?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:0ZGoG29XxlfLM18ABZqbFa"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/18RcWkDq42pywlo5OpuI2i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/18RcWkDq42pywlo5OpuI2i",
+          "id" : "18RcWkDq42pywlo5OpuI2i",
+          "name" : "St. Louis Jesuits",
+          "type" : "artist",
+          "uri" : "spotify:artist:18RcWkDq42pywlo5OpuI2i"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7wF4tMNaP8cW3Nr1lykdZt"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7wF4tMNaP8cW3Nr1lykdZt",
+        "id" : "7wF4tMNaP8cW3Nr1lykdZt",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27304a430b2c17ee1eba22d06b7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0204a430b2c17ee1eba22d06b7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485104a430b2c17ee1eba22d06b7",
+          "width" : 64
+        } ],
+        "name" : "Lord of Light",
+        "release_date" : "1981",
+        "release_date_precision" : "year",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:7wF4tMNaP8cW3Nr1lykdZt"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18RcWkDq42pywlo5OpuI2i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18RcWkDq42pywlo5OpuI2i",
+        "id" : "18RcWkDq42pywlo5OpuI2i",
+        "name" : "St. Louis Jesuits",
+        "type" : "artist",
+        "uri" : "spotify:artist:18RcWkDq42pywlo5OpuI2i"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pvqDzf2WIFgxJWg79ViB6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pvqDzf2WIFgxJWg79ViB6",
+        "id" : "4pvqDzf2WIFgxJWg79ViB6",
+        "name" : "Dan Schutte",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pvqDzf2WIFgxJWg79ViB6"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 194666,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA4N0305990"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0BZqENnL78UmAHKUyX7h9m"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0BZqENnL78UmAHKUyX7h9m",
+      "id" : "0BZqENnL78UmAHKUyX7h9m",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "City of God",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/62b3acb4abd179e2d1094eaa133098514f3963d0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:0BZqENnL78UmAHKUyX7h9m"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=O+God+of+Light&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=O+God+of+Light&type=track&market=US&offset=0&limit=10",
+    "total" : 1825
+  }
+}

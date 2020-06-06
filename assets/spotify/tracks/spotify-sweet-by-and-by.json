@@ -1,0 +1,690 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Sweet+By+and+By&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/16dGAOg7n1wfPuLLwfdwur"
+          },
+          "href" : "https://api.spotify.com/v1/artists/16dGAOg7n1wfPuLLwfdwur",
+          "id" : "16dGAOg7n1wfPuLLwfdwur",
+          "name" : "Acapeldridge",
+          "type" : "artist",
+          "uri" : "spotify:artist:16dGAOg7n1wfPuLLwfdwur"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6usmsAm92X0rAkjzsiaqRU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6usmsAm92X0rAkjzsiaqRU",
+        "id" : "6usmsAm92X0rAkjzsiaqRU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273756e882f223ffd8214f6eb9e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02756e882f223ffd8214f6eb9e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851756e882f223ffd8214f6eb9e",
+          "width" : 64
+        } ],
+        "name" : "Whatever Is True",
+        "release_date" : "2017-11-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:6usmsAm92X0rAkjzsiaqRU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16dGAOg7n1wfPuLLwfdwur"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16dGAOg7n1wfPuLLwfdwur",
+        "id" : "16dGAOg7n1wfPuLLwfdwur",
+        "name" : "Acapeldridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:16dGAOg7n1wfPuLLwfdwur"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 138515,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm91744675"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5Jfei2Z58PaVVQXrVRdKto"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5Jfei2Z58PaVVQXrVRdKto",
+      "id" : "5Jfei2Z58PaVVQXrVRdKto",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sweet by and By",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5f5327a9205db9b1a8fc92e8aeb48b74da693d91?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:5Jfei2Z58PaVVQXrVRdKto"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+          "id" : "32DWM2tctxuDatAYWHjCtC",
+          "name" : "Hymns on Piano",
+          "type" : "artist",
+          "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1FohnN1MSnDYbGGhb2mFy0"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1FohnN1MSnDYbGGhb2mFy0",
+        "id" : "1FohnN1MSnDYbGGhb2mFy0",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731a2ccfe56055945f7230ecef",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021a2ccfe56055945f7230ecef",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511a2ccfe56055945f7230ecef",
+          "width" : 64
+        } ],
+        "name" : "Hymns of Worship, Vol. 4",
+        "release_date" : "2016-07-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:1FohnN1MSnDYbGGhb2mFy0"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32DWM2tctxuDatAYWHjCtC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32DWM2tctxuDatAYWHjCtC",
+        "id" : "32DWM2tctxuDatAYWHjCtC",
+        "name" : "Hymns on Piano",
+        "type" : "artist",
+        "uri" : "spotify:artist:32DWM2tctxuDatAYWHjCtC"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 211998,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USE831579370"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3E26nxXswcGtge3zCuvFoT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3E26nxXswcGtge3zCuvFoT",
+      "id" : "3E26nxXswcGtge3zCuvFoT",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Sweet By and By",
+      "popularity" : 39,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ab1aec4fdb93c6b64eeaff1a19ab5450b2254fae?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3E26nxXswcGtge3zCuvFoT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0ikiOZC4SDG6OrgHLESydg"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0ikiOZC4SDG6OrgHLESydg",
+          "id" : "0ikiOZC4SDG6OrgHLESydg",
+          "name" : "Peter Doherty",
+          "type" : "artist",
+          "uri" : "spotify:artist:0ikiOZC4SDG6OrgHLESydg"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/61RmMONNMRavBaWiAJSu3z"
+        },
+        "href" : "https://api.spotify.com/v1/albums/61RmMONNMRavBaWiAJSu3z",
+        "id" : "61RmMONNMRavBaWiAJSu3z",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27356e7400b3de33274ff5f4f1d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0256e7400b3de33274ff5f4f1d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485156e7400b3de33274ff5f4f1d",
+          "width" : 64
+        } ],
+        "name" : "Grace/Wastelands",
+        "release_date" : "2009-03-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:61RmMONNMRavBaWiAJSu3z"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ikiOZC4SDG6OrgHLESydg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ikiOZC4SDG6OrgHLESydg",
+        "id" : "0ikiOZC4SDG6OrgHLESydg",
+        "name" : "Peter Doherty",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ikiOZC4SDG6OrgHLESydg"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 184777,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBAYE0802588"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6hEzk4nzSfQ33wt563aCcm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6hEzk4nzSfQ33wt563aCcm",
+      "id" : "6hEzk4nzSfQ33wt563aCcm",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sweet by and By",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/64a8400885d21816cf581db7abdda18733e3cc1e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:6hEzk4nzSfQ33wt563aCcm"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5dZiRoY9Vpp6qrxqXNRwPE",
+          "id" : "5dZiRoY9Vpp6qrxqXNRwPE",
+          "name" : "Selah",
+          "type" : "artist",
+          "uri" : "spotify:artist:5dZiRoY9Vpp6qrxqXNRwPE"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/35Nsa8dIgCS17DBz6lqgUa"
+        },
+        "href" : "https://api.spotify.com/v1/albums/35Nsa8dIgCS17DBz6lqgUa",
+        "id" : "35Nsa8dIgCS17DBz6lqgUa",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2735a58376f3d1cbe9e02c6ddbf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e025a58376f3d1cbe9e02c6ddbf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048515a58376f3d1cbe9e02c6ddbf",
+          "width" : 64
+        } ],
+        "name" : "Unbreakable",
+        "release_date" : "2017-03-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:35Nsa8dIgCS17DBz6lqgUa"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dZiRoY9Vpp6qrxqXNRwPE",
+        "id" : "5dZiRoY9Vpp6qrxqXNRwPE",
+        "name" : "Selah",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dZiRoY9Vpp6qrxqXNRwPE"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 227080,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USCRB1613507"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7B4hsgZ0VMoT5rrs8uibio"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7B4hsgZ0VMoT5rrs8uibio",
+      "id" : "7B4hsgZ0VMoT5rrs8uibio",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In The Sweet By And By",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6e348cb89df03ed171ba690cdd9f0e46fcb2ea71?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:7B4hsgZ0VMoT5rrs8uibio"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Z7ndTqS6EPzpNn322s0Nw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Z7ndTqS6EPzpNn322s0Nw",
+          "id" : "5Z7ndTqS6EPzpNn322s0Nw",
+          "name" : "Jaime Jorge",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Z7ndTqS6EPzpNn322s0Nw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6iJ1gFRfc9ttxjRaU6B24Z"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6iJ1gFRfc9ttxjRaU6B24Z",
+        "id" : "6iJ1gFRfc9ttxjRaU6B24Z",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27398c661e999b0adbd22ea41b3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0298c661e999b0adbd22ea41b3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485198c661e999b0adbd22ea41b3",
+          "width" : 64
+        } ],
+        "name" : "Wonderful Peace",
+        "release_date" : "2007-08-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:6iJ1gFRfc9ttxjRaU6B24Z"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Z7ndTqS6EPzpNn322s0Nw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Z7ndTqS6EPzpNn322s0Nw",
+        "id" : "5Z7ndTqS6EPzpNn322s0Nw",
+        "name" : "Jaime Jorge",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Z7ndTqS6EPzpNn322s0Nw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 176240,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90740609"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6kerlqNRWvRTPEAxcFsA80"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6kerlqNRWvRTPEAxcFsA80",
+      "id" : "6kerlqNRWvRTPEAxcFsA80",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Sweet By And By",
+      "popularity" : 19,
+      "preview_url" : "https://p.scdn.co/mp3-preview/45cacda6eeb7eefa0a3eecf71f79cf42a9fa0227?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:6kerlqNRWvRTPEAxcFsA80"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3XnO697XIus1M0cMuxZjos",
+          "id" : "3XnO697XIus1M0cMuxZjos",
+          "name" : "The Oak Ridge Boys",
+          "type" : "artist",
+          "uri" : "spotify:artist:3XnO697XIus1M0cMuxZjos"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7qUXpEPxU0DK1qQ2WGEeal"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7qUXpEPxU0DK1qQ2WGEeal",
+        "id" : "7qUXpEPxU0DK1qQ2WGEeal",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d6ff72aacabeecccbd2f9975",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d6ff72aacabeecccbd2f9975",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d6ff72aacabeecccbd2f9975",
+          "width" : 64
+        } ],
+        "name" : "Rock Of Ages: Hymns And Gospel Favorites",
+        "release_date" : "2015-05-26",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:7qUXpEPxU0DK1qQ2WGEeal"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3XnO697XIus1M0cMuxZjos",
+        "id" : "3XnO697XIus1M0cMuxZjos",
+        "name" : "The Oak Ridge Boys",
+        "type" : "artist",
+        "uri" : "spotify:artist:3XnO697XIus1M0cMuxZjos"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 165106,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3271500033"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Yae8xlhxvrArCsGO2qj9i"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Yae8xlhxvrArCsGO2qj9i",
+      "id" : "1Yae8xlhxvrArCsGO2qj9i",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In The Sweet By And By",
+      "popularity" : 32,
+      "preview_url" : null,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1Yae8xlhxvrArCsGO2qj9i"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0Wv8mXdyQifZvmp6SKXRwr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0Wv8mXdyQifZvmp6SKXRwr",
+          "id" : "0Wv8mXdyQifZvmp6SKXRwr",
+          "name" : "Dan Gibson's Solitudes",
+          "type" : "artist",
+          "uri" : "spotify:artist:0Wv8mXdyQifZvmp6SKXRwr"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2CowndZgf2ZoP63S5C9GYp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2CowndZgf2ZoP63S5C9GYp",
+        "id" : "2CowndZgf2ZoP63S5C9GYp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273798d410c8484d37fe92b3fd2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02798d410c8484d37fe92b3fd2",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851798d410c8484d37fe92b3fd2",
+          "width" : 64
+        } ],
+        "name" : "Polynesian Spa",
+        "release_date" : "2013-10-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:2CowndZgf2ZoP63S5C9GYp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Wv8mXdyQifZvmp6SKXRwr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Wv8mXdyQifZvmp6SKXRwr",
+        "id" : "0Wv8mXdyQifZvmp6SKXRwr",
+        "name" : "Dan Gibson's Solitudes",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Wv8mXdyQifZvmp6SKXRwr"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 330000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CASD10600552"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4KGZsppAm3vp6RwVHCuIiG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4KGZsppAm3vp6RwVHCuIiG",
+      "id" : "4KGZsppAm3vp6RwVHCuIiG",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Sweet by and By",
+      "popularity" : 45,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e18325fbc90b4c2e89e264f12920daee83275008?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4KGZsppAm3vp6RwVHCuIiG"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+          "id" : "6kACVPfCOnqzgfEF5ryl0x",
+          "name" : "Johnny Cash",
+          "type" : "artist",
+          "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5W5ImYrmggt6B4PidNyF2i"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5W5ImYrmggt6B4PidNyF2i",
+        "id" : "5W5ImYrmggt6B4PidNyF2i",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b83770517c2b17fc9a575c7c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b83770517c2b17fc9a575c7c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b83770517c2b17fc9a575c7c",
+          "width" : 64
+        } ],
+        "name" : "My Mother's Hymn Book",
+        "release_date" : "2004",
+        "release_date_precision" : "year",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:5W5ImYrmggt6B4PidNyF2i"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+        "id" : "6kACVPfCOnqzgfEF5ryl0x",
+        "name" : "Johnny Cash",
+        "type" : "artist",
+        "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 144866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDJ20301217"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/08hJxSqb2GxGm9YGUibtm6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/08hJxSqb2GxGm9YGUibtm6",
+      "id" : "08hJxSqb2GxGm9YGUibtm6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In The Sweet By And By",
+      "popularity" : 29,
+      "preview_url" : null,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:08hJxSqb2GxGm9YGUibtm6"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4tw2Lmn9tTPUv7Gy7mVPI4",
+          "id" : "4tw2Lmn9tTPUv7Gy7mVPI4",
+          "name" : "Kenny Rogers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4tw2Lmn9tTPUv7Gy7mVPI4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1nDyCvaM27YErKw6rFWzlN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1nDyCvaM27YErKw6rFWzlN",
+        "id" : "1nDyCvaM27YErKw6rFWzlN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739f5c376eac033f0bb81e8ab8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029f5c376eac033f0bb81e8ab8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519f5c376eac033f0bb81e8ab8",
+          "width" : 64
+        } ],
+        "name" : "The Love of God (Deluxe Edition)",
+        "release_date" : "2019-10-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:1nDyCvaM27YErKw6rFWzlN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tw2Lmn9tTPUv7Gy7mVPI4",
+        "id" : "4tw2Lmn9tTPUv7Gy7mVPI4",
+        "name" : "Kenny Rogers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tw2Lmn9tTPUv7Gy7mVPI4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78YWEBmnuKPu8Q0Xiw7Tk6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78YWEBmnuKPu8Q0Xiw7Tk6",
+        "id" : "78YWEBmnuKPu8Q0Xiw7Tk6",
+        "name" : "Winfield's Locket",
+        "type" : "artist",
+        "uri" : "spotify:artist:78YWEBmnuKPu8Q0Xiw7Tk6"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 235040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3271201227"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3eY8AtOA7pY9zbXFEy1pxx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3eY8AtOA7pY9zbXFEy1pxx",
+      "id" : "3eY8AtOA7pY9zbXFEy1pxx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Sweet By and By",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0c01d5169b5901868fb136d15bd633713afe8b8d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3eY8AtOA7pY9zbXFEy1pxx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/11sAWrpIkFUPQlXoQqpeBV",
+          "id" : "11sAWrpIkFUPQlXoQqpeBV",
+          "name" : "Bill & Gloria Gaither",
+          "type" : "artist",
+          "uri" : "spotify:artist:11sAWrpIkFUPQlXoQqpeBV"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7L8TPfVhtZRX5U7HtWLJLF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7L8TPfVhtZRX5U7HtWLJLF",
+        "id" : "7L8TPfVhtZRX5U7HtWLJLF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732904d0952cc3dc6fcb187a51",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022904d0952cc3dc6fcb187a51",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512904d0952cc3dc6fcb187a51",
+          "width" : 64
+        } ],
+        "name" : "Tent Revival Homecoming",
+        "release_date" : "2011-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:7L8TPfVhtZRX5U7HtWLJLF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6AiuFk4YUoY4xi15OZJfKm",
+        "id" : "6AiuFk4YUoY4xi15OZJfKm",
+        "name" : "Jeff & Sheri Easter",
+        "type" : "artist",
+        "uri" : "spotify:artist:6AiuFk4YUoY4xi15OZJfKm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 129146,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US3271100443"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5ATNOdhYGZACRAf1Uopf4A"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5ATNOdhYGZACRAf1Uopf4A",
+      "id" : "5ATNOdhYGZACRAf1Uopf4A",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In The Sweet By And By - Live",
+      "popularity" : 31,
+      "preview_url" : null,
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:5ATNOdhYGZACRAf1Uopf4A"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=Sweet+By+and+By&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=Sweet+By+and+By&type=track&market=US&offset=0&limit=10",
+    "total" : 2985
+  }
+}

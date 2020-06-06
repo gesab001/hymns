@@ -1,0 +1,78 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=How+Sweet+Are+the+Tidings&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3ZuHDu73zbq3LLKP0hPtfa"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3ZuHDu73zbq3LLKP0hPtfa",
+          "id" : "3ZuHDu73zbq3LLKP0hPtfa",
+          "name" : "Bosede Apata",
+          "type" : "artist",
+          "uri" : "spotify:artist:3ZuHDu73zbq3LLKP0hPtfa"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/31DHTZJVVHmteF9c7rZnJC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/31DHTZJVVHmteF9c7rZnJC",
+        "id" : "31DHTZJVVHmteF9c7rZnJC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273db93e6a914a51174d2c86db6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02db93e6a914a51174d2c86db6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851db93e6a914a51174d2c86db6",
+          "width" : 64
+        } ],
+        "name" : "Ore Oluwa: God's Blessings",
+        "release_date" : "2016-06-30",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:31DHTZJVVHmteF9c7rZnJC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ZuHDu73zbq3LLKP0hPtfa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ZuHDu73zbq3LLKP0hPtfa",
+        "id" : "3ZuHDu73zbq3LLKP0hPtfa",
+        "name" : "Bosede Apata",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ZuHDu73zbq3LLKP0hPtfa"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 968880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM9AA1614123"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1aTlV64rqBj2nx1IEcjBlD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1aTlV64rqBj2nx1IEcjBlD",
+      "id" : "1aTlV64rqBj2nx1IEcjBlD",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Medley: Give Me Oil in My Lamp / Prayer Is the Key / Whisper a Prayer in the Morning / Now Let Us Have a Little Talk with Jesus / How Sweet Are the Tidings / Bim Ba, Bim Ba, Bim Ba / Count Your Blessings / Ore Mi / The Joy of the Lord Is My Strength",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4302e53fcc4619b0da4b72b6d05b93a11acbdd5c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1aTlV64rqBj2nx1IEcjBlD"
+    } ],
+    "limit" : 10,
+    "next" : null,
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=How+Sweet+Are+the+Tidings&type=track&market=US&offset=0&limit=10",
+    "total" : 6
+  }
+}

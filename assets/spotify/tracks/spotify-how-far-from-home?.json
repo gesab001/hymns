@@ -1,0 +1,726 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=How+Far+From+Home%3F&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3PUoQr9GO6cH44PU2TAeSw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3PUoQr9GO6cH44PU2TAeSw",
+          "id" : "3PUoQr9GO6cH44PU2TAeSw",
+          "name" : "Barbara Irene Bennett",
+          "type" : "artist",
+          "uri" : "spotify:artist:3PUoQr9GO6cH44PU2TAeSw"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4jIfEJlvTzOh37olWVXjnI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4jIfEJlvTzOh37olWVXjnI",
+        "id" : "4jIfEJlvTzOh37olWVXjnI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c8eef6d855ef4bccfaebc2d7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c8eef6d855ef4bccfaebc2d7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c8eef6d855ef4bccfaebc2d7",
+          "width" : 64
+        } ],
+        "name" : "Almost Home: Hymns on the Second Coming of Jesus",
+        "release_date" : "2018-12-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:4jIfEJlvTzOh37olWVXjnI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PUoQr9GO6cH44PU2TAeSw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PUoQr9GO6cH44PU2TAeSw",
+        "id" : "3PUoQr9GO6cH44PU2TAeSw",
+        "name" : "Barbara Irene Bennett",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PUoQr9GO6cH44PU2TAeSw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 221820,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q1883331"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2jnGpmG4KNHQxHZXzuj2Xv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2jnGpmG4KNHQxHZXzuj2Xv",
+      "id" : "2jnGpmG4KNHQxHZXzuj2Xv",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "How Far from Home",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6d4278f0f49b051195320bd5003551a313e7a6ef?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:2jnGpmG4KNHQxHZXzuj2Xv"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/22TgdESySkSLuLqDlqBlAt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/22TgdESySkSLuLqDlqBlAt",
+          "id" : "22TgdESySkSLuLqDlqBlAt",
+          "name" : "Dayzed",
+          "type" : "artist",
+          "uri" : "spotify:artist:22TgdESySkSLuLqDlqBlAt"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4rmye5fxwZ4VExImKRqfan"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4rmye5fxwZ4VExImKRqfan",
+        "id" : "4rmye5fxwZ4VExImKRqfan",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27318eceb4da6ca7f752711a315",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0218eceb4da6ca7f752711a315",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485118eceb4da6ca7f752711a315",
+          "width" : 64
+        } ],
+        "name" : "Haze",
+        "release_date" : "2017-10-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:4rmye5fxwZ4VExImKRqfan"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22TgdESySkSLuLqDlqBlAt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22TgdESySkSLuLqDlqBlAt",
+        "id" : "22TgdESySkSLuLqDlqBlAt",
+        "name" : "Dayzed",
+        "type" : "artist",
+        "uri" : "spotify:artist:22TgdESySkSLuLqDlqBlAt"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 236701,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM2PV1856459"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5aN2qtIcFaUbuKy0WdKakY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5aN2qtIcFaUbuKy0WdKakY",
+      "id" : "5aN2qtIcFaUbuKy0WdKakY",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "How Far from Home?",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e00d7cea79de845fe35e7ce5e01d7b0f098a3d86?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5aN2qtIcFaUbuKy0WdKakY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/46qs4O9ReTunGbfh77SXk7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/46qs4O9ReTunGbfh77SXk7",
+          "id" : "46qs4O9ReTunGbfh77SXk7",
+          "name" : "Crystal and Natasha",
+          "type" : "artist",
+          "uri" : "spotify:artist:46qs4O9ReTunGbfh77SXk7"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4I7AIGzB92qPFIv1UNyduj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4I7AIGzB92qPFIv1UNyduj",
+        "id" : "4I7AIGzB92qPFIv1UNyduj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273565bf921cdb6692cf51aa823",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02565bf921cdb6692cf51aa823",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851565bf921cdb6692cf51aa823",
+          "width" : 64
+        } ],
+        "name" : "The Sound of Home",
+        "release_date" : "2019-10-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:4I7AIGzB92qPFIv1UNyduj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/46qs4O9ReTunGbfh77SXk7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/46qs4O9ReTunGbfh77SXk7",
+        "id" : "46qs4O9ReTunGbfh77SXk7",
+        "name" : "Crystal and Natasha",
+        "type" : "artist",
+        "uri" : "spotify:artist:46qs4O9ReTunGbfh77SXk7"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 206750,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZHN31973978"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7sME8u0RQytDm0gR19RZrP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7sME8u0RQytDm0gR19RZrP",
+      "id" : "7sME8u0RQytDm0gR19RZrP",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "How Far from Home?",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3c538cbcfd87b7372fa9183c4830c7dbffeed16b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:7sME8u0RQytDm0gR19RZrP"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7cYv2KUPZp44eLorTH8Z2E"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7cYv2KUPZp44eLorTH8Z2E",
+          "id" : "7cYv2KUPZp44eLorTH8Z2E",
+          "name" : "Bob Bohlman",
+          "type" : "artist",
+          "uri" : "spotify:artist:7cYv2KUPZp44eLorTH8Z2E"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/06KjRbSWPalen4acF6mtEc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/06KjRbSWPalen4acF6mtEc",
+        "id" : "06KjRbSWPalen4acF6mtEc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c85796486f90b22316b10c25",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c85796486f90b22316b10c25",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c85796486f90b22316b10c25",
+          "width" : 64
+        } ],
+        "name" : "How Far From Home: A Spiritual Journey",
+        "release_date" : "2002-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:06KjRbSWPalen4acF6mtEc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7cYv2KUPZp44eLorTH8Z2E"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7cYv2KUPZp44eLorTH8Z2E",
+        "id" : "7cYv2KUPZp44eLorTH8Z2E",
+        "name" : "Bob Bohlman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7cYv2KUPZp44eLorTH8Z2E"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 108960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90477647"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6vQYY3DxKPIrnSqNe98Lta"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6vQYY3DxKPIrnSqNe98Lta",
+      "id" : "6vQYY3DxKPIrnSqNe98Lta",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "How Far From Home?",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3a13a18b22e4843d823aae56fbded56f804ead7e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:6vQYY3DxKPIrnSqNe98Lta"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4IkcuaSLhnJqtt0KmBfCqM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4IkcuaSLhnJqtt0KmBfCqM",
+          "id" : "4IkcuaSLhnJqtt0KmBfCqM",
+          "name" : "Croydon SDA Gospel Choir",
+          "type" : "artist",
+          "uri" : "spotify:artist:4IkcuaSLhnJqtt0KmBfCqM"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6s65Nac8rhK24Pj5tijnEg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6s65Nac8rhK24Pj5tijnEg",
+        "id" : "6s65Nac8rhK24Pj5tijnEg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273974bae7cff58403ae125827f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02974bae7cff58403ae125827f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851974bae7cff58403ae125827f",
+          "width" : 64
+        } ],
+        "name" : "Advent Songs - Volume 1: How Far From Home?",
+        "release_date" : "2011-07-06",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:6s65Nac8rhK24Pj5tijnEg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4IkcuaSLhnJqtt0KmBfCqM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4IkcuaSLhnJqtt0KmBfCqM",
+        "id" : "4IkcuaSLhnJqtt0KmBfCqM",
+        "name" : "Croydon SDA Gospel Choir",
+        "type" : "artist",
+        "uri" : "spotify:artist:4IkcuaSLhnJqtt0KmBfCqM"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 264542,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USJ3V1114446"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4IofWqxucTnhgftsKPgikd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4IofWqxucTnhgftsKPgikd",
+      "id" : "4IofWqxucTnhgftsKPgikd",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "How Far From Home?",
+      "popularity" : 6,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3445f52a29a64e22b42747387849e208671aa1dc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:4IofWqxucTnhgftsKPgikd"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5AhzPiAD4Iinw1PdjIlo6m"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5AhzPiAD4Iinw1PdjIlo6m",
+          "id" : "5AhzPiAD4Iinw1PdjIlo6m",
+          "name" : "Morten Ramsbøl",
+          "type" : "artist",
+          "uri" : "spotify:artist:5AhzPiAD4Iinw1PdjIlo6m"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5adJKZXjA04asoQfNY7HkZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5adJKZXjA04asoQfNY7HkZ",
+          "id" : "5adJKZXjA04asoQfNY7HkZ",
+          "name" : "Pippo Corvino",
+          "type" : "artist",
+          "uri" : "spotify:artist:5adJKZXjA04asoQfNY7HkZ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1JVqnPlxNKLWHIY4cV0VPS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1JVqnPlxNKLWHIY4cV0VPS",
+          "id" : "1JVqnPlxNKLWHIY4cV0VPS",
+          "name" : "Anil Bilgen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1JVqnPlxNKLWHIY4cV0VPS"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3YO4Q69d9kOjMU7RTmyeYM"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3YO4Q69d9kOjMU7RTmyeYM",
+        "id" : "3YO4Q69d9kOjMU7RTmyeYM",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27311148fd6d577d378f8f1175b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0211148fd6d577d378f8f1175b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485111148fd6d577d378f8f1175b",
+          "width" : 64
+        } ],
+        "name" : "How Far is the Moon",
+        "release_date" : "2016-10-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:3YO4Q69d9kOjMU7RTmyeYM"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5AhzPiAD4Iinw1PdjIlo6m"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5AhzPiAD4Iinw1PdjIlo6m",
+        "id" : "5AhzPiAD4Iinw1PdjIlo6m",
+        "name" : "Morten Ramsbøl",
+        "type" : "artist",
+        "uri" : "spotify:artist:5AhzPiAD4Iinw1PdjIlo6m"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5adJKZXjA04asoQfNY7HkZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5adJKZXjA04asoQfNY7HkZ",
+        "id" : "5adJKZXjA04asoQfNY7HkZ",
+        "name" : "Pippo Corvino",
+        "type" : "artist",
+        "uri" : "spotify:artist:5adJKZXjA04asoQfNY7HkZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1JVqnPlxNKLWHIY4cV0VPS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1JVqnPlxNKLWHIY4cV0VPS",
+        "id" : "1JVqnPlxNKLWHIY4cV0VPS",
+        "name" : "Anil Bilgen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1JVqnPlxNKLWHIY4cV0VPS"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 286600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ATV831600512"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5nzi6rPsfjYIHOV5PJdBEU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5nzi6rPsfjYIHOV5PJdBEU",
+      "id" : "5nzi6rPsfjYIHOV5PJdBEU",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Far From Home",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2c5d228804e4d97a0545b05135699c42d36cb27b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:5nzi6rPsfjYIHOV5PJdBEU"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/63XpL9olnc186POWOX1Ovq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/63XpL9olnc186POWOX1Ovq",
+          "id" : "63XpL9olnc186POWOX1Ovq",
+          "name" : "Gus Santana Band",
+          "type" : "artist",
+          "uri" : "spotify:artist:63XpL9olnc186POWOX1Ovq"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4xipwGQ7bLRVg5nmE38PXI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4xipwGQ7bLRVg5nmE38PXI",
+        "id" : "4xipwGQ7bLRVg5nmE38PXI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d1bcd166a8836e117a4ad301",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d1bcd166a8836e117a4ad301",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d1bcd166a8836e117a4ad301",
+          "width" : 64
+        } ],
+        "name" : "Rising Sounds from Home",
+        "release_date" : "2016-11-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:4xipwGQ7bLRVg5nmE38PXI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/63XpL9olnc186POWOX1Ovq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/63XpL9olnc186POWOX1Ovq",
+        "id" : "63XpL9olnc186POWOX1Ovq",
+        "name" : "Gus Santana Band",
+        "type" : "artist",
+        "uri" : "spotify:artist:63XpL9olnc186POWOX1Ovq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 170545,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZ4JJ1629252"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4zbgLdJV1ZU5cmhI8LhGbB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4zbgLdJV1ZU5cmhI8LhGbB",
+      "id" : "4zbgLdJV1ZU5cmhI8LhGbB",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "How Far Is Your Dream?",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f6235a2f4ac7c4ac472b7e2f0c7a9e15389056c0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:4zbgLdJV1ZU5cmhI8LhGbB"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3g1vCMxYLOi3CYuDFsVfUp"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3g1vCMxYLOi3CYuDFsVfUp",
+          "id" : "3g1vCMxYLOi3CYuDFsVfUp",
+          "name" : "Young Zino",
+          "type" : "artist",
+          "uri" : "spotify:artist:3g1vCMxYLOi3CYuDFsVfUp"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5FLGgdN6a5GnR1J8XB1NXS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5FLGgdN6a5GnR1J8XB1NXS",
+        "id" : "5FLGgdN6a5GnR1J8XB1NXS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c1a03197732710ac75178a2a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c1a03197732710ac75178a2a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c1a03197732710ac75178a2a",
+          "width" : 64
+        } ],
+        "name" : "Far from Home",
+        "release_date" : "2019-09-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:5FLGgdN6a5GnR1J8XB1NXS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3g1vCMxYLOi3CYuDFsVfUp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3g1vCMxYLOi3CYuDFsVfUp",
+        "id" : "3g1vCMxYLOi3CYuDFsVfUp",
+        "name" : "Young Zino",
+        "type" : "artist",
+        "uri" : "spotify:artist:3g1vCMxYLOi3CYuDFsVfUp"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 88680,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QZHN51907850"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5fxRnqQjIMpKi7Mt6c17BA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5fxRnqQjIMpKi7Mt6c17BA",
+      "id" : "5fxRnqQjIMpKi7Mt6c17BA",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "How",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/17f77aed95bf3ef1b7df774cfee5d1ac561a217f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5fxRnqQjIMpKi7Mt6c17BA"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7cYv2KUPZp44eLorTH8Z2E"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7cYv2KUPZp44eLorTH8Z2E",
+          "id" : "7cYv2KUPZp44eLorTH8Z2E",
+          "name" : "Bob Bohlman",
+          "type" : "artist",
+          "uri" : "spotify:artist:7cYv2KUPZp44eLorTH8Z2E"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/06KjRbSWPalen4acF6mtEc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/06KjRbSWPalen4acF6mtEc",
+        "id" : "06KjRbSWPalen4acF6mtEc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273c85796486f90b22316b10c25",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02c85796486f90b22316b10c25",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851c85796486f90b22316b10c25",
+          "width" : 64
+        } ],
+        "name" : "How Far From Home: A Spiritual Journey",
+        "release_date" : "2002-01-01",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:06KjRbSWPalen4acF6mtEc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7cYv2KUPZp44eLorTH8Z2E"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7cYv2KUPZp44eLorTH8Z2E",
+        "id" : "7cYv2KUPZp44eLorTH8Z2E",
+        "name" : "Bob Bohlman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7cYv2KUPZp44eLorTH8Z2E"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 134266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90477644"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2RNeNQNL6OaGLuLhhAEIDN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2RNeNQNL6OaGLuLhhAEIDN",
+      "id" : "2RNeNQNL6OaGLuLhhAEIDN",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "Far And Near",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6b3323a08a637b61dac9ba0bdd41a12825787be7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:2RNeNQNL6OaGLuLhhAEIDN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/72wwRnzGzNa0kav7GJWZng"
+          },
+          "href" : "https://api.spotify.com/v1/artists/72wwRnzGzNa0kav7GJWZng",
+          "id" : "72wwRnzGzNa0kav7GJWZng",
+          "name" : "J-KID",
+          "type" : "artist",
+          "uri" : "spotify:artist:72wwRnzGzNa0kav7GJWZng"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0IoqwGPZHAimkYDxkqF8iG"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0IoqwGPZHAimkYDxkqF8iG",
+        "id" : "0IoqwGPZHAimkYDxkqF8iG",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738c3444b9d2cb51f4e25bd7de",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028c3444b9d2cb51f4e25bd7de",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518c3444b9d2cb51f4e25bd7de",
+          "width" : 64
+        } ],
+        "name" : "Far from Home",
+        "release_date" : "2014-02-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 7,
+        "type" : "album",
+        "uri" : "spotify:album:0IoqwGPZHAimkYDxkqF8iG"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/72wwRnzGzNa0kav7GJWZng"
+        },
+        "href" : "https://api.spotify.com/v1/artists/72wwRnzGzNa0kav7GJWZng",
+        "id" : "72wwRnzGzNa0kav7GJWZng",
+        "name" : "J-KID",
+        "type" : "artist",
+        "uri" : "spotify:artist:72wwRnzGzNa0kav7GJWZng"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zOq1swElaLgz9eNdUTWa6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zOq1swElaLgz9eNdUTWa6",
+        "id" : "6zOq1swElaLgz9eNdUTWa6",
+        "name" : "Heir Max",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zOq1swElaLgz9eNdUTWa6"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 171000,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "ushm81479086"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6uyk9u0BrQfNqVQ3gpBc77"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6uyk9u0BrQfNqVQ3gpBc77",
+      "id" : "6uyk9u0BrQfNqVQ3gpBc77",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "How Much of My Soul (feat. Heir Max)",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b4ddaeb3d87fae66a52c4ff26f11fa88b254c76b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:6uyk9u0BrQfNqVQ3gpBc77"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=How+Far+From+Home%3F&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=How+Far+From+Home%3F&type=track&market=US&offset=0&limit=10",
+    "total" : 68
+  }
+}

@@ -1,0 +1,726 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=In+the+Bleak+Midwinter&type=track&market=US&offset=5&limit=10",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7FQRbf8gbKw8KZQZAJWxH2",
+          "id" : "7FQRbf8gbKw8KZQZAJWxH2",
+          "name" : "Paul Cardall",
+          "type" : "artist",
+          "uri" : "spotify:artist:7FQRbf8gbKw8KZQZAJWxH2"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/22wy6SWWn8Z060twQibq0L"
+        },
+        "href" : "https://api.spotify.com/v1/albums/22wy6SWWn8Z060twQibq0L",
+        "id" : "22wy6SWWn8Z060twQibq0L",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27369d6da7ab44a5444679443bf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0269d6da7ab44a5444679443bf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485169d6da7ab44a5444679443bf",
+          "width" : 64
+        } ],
+        "name" : "Christmas",
+        "release_date" : "2018-11-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:22wy6SWWn8Z060twQibq0L"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7FQRbf8gbKw8KZQZAJWxH2",
+        "id" : "7FQRbf8gbKw8KZQZAJWxH2",
+        "name" : "Paul Cardall",
+        "type" : "artist",
+        "uri" : "spotify:artist:7FQRbf8gbKw8KZQZAJWxH2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GKYNY4rIPnOuTfC0J1IWw",
+        "id" : "1GKYNY4rIPnOuTfC0J1IWw",
+        "name" : "Audrey Assad",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GKYNY4rIPnOuTfC0J1IWw"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 282266,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21851596"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3HhJXoQwER0UpyjpnyZvz6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3HhJXoQwER0UpyjpnyZvz6",
+      "id" : "3HhJXoQwER0UpyjpnyZvz6",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Bleak Midwinter",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/86f7f03ce7d6a6c702d6cbc46f158b40cdbf9c76?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3HhJXoQwER0UpyjpnyZvz6"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ",
+          "id" : "3w6zswp5THsSKYLICUbDTZ",
+          "name" : "Gabrielle Aplin",
+          "type" : "artist",
+          "uri" : "spotify:artist:3w6zswp5THsSKYLICUbDTZ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/597GQ9dmhOQoBfqmfQINKB",
+          "id" : "597GQ9dmhOQoBfqmfQINKB",
+          "name" : "Hannah Grace",
+          "type" : "artist",
+          "uri" : "spotify:artist:597GQ9dmhOQoBfqmfQINKB"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7bzooZ5hpkaLmxvp4NKsnV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7bzooZ5hpkaLmxvp4NKsnV",
+        "id" : "7bzooZ5hpkaLmxvp4NKsnV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27308a61cee08b8f903e2f24acd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0208a61cee08b8f903e2f24acd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485108a61cee08b8f903e2f24acd",
+          "width" : 64
+        } ],
+        "name" : "December",
+        "release_date" : "2019-11-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 6,
+        "type" : "album",
+        "uri" : "spotify:album:7bzooZ5hpkaLmxvp4NKsnV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ",
+        "id" : "3w6zswp5THsSKYLICUbDTZ",
+        "name" : "Gabrielle Aplin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3w6zswp5THsSKYLICUbDTZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/597GQ9dmhOQoBfqmfQINKB",
+        "id" : "597GQ9dmhOQoBfqmfQINKB",
+        "name" : "Hannah Grace",
+        "type" : "artist",
+        "uri" : "spotify:artist:597GQ9dmhOQoBfqmfQINKB"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 204880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GB23W1900046"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6eIlh4r8kaTAs3YQcSHkzu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6eIlh4r8kaTAs3YQcSHkzu",
+      "id" : "6eIlh4r8kaTAs3YQcSHkzu",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Bleak Midwinter",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/76b8816b451ec5b77c9395d6a6f5875d04681e49?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6eIlh4r8kaTAs3YQcSHkzu"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2YQ4MY2VwOMv43C0GemUY5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2YQ4MY2VwOMv43C0GemUY5",
+          "id" : "2YQ4MY2VwOMv43C0GemUY5",
+          "name" : "Jon Schmidt",
+          "type" : "artist",
+          "uri" : "spotify:artist:2YQ4MY2VwOMv43C0GemUY5"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1sFuvxnrM0b11pTlBbtCfb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1sFuvxnrM0b11pTlBbtCfb",
+        "id" : "1sFuvxnrM0b11pTlBbtCfb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273930e95550ddbede3a286b7bf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02930e95550ddbede3a286b7bf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851930e95550ddbede3a286b7bf",
+          "width" : 64
+        } ],
+        "name" : "Winter Serenade",
+        "release_date" : "2004-09-13",
+        "release_date_precision" : "day",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:1sFuvxnrM0b11pTlBbtCfb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2YQ4MY2VwOMv43C0GemUY5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2YQ4MY2VwOMv43C0GemUY5",
+        "id" : "2YQ4MY2VwOMv43C0GemUY5",
+        "name" : "Jon Schmidt",
+        "type" : "artist",
+        "uri" : "spotify:artist:2YQ4MY2VwOMv43C0GemUY5"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 287280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm90418140"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/729sqFrnGrnNLoZj3cZekI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/729sqFrnGrnNLoZj3cZekI",
+      "id" : "729sqFrnGrnNLoZj3cZekI",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In The Bleak Midwinter",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e969ff082e4af5128089ed8c40a7ccf1f99dab6d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:729sqFrnGrnNLoZj3cZekI"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6BeZ093zzZgeGLSV9TG5Ez",
+          "id" : "6BeZ093zzZgeGLSV9TG5Ez",
+          "name" : "Jonny Southard",
+          "type" : "artist",
+          "uri" : "spotify:artist:6BeZ093zzZgeGLSV9TG5Ez"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4zqHiaCQamGSDLkzKS8UxF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4zqHiaCQamGSDLkzKS8UxF",
+        "id" : "4zqHiaCQamGSDLkzKS8UxF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273a16a527af2494b8d0dc0634a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02a16a527af2494b8d0dc0634a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851a16a527af2494b8d0dc0634a",
+          "width" : 64
+        } ],
+        "name" : "In the Bleak Midwinter (Piano Version)",
+        "release_date" : "2017-11-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:4zqHiaCQamGSDLkzKS8UxF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6BeZ093zzZgeGLSV9TG5Ez",
+        "id" : "6BeZ093zzZgeGLSV9TG5Ez",
+        "name" : "Jonny Southard",
+        "type" : "artist",
+        "uri" : "spotify:artist:6BeZ093zzZgeGLSV9TG5Ez"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 243050,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q1712045"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5OKJh9efE7zbKQeSML51Xk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5OKJh9efE7zbKQeSML51Xk",
+      "id" : "5OKJh9efE7zbKQeSML51Xk",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Bleak Midwinter (Piano Version)",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7bf485bf24c34a2085ccccad20b9e7a64a7c65a2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5OKJh9efE7zbKQeSML51Xk"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0to4jGriVUNpgXmdw9C9js",
+          "id" : "0to4jGriVUNpgXmdw9C9js",
+          "name" : "Poella",
+          "type" : "artist",
+          "uri" : "spotify:artist:0to4jGriVUNpgXmdw9C9js"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0aTHB1pn3IeQm4hIe0c6DC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0aTHB1pn3IeQm4hIe0c6DC",
+        "id" : "0aTHB1pn3IeQm4hIe0c6DC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739f14707d93a01d23e52b4148",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029f14707d93a01d23e52b4148",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519f14707d93a01d23e52b4148",
+          "width" : 64
+        } ],
+        "name" : "In the Bleak Midwinter (Cello Version)",
+        "release_date" : "2020-04-20",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:0aTHB1pn3IeQm4hIe0c6DC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0to4jGriVUNpgXmdw9C9js",
+        "id" : "0to4jGriVUNpgXmdw9C9js",
+        "name" : "Poella",
+        "type" : "artist",
+        "uri" : "spotify:artist:0to4jGriVUNpgXmdw9C9js"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 123733,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZES52061940"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7wbvbMR4ZNR1zHSbG2hp6D"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7wbvbMR4ZNR1zHSbG2hp6D",
+      "id" : "7wbvbMR4ZNR1zHSbG2hp6D",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Bleak Midwinter - Cello Version",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2c936e09709602e197da2c8763f1a1bba40d28d6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7wbvbMR4ZNR1zHSbG2hp6D"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4PbnqEBfculpCqF2C7hLO4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4PbnqEBfculpCqF2C7hLO4",
+          "id" : "4PbnqEBfculpCqF2C7hLO4",
+          "name" : "Tom's Music Box",
+          "type" : "artist",
+          "uri" : "spotify:artist:4PbnqEBfculpCqF2C7hLO4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7uQgCKPtvaMY8MkZ7CHsJm"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7uQgCKPtvaMY8MkZ7CHsJm",
+        "id" : "7uQgCKPtvaMY8MkZ7CHsJm",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273b527df2cf374408cbe558c5c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02b527df2cf374408cbe558c5c",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851b527df2cf374408cbe558c5c",
+          "width" : 64
+        } ],
+        "name" : "Christmas Lullabies",
+        "release_date" : "2019-11-12",
+        "release_date_precision" : "day",
+        "total_tracks" : 20,
+        "type" : "album",
+        "uri" : "spotify:album:7uQgCKPtvaMY8MkZ7CHsJm"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4PbnqEBfculpCqF2C7hLO4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4PbnqEBfculpCqF2C7hLO4",
+        "id" : "4PbnqEBfculpCqF2C7hLO4",
+        "name" : "Tom's Music Box",
+        "type" : "artist",
+        "uri" : "spotify:artist:4PbnqEBfculpCqF2C7hLO4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 42692,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "usl4q1950171"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6LSXxpHmc3zQagu8bezpok"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6LSXxpHmc3zQagu8bezpok",
+      "id" : "6LSXxpHmc3zQagu8bezpok",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Bleak Midwinter",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f5d8c5a55bff455566b86a1e9eb09882fa5df359?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:6LSXxpHmc3zQagu8bezpok"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7iPH2BRBF9wKa6ljxvdext",
+          "id" : "7iPH2BRBF9wKa6ljxvdext",
+          "name" : "Fenne Lily",
+          "type" : "artist",
+          "uri" : "spotify:artist:7iPH2BRBF9wKa6ljxvdext"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/493n0j2HE9ax4C6vEaJY1c"
+        },
+        "href" : "https://api.spotify.com/v1/albums/493n0j2HE9ax4C6vEaJY1c",
+        "id" : "493n0j2HE9ax4C6vEaJY1c",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2738d04ed600485f45750efc998",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e028d04ed600485f45750efc998",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048518d04ed600485f45750efc998",
+          "width" : 64
+        } ],
+        "name" : "Spotify Singles – Christmas",
+        "release_date" : "2018-11-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:493n0j2HE9ax4C6vEaJY1c"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iPH2BRBF9wKa6ljxvdext",
+        "id" : "7iPH2BRBF9wKa6ljxvdext",
+        "name" : "Fenne Lily",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iPH2BRBF9wKa6ljxvdext"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 203747,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USA2P1890772"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0hIB8O5Ha9x3rDjHtA7XLW"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0hIB8O5Ha9x3rDjHtA7XLW",
+      "id" : "0hIB8O5Ha9x3rDjHtA7XLW",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Bleak Midwinter - Recorded at Metropolis Studios, London",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f808841c2c1ae4b7d6c01d81b010ce402481a3e6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0hIB8O5Ha9x3rDjHtA7XLW"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+          },
+          "href" : "https://api.spotify.com/v1/artists/32nW8kGbs65y8CSlIvREuc",
+          "id" : "32nW8kGbs65y8CSlIvREuc",
+          "name" : "Voces8",
+          "type" : "artist",
+          "uri" : "spotify:artist:32nW8kGbs65y8CSlIvREuc"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6lS5mutdPdnySUumtZoMGI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6lS5mutdPdnySUumtZoMGI",
+        "id" : "6lS5mutdPdnySUumtZoMGI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cd0dec2528840b0757ad7505",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cd0dec2528840b0757ad7505",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cd0dec2528840b0757ad7505",
+          "width" : 64
+        } ],
+        "name" : "Winter",
+        "release_date" : "2016-10-21",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:6lS5mutdPdnySUumtZoMGI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5B7uXBeLc2TkR5Jk23qKIZ",
+        "id" : "5B7uXBeLc2TkR5Jk23qKIZ",
+        "name" : "Gustav Holst",
+        "type" : "artist",
+        "uri" : "spotify:artist:5B7uXBeLc2TkR5Jk23qKIZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32nW8kGbs65y8CSlIvREuc",
+        "id" : "32nW8kGbs65y8CSlIvREuc",
+        "name" : "Voces8",
+        "type" : "artist",
+        "uri" : "spotify:artist:32nW8kGbs65y8CSlIvREuc"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 311853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBF071602050"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4a0npy6TddlwGKXNQI0Ixx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4a0npy6TddlwGKXNQI0Ixx",
+      "id" : "4a0npy6TddlwGKXNQI0Ixx",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Bleak Midwinter (Arr. Gjeilo)",
+      "popularity" : 20,
+      "preview_url" : null,
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4a0npy6TddlwGKXNQI0Ixx"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5pL7YEfiV9Gr2IAI9bpYfH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5pL7YEfiV9Gr2IAI9bpYfH",
+          "id" : "5pL7YEfiV9Gr2IAI9bpYfH",
+          "name" : "Sedona Breeze",
+          "type" : "artist",
+          "uri" : "spotify:artist:5pL7YEfiV9Gr2IAI9bpYfH"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3VDY0QXPOZPowuUKjgQaWz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3VDY0QXPOZPowuUKjgQaWz",
+        "id" : "3VDY0QXPOZPowuUKjgQaWz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273cf9c08fd60a88e3187a17104",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02cf9c08fd60a88e3187a17104",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851cf9c08fd60a88e3187a17104",
+          "width" : 64
+        } ],
+        "name" : "Holiday Christmas Music for Violin and Piano: New Age Classical Instrumental Christmas Carols",
+        "release_date" : "2017-07-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:3VDY0QXPOZPowuUKjgQaWz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5pL7YEfiV9Gr2IAI9bpYfH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5pL7YEfiV9Gr2IAI9bpYfH",
+        "id" : "5pL7YEfiV9Gr2IAI9bpYfH",
+        "name" : "Sedona Breeze",
+        "type" : "artist",
+        "uri" : "spotify:artist:5pL7YEfiV9Gr2IAI9bpYfH"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 259227,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "ushm21763674"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5nvCkr2P6ilIjTUurU3cLp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5nvCkr2P6ilIjTUurU3cLp",
+      "id" : "5nvCkr2P6ilIjTUurU3cLp",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Bleak Midwinter",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e4faaaf67aaf33142e590964b7648afcbd2b1766?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:5nvCkr2P6ilIjTUurU3cLp"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5QO1NNCLglKxgogzx6XLJn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5QO1NNCLglKxgogzx6XLJn",
+          "id" : "5QO1NNCLglKxgogzx6XLJn",
+          "name" : "Gregorian",
+          "type" : "artist",
+          "uri" : "spotify:artist:5QO1NNCLglKxgogzx6XLJn"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0NSckp2dQ6QqYJzoE7X7Kz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0NSckp2dQ6QqYJzoE7X7Kz",
+        "id" : "0NSckp2dQ6QqYJzoE7X7Kz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2730d241c813625221ac0e2fcb1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e020d241c813625221ac0e2fcb1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048510d241c813625221ac0e2fcb1",
+          "width" : 64
+        } ],
+        "name" : "Christmas Chants",
+        "release_date" : "2006-11-17",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:0NSckp2dQ6QqYJzoE7X7Kz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5B7uXBeLc2TkR5Jk23qKIZ",
+        "id" : "5B7uXBeLc2TkR5Jk23qKIZ",
+        "name" : "Gustav Holst",
+        "type" : "artist",
+        "uri" : "spotify:artist:5B7uXBeLc2TkR5Jk23qKIZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5QO1NNCLglKxgogzx6XLJn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5QO1NNCLglKxgogzx6XLJn",
+        "id" : "5QO1NNCLglKxgogzx6XLJn",
+        "name" : "Gregorian",
+        "type" : "artist",
+        "uri" : "spotify:artist:5QO1NNCLglKxgogzx6XLJn"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 192506,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DEH840600920"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2WkSumGKqwEhq1lgdWjp6H"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2WkSumGKqwEhq1lgdWjp6H",
+      "id" : "2WkSumGKqwEhq1lgdWjp6H",
+      "is_local" : false,
+      "is_playable" : true,
+      "name" : "In the Bleak Midwinter",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4ffc840dc18c72f48927ab13eb8d7511c6c82635?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:2WkSumGKqwEhq1lgdWjp6H"
+    } ],
+    "limit" : 10,
+    "next" : "https://api.spotify.com/v1/search?query=In+the+Bleak+Midwinter&type=track&market=US&offset=15&limit=10",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=In+the+Bleak+Midwinter&type=track&market=US&offset=0&limit=10",
+    "total" : 2697
+  }
+}
