@@ -29,6 +29,7 @@ import { ItunesComponent } from './itunes/itunes.component';
 
 import { HttpErrorHandler }     from './http-error-handler.service';
 import { MessageService }       from './message.service';
+import { SettingsComponent } from './settings/settings.component';
 
 
 
@@ -39,7 +40,8 @@ import { MessageService }       from './message.service';
     HymnInfoComponent,
     YoutubeComponent,
     SpotifyComponent,
-    ItunesComponent
+    ItunesComponent,
+    SettingsComponent
   ],
   imports: [
     BrowserModule,

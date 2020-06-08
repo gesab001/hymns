@@ -9,6 +9,6 @@
                       [max]="max">
 
           </mat-slider>
-<h1 [ngClass]="{'mat-body-1': isMobile, 'mat-display-1': !isMobile}" *ngFor="let line of verses[slideNumber]['lines']">{{line}}</h1>
+<p [ngClass]="{'mat-body-1': isMobile, 'mat-display-1': !isMobile}" *ngFor="let line of verses[slideNumber]['lines']">{{line}}</p>
 
 </div>
