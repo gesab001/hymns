@@ -5,7 +5,7 @@ import {map, startWith, takeUntil} from 'rxjs/operators';
 import {ThemePalette} from '@angular/material/core';
 // @ts-ignore
 import hymnsData from '../assets/hymns-youtube.json';
-import {MatSliderChange} from '@angular/material/slider';
+import flowerImages from '../assets/images/flowers/image-list.json';
 import { BreakpointObserver, Breakpoints, BreakpointState } from '@angular/cdk/layout';
 import {DomSanitizer} from '@angular/platform-browser';
 import {MatIconRegistry} from '@angular/material/icon';
@@ -21,7 +21,39 @@ import { Subject } from 'rxjs';
 export class AppComponent implements OnInit {
   value = '';
   isMobile = false;
- constructor(breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
+  totalImages = flowerImages.items.length;
+  imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
+  currentImage = flowerImages.items[this.imageIndex];
+ 
+  getRandomNumberBetween(min,max){
+        return Math.floor(Math.random()*(max-min+1)+min);
+    }
+  activateWebLayout(){
+     this.isMobile = false;
+  };
+
+  activateHandsetLayout(){
+     this.isMobile = true;
+  };
+  panelOpenState = false;
+
+  @ViewChild('drawer')drawer;
+  title = 'Seventh-day Adventist Hymnal';
+  subtitle = 'We may ascend near to heaven on the wings of praise';
+  hymnNumbers = Object.keys(hymnsData);
+  hymnsJson = hymnsData;
+  myControl = new FormControl();
+  selectedLanguage = 'english ';
+  filteredOptions: Observable<string[]>;
+  // isShown = false ; // hidden by default
+  showFiller = true;
+  currentHymn = '1. Praise to the Lord';
+  max = this.hymnsJson[this.currentHymn].verses.length - 1;
+  currentVerse = 0;
+  totalVerses = 0;
+  slideNumber = 0;
+  verseTitle = 'R';
+  constructor(breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
     breakpointObserver.observe([
       Breakpoints.HandsetLandscape,
       Breakpoints.HandsetPortrait
@@ -40,38 +72,6 @@ export class AppComponent implements OnInit {
         'itunes',
         sanitizer.bypassSecurityTrustResourceUrl('assets/images/examples/itunes.svg'));
   }
-
-  activateWebLayout(){
-     this.isMobile = false;
-  };
-
-  activateHandsetLayout(){
-     this.isMobile = true;
-  };
-  panelOpenState = false;
-  @ViewChild('slider')slider;
-  @ViewChild('drawer')drawer;
-  title = 'Seventh-day Adventist Hymnal';
-  subtitle = 'We may ascend near to heaven on the wings of praise';
-  hymnNumbers = Object.keys(hymnsData);
-  hymnsJson = hymnsData;
-  myControl = new FormControl();
-  selectedLanguage = 'english ';
-  filteredOptions: Observable<string[]>;
-  // isShown = false ; // hidden by default
-  showFiller = true;
-  currentHymn = '1. Praise to the Lord';
-  max = this.hymnsJson[this.currentHymn].verses.length - 1;
-  currentVerse = 0;
-  totalVerses = 0;
-  slideNumber = 0;
-  verseTitle = 'R';
-  // availableColors: ChipColor[] = [
-  //   {name: 'none', color: undefined},
-  //   {name: 'Primary', color: 'primary'},
-  //   {name: 'Accent', color: 'accent'},
-  //   {name: 'Warn', color: 'warn'}
-  // ];
   formatLabel(value: number) {
     return value + 1;
   }
@@ -87,59 +87,28 @@ export class AppComponent implements OnInit {
         map(value => this._filter(value))
       );
     this.currentHymn = '1. Praise to the Lord';
-    this.currentVerse = 0;
-    this.totalVerses = 0;
-    this.slideNumber = 0;
-    this.slider.value = 0;
-    this.verseTitle = 'R';
-    this.max = 3;
-    this.slider.focus();
+ 
   }
 
 
   itemSelected(evt: string) {
     this.currentHymn = evt;
-    this.max = this.hymnsJson[this.currentHymn].verses.length - 1;
-    this.slideNumber = 0;
-    this.slider.value = 0;
-    //this.drawer.close();
-    this.slider.focus();
+    this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
+    this.currentImage = flowerImages.items[this.imageIndex];
+ 
 
   }
 
-  onInputChange(event: MatSliderChange) {
-    this.slideNumber = event.value;
+
+  openDrawer(evt) {
+     this.drawer.open();
   }
 
-  onSwipeLeft(evt) {
-    if (this.slideNumber < (this.hymnsJson[this.currentHymn].verses.length) - 1) {
-      this.slideNumber = this.slideNumber + 1;
-      this.slider.value = this.slideNumber;
-      this.slider.focus();
-
-    }
+  closeDrawer(evt) {
+     this.drawer.close();
+     this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
   }
-  onSwipeRight(evt) {
-    // alert('Swipe right!');
-    if (this.slideNumber > 0) {
-      this.slideNumber = this.slideNumber - 1;
-      this.slider.value = this.slideNumber;
-      this.slider.focus();
 
-
-    }
-  }
-  onTap(evt){
-    //this.slider.focus();
-    //this.drawer.close();
-    if (this.slideNumber < (this.hymnsJson[this.currentHymn].verses.length) - 1) {
-      this.slideNumber = this.slideNumber + 1;
-      this.slider.value = this.slideNumber;
-      this.slider.focus();
-
-    }
-
-  }
 
   private _filter(value: string): string[] {
     const filterValue = value.toLowerCase();

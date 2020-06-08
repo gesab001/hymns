@@ -1,10 +1,11 @@
 export interface Spotify {
   id: string;
-  tracks: any;
+  name: string;
   album: any;
-  artists: any;
+  artists: [any];
   href: string;
   preview_url: string;
   uri: string;
+  external_urls: any;
 }
 

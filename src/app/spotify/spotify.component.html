@@ -1,6 +1,27 @@
 <div >
+<mat-table [dataSource]="spotify" class="mat-elevation-z8">
+  <!-- Position Column -->
+  <ng-container matColumnDef="title">
+    <mat-header-cell *matHeaderCellDef> Title </mat-header-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.external_urls.spotify)" target="_blank">{{element.name}}</a> </mat-cell>
+  </ng-container>
 
-         <iframe  *ngFor="let track of spotify; let i = index" [src]="getSafeSrc(track['id'])" height="80" frameborder="0" style="margin-right: 1em;"></iframe> 
+  <!-- Name Column -->
+  <ng-container matColumnDef="artist">
+    <mat-header-cell *matHeaderCellDef> Artist </mat-header-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.artists[0].external_urls.spotify)" target="_blank">{{element.artists[0].name}}</a> </mat-cell>
+  </ng-container>
 
+  <!-- Weight Column -->
+  <ng-container matColumnDef="album">
+    <mat-header-cell *matHeaderCellDef> Album </mat-header-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.album.external_urls.spotify)" target="_blank">{{element.album.name}}</a>  </mat-cell>
+  </ng-container>
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>
 </div>
+
+
 

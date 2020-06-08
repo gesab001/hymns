@@ -1,1 +1,14 @@
-<p>slideshow works!</p>
+<div align="center" (tap)="onTap($event)" (swiperight)="onSwipeRight($event)" (swipeleft)="onSwipeLeft($event)">
+          <h2 #verseTitle class="mat-display-2">{{verses[slideNumber]['verse_title']}}</h2>
+   <mat-slider #slider
+                      (input)="onInputChange($event)"
+                      [thumbLabel] = "true"
+                      [displayWith]="formatLabel"
+                      tickInterval="1"
+                      min="0"
+                      [max]="max">
+
+          </mat-slider>
+<h1 [ngClass]="{'mat-body-1': isMobile, 'mat-display-1': !isMobile}" *ngFor="let line of verses[slideNumber]['lines']">{{line}}</h1>
+
+</div>

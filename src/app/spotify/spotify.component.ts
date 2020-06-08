@@ -1,7 +1,10 @@
-import { Component,  Input, OnChanges, SimpleChanges } from '@angular/core';
+import { Component,  Input, OnChanges, SimpleChanges,ViewChild, OnInit } from '@angular/core';
 import { Spotify } from './spotify';
 import { SpotifyService } from './spotify.service';
 import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
+import {MatPaginator} from '@angular/material/paginator';
+import {MatSort} from '@angular/material/sort';
+import {MatTableDataSource} from '@angular/material/table';
 
 @Component({
   selector: 'app-spotify',
@@ -11,7 +14,9 @@ import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 })
 export class SpotifyComponent implements OnChanges {
  spotifymessage = 'spotify';
-
+  displayedColumns: string[] = ['title', 'artist', 'album'];
+  @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;
+  @ViewChild(MatSort, {static: true}) sort: MatSort;
  @Input() message: any;
   safeSrc: SafeResourceUrl;
   stringurl: string;
@@ -29,8 +34,8 @@ export class SpotifyComponent implements OnChanges {
     this.spotifymessage = term;
   }
 
-  public getSafeSrc(id: string): SafeResourceUrl {
-     this.stringurl = "https://open.spotify.com/embed/track/"+id;
+  public getSafeSrc(url: string): SafeResourceUrl {
+     this.stringurl = url;
      this.safeSrc =  this.sanitizer.bypassSecurityTrustResourceUrl(this.stringurl);
      return this.safeSrc;
   }

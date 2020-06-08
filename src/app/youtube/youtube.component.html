@@ -1,17 +1,18 @@
-<div >
-<mat-card *ngFor="let item of youtube">
- <mat-card-header>
-<mat-card-title>{{item.snippet.title}}</mat-card-title>
-<mat-card-subtitle><a [href]="getSafeSrcChannel(item.snippet.channelId)" target="_blank"> {{item.snippet.channelTitle}}</a></mat-card-subtitle>
-</mat-card-header>
-<mat-card-content>
-<p>{{item.snippet.description}}</p>
-</mat-card-content>
-<mat-card-actions>
-    <a  [href]="getSafeSrc(item.id.videoId)" target="_blank"><button mat-button>PLAY</button></a>
-    <a  [href]="getSafeSrcChannel(item.snippet.channelId)" target="_blank"><button mat-button>MORE VIDEOS LIKE THIS</button></a>
-
-  </mat-card-actions>
-
-</mat-card> 
+<div class="container">
+ <div class="card-columns" > 
+    <div class="card "  *ngFor="let item of youtube">
+        <div class="card-header">
+             <a [href]="getSafeSrc(item.id.videoId)" target="_blank"><h1 class="card-title">{{item.snippet.title}}</h1></a>
+        </div>
+        <div class="card-body">       
+            <a [href]="getSafeSrcChannel(item.snippet.channelId)"  target="_blank" ><h3 class="card-subtitle">{{item.snippet.channelTitle}}</h3></a>
+            <p class="card-text">{{item.snippet.description}}</p>
+            <a [href]="getSafeSrc(item.id.videoId)" target="_blank" class="btn btn-success">PLAY</a>
+        </div>
+        <div class="card-footer">
+          <a [href]="getSafeSrcChannel(item.snippet.channelId)"  target="_blank" class="btn btn-primary">MORE VIDEOS LIKE THIS</a>
+        </div>       
+    </div>
+ </div>
 </div>
+

@@ -14,7 +14,7 @@ import {MatTableDataSource} from '@angular/material/table';
   styleUrls: ['./itunes.component.css']
 })
 export class ItunesComponent implements OnChanges{
-  displayedColumns: string[] = ['preview', 'title', 'artist', 'album', 'cover'];
+  displayedColumns: string[] = ['title', 'artist', 'album'];
 
  
 

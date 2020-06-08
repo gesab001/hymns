@@ -1,39 +1,23 @@
 
 <div  >
 <mat-table [dataSource]="itunes" class="mat-elevation-z8">
-  <!-- Position Preview -->
-  <ng-container matColumnDef="preview">
-    <mat-header-cell *matHeaderCellDef> Preview </mat-header-cell>
-    <mat-cell *matCellDef="let element">  
-        <audio controls style="width: 100%;">
-          <source [src]="getSafeSrc(element.previewUrl)" type="audio/ogg">
-          <source [src]="getSafeSrc(element.previewUrl)" type="audio/mpeg">
-                Your browser does not support the audio element.
-        </audio>  
-    </mat-cell>
-  </ng-container>
+
   <!-- Position Column -->
-  <ng-container matColumnDef="title">
+  <ng-container matColumnDef="title" sticky>
     <mat-header-cell *matHeaderCellDef> Title </mat-header-cell>
-    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.trackViewUrl)">{{element.trackName}}</a> </mat-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.trackViewUrl)" target="_blank">{{element.trackName}}</a> </mat-cell>
   </ng-container>
 
   <!-- Name Column -->
   <ng-container matColumnDef="artist">
     <mat-header-cell *matHeaderCellDef> Artist </mat-header-cell>
-    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.artistViewUrl)">{{element.artistName}}</a> </mat-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.artistViewUrl)" target="_blank">{{element.artistName}}</a> </mat-cell>
   </ng-container>
 
   <!-- Weight Column -->
-  <ng-container matColumnDef="album">
+  <ng-container matColumnDef="album" stickyEnd>
     <mat-header-cell *matHeaderCellDef> Album </mat-header-cell>
-    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.collectionName)">{{element.collectionName}}</a>  </mat-cell>
-  </ng-container>
-
-  <!-- Symbol Column -->
-  <ng-container matColumnDef="cover">
-    <mat-header-cell *matHeaderCellDef> Cover </mat-header-cell>
-    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.artworkUrl100)"><img [src]="getSafeSrc(element.artworkUrl30)"/></a> </mat-cell>
+    <mat-cell *matCellDef="let element"> <a [href]="getSafeSrc(element.collectionName)" target="_blank">{{element.collectionName}}</a>  </mat-cell>
   </ng-container>
 
   <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
