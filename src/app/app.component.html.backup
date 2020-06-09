@@ -1,77 +1,42 @@
-<!--<div class="jumbotron text-center" style="margin-bottom:0">-->
-<!--  <h1>{{title}}</h1>-->
-<!--  <p>{{subtitle}}</p>-->
-<!--</div>-->
-
-<!--<nav class="navbar navbar-expand-sm bg-dark navbar-dark">-->
-<!--  <a class="navbar-brand" href="#">Navbar</a>-->
-<!--  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">-->
-<!--    <span class="navbar-toggler-icon"></span>-->
-<!--  </button>-->
-<!--  <div class="collapse navbar-collapse" id="collapsibleNavbar">-->
-<!--    <ul class="navbar-nav">-->
-<!--      <li class="nav-item">-->
-<!--        <a class="nav-link" href="#">Link</a>-->
-<!--      </li>-->
-<!--      <li class="nav-item">-->
-<!--        <a class="nav-link" href="#">Link</a>-->
-<!--      </li>-->
-<!--      <li class="nav-item">-->
-<!--        <a class="nav-link" href="#">Link</a>-->
-<!--      </li>-->
-<!--    </ul>-->
-<!--  </div>-->
-<!--</nav>-->
-
-<div class="mdc-layout-grid">
+<div class="mdc-layout-grid-gutter-desktop">
   <div class="mdc-layout-grid__inner">
     <div class="mdc-layout-grid__cell">
-      <mat-drawer-container class="example-container"
-                            (swipeleft)="onSwipeLeft($event)"
-                            (swiperight)="onSwipeRight($event)"
-                           >
-        <mat-drawer #drawer class="example-sidenav" mode="side">
-   <p>Song is a weapon that we can always use against discouragement. (Ellen G. White)</p>
-   <button type="button" mat-button (click)="drawer.toggle()">
-            <span class="material-icons">close</span>
-          </button>
-          <form class="example-form">
-            <mat-form-field class="example-full-width">
+                    
+        <mat-drawer-container [ngStyle]="{background: 'url(../assets/images/flowers/' + currentImage + ')'}" class="example-container" autosize>
+              <mat-drawer [ngClass]="{'example-sidenav-mobile': isMobile, 'example-sidenav-desktop': !isMobile}" #drawer mode="side">
 
-              <input matInput type = "text" #inputElement
-                     [(ngModel)]="value"
-                     placeholder = "Pick a hymn"
-                     aria-label = "Number"
-                     matInput
-                     [formControl] = "myControl"
-                     [matAutocomplete] = "auto">
-              <button mat-button *ngIf="value" matSuffix mat-icon-button aria-label="Clear" (click)="value=''">
-                    <mat-icon>close</mat-icon>
-              </button>
-              <mat-autocomplete #auto = "matAutocomplete" (optionSelected)="itemSelected($event.option.value)">
-                <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
-                  {{option}}
-                </mat-option>
-              </mat-autocomplete>
-            </mat-form-field>
-          </form>
-          <!--          <p>Auto-resizing sidenav</p>-->
-          <!--          <p *ngIf="showFiller">Lorem, ipsum dolor sit amet consectetur.</p>-->
-          <!--          <button (click)="showFiller = !showFiller" mat-raised-button>-->
-          <!--            Toggle extra text-->
-          <!--          </button>-->
-mat
+                  <button type="button" mat-button (click)="closeDrawer($event)">
+                    <span class="material-icons">close</span>
+                  </button>
 
-          <mat-accordion>
-            <mat-expansion-panel>
+                <form class="example-form">
+                            <mat-form-field class="example-full-width">
+
+                              <input matInput type = "text" #inputElement
+                                     [(ngModel)]="value"
+                                     placeholder = "Pick a hymn"
+                                     aria-label = "Number"
+                                     matInput
+                                     [formControl] = "myControl"
+                                     [matAutocomplete] = "auto">
+                              <button mat-button *ngIf="value" matSuffix mat-icon-button aria-label="Clear" (click)="value=''">
+                                    <mat-icon>close</mat-icon>
+                              </button>
+                              <mat-autocomplete #auto = "matAutocomplete" (optionSelected)="itemSelected($event.option.value)">
+                                <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+                                  {{option}}
+                                </mat-option>
+                              </mat-autocomplete>
+                            </mat-form-field>
+                 </form>
+                <mat-accordion>
+      <mat-expansion-panel>
               <mat-expansion-panel-header>
                 <mat-panel-title>
-                  Hymn Info
+                    <mat-icon>info</mat-icon>Hymn Info
                 </mat-panel-title>
 
-<!--                <mat-panel-description>-->
-<!--                  Type your name and age-->
-<!--                </mat-panel-description>-->
+
               </mat-expansion-panel-header>
 
               <mat-card class="example-card">
@@ -98,48 +63,33 @@ mat
 
                 </mat-card-content>
                 <mat-card-actions>
-                  <button mat-button>LIKE</button>
-                  <button mat-button>SHARE</button>
+                  <button mat-button>MORE INFO</button>
                 </mat-card-actions>
               </mat-card>
 
-<!--              <mat-form-field>-->
-<!--                <mat-label>First name</mat-label>-->
-<!--                <input matInput>-->
-<!--              </mat-form-field>-->
 
-<!--              <mat-form-field>-->
-<!--                <mat-label>Age</mat-label>-->
-<!--                <input matInput type="number" min="1">-->
-<!--              </mat-form-field>-->
             </mat-expansion-panel >
-            <mat-expansion-panel (opened)="panelOpenState = true"
+
+           <mat-expansion-panel (opened)="panelOpenState = true"
                                  (closed)="panelOpenState = false">
               <mat-expansion-panel-header>
                 <mat-panel-title>
-                  Videos
+                    <mat-icon>movie</mat-icon>Watch
                 </mat-panel-title>
-<!--                <mat-panel-description>-->
-<!--                  Currently I am {{panelOpenState ? 'open' : 'closed'}}-->
-<!--                </mat-panel-description>-->
+
               </mat-expansion-panel-header>
+                 <app-youtube [message]="{filename: hymnsJson[currentHymn]['title']}"></app-youtube>
+                    
 
-                      <app-videos [message]="hymnsJson[currentHymn]['title']"></app-videos>
-
-
-<!--              <p>I'm visible because I am open</p>-->
             </mat-expansion-panel>
-            <mat-expansion-panel (opened)="panelOpenState = true"
+
+ <mat-expansion-panel (opened)="panelOpenState = true"
                                  (closed)="panelOpenState = false">
               <mat-expansion-panel-header>
                 <mat-panel-title>
-                  MP3s
+                    <mat-icon>audiotrack</mat-icon>Listen
                 </mat-panel-title>
 
-
-                <!--                <mat-panel-description>-->
-                <!--                  Currently I am {{panelOpenState ? 'open' : 'closed'}}-->
-                <!--                </mat-panel-description>-->
               </mat-expansion-panel-header>
 
 			<mat-tab-group>
@@ -156,59 +106,31 @@ mat
                 <mat-icon svgIcon="itunes" aria-hidden="false" aria-label="itunes icon"></mat-icon>
 			      Itunes
 			    </ng-template>
-			    <app-itunes [message]="{filename: hymnsJson[currentHymn]['spotify']}"></app-itunes>    
+			   <app-itunes [message]="{filename: hymnsJson[currentHymn]['itunes']}"></app-itunes>
 			  </mat-tab>
 
 			</mat-tab-group>
 
             
           
-              <!--              <p>I'm visible because I am open</p>-->
+
             </mat-expansion-panel>
-          </mat-accordion>
-          <mat-divider></mat-divider>
 
+                </mat-accordion>
 
+              </mat-drawer>
 
-
-          <!--          <h3>{{hymnsJson[currentHymn]['hymn-info']['scripture']}}</h3>-->
-
-
-        </mat-drawer>
-
-        <div class="example-sidenav-content"   >
-          <button type="button" mat-button (click)="drawer.toggle()">
+              <div class="example-sidenav-content">
+                  <button type="button" mat-button (click)="openDrawer($event)">
             <span class="material-icons">menu</span>
           </button>
           <span class='mat-subheading-2'>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</span>
 
-
-
-
-        </div>
-
-        <div  class="slides" ngModel="max" align="center" (tap)="onTap($event)">
-
-          <h2 #verseTitle class="mat-display-2">{{hymnsJson[currentHymn]['verses'][slideNumber]['verse_title']}}</h2>
-
-          <mat-slider #slider
-                      (input)="onInputChange($event)"
-                      thumbLabel
-                      [displayWith]="formatLabel"
-                      tickInterval="1"
-                      min="0"
-                      [max]="max">
-
-          </mat-slider>
-          <h1 [ngClass]="{'mat-body-1': isMobile, 'mat-display-1': !isMobile}" *ngFor="let line of hymnsJson[currentHymn]['verses'][slideNumber]['lines']">
-            {{line}}
-          </h1>
-        </div>
-
-
-
-      </mat-drawer-container>
-
+              </div>
+          <app-slideshow [message]="hymnsJson[currentHymn]['verses']"></app-slideshow>
+  
+        </mat-drawer-container>
+   
     </div>
 
   </div>

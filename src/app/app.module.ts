@@ -30,6 +30,7 @@ import { ItunesComponent } from './itunes/itunes.component';
 import { HttpErrorHandler }     from './http-error-handler.service';
 import { MessageService }       from './message.service';
 import { SettingsComponent } from './settings/settings.component';
+import { ScoreComponent } from './score/score.component';
 
 
 
@@ -41,7 +42,8 @@ import { SettingsComponent } from './settings/settings.component';
     YoutubeComponent,
     SpotifyComponent,
     ItunesComponent,
-    SettingsComponent
+    SettingsComponent,
+    ScoreComponent
   ],
   imports: [
     BrowserModule,

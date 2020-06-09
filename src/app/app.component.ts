@@ -15,15 +15,23 @@ import { Subject } from 'rxjs';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.scss']
 })
 
 export class AppComponent implements OnInit {
+  message:number = 1;
+
+ 
   value = '';
   isMobile = false;
   totalImages = flowerImages.items.length;
   imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
   currentImage = flowerImages.items[this.imageIndex];
+ 
+  getNewImage(){
+    this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
+    this.currentImage = flowerImages.items[this.imageIndex];
+  }
  
   getRandomNumberBetween(min,max){
         return Math.floor(Math.random()*(max-min+1)+min);
@@ -44,7 +52,7 @@ export class AppComponent implements OnInit {
   hymnsJson = hymnsData;
   myControl = new FormControl();
   selectedLanguage = 'english ';
-  filteredOptions: Observable<string[]>;
+  filteredOptions: Observable<string[]>; 
   // isShown = false ; // hidden by default
   showFiller = true;
   currentHymn = '1. Praise to the Lord';
@@ -53,6 +61,30 @@ export class AppComponent implements OnInit {
   totalVerses = 0;
   slideNumber = 0;
   verseTitle = 'R';
+  objExp = {"background-image": "url(./assets/images/flowers/"+this.currentImage+")", 
+            "background-height": "50%", 
+            "background-position": "center",
+             "background-size": "cover",
+             "position": "absolute",
+             "top": "0",
+             "bottom": "0",
+             "width": "100%"
+  };
+ receiveMessage($event) {
+    this.message = this.getRandomNumberBetween(0, this.totalImages-1);
+    this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
+    this.currentImage = flowerImages.items[this.imageIndex];
+    this.objExp = {"background-image": "url(./assets/images/flowers/"+this.currentImage+")", 
+            "background-height": "50%", 
+            "background-position": "center",
+             "background-size": "cover",
+             "position": "absolute",
+             "top": "0",
+             "bottom": "0",
+             "width": "100%"
+    };
+
+  }
   constructor(breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
     breakpointObserver.observe([
       Breakpoints.HandsetLandscape,
@@ -95,7 +127,15 @@ export class AppComponent implements OnInit {
     this.currentHymn = evt;
     this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
     this.currentImage = flowerImages.items[this.imageIndex];
- 
+    this.objExp = {"background-image": "url(assets/images/flowers/"+this.currentImage+")", 
+            "background-height": "50%", 
+            "background-position": "center",
+             "background-size": "cover",
+             "position": "absolute",
+             "top": "0",
+             "bottom": "0",
+             "width": "100%"
+  };
 
   }
 

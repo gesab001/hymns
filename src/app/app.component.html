@@ -2,7 +2,7 @@
   <div class="mdc-layout-grid__inner">
     <div class="mdc-layout-grid__cell">
                     
-        <mat-drawer-container [ngStyle]="{background: 'url(../assets/images/flowers/' + currentImage + ')'}" class="example-container" autosize>
+        <mat-drawer-container [ngStyle]="objExp" class="example-container">
               <mat-drawer [ngClass]="{'example-sidenav-mobile': isMobile, 'example-sidenav-desktop': !isMobile}" #drawer mode="side">
 
                   <button type="button" mat-button (click)="closeDrawer($event)">
@@ -127,7 +127,7 @@
           <span class='mat-subheading-2'>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</span>
 
               </div>
-          <app-slideshow [message]="hymnsJson[currentHymn]['verses']"></app-slideshow>
+          <app-slideshow [message]="hymnsJson[currentHymn]['verses']" (messageEvent)="receiveMessage($event)"></app-slideshow>
   
         </mat-drawer-container>
    

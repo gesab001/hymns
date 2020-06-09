@@ -130,5 +130,10 @@
       }
     }
   },
-  "defaultProject": "hymns"
+  "defaultProject": "hymns",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }

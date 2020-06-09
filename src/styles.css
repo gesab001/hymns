@@ -4,6 +4,21 @@ html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 @font-face {
-  font-family: outline;
+  font-family: CHLORINR;
   src: url(assets/fonts/CHLORINR.TTF) format("opentype");
+}
+
+@font-face {
+  font-family: comic_andy;
+  src: url(assets/fonts/comic_andy.ttf) format("opentype");
+}
+
+@font-face {
+  font-family: mutant_academyBB;
+  src: url(assets/fonts/MutantAcademyBB.ttf) format("opentype");
+}
+
+@font-face {
+  font-family: mutan_academyDCBB;
+  src: url(assets/fonts/MutantAcademyDCBB.ttf) format("opentype");
 }

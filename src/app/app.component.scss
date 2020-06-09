@@ -1,3 +1,5 @@
+$font-family: Arial;
+
 .tp-form {
   min-width: 150px;
   max-width: 500px;
@@ -28,7 +30,7 @@
 
 
 .mat-subheading-2{
-  font-family: mutant_academyBB;
+  font-family: $font-family;
   color: white;
   text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
   font-weight: bold;
@@ -38,13 +40,8 @@
 /*  position: relative;*/
 /*}*/
 .example-container{
-  background-image: url(../assets/images/flowers/IMG_20181124_163549.jpg);
-  background-size: cover;
-  background-position: center center;
-  position: absolute;
-  top:0;
-  width: 100%;
-  bottom: 0;
+  
+ 
 }
 
 

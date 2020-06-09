@@ -1,14 +1,20 @@
-import { Component, ViewChild, OnChanges, AfterViewInit, SimpleChanges, Input, OnInit } from '@angular/core';
+import { Component, ViewChild, EventEmitter, Output, OnChanges, AfterViewInit, SimpleChanges, Input, OnInit } from '@angular/core';
 import { BreakpointObserver, Breakpoints, BreakpointState } from '@angular/cdk/layout';
  import {MatSliderChange} from '@angular/material/slider';
 @Component({
   selector: 'app-slideshow',
   templateUrl: './slideshow.component.html',
-  styleUrls: ['./slideshow.component.css']
+  styleUrls: ['./slideshow.component.scss']
 })
 export class SlideshowComponent implements OnChanges, OnInit, AfterViewInit {
   slideNumber = 0;
+  messagetoparent: number = this.slideNumber;
 
+  @Output() messageEvent = new EventEmitter<number>();
+
+ sendMessage() {
+    this.messageEvent.emit(this.messagetoparent);
+  }
   isMobile = false;
   @Input() message: any;
   max: number;
@@ -32,6 +38,7 @@ export class SlideshowComponent implements OnChanges, OnInit, AfterViewInit {
   }
   ngOnChanges(changes: SimpleChanges) {
     this.loadVerses(changes.message.currentValue);
+
 
     
    }
@@ -58,6 +65,7 @@ export class SlideshowComponent implements OnChanges, OnInit, AfterViewInit {
   
   onInputChange(event: MatSliderChange) {
     this.slideNumber = event.value;
+    this.sendMessage();
   }
 
  activateWebLayout(){
@@ -73,6 +81,8 @@ export class SlideshowComponent implements OnChanges, OnInit, AfterViewInit {
     if (this.slideNumber < (this.verses.length) - 1) {
       this.slideNumber = this.slideNumber + 1;
       this.slider.value = this.slideNumber;
+      this.messagetoparent = this.slideNumber;
+      this.sendMessage();
     }
   }
 

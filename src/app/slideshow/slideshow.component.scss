@@ -1,0 +1,30 @@
+$bgcolor: lightblue;
+$textcolor: darkblue;
+$fontsize: 3vw;
+$font-family: Arial;
+
+.mat-display-1, .mat-body-1{
+  font-family: $font-family;
+  color: white;
+  text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+  font-weight: bold;
+  font-size: $fontsize;
+}
+/*
+.center {
+  padding: 0;
+  text-align: center;
+  position: absolute;
+  top: 100;
+  bottom: 0;
+  width: 100%;
+}
+*/
+.mat-display-2{
+  font-family: mutant_academyBB;
+  color: red;
+  text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+  font-weight: bolder;
+
+
+}
