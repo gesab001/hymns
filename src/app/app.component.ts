@@ -11,16 +11,18 @@ import {DomSanitizer} from '@angular/platform-browser';
 import {MatIconRegistry} from '@angular/material/icon';
 
 import { Subject } from 'rxjs';
-
+import { DropboxService } from './dropbox/dropbox.service';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
+  providers: [DropboxService],
   styleUrls: ['./app.component.scss']
 })
 
 export class AppComponent implements OnInit, OnChanges {
   message:number = 1;
-
+  historylist: any;
+  error = "none";
  
   value = '';
   isMobile = false;
@@ -90,7 +92,7 @@ export class AppComponent implements OnInit, OnChanges {
     };
 
   }
-  constructor(breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
+  constructor(dropboxService: DropboxService, breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
     breakpointObserver.observe([
       Breakpoints.HandsetLandscape,
       Breakpoints.HandsetPortrait
@@ -127,6 +129,7 @@ export class AppComponent implements OnInit, OnChanges {
         map(value => this._filter(value))
       );
     this.currentHymn = '1. Praise to the Lord';
+    this.updateHistory(this.currentHymn);
  
   }
 
@@ -143,11 +146,18 @@ export class AppComponent implements OnInit, OnChanges {
              "top": "0",
              "bottom": "0",
              "width": "100%"
-  };
+    };
+
 
   }
 
-
+ 
+ updateHistory(hymn) {
+    this.subscription = this.dropboxService.updateHistory(hymn).subscribe(
+      res => (this.historylist = res), 
+      error =>(this.error = error),
+    );
+  }
   openDrawer(evt) {
      this.drawer.open();
   }

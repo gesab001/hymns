@@ -15,13 +15,12 @@ export class HistoryComponent implements OnInit {
 
 
   ngOnInit(): void {
-      this.historylist = ["1"];
-      this.loadData();
+     // this.loadData();
 
   }
   
  loadData() {
-    this.subscription = this.dropboxService.updateHistory(2).subscribe(
+    this.subscription = this.dropboxService.updateHistory("3").subscribe(
       res => (this.historylist = res), 
       error =>(this.error = error),
     );

@@ -14,7 +14,7 @@ import {publishReplay, refCount} from 'rxjs/operators';
 export class DropboxService {
   _data: any = null;
   private handleError: HandleError;
-  url = 'https://content.dropboxapi.com/2/files/upload';
+
   params = new HttpParams()
   .set('path', '/history.json')
   .set('mode', 'add')
@@ -31,19 +31,28 @@ export class DropboxService {
     this._data = null;
   }
 
-
-  updateHistory(hymn: number) {
-  this.clearCache();
-  // let headers = new HttpHeaders();
-  // headers.set('Authorization', 'Bearer cB31ZlekiIYAAAAAAAAAAQlcDFV299-KvVJuEVFPlnowkL2vZMEcNCWSeYMmKmwk');
-  // headers.append('Dropbox-API-Arg', '{\"path\": \"/history.json\",\"mode\": \"overwrite\",\"autorename\": true,\"mute\": false,\"strict_conflict\": false}');
-  // headers.append('Content-Type', 'application/json');
-
+  getHistory(){
+    this.clearCache();
+    let url = 'https://content.dropboxapi.com/2/files/download';
+    if (!this._data) {
+      this._data = this.http
+        .post(url, {headers: {
+            "Authorization": "Bearer " + this.token,
+            "Dropbox-API-Arg": "{\"path\": \"/history.json\"}"
+         }})
+        .pipe(publishReplay(1), refCount());
+    }
+    return this._data;
+  }
+  
+  updateHistory(hymn: string) {
+    let url = 'https://content.dropboxapi.com/2/files/upload';
+    this.clearCache();
     let newitem = {'angular': hymn};
     if (!this._data) {
       this._data = this.http
-        .post(this.url, newitem, {headers: {
-            "Authorization": "Bearer cB31ZlekiIYAAAAAAAAAAQlcDFV299-KvVJuEVFPlnowkL2vZMEcNCWSeYMmKmwk",
+        .post(url, newitem, {headers: {
+            "Authorization": "Bearer " + this.token,
             "Dropbox-API-Arg": "{\"path\": \"/history.json\",\"mode\": \"overwrite\",\"autorename\": true,\"mute\": false,\"strict_conflict\": false}",
             "Content-Type": "application/octet-stream"
          }})
