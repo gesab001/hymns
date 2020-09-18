@@ -38,34 +38,36 @@
 
 
               </mat-expansion-panel-header>
+              <ng-template matExpansionPanelContent>
+                    <mat-card class="example-card">
+                    <mat-card-header>
+                      <div mat-card-avatar class="example-header-image"></div>
+                      <mat-card-title>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</mat-card-title>
+                      <mat-card-subtitle>{{hymnsJson[currentHymn]['topic']}}</mat-card-subtitle>
 
-              <mat-card class="example-card">
-                <mat-card-header>
-                  <div mat-card-avatar class="example-header-image"></div>
-                  <mat-card-title>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</mat-card-title>
-                  <mat-card-subtitle>{{hymnsJson[currentHymn]['topic']}}</mat-card-subtitle>
-
-                </mat-card-header>
-                <img mat-card-image src="/assets/images/008.png" alt="Photo of We Gather Together">
-                <mat-card-content>
-                  <p><span>Scripture: </span>{{hymnsJson[currentHymn]['hymn_info']['scripture']}}</p>
-                  <p>
-                    <span>Author/s: </span>
-                    <span><button *ngFor="let author of hymnsJson[currentHymn]['hymn_info']['authors']">
-                      {{author.name}}
-                    </button> </span>
-                  </p>
-                  <p><span>Composer: </span>{{hymnsJson[currentHymn]['hymn_info']['composer'].name}}</p>
-                  <p ><span>Tune: </span>{{hymnsJson[currentHymn]['hymn_info']['tune']}}</p>
-                  <p><span>Meter: </span>{{hymnsJson[currentHymn]['hymn_info']['meter']}}</p>
-                  <p ><span>Copyright: </span> {{hymnsJson[currentHymn]['hymn_info']['copyright']}}</p>
+                    </mat-card-header>
+                    <img mat-card-image src="/assets/images/008.png" alt="Photo of We Gather Together">
+                    <mat-card-content>
+                      <p><span>Scripture: </span>{{hymnsJson[currentHymn]['hymn_info']['scripture']}}</p>
+                      <p>
+                        <span>Author/s: </span>
+                        <span><button *ngFor="let author of hymnsJson[currentHymn]['hymn_info']['authors']">
+                          {{author.name}}
+                        </button> </span>
+                      </p>
+                      <p><span>Composer: </span>{{hymnsJson[currentHymn]['hymn_info']['composer'].name}}</p>
+                      <p ><span>Tune: </span>{{hymnsJson[currentHymn]['hymn_info']['tune']}}</p>
+                      <p><span>Meter: </span>{{hymnsJson[currentHymn]['hymn_info']['meter']}}</p>
+                      <p ><span>Copyright: </span> {{hymnsJson[currentHymn]['hymn_info']['copyright']}}</p>
 
 
-                </mat-card-content>
-                <mat-card-actions>
-                  <button mat-button>MORE INFO</button>
-                </mat-card-actions>
-              </mat-card>
+                    </mat-card-content>
+                    <mat-card-actions>
+                      <button mat-button>MORE INFO</button>
+                    </mat-card-actions>
+                  </mat-card>                 
+              </ng-template>   
+              
 
 
             </mat-expansion-panel >
@@ -78,9 +80,13 @@
                 </mat-panel-title>
 
               </mat-expansion-panel-header>
-                 <app-youtube [message]="{filename: hymnsJson[currentHymn]['title']}"></app-youtube>
-                    
-
+                 
+              <ng-template matExpansionPanelContent>
+                    <app-youtube [message]="{filename: hymnsJson[currentHymn]['title']}"></app-youtube>
+              </ng-template>          
+    <ng-template matExpansionPanelContent>
+                  
+              </ng-template>             
             </mat-expansion-panel>
 
  <mat-expansion-panel (opened)="panelOpenState = true"
@@ -91,31 +97,90 @@
                 </mat-panel-title>
 
               </mat-expansion-panel-header>
+              <ng-template matExpansionPanelContent>
+                <mat-tab-group>
+			      <mat-tab>
+			        <ng-template mat-tab-label>
+                    <mat-icon svgIcon="spotify" aria-hidden="false" aria-label="spotify icon"></mat-icon>
+			          Spotify
+			        </ng-template>
+                      <ng-template matTabContent>
+                          <app-spotify [message]="{filename: hymnsJson[currentHymn]['spotify']}"></app-spotify>
+                        </ng-template>
+			     
+			      </mat-tab>
 
-			<mat-tab-group>
-			  <mat-tab>
-			    <ng-template mat-tab-label>
-                <mat-icon svgIcon="spotify" aria-hidden="false" aria-label="spotify icon"></mat-icon>
-			      Spotify
-			    </ng-template>
-			  <app-spotify [message]="{filename: hymnsJson[currentHymn]['spotify']}"></app-spotify>
-			  </mat-tab>
+			      <mat-tab>
+			        <ng-template mat-tab-label>
+                    <mat-icon svgIcon="itunes" aria-hidden="false" aria-label="itunes icon"></mat-icon>
+			          Itunes
+			        </ng-template>
+                    <ng-template matTabContent>
+        			       <app-itunes [message]="{filename: hymnsJson[currentHymn]['itunes']}"></app-itunes>
+                     </ng-template>
 
-			  <mat-tab>
-			    <ng-template mat-tab-label>
-                <mat-icon svgIcon="itunes" aria-hidden="false" aria-label="itunes icon"></mat-icon>
-			      Itunes
-			    </ng-template>
-			   <app-itunes [message]="{filename: hymnsJson[currentHymn]['itunes']}"></app-itunes>
-			  </mat-tab>
+			      </mat-tab>
 
-			</mat-tab-group>
+			    </mat-tab-group>              
+              </ng-template>   
+
+			
 
             
           
 
             </mat-expansion-panel>
 
+
+            <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                   <mat-icon svgIcon="music-sheet" aria-hidden="false" aria-label="music-sheet icon"></mat-icon>Music Sheet
+              </mat-expansion-panel-header>
+
+              <ng-template matExpansionPanelContent>
+                <app-music-sheet></app-music-sheet>
+              </ng-template>
+            </mat-expansion-panel>
+
+            <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                   <mat-icon>settings</mat-icon>Settings
+              </mat-expansion-panel-header>
+
+              <ng-template matExpansionPanelContent>
+                <app-settings></app-settings>
+              </ng-template>
+            </mat-expansion-panel>
+
+  <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                   <mat-icon>cloud_download</mat-icon>Downloads
+              </mat-expansion-panel-header>
+
+              <ng-template matExpansionPanelContent>
+                <app-downloads></app-downloads>
+              </ng-template>
+            </mat-expansion-panel>
+
+  <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                   <mat-icon>links</mat-icon>Links
+              </mat-expansion-panel-header>
+
+              <ng-template matExpansionPanelContent>
+                <app-links></app-links>
+              </ng-template>
+            </mat-expansion-panel>
+ <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                   <mat-icon>links</mat-icon>History
+              </mat-expansion-panel-header>
+
+              <ng-template matExpansionPanelContent>
+                <app-history>test</app-history>
+                <p>hello</p>
+              </ng-template>
+            </mat-expansion-panel>
                 </mat-accordion>
 
               </mat-drawer>

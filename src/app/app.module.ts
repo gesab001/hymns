@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { AppComponent } from './app.component';
+
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatAutocompleteModule} from '@angular/material/autocomplete';
 import {MatInputModule} from '@angular/material/input';
@@ -21,6 +21,7 @@ import {MatTableModule} from '@angular/material/table';
 import {MatGridListModule} from '@angular/material/grid-list'; 
 import { DeviceDetectorModule } from 'ngx-device-detector';
 
+import { AppComponent } from './app.component';
 import { SlideshowComponent } from './slideshow/slideshow.component';
 import { HymnInfoComponent } from './hymn-info/hymn-info.component';
 import { YoutubeComponent } from './youtube/youtube.component';
@@ -31,6 +32,17 @@ import { HttpErrorHandler }     from './http-error-handler.service';
 import { MessageService }       from './message.service';
 import { SettingsComponent } from './settings/settings.component';
 import { ScoreComponent } from './score/score.component';
+import { DownloadsComponent } from './downloads/downloads.component';
+import { LinksComponent } from './links/links.component';
+import { MusicSheetComponent } from './music-sheet/music-sheet.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
+import { HistoryComponent } from './history/history.component';
+import { LocalstorageComponent } from './localstorage/localstorage.component';
+import { DropboxComponent } from './dropbox/dropbox.component';
+import { GoogledriveComponent } from './googledrive/googledrive.component';
+import { OnedriveComponent } from './onedrive/onedrive.component';
+import { GooglephotosComponent } from './googlephotos/googlephotos.component';
 
 
 
@@ -43,7 +55,16 @@ import { ScoreComponent } from './score/score.component';
     SpotifyComponent,
     ItunesComponent,
     SettingsComponent,
-    ScoreComponent
+    ScoreComponent,
+    DownloadsComponent,
+    LinksComponent,
+    MusicSheetComponent,
+    HistoryComponent,
+    LocalstorageComponent,
+    DropboxComponent,
+    GoogledriveComponent,
+    OnedriveComponent,
+    GooglephotosComponent
   ],
   imports: [
     BrowserModule,
@@ -66,7 +87,8 @@ import { ScoreComponent } from './score/score.component';
     MatIconModule,
     MatTableModule,
     MatGridListModule,
-    DeviceDetectorModule.forRoot()
+    DeviceDetectorModule.forRoot(),
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
     
   ],
   providers: [HttpErrorHandler, MessageService],

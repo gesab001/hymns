@@ -22,6 +22,7 @@ export class YoutubeComponent implements OnChanges{
   @ViewChild(MatSort, {static: true}) sort: MatSort;
  youtubemessage = 'youtube';
 
+
  @Input() message: any;
   safeSrc: SafeResourceUrl;
   stringurl: string;
@@ -30,9 +31,8 @@ export class YoutubeComponent implements OnChanges{
   constructor(private youtubeService: YoutubeService, private sanitizer: DomSanitizer, private deviceService: DeviceDetectorService) 
        { this.epicFunction();}
    ngOnChanges(changes: SimpleChanges) {
-    this.searchYoutube(changes.message.currentValue.filename);
-
-    
+     this.searchYoutube(changes.message.currentValue.filename);
+   
    }
 
  

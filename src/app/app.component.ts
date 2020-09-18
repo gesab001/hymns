@@ -1,4 +1,4 @@
-import {Component, OnInit, ViewChild} from '@angular/core';
+import {Component, OnInit, ViewChild, SimpleChanges, OnChanges} from '@angular/core';
 import {FormControl} from '@angular/forms';
 import {Observable} from 'rxjs';
 import {map, startWith, takeUntil} from 'rxjs/operators';
@@ -18,7 +18,7 @@ import { Subject } from 'rxjs';
   styleUrls: ['./app.component.scss']
 })
 
-export class AppComponent implements OnInit {
+export class AppComponent implements OnInit, OnChanges {
   message:number = 1;
 
  
@@ -44,7 +44,12 @@ export class AppComponent implements OnInit {
      this.isMobile = true;
   };
   panelOpenState = false;
+  panelOpen: boolean = false;
 
+  ngOnChanges(changes: SimpleChanges) {
+     changes.panelOpenState.currentValue;
+     this.panelOpen = true;  
+   }
   @ViewChild('drawer')drawer;
   title = 'Seventh-day Adventist Hymnal';
   subtitle = 'We may ascend near to heaven on the wings of praise';
@@ -103,6 +108,9 @@ export class AppComponent implements OnInit {
     iconRegistry.addSvgIcon(
         'itunes',
         sanitizer.bypassSecurityTrustResourceUrl('assets/images/examples/itunes.svg'));
+    iconRegistry.addSvgIcon(
+        'music-sheet',
+        sanitizer.bypassSecurityTrustResourceUrl('assets/images/examples/music-sheet.svg'));
   }
   formatLabel(value: number) {
     return value + 1;
