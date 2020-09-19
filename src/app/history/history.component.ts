@@ -56,18 +56,21 @@ export class HistoryComponent implements OnChanges, OnInit {
 
   clearHistory() {
   
-	let password = window.prompt('please enter password', 'password');
-    if (password=='john316'){
-		this.items = {};
-		let jsondata = {'items': this.items};
-		this.subscription = this.dropboxService.updateHistory(JSON.stringify(jsondata)).subscribe(
-            res => (this.updateresponse = res, this.getHistory()), 
-            error =>(this.updateresponse = error),
-		);
-	}else{
-		alert('wrong password');
-		this.clearHistory();
+	let password = window.prompt('please enter password');
+	if (password!=null){
+		if (password=='john316'){
+				this.items = {};
+				let jsondata = {'items': this.items};
+				this.subscription = this.dropboxService.updateHistory(JSON.stringify(jsondata)).subscribe(
+					res => (this.updateresponse = res, this.getHistory()), 
+					error =>(this.updateresponse = error),
+				);
+			}else{
+				alert('wrong password');
+				this.clearHistory();
+			}	
 	}
+    
   }
   
 } 
