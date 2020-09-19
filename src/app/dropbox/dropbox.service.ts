@@ -32,12 +32,13 @@ export class DropboxService {
   }
 
   getHistory(){
-    this.clearCache();
     let url = 'https://content.dropboxapi.com/2/files/download';
+    let token = '4mFTnt2XoDYAAAAAAAAAAdgicpARclZsURJj1s_N7qCQ-Qo4bRnX-oXv6dQxo-Jb';
+    this.clearCache();
     if (!this._data) {
       this._data = this.http
-        .post(url, {headers: {
-            "Authorization": "Bearer " + this.token,
+        .post(url, null,{headers: {
+            "Authorization": "Bearer " + token,
             "Dropbox-API-Arg": "{\"path\": \"/history.json\"}"
          }})
         .pipe(publishReplay(1), refCount());
@@ -45,14 +46,14 @@ export class DropboxService {
     return this._data;
   }
   
-  updateHistory(hymn: string) {
+  updateHistory(jsondata: string) {
     let url = 'https://content.dropboxapi.com/2/files/upload';
+    let token = '4mFTnt2XoDYAAAAAAAAAAdgicpARclZsURJj1s_N7qCQ-Qo4bRnX-oXv6dQxo-Jb';
     this.clearCache();
-    let newitem = {'angular': hymn};
     if (!this._data) {
       this._data = this.http
-        .post(url, newitem, {headers: {
-            "Authorization": "Bearer " + this.token,
+        .post(url, jsondata, {headers: {
+            "Authorization": "Bearer " + token,
             "Dropbox-API-Arg": "{\"path\": \"/history.json\",\"mode\": \"overwrite\",\"autorename\": true,\"mute\": false,\"strict_conflict\": false}",
             "Content-Type": "application/octet-stream"
          }})

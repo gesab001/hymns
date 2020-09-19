@@ -20,10 +20,12 @@ import { DropboxService } from './dropbox/dropbox.service';
 })
 
 export class AppComponent implements OnInit, OnChanges {
+  updateresponse = 'waiting for response';
+  subscription;
   message:number = 1;
   historylist: any;
   error = "none";
- 
+  items = [];
   value = '';
   isMobile = false;
   totalImages = flowerImages.items.length;
@@ -129,12 +131,13 @@ export class AppComponent implements OnInit, OnChanges {
         map(value => this._filter(value))
       );
     this.currentHymn = '1. Praise to the Lord';
-    this.updateHistory(this.currentHymn);
+
  
   }
 
 
   itemSelected(evt: string) {
+
     this.currentHymn = evt;
     this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
     this.currentImage = flowerImages.items[this.imageIndex];
@@ -150,14 +153,21 @@ export class AppComponent implements OnInit, OnChanges {
 
 
   }
+  getHistory(){
+      var jsondata = {};
+      if('history' in localStorage){
+      
+        jsondata = JSON.parse(localStorage.getItem('history'));
 
- 
- updateHistory(hymn) {
-    this.subscription = this.dropboxService.updateHistory(hymn).subscribe(
-      res => (this.historylist = res), 
-      error =>(this.error = error),
-    );
+      } else {
+
+       jsondata = {"items": []};
+      }
+      return jsondata;
   }
+ 
+
+  
   openDrawer(evt) {
      this.drawer.open();
   }

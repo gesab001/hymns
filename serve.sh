@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-ng serve --host 0.0.0.0 --disable-host-check
+ng serve --host 0.0.0.0 --port 4201 --disable-host-check

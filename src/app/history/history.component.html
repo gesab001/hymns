@@ -1,1 +1,12 @@
-<p>history works! amazing{{historylist | json}}</p>
+<button (click)="clearHistory()">clear</button>
+<p *ngFor="let item of items">{{item.number}}. {{item.title}}</p>
+<h1>ITEMS</h1>
+{{items | json}}
+<h1>MESSAGE</h1>
+{{message | json}}
+
+<h1>UPDATE RESPONSE</h1>
+{{updateresponse | json}}
+
+
+
