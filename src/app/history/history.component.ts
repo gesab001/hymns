@@ -12,7 +12,7 @@ export class HistoryComponent implements OnChanges, OnInit {
   updateresponse: any;
   error = "none";
   subscription;
-  items = [];
+  items = {};
   constructor(private dropboxService: DropboxService) { }
 
 
@@ -24,32 +24,50 @@ export class HistoryComponent implements OnChanges, OnInit {
 
   }
   ngOnChanges(change: SimpleChanges){
-       this.updateHistory(change.message.currentValue.recentItem);
+      // this.updateHistory(change.message.currentValue.recentItem);
+       this.getHistoryUpdate(change.message.currentValue.recentItem);
+
   }	  
  getHistory() {
     this.subscription = this.dropboxService.getHistory().subscribe(
-      res => (this.items = res.items, localStorage.setItem('history', JSON.stringify({'items': this.items}))), 
+      res => (this.historylist = res.items, this.items = this.historylist), 
       error =>(this.historylist = error),
     );
   }
-  
-  
-  updateHistory(hymn: string) {
-    this.items.push(hymn);
-    let jsondata = {'items': this.items};
-    this.subscription = this.dropboxService.updateHistory(JSON.stringify(jsondata)).subscribe(
-      res => (this.updateresponse = res), 
-      error =>(this.updateresponse = error),
+ 
+ getHistoryUpdate(hymn: string) {
+    this.subscription = this.dropboxService.getHistory().subscribe(
+      res => (this.historylist = res.items, this.items = this.historylist, this.updateHistory(hymn)), 
+      error =>(this.historylist = error),
     );
+  } 
+  
+  updateHistory(hymn: any) {
+	this.getHistory();
+	this.items[hymn.number] = hymn.title;
+	let jsondata = {'items': this.items};
+	this.subscription = this.dropboxService.updateHistory(JSON.stringify(jsondata)).subscribe(
+	  res => (this.updateresponse = res, this.getHistory()), 
+	  error =>(this.updateresponse = error),
+	);
+	
+   
   }
 
   clearHistory() {
-    this.items = [];
-    let jsondata = {'items': this.items};
-    this.subscription = this.dropboxService.updateHistory(JSON.stringify(jsondata)).subscribe(
-      res => (this.updateresponse = res), 
-      error =>(this.updateresponse = error),
-    );
+  
+	let password = window.prompt('please enter password', 'password');
+    if (password=='john316'){
+		this.items = {};
+		let jsondata = {'items': this.items};
+		this.subscription = this.dropboxService.updateHistory(JSON.stringify(jsondata)).subscribe(
+            res => (this.updateresponse = res, this.getHistory()), 
+            error =>(this.updateresponse = error),
+		);
+	}else{
+		alert('wrong password');
+		this.clearHistory();
+	}
   }
   
 } 

@@ -1,5 +1,5 @@
 <button (click)="clearHistory()">clear</button>
-<p *ngFor="let item of items">{{item.number}}. {{item.title}}</p>
+<p *ngFor="let item of historylist | keyvalue">{{item.key}}. {{item.value}}</p>
 <h1>ITEMS</h1>
 {{items | json}}
 <h1>MESSAGE</h1>
