@@ -43,6 +43,7 @@ import { DropboxComponent } from './dropbox/dropbox.component';
 import { GoogledriveComponent } from './googledrive/googledrive.component';
 import { OnedriveComponent } from './onedrive/onedrive.component';
 import { GooglephotosComponent } from './googlephotos/googlephotos.component';
+import { AppRoutingModule } from './app-routing.module';
 
 
 
@@ -88,7 +89,8 @@ import { GooglephotosComponent } from './googlephotos/googlephotos.component';
     MatTableModule,
     MatGridListModule,
     DeviceDetectorModule.forRoot(),
-    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
+    AppRoutingModule
     
   ],
   providers: [HttpErrorHandler, MessageService],

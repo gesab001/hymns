@@ -9,6 +9,8 @@ import flowerImages from '../assets/images/flowers/image-list.json';
 import { BreakpointObserver, Breakpoints, BreakpointState } from '@angular/cdk/layout';
 import {DomSanitizer} from '@angular/platform-browser';
 import {MatIconRegistry} from '@angular/material/icon';
+import { ActivatedRoute } from '@angular/router';
+
 
 import { Subject } from 'rxjs';
 import { DropboxService } from './dropbox/dropbox.service';
@@ -67,7 +69,7 @@ export class AppComponent implements OnInit, OnChanges {
   filteredOptions: Observable<string[]>; 
   // isShown = false ; // hidden by default
   showFiller = true;
-  currentHymn = '1. Praise to the Lord';
+  currentHymn: string = '1. Praise to the Lord';
   max = this.hymnsJson[this.currentHymn].verses.length - 1;
   currentVerse = 0;
   totalVerses = 0;
@@ -120,7 +122,7 @@ export class AppComponent implements OnInit, OnChanges {
      }
   }
   
-  constructor(dropboxService: DropboxService, breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
+  constructor(dropboxService: DropboxService, private route: ActivatedRoute, breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
     breakpointObserver.observe([
       Breakpoints.HandsetLandscape,
       Breakpoints.HandsetPortrait
@@ -151,12 +153,25 @@ export class AppComponent implements OnInit, OnChanges {
 
 
   ngOnInit() {
+    this.route.paramMap.subscribe(params => { 
+        var hymnNumber = parseInt(params.get('number'));
+        console.log(hymnNumber);
+        if(Number.isNaN(hymnNumber)){
+          this.currentHymn = '1. Praise to the Lord';
+        }else{
+          this.currentHymn = this.currentHymn = this.hymnNumbers[hymnNumber-1]; 
+        }
+
+
+            
+
+     });
     this.filteredOptions = this.myControl.valueChanges
       .pipe(
         startWith(''),
         map(value => this._filter(value))
       );
-    this.currentHymn = '1. Praise to the Lord';
+    
 
  
   }

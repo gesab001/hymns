@@ -1,5 +1,9 @@
 <button (click)="clearHistory()">clear</button>
-<p *ngFor="let item of historylist | keyvalue">{{item.key}}. {{item.value}}</p>
+<ol>
+ <li *ngFor="let item of historylist | keyvalue">
+	<a [routerLink]="['/number', item.key]" >{{item.key}}. {{item.value}}</a>
+ </li>
+</ol>
 <h1>ITEMS</h1>
 {{items | json}}
 <h1>MESSAGE</h1>
