@@ -1,4 +1,4 @@
-import {Component, OnInit, ViewChild, SimpleChanges, OnChanges} from '@angular/core';
+import {Component, OnInit, ViewChild, SimpleChanges, OnChanges, HostListener} from '@angular/core';
 import {FormControl} from '@angular/forms';
 import {Observable} from 'rxjs';
 import {map, startWith, takeUntil} from 'rxjs/operators';
@@ -31,7 +31,10 @@ export class AppComponent implements OnInit, OnChanges {
   totalImages = flowerImages.items.length;
   imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
   currentImage = flowerImages.items[this.imageIndex];
+  hymnNumberKeyBoardInput: string = "";
  
+ 
+  
   getNewImage(){
     this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
     this.currentImage = flowerImages.items[this.imageIndex];
@@ -94,6 +97,29 @@ export class AppComponent implements OnInit, OnChanges {
     };
 
   }
+  
+   @HostListener('document:keydown', ['$event'])
+  handleKeyboardEvent(event: KeyboardEvent) { 
+     var key = event.key;
+
+     var intkey = parseInt(event.key);
+     var numbers = [1,2,3,4,5,6,7,8,9,0]
+     if(numbers.includes(intkey)){ 
+
+       this.hymnNumberKeyBoardInput = this.hymnNumberKeyBoardInput + key;
+       //alert (this.hymnNumberKeyBoardInput);
+     }
+     if(key=="Enter"){
+       //alert("get hymn number " + this.hymnNumberKeyBoardInput);
+       var hymnNumber = parseInt(this.hymnNumberKeyBoardInput) - 1;
+       
+      // console.log(this.hymnNumbers[hymnNumber]);
+       this.currentHymn = this.hymnNumbers[hymnNumber]; 
+       this.hymnNumberKeyBoardInput = "";
+       
+     }
+  }
+  
   constructor(dropboxService: DropboxService, breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
     breakpointObserver.observe([
       Breakpoints.HandsetLandscape,
