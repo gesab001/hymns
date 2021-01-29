@@ -1,5 +1,5 @@
-<div align="center" (tap)="onTap($event)" (swiperight)="onSwipeRight($event)" (swipeleft)="onSwipeLeft($event)">
-          
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; justify-content: center; height: 100%" (tap)="onTap($event)" (swiperight)="onSwipeRight($event)" (swipeleft)="onSwipeLeft($event)">
+      
    <mat-slider #slider
                       (input)="onInputChange($event)"
                       [thumbLabel] = "true"
@@ -8,9 +8,9 @@
                       min="0"
                       [max]="max">
 
-          </mat-slider>
+   </mat-slider>
   <div [ngClass]="{'mat-body-1': isMobile, 'mat-display-1': !isMobile}" class="center">
-     <h2 #verseTitle>{{verses[slideNumber]['verse_title']}}</h2>
-     <p *ngFor="let line of verses[slideNumber]['lines']">{{line}}</p>
+     <h1 #verseTitle>{{verses[slideNumber]['verse_title']}}</h1>
+     <p style="line-height: 1.6; font-size: 3vw;"*ngFor="let line of verses[slideNumber]['lines']">{{line}}</p>
    </div>
 </div>

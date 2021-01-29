@@ -1,4 +1,5 @@
-import {Component, OnInit, ViewChild, SimpleChanges, OnChanges, HostListener} from '@angular/core';
+import { DOCUMENT } from '@angular/common';
+import {Component, OnInit, ViewChild, Inject, SimpleChanges, OnChanges, HostListener, AfterViewInit} from '@angular/core';
 import {FormControl} from '@angular/forms';
 import {Observable} from 'rxjs';
 import {map, startWith, takeUntil} from 'rxjs/operators';
@@ -60,6 +61,7 @@ export class AppComponent implements OnInit, OnChanges {
      this.panelOpen = true;  
    }
   @ViewChild('drawer')drawer;
+  elem: any;
   title = 'Seventh-day Adventist Hymnal';
   subtitle = 'We may ascend near to heaven on the wings of praise';
   hymnNumbers = Object.keys(hymnsData);
@@ -120,9 +122,12 @@ export class AppComponent implements OnInit, OnChanges {
        this.hymnNumberKeyBoardInput = "";
        
      }
+     if(key=="Escape"){
+        this.closeFullscreen();
+     }
   }
   
-  constructor(dropboxService: DropboxService, private route: ActivatedRoute, breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
+  constructor(@Inject(DOCUMENT) private document: any, dropboxService: DropboxService, private route: ActivatedRoute, breakpointObserver: BreakpointObserver, iconRegistry: MatIconRegistry, sanitizer: DomSanitizer) {
     breakpointObserver.observe([
       Breakpoints.HandsetLandscape,
       Breakpoints.HandsetPortrait
@@ -153,6 +158,8 @@ export class AppComponent implements OnInit, OnChanges {
 
 
   ngOnInit() {
+       this.elem = document.documentElement;
+
     this.route.paramMap.subscribe(params => { 
         var hymnNumber = parseInt(params.get('number'));
         console.log(hymnNumber);
@@ -175,6 +182,10 @@ export class AppComponent implements OnInit, OnChanges {
 
  
   }
+  
+   ngAfterViewInit(){
+         this.openFullscreen();
+   }
 
 
   itemSelected(evt: string) {
@@ -191,6 +202,7 @@ export class AppComponent implements OnInit, OnChanges {
              "bottom": "0",
              "width": "100%"
     };
+    this.closeDrawer();
 
 
   }
@@ -208,13 +220,19 @@ export class AppComponent implements OnInit, OnChanges {
   }
  
 
-  
-  openDrawer(evt) {
+  isDrawerOpen: boolean = false;
+  isDrawerClose: boolean = true;
+   
+  openDrawer() {
      this.drawer.open();
+     this.isDrawerOpen = true;
+     this.isDrawerClose = false;
   }
 
-  closeDrawer(evt) {
+  closeDrawer() {
      this.drawer.close();
+     this.isDrawerOpen = false;
+     this.isDrawerClose = true;
      this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
   }
 
@@ -223,5 +241,36 @@ export class AppComponent implements OnInit, OnChanges {
     const filterValue = value.toLowerCase();
 
     return this.hymnNumbers.filter(option => option.toLowerCase().includes(filterValue));
+  }
+  
+   openFullscreen() {
+     console.log("fullscreen mode");
+        if (this.elem.requestFullscreen) {
+          this.elem.requestFullscreen();
+        } else if (this.elem.mozRequestFullScreen) {
+          /* Firefox */
+          this.elem.mozRequestFullScreen();
+        } else if (this.elem.webkitRequestFullscreen) {
+          /* Chrome, Safari and Opera */
+          this.elem.webkitRequestFullscreen();
+        } else if (this.elem.msRequestFullscreen) {
+          /* IE/Edge */
+          this.elem.msRequestFullscreen();
+        }
+ }
+ /* Close fullscreen */
+ closeFullscreen() {
+        if (this.document.exitFullscreen) {
+          this.document.exitFullscreen();
+        } else if (this.document.mozCancelFullScreen) {
+          /* Firefox */
+          this.document.mozCancelFullScreen();
+        } else if (this.document.webkitExitFullscreen) {
+          /* Chrome, Safari and Opera */
+          this.document.webkitExitFullscreen();
+        } else if (this.document.msExitFullscreen) {
+          /* IE/Edge */
+          this.document.msExitFullscreen();
+        }
   }
 }

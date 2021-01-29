@@ -9,7 +9,7 @@ import { BreakpointObserver, Breakpoints, BreakpointState } from '@angular/cdk/l
 export class SlideshowComponent implements OnChanges, OnInit, AfterViewInit {
   slideNumber = 0;
   messagetoparent: number = this.slideNumber;
-
+  linewidth: number = 0;
   @Output() messageEvent = new EventEmitter<number>();
 
  sendMessage() {
@@ -38,6 +38,7 @@ export class SlideshowComponent implements OnChanges, OnInit, AfterViewInit {
   }
   ngOnChanges(changes: SimpleChanges) {
     this.loadVerses(changes.message.currentValue);
+    this.getLongestLine();
 
 
     
@@ -46,6 +47,7 @@ export class SlideshowComponent implements OnChanges, OnInit, AfterViewInit {
   ngOnInit() {
      this.verses = this.message;
      this.max = this.verses.length -1;
+     this.getLongestLine();
 
   }
   
@@ -55,13 +57,18 @@ export class SlideshowComponent implements OnChanges, OnInit, AfterViewInit {
   }
 
    loadVerses(verses){
+      this.verses = null;
       this.verses = verses;
       this.max = this.verses.length -1;
       this.slideNumber = 0;
       this.slider.value = 0;
       this.slider.focus();
+
    }
 
+  getLongestLine(){
+    console.log("getlongestline" + this.verses);
+  }
   
   onInputChange(event: MatSliderChange) {
     this.slideNumber = event.value;
