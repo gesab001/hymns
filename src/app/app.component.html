@@ -7,7 +7,9 @@
         <mat-drawer-container [ngStyle]="objExp" class="example-container">
               <mat-drawer [ngClass]="{'example-sidenav-mobile': isMobile, 'example-sidenav-desktop': !isMobile}" #drawer mode="side">
 
-                
+                 <div class="closeButton"> <button *ngIf="isDrawerOpen" type="button" mat-button (click)="closeDrawer()">
+                    <span class="material-icons">close</span>
+                  </button></div>
 
                 <form class="example-form">
                             <mat-form-field class="example-full-width">
