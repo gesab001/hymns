@@ -189,7 +189,7 @@ export class AppComponent implements OnInit, OnChanges {
 
 
   itemSelected(evt: string) {
-
+     
     this.currentHymn = evt;
     this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
     this.currentImage = flowerImages.items[this.imageIndex];
@@ -202,6 +202,7 @@ export class AppComponent implements OnInit, OnChanges {
              "bottom": "0",
              "width": "100%"
     };
+    document.activeElement.blur();
     this.closeDrawer();
 
 

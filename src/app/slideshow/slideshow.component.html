@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center; justify-content: center; height: 100%" (tap)="onTap($event)" (swiperight)="onSwipeRight($event)" (swipeleft)="onSwipeLeft($event)">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; justify-content: center; height: 100%" >
       
    <mat-slider #slider
                       (input)="onInputChange($event)"
@@ -9,7 +9,7 @@
                       [max]="max">
 
    </mat-slider>
-  <div [ngClass]="{'mat-body-1': isMobile, 'mat-display-1': !isMobile}" class="center">
+  <div [ngClass]="{'mat-body-1': isMobile, 'mat-display-1': !isMobile}" class="center" (tap)="onTap($event)" (swiperight)="onSwipeRight($event)" (swipeleft)="onSwipeLeft($event)">
      <h1 #verseTitle>{{verses[slideNumber]['verse_title']}}</h1>
      <p style="line-height: 1.6; font-size: 3vw;"*ngFor="let line of verses[slideNumber]['lines']">{{line}}</p>
    </div>
