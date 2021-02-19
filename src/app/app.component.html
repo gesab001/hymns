@@ -32,47 +32,23 @@
                             </mat-form-field>
                  </form>
                 <mat-accordion>
-      <mat-expansion-panel>
+
+    <mat-expansion-panel (opened)="panelOpenState = true"
+                                 (closed)="panelOpenState = false">
               <mat-expansion-panel-header>
                 <mat-panel-title>
                     <mat-icon>info</mat-icon>Hymn Info
                 </mat-panel-title>
 
-
               </mat-expansion-panel-header>
+                 
               <ng-template matExpansionPanelContent>
-                    <mat-card class="example-card">
-                    <mat-card-header>
-                      <div mat-card-avatar class="example-header-image"></div>
-                      <mat-card-title>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</mat-card-title>
-                      <mat-card-subtitle>{{hymnsJson[currentHymn]['topic']}}</mat-card-subtitle>
-
-                    </mat-card-header>
-                    <img mat-card-image src="/assets/images/008.png" alt="Photo of We Gather Together">
-                    <mat-card-content>
-                      <p><span>Scripture: </span>{{hymnsJson[currentHymn]['hymn_info']['scripture']}}</p>
-                      <p>
-                        <span>Author/s: </span>
-                        <span><button *ngFor="let author of hymnsJson[currentHymn]['hymn_info']['authors']">
-                          {{author.name}}
-                        </button> </span>
-                      </p>
-                      <p><span>Composer: </span>{{hymnsJson[currentHymn]['hymn_info']['composer'].name}}</p>
-                      <p ><span>Tune: </span>{{hymnsJson[currentHymn]['hymn_info']['tune']}}</p>
-                      <p><span>Meter: </span>{{hymnsJson[currentHymn]['hymn_info']['meter']}}</p>
-                      <p ><span>Copyright: </span> {{hymnsJson[currentHymn]['hymn_info']['copyright']}}</p>
-
-
-                    </mat-card-content>
-                    <mat-card-actions>
-                      <button mat-button>MORE INFO</button>
-                    </mat-card-actions>
-                  </mat-card>                 
-              </ng-template>   
-              
-
-
-            </mat-expansion-panel >
+                    <app-hymn-info [message]="{filename: hymnsJson[currentHymn]['title']}"></app-hymn-info>
+              </ng-template>          
+    <ng-template matExpansionPanelContent>
+                  
+              </ng-template>             
+            </mat-expansion-panel>
 
            <mat-expansion-panel (opened)="panelOpenState = true"
                                  (closed)="panelOpenState = false">

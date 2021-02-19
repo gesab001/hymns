@@ -1,1 +1,7 @@
-<p>hymn-info works!</p>
+<!--<p>hymn-info works! {{message | json}} {{wiki["query"]["search"] | json}}</p>-->
+
+<div *ngFor="let item of wiki['query']['search']; let i = index">
+  <h2>{{item.title}}</h2>
+  <p [innerHTML]="item.snippet"></p>
+</div>
+
