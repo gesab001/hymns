@@ -202,7 +202,7 @@ export class AppComponent implements OnInit, OnChanges {
              "bottom": "0",
              "width": "100%"
     };
-    document.activeElement.blur();
+    document.getElementById("inputSearch").blur();
     this.closeDrawer();
 
 
