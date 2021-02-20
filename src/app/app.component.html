@@ -37,7 +37,7 @@
                                  (closed)="panelOpenState = false">
               <mat-expansion-panel-header>
                 <mat-panel-title>
-                    <mat-icon>info</mat-icon>Hymn Info
+                    <mat-icon>info</mat-icon>Wikipedia
                 </mat-panel-title>
 
               </mat-expansion-panel-header>
@@ -109,6 +109,7 @@
 
             </mat-expansion-panel>
 
+<!--
 
             <mat-expansion-panel>
               <mat-expansion-panel-header>
@@ -129,6 +130,8 @@
                 <app-settings></app-settings>
               </ng-template>
             </mat-expansion-panel>
+--> 
+            
 
   <mat-expansion-panel>
               <mat-expansion-panel-header>
@@ -139,8 +142,21 @@
                 <app-downloads></app-downloads>
               </ng-template>
             </mat-expansion-panel>
+            
+            
 
-  <mat-expansion-panel>
+ 
+ <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                   <mat-icon>history</mat-icon>History
+              </mat-expansion-panel-header>
+
+              <ng-template matExpansionPanelContent>
+                <app-history [message]="{recentItem: {title: hymnsJson[currentHymn]['title'], number: hymnsJson[currentHymn]['number']}}"></app-history>
+              </ng-template>
+            </mat-expansion-panel>
+            
+        <mat-expansion-panel>
               <mat-expansion-panel-header>
                    <mat-icon>links</mat-icon>Links
               </mat-expansion-panel-header>
@@ -149,17 +165,12 @@
                 <app-links></app-links>
               </ng-template>
             </mat-expansion-panel>
- <mat-expansion-panel>
-              <mat-expansion-panel-header>
-                   <mat-icon>links</mat-icon>History
-              </mat-expansion-panel-header>
-
-              <ng-template matExpansionPanelContent>
-                <app-history [message]="{recentItem: {title: hymnsJson[currentHymn]['title'], number: hymnsJson[currentHymn]['number']}}"></app-history>
-              </ng-template>
-            </mat-expansion-panel>
+                 
                 </mat-accordion>
 
+<footer style="padding-top: 100px; width:100%; text-align: center;">
+<span>Copyright © {{getCopyRightYear()}} Giovanni Saberon</span>
+</footer>
               </mat-drawer>
 
               <div class="example-sidenav-content">

@@ -274,4 +274,9 @@ export class AppComponent implements OnInit, OnChanges {
           this.document.msExitFullscreen();
         }
   }
+  
+  getCopyRightYear(){
+    var currentYear = new Date();
+    return currentYear.getFullYear();
+  }
 }

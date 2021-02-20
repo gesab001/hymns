@@ -1,9 +1,10 @@
-<button (click)="clearHistory()">clear</button>
+<!--<button (click)="clearHistory()">clear</button>-->
 <ol>
  <li *ngFor="let item of historylist | keyvalue">
 	<a [routerLink]="['/number', item.key]" >{{item.key}}. {{item.value}}</a>
  </li>
 </ol>
+<!--
 <h1>ITEMS</h1>
 {{items | json}}
 <h1>MESSAGE</h1>
@@ -12,5 +13,5 @@
 <h1>UPDATE RESPONSE</h1>
 {{updateresponse | json}}
 
-
+-->
 
