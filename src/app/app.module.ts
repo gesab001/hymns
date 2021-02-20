@@ -44,6 +44,7 @@ import { GoogledriveComponent } from './googledrive/googledrive.component';
 import { OnedriveComponent } from './onedrive/onedrive.component';
 import { GooglephotosComponent } from './googlephotos/googlephotos.component';
 import { AppRoutingModule } from './app-routing.module';
+import { HelpComponent } from './help/help.component';
 
 
 
@@ -65,7 +66,8 @@ import { AppRoutingModule } from './app-routing.module';
     DropboxComponent,
     GoogledriveComponent,
     OnedriveComponent,
-    GooglephotosComponent
+    GooglephotosComponent,
+    HelpComponent
   ],
   imports: [
     BrowserModule,

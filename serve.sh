@@ -1,3 +1,4 @@
 #!/usr/bin/env sh
 
-ng serve --host 0.0.0.0 --port 4201 --disable-host-check
+ifconfig
+ng serve --host 0.0.0.0 --ssl true --port 4200 --disable-host-check
