@@ -1,5 +1,15 @@
 $font-family: Arial;
 
+.closeButton {
+ display: none;
+ @media screen and (max-width: 989px) {
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-end;
+   width: 100%;
+ } 
+}
+
 .tp-form {
   min-width: 150px;
   max-width: 500px;

@@ -1,1 +1,11 @@
-<p>hymn-info works!</p>
+<!--<p>hymn-info works! {{message | json}} {{wiki["query"]["search"] | json}}</p>-->
+<div style="padding-top: 20px; padding-bottom: 20px;">
+<input readonly value="{{message.filename}}"/>
+<a style="border-style: solid; border-radius: 9999px; border-color: white; background-color: green; color: white; text-decoration: none; padding: 1em 1.5em;" target="_blank" href="https://www.google.com/search?query={{message.filename}}">Google Search</a>
+
+</div>
+<div *ngFor="let item of wiki['query']['search']; let i = index">
+  <h2>{{item.title}}</h2>
+  <p [innerHTML]="item.snippet"></p>
+</div>
+

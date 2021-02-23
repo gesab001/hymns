@@ -7,23 +7,32 @@
         <mat-drawer-container [ngStyle]="objExp" class="example-container">
               <mat-drawer [ngClass]="{'example-sidenav-mobile': isMobile, 'example-sidenav-desktop': !isMobile}" #drawer mode="side">
 
+<<<<<<< HEAD
                  <div class="closeButton"><button *ngIf="isDrawerOpen" type="button" mat-button (click)="closeDrawer()">
                     <span class="material-icons">close</span>
                   </button></div>
 
                 <form class="example-form">
                             <mat-form-field class="example-full-width">
+=======
+                 <div class="closeButton"> <button *ngIf="isDrawerOpen" type="button" mat-button (click)="closeDrawer()">
+                    <mat-icon>west</mat-icon>
+                  </button></div>
+                 
+                <form >
+                            <mat-form-field >
+>>>>>>> refs/remotes/origin/master
 
-                              <input matInput type = "text" #inputElement
+                              <input (focus)="restoreOptions($event)" id="inputSearch" matInput type = "text" #inputElement
                                      [(ngModel)]="value"
                                      placeholder = "Pick a hymn"
                                      aria-label = "Number"
                                      matInput
                                      [formControl] = "myControl"
                                      [matAutocomplete] = "auto">
-                              <button mat-button *ngIf="value" matSuffix mat-icon-button aria-label="Clear" (click)="value=''">
+                             <!-- <button mat-button *ngIf="value" matSuffix mat-icon-button aria-label="Clear" (click)="value=''">
                                     <mat-icon>close</mat-icon>
-                              </button>
+                              </button>-->
                               <mat-autocomplete #auto = "matAutocomplete" (optionSelected)="itemSelected($event.option.value)">
                                 <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
                                   {{option}}
@@ -32,47 +41,23 @@
                             </mat-form-field>
                  </form>
                 <mat-accordion>
-      <mat-expansion-panel>
+
+    <mat-expansion-panel (opened)="panelOpenState = true"
+                                 (closed)="panelOpenState = false">
               <mat-expansion-panel-header>
                 <mat-panel-title>
-                    <mat-icon>info</mat-icon>Hymn Info
+                    <mat-icon>info</mat-icon>Wikipedia
                 </mat-panel-title>
 
-
               </mat-expansion-panel-header>
+                 
               <ng-template matExpansionPanelContent>
-                    <mat-card class="example-card">
-                    <mat-card-header>
-                      <div mat-card-avatar class="example-header-image"></div>
-                      <mat-card-title>{{hymnsJson[currentHymn]['number'] + " - " + hymnsJson[currentHymn]['title']}}</mat-card-title>
-                      <mat-card-subtitle>{{hymnsJson[currentHymn]['topic']}}</mat-card-subtitle>
-
-                    </mat-card-header>
-                    <img mat-card-image src="/assets/images/008.png" alt="Photo of We Gather Together">
-                    <mat-card-content>
-                      <p><span>Scripture: </span>{{hymnsJson[currentHymn]['hymn_info']['scripture']}}</p>
-                      <p>
-                        <span>Author/s: </span>
-                        <span><button *ngFor="let author of hymnsJson[currentHymn]['hymn_info']['authors']">
-                          {{author.name}}
-                        </button> </span>
-                      </p>
-                      <p><span>Composer: </span>{{hymnsJson[currentHymn]['hymn_info']['composer'].name}}</p>
-                      <p ><span>Tune: </span>{{hymnsJson[currentHymn]['hymn_info']['tune']}}</p>
-                      <p><span>Meter: </span>{{hymnsJson[currentHymn]['hymn_info']['meter']}}</p>
-                      <p ><span>Copyright: </span> {{hymnsJson[currentHymn]['hymn_info']['copyright']}}</p>
-
-
-                    </mat-card-content>
-                    <mat-card-actions>
-                      <button mat-button>MORE INFO</button>
-                    </mat-card-actions>
-                  </mat-card>                 
-              </ng-template>   
-              
-
-
-            </mat-expansion-panel >
+                    <app-hymn-info [message]="{filename: hymnsJson[currentHymn]['title']}"></app-hymn-info>
+              </ng-template>          
+    <ng-template matExpansionPanelContent>
+                  
+              </ng-template>             
+            </mat-expansion-panel>
 
            <mat-expansion-panel (opened)="panelOpenState = true"
                                  (closed)="panelOpenState = false">
@@ -133,6 +118,7 @@
 
             </mat-expansion-panel>
 
+<!--
 
             <mat-expansion-panel>
               <mat-expansion-panel-header>
@@ -153,6 +139,8 @@
                 <app-settings></app-settings>
               </ng-template>
             </mat-expansion-panel>
+--> 
+            
 
   <mat-expansion-panel>
               <mat-expansion-panel-header>
@@ -163,8 +151,31 @@
                 <app-downloads></app-downloads>
               </ng-template>
             </mat-expansion-panel>
+            
+            
 
-  <mat-expansion-panel>
+ 
+ <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                   <mat-icon>history</mat-icon>History
+              </mat-expansion-panel-header>
+
+              <ng-template matExpansionPanelContent>
+                <app-history [message]="{recentItem: {title: hymnsJson[currentHymn]['title'], number: hymnsJson[currentHymn]['number']}}"></app-history>
+              </ng-template>
+            </mat-expansion-panel>
+
+ <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                   <mat-icon>help</mat-icon>Help
+              </mat-expansion-panel-header>
+
+              <ng-template matExpansionPanelContent>
+                <app-help ></app-help>
+              </ng-template>
+            </mat-expansion-panel>
+                        
+        <mat-expansion-panel>
               <mat-expansion-panel-header>
                    <mat-icon>links</mat-icon>Links
               </mat-expansion-panel-header>
@@ -173,17 +184,12 @@
                 <app-links></app-links>
               </ng-template>
             </mat-expansion-panel>
- <mat-expansion-panel>
-              <mat-expansion-panel-header>
-                   <mat-icon>links</mat-icon>History
-              </mat-expansion-panel-header>
-
-              <ng-template matExpansionPanelContent>
-                <app-history [message]="{recentItem: {title: hymnsJson[currentHymn]['title'], number: hymnsJson[currentHymn]['number']}}"></app-history>
-              </ng-template>
-            </mat-expansion-panel>
+                 
                 </mat-accordion>
 
+<footer style="padding-top: 100px; width:100%; text-align: center;">
+<span>Copyright © {{getCopyRightYear()}} Giovanni Saberon</span>
+</footer>
               </mat-drawer>
 
               <div class="example-sidenav-content">

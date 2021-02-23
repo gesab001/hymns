@@ -162,7 +162,7 @@ export class AppComponent implements OnInit, OnChanges {
 
     this.route.paramMap.subscribe(params => { 
         var hymnNumber = parseInt(params.get('number'));
-        console.log(hymnNumber);
+       // console.log(hymnNumber);
         if(Number.isNaN(hymnNumber)){
           this.currentHymn = '1. Praise to the Lord';
         }else{
@@ -178,9 +178,18 @@ export class AppComponent implements OnInit, OnChanges {
         startWith(''),
         map(value => this._filter(value))
       );
-    
+  }
+  
+   private _filter(value: string): string[] {
+    const filterValue = value.toLowerCase();
 
- 
+    return this.hymnNumbers.filter(option => option.toLowerCase().includes(filterValue));
+  }
+  
+   restoreOptions(event){
+    // console.log(event.target.value);
+   //  console.log(this.hymnNumbers);
+     this.myControl.setValue("");
   }
   
    ngAfterViewInit(){
@@ -189,7 +198,7 @@ export class AppComponent implements OnInit, OnChanges {
 
 
   itemSelected(evt: string) {
-
+     
     this.currentHymn = evt;
     this.imageIndex = this.getRandomNumberBetween(0, this.totalImages-1);
     this.currentImage = flowerImages.items[this.imageIndex];
@@ -202,10 +211,14 @@ export class AppComponent implements OnInit, OnChanges {
              "bottom": "0",
              "width": "100%"
     };
+    document.getElementById("inputSearch").blur();
+    console.log(this.filteredOptions);
     this.closeDrawer();
 
 
   }
+  
+ 
   getHistory(){
       var jsondata = {};
       if('history' in localStorage){
@@ -237,11 +250,7 @@ export class AppComponent implements OnInit, OnChanges {
   }
 
 
-  private _filter(value: string): string[] {
-    const filterValue = value.toLowerCase();
-
-    return this.hymnNumbers.filter(option => option.toLowerCase().includes(filterValue));
-  }
+ 
   
    openFullscreen() {
      console.log("fullscreen mode");
@@ -272,5 +281,10 @@ export class AppComponent implements OnInit, OnChanges {
           /* IE/Edge */
           this.document.msExitFullscreen();
         }
+  }
+  
+  getCopyRightYear(){
+    var currentYear = new Date();
+    return currentYear.getFullYear();
   }
 }
