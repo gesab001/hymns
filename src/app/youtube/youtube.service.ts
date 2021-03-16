@@ -18,7 +18,7 @@ export class YoutubeService {
 
   /** GET heroes from the server */
   getYoutube (term: string): Observable<Youtube[]> {
-    return this.http.get<Youtube[]>(this.youtubeUrl+term)
+    return this.http.get<Youtube[]>(this.youtubeUrl+term + " karaoke")
       .pipe(
         catchError(this.handleError('getYoutube', []))
       );
