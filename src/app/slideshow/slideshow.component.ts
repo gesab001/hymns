@@ -94,18 +94,24 @@ export class SlideshowComponent implements OnChanges, OnInit, AfterViewInit {
   }
 
  onSwipeLeft(evt) {
+    this.slider.focus();
     if (this.slideNumber < (this.verses.length) - 1) {
       this.slideNumber = this.slideNumber + 1;
-
-
-
+      this.slider.value = this.slideNumber;
+      this.messagetoparent = this.slideNumber;
+      this.sendMessage();
     }
   }
 
   onSwipeRight(evt) {
     // alert('Swipe right!');
+        this.slider.focus();
+
     if (this.slideNumber > 0) {
       this.slideNumber = this.slideNumber - 1;
+         this.slider.value = this.slideNumber;
+      this.messagetoparent = this.slideNumber;
+      this.sendMessage();
 
     }
   }
