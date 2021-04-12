@@ -1,7 +1,7 @@
 <!--<button (click)="clearHistory()">clear</button>-->
 <ol>
- <li *ngFor="let item of historylist | keyvalue">
-	<a [routerLink]="['/number', item.key]" >{{item.key}}. {{item.value}}</a>
+ <li *ngFor="let item of sortedlist">
+	<a [routerLink]="['/number', item.number]" >{{item.title}} - {{item.number}}</a>
  </li>
 </ol>
 <!--

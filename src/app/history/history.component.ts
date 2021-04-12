@@ -9,6 +9,7 @@ import { DropboxService } from '../dropbox/dropbox.service';
 export class HistoryComponent implements OnChanges, OnInit {
  @Input() message: any;
   historylist: any;
+  sortedlist: any;
   updateresponse: any;
   error = "none";
   subscription;
@@ -30,7 +31,7 @@ export class HistoryComponent implements OnChanges, OnInit {
   }	  
  getHistory() {
     this.subscription = this.dropboxService.getHistory().subscribe(
-      res => (this.historylist = res.items, this.items = this.historylist), 
+      res => (this.historylist = res.items, this.items = this.historylist, this.sortHistoryList()), 
       error =>(this.historylist = error),
     );
   }
@@ -41,6 +42,30 @@ export class HistoryComponent implements OnChanges, OnInit {
       error =>(this.historylist = error),
     );
   } 
+  
+  sortHistoryList(){
+     console.log("sort history list");
+     console.log(this.historylist);
+     var items = [];
+     for (item in this.historylist) {
+        var item = {"number": item, "title": this.historylist[item]};
+        items.push(item);
+     }
+     items.sort(this.sortByProperty('title'));
+     this.sortedlist = items;
+     console.log(items);
+  }
+  
+  sortByProperty(property){  
+   return function(a,b){  
+      if(a[property] > b[property])  
+         return 1;  
+      else if(a[property] < b[property])  
+         return -1;  
+  
+      return 0;  
+   }  
+}
   
   updateHistory(hymn: any) {
 	this.getHistory();
